@@ -24,13 +24,12 @@ jobs:
         env:
           MASTODON_TOKEN: ${{ secrets.MASTODON_TOKEN }}
           MASTODON_BASE_URL: ${{ secrets.MASTODON_BASE_URL }}
-          MASTODON_USERNAME: ${{ secrets.MASTODON_USERNAME }}
+          MASTODON_USER_NAME: ${{ secrets.MASTODON_USER_NAME }}
         run: |
-          python update/run.py -n 12 -s SimpleWeighted -t lax
-      - name: publish
-        uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: gh-pages
-          build_dir: render
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          python update/run.py
+      - name: commit
+        run: |
+          git config --global user.email "arnicas@gmail.com"
+          git config --global user.name "mastodon_links"
+          git add -A
+          git diff --quiet && git diff --staged --quiet || (git commit -m "[ci] update"; git push -q "https://$GH_TOKEN@github.com/arnicas/mastodon_links.git" main)

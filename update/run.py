@@ -10,6 +10,7 @@ from hyperlink import URL
 
 TOKEN = os.getenv('MASTODON_TOKEN')
 BASE_URL = os.getenv('MASTODON_BASE_URL')
+USER_NAME = os.getenv('MASTODON_USERNAME') # not being used rn?
 LAST_UPDATE_PATH = 'update/update_time'
 CATALOG_DIR = 'data'
 DIGEST_DIR = 'docs'
@@ -208,7 +209,7 @@ def process_post(post):
 
 def to_list(catalog_dict):
     """
-    Formats the catalog asa list of links
+    Formats the catalog as a list of links
     """
     return [{**{'link': i[0]}, **i[1]} for i in catalog_dict]
 
