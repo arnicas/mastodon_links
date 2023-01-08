@@ -1,5 +1,125 @@
 [
   {
+    "link": "https://arxiv.org/abs/2210.10760",
+    "title": "Scaling Laws for Reward Model Overoptimization",
+    "latest": "2023-01-08T09:40:20+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@agentydragon/109641300170689275",
+      "content": "<p>\ud83e\uddf5 <br>today I'm reading Scaling Laws for Reward Model Overoptimization (<a href=\"https://arxiv.org/abs/2210.10760\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2210.10760</span><span class=\"invisible\"></span></a>) by my OpenAI teammate Leo Gao, and my residency co-mentors, John Schulman and Jacob Hilton.<br>method: create a big \"golden reward model\", use it to train smaller \"proxy RMs\". use RL or best-of-N sampling to optimize hard against the proxy RM and see where Goodharting starts to happen.</p>"
+    },
+    "people": [
+      {
+        "url": "https://creative.ai/@arxiv",
+        "display_name": "arXiv ML / AI"
+      }
+    ]
+  },
+  {
+    "link": "https://arxiv.org/abs/2104.08821",
+    "title": "SimCSE: Simple Contrastive Learning of Sentence Embeddings",
+    "latest": "2023-01-08T08:10:13+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@cognitiva/106149488401248678",
+      "content": "<p>New SOTA \ud83d\ude80  SimCSE: Simple Contrastive Learning of Sentence Embeddings by Princeton NLP <br> <br>paper: <a href=\"https://arxiv.org/abs/2104.08821\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2104.08821</span><span class=\"invisible\"></span></a><br>github: <a href=\"https://github.com/princeton-nlp/SimCSE\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/princeton-nlp/SimCS</span><span class=\"invisible\">E</span></a> <a href=\"https://mastodon.social/tags/AI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AI</span></a> <a href=\"https://mastodon.social/tags/NLP\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>NLP</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://creative.ai/@arxiv",
+        "display_name": "arXiv ML / AI"
+      }
+    ]
+  },
+  {
+    "link": "https://arxiv.org/abs/2002.00585",
+    "title": "Proving the Lottery Ticket Hypothesis: Pruning is All You Need",
+    "latest": "2023-01-08T08:06:08+00:00",
+    "last_post": {
+      "url": "https://rustedneuron.com/@jackwilliambell/103784902591300973",
+      "content": "<p>Proving the Lottery Ticket Hypothesis: Pruning is All You Need. <a href=\"https://arxiv.org/abs/2002.00585\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2002.00585</span><span class=\"invisible\"></span></a></p><p>If you are fooling with <a href=\"https://rustedneuron.com/tags/AI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AI</span></a> and <a href=\"https://rustedneuron.com/tags/DeepLearning\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DeepLearning</span></a> this could be a game changer for you. </p><p>Basically, they prove a sufficiently over-parameterized network will contain, \"\u2026&nbsp;a subnetwork with roughly the same accuracy as the target network, without any further training.\"</p><p>Just prune away the dead wood and Bob's your uncle.</p><p><a href=\"https://rustedneuron.com/tags/relaventtomyinterests\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>relaventtomyinterests</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://creative.ai/@alexjc",
+        "display_name": "Alex J. Champandard \u2744\ufe0f"
+      }
+    ]
+  },
+  {
+    "link": "https://arxiv.org/abs/1705.07386",
+    "title": "https://arxiv.org/abs/1705.07386",
+    "latest": "2023-01-08T07:25:10+00:00",
+    "last_post": {
+      "url": "https://toot.thoughtworks.com/@bince/101448844865545063",
+      "content": "<p><a href=\"https://toot.thoughtworks.com/tags/AI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AI</span></a>-generated \u2018skeleton keys\u2019 fool fingerprint scanners <a href=\"https://nakedsecurity.sophos.com/2018/11/16/ai-generated-skeleton-keys-fool-fingerprint-scanners/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">nakedsecurity.sophos.com/2018/</span><span class=\"invisible\">11/16/ai-generated-skeleton-keys-fool-fingerprint-scanners/</span></a><br>Paper: <a href=\"https://arxiv.org/abs/1705.07386\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/1705.07386</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://creative.ai/@arxiv",
+        "display_name": "arXiv ML / AI"
+      }
+    ]
+  },
+  {
+    "link": "https://arxiv.org/abs/2209.00588",
+    "title": "Transformers are Sample Efficient World Models",
+    "latest": "2023-01-08T06:40:06+00:00",
+    "last_post": {
+      "url": "https://mathstodon.xyz/@mikeiavelli/109622569799321386",
+      "content": "<p>Transformers are Sample Efficient World Models (Sept.2022)<br>(Agent learning in imagination)</p><p>Paper: <a href=\"https://arxiv.org/abs/2209.00588\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2209.00588</span><span class=\"invisible\"></span></a><br>Code: <a href=\"https://github.com/eloialonso/iris\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/eloialonso/iris</span><span class=\"invisible\"></span></a></p><p><a href=\"https://mathstodon.xyz/tags/MachineLearning\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>MachineLearning</span></a> <a href=\"https://mathstodon.xyz/tags/ML\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ML</span></a> <br><a href=\"https://mathstodon.xyz/tags/ReinforcementLearning\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ReinforcementLearning</span></a> <a href=\"https://mathstodon.xyz/tags/RL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>RL</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://creative.ai/@arxiv",
+        "display_name": "arXiv ML / AI"
+      }
+    ]
+  },
+  {
+    "link": "https://arxiv.org/abs/2205.06982",
+    "title": "ACCoRD: A Multi-Document Approach to Generating Diverse Descriptions of Scientific Concepts",
+    "latest": "2023-01-08T05:55:03+00:00",
+    "last_post": {
+      "url": "https://idf.social/@carsten/109602639084063726",
+      "content": "<p>ACCoRD: A Multi-Document Approach to Generating Diverse Descriptions of Scientific Concepts</p><p><a href=\"https://arxiv.org/abs/2205.06982\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2205.06982</span><span class=\"invisible\"></span></a></p><p><a href=\"https://idf.social/tags/NLProc\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>NLProc</span></a> <a href=\"https://idf.social/tags/NLP\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>NLP</span></a> <a href=\"https://idf.social/tags/IR\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>IR</span></a> <a href=\"https://idf.social/tags/ML\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ML</span></a> <a href=\"https://idf.social/tags/AI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AI</span></a> <a href=\"https://idf.social/tags/EMNLP\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>EMNLP</span></a> <a href=\"https://idf.social/tags/ACL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ACL</span></a> <a href=\"https://idf.social/tags/Conference\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Conference</span></a> <a href=\"https://idf.social/tags/Paper\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Paper</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://creative.ai/@arxiv",
+        "display_name": "arXiv ML / AI"
+      }
+    ]
+  },
+  {
+    "link": "https://arxiv.org/abs/2212.06925",
+    "title": "On the Relationship Between Explanation and Prediction: A Causal View",
+    "latest": "2023-01-08T05:10:00+00:00",
+    "last_post": {
+      "url": "https://masto.ai/@cheng/109640502558692955",
+      "content": "<p>This paper takes the following view of <a href=\"https://masto.ai/tags/explainability\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>explainability</span></a>: First train a model, and at test time, for a particular test instance, estimate the prediction Y, and then estimate the explanation E. Given this view, the paper uses the <a href=\"https://masto.ai/tags/PotentialOutcomes\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>PotentialOutcomes</span></a> framework of <a href=\"https://masto.ai/tags/causality\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>causality</span></a> to understand the relationship between <a href=\"https://masto.ai/tags/prediction\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>prediction</span></a> and explainability. Going from low to high performance of Y, the influence of Y on E is high, low, then high again.<br><a href=\"https://masto.ai/tags/MachineLearning\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>MachineLearning</span></a></p><p><a href=\"https://arxiv.org/abs/2212.06925\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2212.06925</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://creative.ai/@arxiv",
+        "display_name": "arXiv ML / AI"
+      }
+    ]
+  },
+  {
+    "link": "https://arxiv.org/abs/2301.00774",
+    "title": "Massive Language Models Can Be Accurately Pruned in One-Shot",
+    "latest": "2023-01-08T04:24:57+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@Elucidating/109626410281196778",
+      "content": "<p>This morning as I wait for coffee: skimming \"SparseGPT: Massive Language Models can be Accurately Pruned in One Shot\"</p><p><a href=\"https://arxiv.org/abs/2301.00774\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2301.00774</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://creative.ai/@arxiv",
+        "display_name": "arXiv ML / AI"
+      }
+    ]
+  },
+  {
     "link": "https://arxiv.org/pdf/2001.02970.pdf",
     "title": "https://arxiv.org/pdf/2001.02970.pdf",
     "latest": "2023-01-07T21:39:29+00:00",
@@ -3060,130 +3180,6 @@
       {
         "url": "https://mstdn.science/@contaminatedsci",
         "display_name": "Tami Lieberman"
-      }
-    ]
-  },
-  {
-    "link": "https://link.springer.com/book/10.1007/978-94-009-2657-8",
-    "title": "Mathematical Enculturation",
-    "latest": "2022-12-28T18:40:20+00:00",
-    "last_post": {
-      "url": "https://dair-community.social/@emilymbender/109592760857389263",
-      "content": "<p>Threading broke:</p><p>In math-education: Alan Bishop's Mathematical Enculturation <a href=\"https://link.springer.com/book/10.1007/978-94-009-2657-8\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">link.springer.com/book/10.1007</span><span class=\"invisible\">/978-94-009-2657-8</span></a> as well as the works of Paul Ernest on mathematical values</p><p>\"The Epistemology of Data Science: Mathematics and the Critical Research Agenda on Data Practices\" <br><a href=\"https://researchportal.vub.be/en/projects/the-epistemology-of-data-science-mathematics-and-the-critical-res\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">researchportal.vub.be/en/proje</span><span class=\"invisible\">cts/the-epistemology-of-data-science-mathematics-and-the-critical-res</span></a></p><p>And:<br><a href=\"https://dair-community.social/@emilymbender/109588665588031472\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">dair-community.social/@emilymb</span><span class=\"invisible\">ender/109588665588031472</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://dair-community.social/@emilymbender",
-        "display_name": "Emily M. Bender (she/her)"
-      }
-    ]
-  },
-  {
-    "link": "https://arxiv.org/abs/2205.11618",
-    "title": "Estimating the prevalence of malicious extraterrestrial civilizations",
-    "latest": "2022-12-28T16:27:29+00:00",
-    "last_post": {
-      "url": "https://spacey.space/@nyrath/109592238482883069",
-      "content": "<p>Estimating the prevalence of malicious extraterrestrial civilizations</p><p><a href=\"https://arxiv.org/abs/2205.11618\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2205.11618</span><span class=\"invisible\"></span></a><br><a href=\"https://spacey.space/tags/FermiParadox\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>FermiParadox</span></a> <a href=\"https://spacey.space/tags/Aliens\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Aliens</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://spacey.space/@nyrath",
-        "display_name": "Winchell Chung \u269b\ud83d\ude80"
-      }
-    ]
-  },
-  {
-    "link": "https://link.springer.com/article/10.1007/s00484-022-02394-z",
-    "title": "Snowmaking in a warmer climate: an in-depth analysis of future water demands for the ski resort Andermatt-Sedrun-Disentis (Switzerland) in the twenty-first century - International Journal of Biometeorology",
-    "latest": "2022-12-28T15:57:06+00:00",
-    "last_post": {
-      "url": "https://sportsmedtwtr.net/@pkedrosky/109592108452898257",
-      "content": "<p>The future of skiing in a warming climate:<br>\u2022 High elevation resorts may be able to stay open, but only with massive snowmaking efforts<br>\u2022 Snowmaking water demands will almost double by end of century</p><p>Snowmaking in a warmer climate: an in-depth analysis of future water demands for the ski resort Andermatt-Sedrun-Disentis (Switzerland) in the twenty-first century <br><a href=\"https://link.springer.com/article/10.1007/s00484-022-02394-z\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">link.springer.com/article/10.1</span><span class=\"invisible\">007/s00484-022-02394-z</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://saturation.social/@clive",
-        "display_name": "Clive Thompson"
-      }
-    ]
-  },
-  {
-    "link": "https://doi.org/10.29140/jaltcall.v18n3.548",
-    "title": "doi.org/10.29140/jaltcall.v18n...",
-    "latest": "2022-12-28T14:20:13+00:00",
-    "last_post": {
-      "url": "https://scholar.social/@jbuendgenskosten/109591736091605004",
-      "content": "<p>Interested in fostering plurilingual competencies through digital games? Or designing games for <a href=\"https://scholar.social/tags/GBLL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>GBLL</span></a>  with an explicitly <a href=\"https://scholar.social/tags/plurilingual\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>plurilingual</span></a> outlook? Then this paper might be of interest to you: \"Digital games and the development of plurilingual competence: Language models,<br>language awareness and transformational play\" DOI: <a href=\"https://doi.org/10.29140/jaltcall.v18n3.548\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">doi.org/10.29140/jaltcall.v18n</span><span class=\"invisible\">3.548</span></a> (open access)</p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@MichaelErard",
-        "display_name": "Michael Erard"
-      }
-    ]
-  },
-  {
-    "link": "https://doi.org/10.1016/j.osnem.2022.100220",
-    "title": "doi.org/10.1016/j.osnem.2022.1...",
-    "latest": "2022-12-28T11:54:04+00:00",
-    "last_post": {
-      "url": "https://datasci.social/@luciolcw/109421180434632448",
-      "content": "<p>Let's start the week \u2600\ufe0f with a nice visualization of the <a href=\"https://datasci.social/tags/Mastodon\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Mastodon</span></a> user network! \ud83d\udcf7 </p><p>\ud83d\udcda Want to know more? Check out our paper for details \ud83d\udc47\ud83c\udffc</p><p><a href=\"https://doi.org/10.1016/j.osnem.2022.100220\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">doi.org/10.1016/j.osnem.2022.1</span><span class=\"invisible\">00220</span></a></p><p>(Pre-print version for those without access: <a href=\"https://arxiv.org/pdf/2203.15752.pdf\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/pdf/2203.15752.pdf</span><span class=\"invisible\"></span></a>)</p><p><a href=\"https://datasci.social/tags/DataScience\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DataScience</span></a> <a href=\"https://datasci.social/tags/NetworkScience\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>NetworkScience</span></a> <a href=\"https://datasci.social/tags/SocialNetworks\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>SocialNetworks</span></a> <a href=\"https://datasci.social/tags/DataViz\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DataViz</span></a> <a href=\"https://datasci.social/tags/Visualization\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Visualization</span></a> <a href=\"https://datasci.social/tags/ComplexSystems\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ComplexSystems</span></a> <a href=\"https://datasci.social/tags/TwitterMigration\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>TwitterMigration</span></a> <a href=\"https://datasci.social/tags/ScienceMastodon\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ScienceMastodon</span></a></p><p><span class=\"h-card\"><a href=\"https://a.gup.pe/u/networkscience\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>networkscience</span></a></span> <span class=\"h-card\"><a href=\"https://a.gup.pe/u/computationalsocialscience\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>computationalsocialscience</span></a></span></p>"
-    },
-    "people": [
-      {
-        "url": "https://datasci.social/@luciolcw",
-        "display_name": "Lucio La Cava"
-      }
-    ]
-  },
-  {
-    "link": "https://arxiv.org/pdf/2203.15752.pdf",
-    "title": "https://arxiv.org/pdf/2203.15752.pdf",
-    "latest": "2022-12-28T11:54:04+00:00",
-    "last_post": {
-      "url": "https://datasci.social/@luciolcw/109421180434632448",
-      "content": "<p>Let's start the week \u2600\ufe0f with a nice visualization of the <a href=\"https://datasci.social/tags/Mastodon\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Mastodon</span></a> user network! \ud83d\udcf7 </p><p>\ud83d\udcda Want to know more? Check out our paper for details \ud83d\udc47\ud83c\udffc</p><p><a href=\"https://doi.org/10.1016/j.osnem.2022.100220\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">doi.org/10.1016/j.osnem.2022.1</span><span class=\"invisible\">00220</span></a></p><p>(Pre-print version for those without access: <a href=\"https://arxiv.org/pdf/2203.15752.pdf\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/pdf/2203.15752.pdf</span><span class=\"invisible\"></span></a>)</p><p><a href=\"https://datasci.social/tags/DataScience\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DataScience</span></a> <a href=\"https://datasci.social/tags/NetworkScience\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>NetworkScience</span></a> <a href=\"https://datasci.social/tags/SocialNetworks\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>SocialNetworks</span></a> <a href=\"https://datasci.social/tags/DataViz\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DataViz</span></a> <a href=\"https://datasci.social/tags/Visualization\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Visualization</span></a> <a href=\"https://datasci.social/tags/ComplexSystems\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ComplexSystems</span></a> <a href=\"https://datasci.social/tags/TwitterMigration\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>TwitterMigration</span></a> <a href=\"https://datasci.social/tags/ScienceMastodon\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ScienceMastodon</span></a></p><p><span class=\"h-card\"><a href=\"https://a.gup.pe/u/networkscience\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>networkscience</span></a></span> <span class=\"h-card\"><a href=\"https://a.gup.pe/u/computationalsocialscience\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>computationalsocialscience</span></a></span></p>"
-    },
-    "people": [
-      {
-        "url": "https://datasci.social/@luciolcw",
-        "display_name": "Lucio La Cava"
-      }
-    ]
-  },
-  {
-    "link": "https://doi.org/10.1016/j.jclepro.2017.12.239",
-    "title": "doi.org/10.1016/j.jclepro.2017...",
-    "latest": "2022-12-28T11:37:22+00:00",
-    "last_post": {
-      "url": "https://someone.elses.computer/@mikarv/109591097680995443",
-      "content": "<p>It\u2019s an environmental problem as the replacement of phones is a much, much bigger issue than their energy usage. The extent of it surprises modellers who look into it. See <a href=\"https://doi.org/10.1016/j.jclepro.2017.12.239\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">doi.org/10.1016/j.jclepro.2017</span><span class=\"invisible\">.12.239</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://someone.elses.computer/@mikarv",
-        "display_name": "Michael Veale"
-      }
-    ]
-  },
-  {
-    "link": "https://arxiv.org/abs/2212.13138",
-    "title": "Large Language Models Encode Clinical Knowledge",
-    "latest": "2022-12-28T10:45:33+00:00",
-    "last_post": {
-      "url": "https://genomic.social/@akundaje/109590634973575216",
-      "content": "<p>RT @AziziShekoofeh@twitter.com</p><p>Excited to share Med-PaLM, a large language model aligned to the medical domain to generate safe and helpful answers.</p><p>Our work advances SOTA in 7 medical question-answering tasks, including achieving 67% on MedQA USMLE improving prior work by &gt;17%.</p><p><a href=\"https://arxiv.org/abs/2212.13138\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2212.13138</span><span class=\"invisible\"></span></a></p><p>\ud83d\udc26\ud83d\udd17: <a href=\"https://twitter.com/AziziShekoofeh/status/1607798892892164096\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">twitter.com/AziziShekoofeh/sta</span><span class=\"invisible\">tus/1607798892892164096</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://sigmoid.social/@aran",
-        "display_name": "Aran Komatsuzaki"
-      },
-      {
-        "url": "https://genomic.social/@ewanbirney",
-        "display_name": "Ewan Birney"
       }
     ]
   }
