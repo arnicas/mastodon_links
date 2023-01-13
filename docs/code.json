@@ -1,5 +1,39 @@
 [
   {
+    "link": "https://github.com/red-data-tools/YouPlot",
+    "title": "GitHub - red-data-tools/YouPlot: A command line tool that draw plots on the terminal.",
+    "latest": "2023-01-13T21:05:17+00:00",
+    "last_post": {
+      "url": "https://pirateradio.social/objects/cae620cf-d6c1-4ad3-882b-df4ac25bc458",
+      "content": "<p><a href=\"https://github.com/red-data-tools/YouPlot\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">A command line tool that draw plots on the terminal</a></p><p><a href=\"https://news.ycombinator.com/item?id=34364807\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">Comments</a></p>"
+    },
+    "people": [
+      {
+        "url": "https://die-partei.social/@hackernews",
+        "display_name": "Hackernews"
+      },
+      {
+        "url": "https://hachyderm.io/@serialized",
+        "display_name": "serialized"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/ionite34/einspect/",
+    "title": "GitHub - ionite34/einspect: Extended Inspect - View and modify memory structures of runtime objects.",
+    "latest": "2023-01-13T20:30:48+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@python_discussions/109683792184758818",
+      "content": "<p>einspect - Mutate tuples, strings, ints. View and write to C Structs of live Python objects. Implement new methods for built-in types... and more \ud83d\udc40</p><p><a href=\"https://github.com/ionite34/einspect/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/ionite34/einspect/</span><span class=\"invisible\"></span></a></p><p>Discussions: <a href=\"https://discu.eu/q/https://github.com/ionite34/einspect/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">discu.eu/q/https://github.com/</span><span class=\"invisible\">ionite34/einspect/</span></a></p><p><a href=\"https://mastodon.social/tags/programming\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>programming</span></a> <a href=\"https://mastodon.social/tags/python\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>python</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@python_discussions",
+        "display_name": "Python Weekly"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/Eandrju/cellular-automaton.nvim",
     "title": "GitHub - Eandrju/cellular-automaton.nvim: A useless plugin that might help you cope with stubbornly broken tests or overall lack of sense in life. It lets you execute aesthetically pleasing, cellular automaton animations based on the content of neovim buffer.",
     "latest": "2023-01-13T10:02:42+00:00",
@@ -26,21 +60,6 @@
       {
         "url": "https://genomic.social/@datascience",
         "display_name": "Datascience"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/red-data-tools/YouPlot",
-    "title": "GitHub - red-data-tools/YouPlot: A command line tool that draw plots on the terminal.",
-    "latest": "2023-01-13T08:20:03+00:00",
-    "last_post": {
-      "url": "https://die-partei.social/@hackernews/109680918743794385",
-      "content": "<p>A command line tool that draw plots on the terminal - <a href=\"https://github.com/red-data-tools/YouPlot\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/red-data-tools/YouP</span><span class=\"invisible\">lot</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://die-partei.social/@hackernews",
-        "display_name": "Hackernews"
       }
     ]
   },
@@ -3181,21 +3200,6 @@
       {
         "url": "https://mastodon.social/@TodePond",
         "display_name": "Lu Wilson"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/chrisbarrett/nursery",
-    "title": "GitHub - chrisbarrett/nursery: Programs and libs that I haven't gotten around to formally packaging",
-    "latest": "2023-01-01T16:22:02+00:00",
-    "last_post": {
-      "url": "https://fosstodon.org/@credmp/109614638842658054",
-      "content": "<p>If you use <a href=\"https://fosstodon.org/tags/org\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>org</span></a> <a href=\"https://fosstodon.org/tags/roam\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>roam</span></a> in <a href=\"https://fosstodon.org/tags/emacs\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>emacs</span></a> be sure to check out <a href=\"https://github.com/chrisbarrett/nursery\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/chrisbarrett/nurser</span><span class=\"invisible\">y</span></a> there are some jewels there!</p>"
-    },
-    "people": [
-      {
-        "url": "https://emacs.ch/@anticomputer",
-        "display_name": "Bas Alberts :emacs:"
       }
     ]
   }
