@@ -1,5 +1,122 @@
 [
   {
+    "link": "https://github.com/microsoft/MDE-PowerBI-Templates/blob/master/ASR_scripts/AddShortcuts.ps1",
+    "title": "MDE-PowerBI-Templates/AddShortcuts.ps1 at master \u00b7 microsoft/MDE-PowerBI-Templates",
+    "latest": "2023-01-16T08:51:31+00:00",
+    "last_post": {
+      "url": "https://infosec.exchange/@fabian_bader/109697792132764015",
+      "content": "<p>Version 1.1 of the Microsoft LNK recovery script with added support to restore from the Volume Shadow Copy Service released</p><p><a href=\"https://infosec.exchange/tags/ASRmagedon\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ASRmagedon</span></a> <a href=\"https://infosec.exchange/tags/MDE\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>MDE</span></a> <a href=\"https://infosec.exchange/tags/MDAV\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>MDAV</span></a></p><p><a href=\"https://github.com/microsoft/MDE-PowerBI-Templates/blob/master/ASR_scripts/AddShortcuts.ps1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/microsoft/MDE-Power</span><span class=\"invisible\">BI-Templates/blob/master/ASR_scripts/AddShortcuts.ps1</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://infosec.exchange/@SwiftOnSecurity",
+        "display_name": ""
+      }
+    ]
+  },
+  {
+    "link": "https://observablehq.com/@asg017/introducing-sqlite-xsv",
+    "title": "Introducing sqlite-xsv: The Fastest CSV Parser for SQLite",
+    "latest": "2023-01-16T08:11:20+00:00",
+    "last_post": {
+      "url": "https://data-folks.masto.host/@alexgarciaxyz/109683350255059133",
+      "content": "<p>Introducing sqlite-xsv - a new, incredibly fast SQLite extension for working with CSVs</p><p>- The fastest CSV parser for SQLite, even faster reading than DuckDB/datafusion/clickhouse!<br>- Works with gzip'ed or zstd CSVs directly!<br>- Read CSVs from blobs or from multiple files!</p><p><a href=\"https://observablehq.com/@asg017/introducing-sqlite-xsv\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">observablehq.com/@asg017/intro</span><span class=\"invisible\">ducing-sqlite-xsv</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fosstodon.org/@mdsumner",
+        "display_name": "mdsumner"
+      },
+      {
+        "url": "https://vis.social/@julians",
+        "display_name": "Julian Stahnke"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/julsraemy/linked-art-modelling",
+    "title": "github.com/julsraemy/linked-ar...",
+    "latest": "2023-01-16T08:06:50+00:00",
+    "last_post": {
+      "url": "https://hcommons.social/@julsraemy/109697853703018626",
+      "content": "<p>Following a small post from mid-November: <a href=\"https://hcommons.social/@julsraemy/109337380934053586\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">hcommons.social/@julsraemy/109</span><span class=\"invisible\">337380934053586</span></a>, here is maybe a better representation how <a href=\"https://hcommons.social/tags/homosaurus\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>homosaurus</span></a> could be integrated with <a href=\"https://hcommons.social/tags/LinkedArt\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>LinkedArt</span></a> <a href=\"https://hcommons.social/tags/CIDOCCRM\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CIDOCCRM</span></a> - more information here: <a href=\"https://github.com/julsraemy/linked-art-modelling\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/julsraemy/linked-ar</span><span class=\"invisible\">t-modelling</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://hcommons.social/@julsraemy",
+        "display_name": "Julien A. Raemy"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/ropensci/webmockr/",
+    "title": "GitHub - ropensci/webmockr: R library for stubbing and setting expectations on HTTP requests",
+    "latest": "2023-01-16T06:03:03+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@sckottie/109695434413416824",
+      "content": "<p>Is there an <a href=\"https://fosstodon.org/tags/rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rstats</span></a> waldo-like pkg that robustly/quickly compares objects but is A) not targeted at unit tests, and less importantly B) has fewer dependencies ? </p><p>The use case if for webmockr <a href=\"https://github.com/ropensci/webmockr/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/ropensci/webmockr/</span><span class=\"invisible\"></span></a> where I'm thinking there's gotta be a better way to compare objects than my bespoke code</p>"
+    },
+    "people": [
+      {
+        "url": "https://mas.to/@dpprdan",
+        "display_name": "Daniel Possenriede"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/haha-lisa/RDM-Region-Aware-Diffusion-Model",
+    "title": "GitHub - haha-lisa/RDM-Region-Aware-Diffusion-Model",
+    "latest": "2023-01-16T05:15:37+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@akhaliq/109697180483841793",
+      "content": "<p>Region-Aware Diffusion for Zero-shot Text-driven Image Editing</p><p>github: <a href=\"https://github.com/haha-lisa/RDM-Region-Aware-Diffusion-Model\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/haha-lisa/RDM-Regio</span><span class=\"invisible\">n-Aware-Diffusion-Model</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@vh",
+        "display_name": "Vincent HETRU"
+      },
+      {
+        "url": "https://sigmoid.social/@akhaliq",
+        "display_name": "akhaliq"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/alexcrist/autotone",
+    "title": "GitHub - alexcrist/autotone: A vocal pitch correction web application (like Autotune)",
+    "latest": "2023-01-16T05:10:03+00:00",
+    "last_post": {
+      "url": "https://die-partei.social/@hackernews/109697158571938253",
+      "content": "<p>An open source version of Autotune that runs in the browser - <a href=\"https://github.com/alexcrist/autotone\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/alexcrist/autotone</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://die-partei.social/@hackernews",
+        "display_name": "Hackernews"
+      }
+    ]
+  },
+  {
+    "link": "https://codeberg.org/fediverse/fep",
+    "title": "fep",
+    "latest": "2023-01-16T04:17:24+00:00",
+    "last_post": {
+      "url": "https://hachyderm.io/@PeterBronez/109696646146575538",
+      "content": "<p><span class=\"h-card\"><a href=\"https://futurist.info/@jimcarroll\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>jimcarroll</span></a></span> <span class=\"h-card\"><a href=\"https://me.dm/@coachtony\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>coachtony</span></a></span> <span class=\"h-card\"><a href=\"https://mastodon.social/@kidehen\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>kidehen</span></a></span> </p><p>&gt; This almost seems like the early days of Usenet when there were RFC's and Acceptable Use Policies and such. </p><p>I recently discovered that there are Fediverse Enhancement Proposals (FEP)!</p><p>They live here <a href=\"https://codeberg.org/fediverse/fep\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">codeberg.org/fediverse/fep</span><span class=\"invisible\"></span></a></p><p>And are debated here <a href=\"https://socialhub.activitypub.rocks/c/standards/fep/54\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">socialhub.activitypub.rocks/c/</span><span class=\"invisible\">standards/fep/54</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://hachyderm.io/@mnl",
+        "display_name": "mnml mnl (he/him)"
+      },
+      {
+        "url": "https://mastodon.social/@hrheingold",
+        "display_name": "Howard Rheingold"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/furkanonder/beetrace",
     "title": "GitHub - furkanonder/beetrace: Trace your python process line by line with low overhead!",
     "latest": "2023-01-15T21:40:03+00:00",
@@ -199,21 +316,6 @@
       {
         "url": "https://mamot.fr/@emchateau",
         "display_name": "Emmanuel Chateau-Dutier"
-      }
-    ]
-  },
-  {
-    "link": "https://observablehq.com/@asg017/introducing-sqlite-xsv",
-    "title": "Introducing sqlite-xsv: The Fastest CSV Parser for SQLite",
-    "latest": "2023-01-14T08:58:14+00:00",
-    "last_post": {
-      "url": "https://data-folks.masto.host/@alexgarciaxyz/109683350255059133",
-      "content": "<p>Introducing sqlite-xsv - a new, incredibly fast SQLite extension for working with CSVs</p><p>- The fastest CSV parser for SQLite, even faster reading than DuckDB/datafusion/clickhouse!<br>- Works with gzip'ed or zstd CSVs directly!<br>- Read CSVs from blobs or from multiple files!</p><p><a href=\"https://observablehq.com/@asg017/introducing-sqlite-xsv\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">observablehq.com/@asg017/intro</span><span class=\"invisible\">ducing-sqlite-xsv</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://fosstodon.org/@mdsumner",
-        "display_name": "mdsumner"
       }
     ]
   },
@@ -2410,21 +2512,6 @@
     ]
   },
   {
-    "link": "https://codeberg.org/fediverse/fep",
-    "title": "fep",
-    "latest": "2023-01-04T17:52:00.262000+00:00",
-    "last_post": {
-      "url": "https://c4.social/@weex/109632180814230187",
-      "content": "<p>To ready Fediverse Enhancement Proposals for  2023, we've done some cleanup and brought on two new editors.</p><p>Thanks to everyone who has contributed to FEP over the years and saw it through to strong administrative footing!</p><p>If you're interested in a lightweight fediverse-native standards process please read, discuss, implement and submit proposals at:</p><p><a href=\"https://codeberg.org/fediverse/fep\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">codeberg.org/fediverse/fep</span><span class=\"invisible\"></span></a></p><p><a href=\"https://c4.social/tags/FEP\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>FEP</span></a> <a href=\"https://c4.social/tags/Fediverse\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Fediverse</span></a> <a href=\"https://c4.social/tags/ActivityPub\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ActivityPub</span></a> <a href=\"https://c4.social/tags/SocialHub\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>SocialHub</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://hachyderm.io/@mnl",
-        "display_name": "mnml mnl (he/him)"
-      }
-    ]
-  },
-  {
     "link": "https://github.com/jspsych/datapipe/",
     "title": "GitHub - jspsych/datapipe: Using firebase to link jsPsych experiments to the OSF",
     "latest": "2023-01-04T17:19:09+00:00",
@@ -3133,89 +3220,6 @@
       {
         "url": "https://mastodon.gamedev.place/@doppioslash",
         "display_name": "Claudia Doppioslash/ShaderCat"
-      }
-    ]
-  },
-  {
-    "link": "https://observablehq.com/@ghing/convert-arbitrary-json-tracks-to-gpx",
-    "title": "Convert arbitrary JSON tracks to GPX",
-    "latest": "2023-01-02T23:52:40+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@geoffhing/109622300535427334",
-      "content": "<p>A couple of quick <a href=\"https://mastodon.social/tags/projects\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>projects</span></a> that I hacked on recently: First, I often encounter various routes for <a href=\"https://mastodon.social/tags/bike\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>bike</span></a> rides on the web, and can discover the track coordinates through my browser's dev tools. But, the track is in an arbitrary JSON structure. I made a tool to help coerce it into a GPX file that I can use in various places.<br> <a href=\"https://observablehq.com/@ghing/convert-arbitrary-json-tracks-to-gpx\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">observablehq.com/@ghing/conver</span><span class=\"invisible\">t-arbitrary-json-tracks-to-gpx</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@geoffhing",
-        "display_name": "Geoff Hing"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/bvaughn/react-resizable-panels/commit/7a81c3977e546467178e799031fca830fc5a3928",
-    "title": "Add container query to collapsible demo \u00b7 bvaughn/react-resizable-panels@7a81c39",
-    "latest": "2023-01-02T22:33:33+00:00",
-    "last_post": {
-      "url": "https://mas.to/@bvaughn/109621989435506429",
-      "content": "<p>\u269b\ufe0f Can't find the tweet, but someone asked if react-resizable-panels could show different content at different sizes.<br>This commit that shows two ways to do this (data attribute and container query):<br><a href=\"https://github.com/bvaughn/react-resizable-panels/commit/7a81c3977e546467178e799031fca830fc5a3928\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/bvaughn/react-resiz</span><span class=\"invisible\">able-panels/commit/7a81c3977e546467178e799031fca830fc5a3928</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mas.to/@bvaughn",
-        "display_name": "Brian Vaughn"
-      }
-    ]
-  },
-  {
-    "link": "https://gist.github.com/nicklockwood/ff51117ac8139248507ecc84a1ed7fed",
-    "title": "PolymorphicCoding.swift ",
-    "latest": "2023-01-02T21:45:43+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@nicklockwood/109609829731772644",
-      "content": "<p>I learned something new about Swift's Codable protocol today that I wish I'd known years ago.</p><p>You can open multiple different containers on the same en/decoder instance in order to read/write different subsets of the data.</p><p>That means you can compose a single output dictionary from multiple source objects, instead of having serialization-specific fields in your model objects, or creating intermediate types purely for the purposes of serialization.</p><p>Here's an example: <a href=\"https://gist.github.com/nicklockwood/ff51117ac8139248507ecc84a1ed7fed\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gist.github.com/nicklockwood/f</span><span class=\"invisible\">f51117ac8139248507ecc84a1ed7fed</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@ctietze",
-        "display_name": "Christian Tietze"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/acowley/mastodon_digest/tree/nix",
-    "title": "github.com/acowley/mastodon_di...",
-    "latest": "2023-01-02T21:02:31+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@acowley/109621620707219357",
-      "content": "<p>Here's a neat thing: an algorithmically-generated <a href=\"https://mastodon.social/tags/mastodon\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>mastodon</span></a> daily digest <a href=\"https://github.com/hodgesmr/mastodon_digest\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/hodgesmr/mastodon_d</span><span class=\"invisible\">igest</span></a> by <span class=\"h-card\"><a href=\"https://mastodon.social/@MattHodges\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>MattHodges</span></a></span>. I've packaged it as a <a href=\"https://mastodon.social/tags/nix\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>nix</span></a> flake <a href=\"https://github.com/acowley/mastodon_digest/tree/nix\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/acowley/mastodon_di</span><span class=\"invisible\">gest/tree/nix</span></a>, so that if you are in a directory with a `.env` file in it (following the README instructions), you can do,</p><p>`nix run github:acowley/mastodon_digest/nix -- -o $PWD`</p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@MattHodges",
-        "display_name": "Matt Hodges"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/corkami/pics/blob/master/binary/README.md#images",
-    "title": "pics/README.md at master \u00b7 corkami/pics",
-    "latest": "2023-01-02T20:04:20+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@Ange/109581237243116686",
-      "content": "<p>My file formats dissection repo should be now up-to-date.<br><a href=\"https://github.com/corkami/pics/blob/master/binary/README.md#images\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/corkami/pics/blob/m</span><span class=\"invisible\">aster/binary/README.md#images</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://recurse.social/@ballingt",
-        "display_name": "Tom Ballinger"
-      },
-      {
-        "url": "https://hachyderm.io/@ramonpage",
-        "display_name": "Ramon :verified_paw:"
-      },
-      {
-        "url": "https://vis.social/@jhilden",
-        "display_name": "Jonatan Hild\u00e9n"
       }
     ]
   }
