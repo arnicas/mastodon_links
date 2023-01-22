@@ -1,5 +1,35 @@
 [
   {
+    "link": "https://github.com/Nirei/cutting",
+    "title": "GitHub - Nirei/cutting: Cutting is Processing written entirely in Ruby",
+    "latest": "2023-01-22T21:50:28+00:00",
+    "last_post": {
+      "url": "https://cascarilla.social/@nirro/109735066261563946",
+      "content": "<p>Today I built support for saving frames to the hard drive in Cutting, my <a href=\"https://cascarilla.social/tags/Processing\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Processing</span></a> clone in <a href=\"https://cascarilla.social/tags/Ruby\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Ruby</span></a>.</p><p>Surprisingly hard to do well in Ruby. I ended up deviating a little from the original Processing behaviour and I save to hard drive only when the program finishes.</p><p>Dangerous but good enough for a first iteration. Maybe I can start doing some actual <a href=\"https://cascarilla.social/tags/generativeart\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>generativeart</span></a> before <a href=\"https://cascarilla.social/tags/genuary\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>genuary</span></a> is over? We'll see.</p><p><a href=\"https://github.com/Nirei/cutting\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/Nirei/cutting</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://cascarilla.social/@nirro",
+        "display_name": "Archiduque de Internet"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/Dimillian/IceCubesApp/pull/292",
+    "title": "Digest: Popular posts from timeline by rafaelcaricio \u00b7 Pull Request #292 \u00b7 Dimillian/IceCubesApp",
+    "latest": "2023-01-22T20:49:32+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@rafaelcaricio/109734794963887773",
+      "content": "<p><span class=\"h-card\"><a href=\"https://fedi.simonwillison.net/@simon\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>simon</span></a></span> <span class=\"h-card\"><a href=\"https://tapbots.social/@ivory\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>ivory</span></a></span> <span class=\"h-card\"><a href=\"https://mastodon.cloud/@icecubesapp\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>icecubesapp</span></a></span> Same, so I did that: <a href=\"https://github.com/Dimillian/IceCubesApp/pull/292\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/Dimillian/IceCubesA</span><span class=\"invisible\">pp/pull/292</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fedi.simonwillison.net/@simon",
+        "display_name": "Simon Willison"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/WasmEdge/WasmEdge/issues/1432",
     "title": "A PostgreSQL database driver for WebAssembly \u00b7 Issue #1432 \u00b7 WasmEdge/WasmEdge",
     "latest": "2023-01-22T10:38:29+00:00",
@@ -3166,40 +3196,6 @@
       {
         "url": "https://vis.social/@dataSamurai",
         "display_name": "Taras Novak \ud83c\uddfa\ud83c\udde6"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/adhocteam/pushup",
-    "title": "GitHub - adhocteam/pushup: Pushup is for making modern, page-oriented web apps in Go",
-    "latest": "2023-01-05T15:07:32+00:00",
-    "last_post": {
-      "url": "https://changelog.social/@gotime/109637167800017809",
-      "content": "<p>A page-oriented web framework for Go: <a href=\"https://github.com/adhocteam/pushup\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/adhocteam/pushup</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://vis.social/@llimllib",
-        "display_name": "llimllib"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/NeuromatchAcademy/mastodon/blob/a209c1b0b43760a3915263d3e57c8140f0849acd/app/javascript/flavours/glitch/actions/statuses.js#L230-L257",
-    "title": "mastodon/statuses.js at a209c1b0b43760a3915263d3e57c8140f0849acd \u00b7 NeuromatchAcademy/mastodon",
-    "latest": "2023-01-05T10:41:21+00:00",
-    "last_post": {
-      "url": "https://neuromatch.social/@jonny/109635610739208981",
-      "content": "<p><span class=\"h-card\"><a href=\"https://sauropods.win/@futurebird\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>futurebird</span></a></span> <br>1) it uses the search API, so it should follow the same rules. A very vague test just now trying to search for a user and post on an instance our server is defederated from says it shouldn't work, but i'll have to double check and write tests for if an account has blocked someone. good question. had been on my mind and part of the reason why I haven't tried to pull upstream yet</p><p>2) It likely will be in the list of peer servers, but I don't know that masto uses this in any meaningful way, another thing i should check out</p><p>3) yes, unfortunately, this is something that would require the instance admin to apply</p><p>4) I tried to write something like this just using clientside javascript for eg. a bookmarklet, but the CORS rules prevented me from making the fetch to the OP server. I believe a browser extension would be able to overcome that problem, and it also looks like the search API doesn't require login (which seems bad actually) and so it might not even need to have you approve it with eg. OAuth or something like that. I have only written one extremely simple browser extension before, but this is ultimately extremely simple, basically this (and then refresh the page):</p><p>fetch(&lt;other_instance&gt;/api/&lt;context_endpoint&gt;<br>  ).then( (response) =&gt; {<br>  response.json().descendants<br>    .forEach( (status) =&gt; {<br>      fetch(&lt;search_api&gt;/&lt;status.url&gt;);<br>  }<br>});<br></p><p>in pseudo-javascript<br><a href=\"https://github.com/NeuromatchAcademy/mastodon/blob/a209c1b0b43760a3915263d3e57c8140f0849acd/app/javascript/flavours/glitch/actions/statuses.js#L230-L257\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/NeuromatchAcademy/m</span><span class=\"invisible\">astodon/blob/a209c1b0b43760a3915263d3e57c8140f0849acd/app/javascript/flavours/glitch/actions/statuses.js#L230-L257</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://neuromatch.social/@jonny",
-        "display_name": "Jonny"
-      },
-      {
-        "url": "https://sauropods.win/@futurebird",
-        "display_name": "myrmepropagandist"
       }
     ]
   }
