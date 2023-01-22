@@ -1,5 +1,95 @@
 [
   {
+    "link": "https://github.com/WasmEdge/WasmEdge/issues/1432",
+    "title": "A PostgreSQL database driver for WebAssembly \u00b7 Issue #1432 \u00b7 WasmEdge/WasmEdge",
+    "latest": "2023-01-22T10:38:29+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@judell/109730507212408853",
+      "content": "<p>It's cool that Postgres runs in the browser thanks to WASM. But I don't need that. What I do need is a Postgres /driver/ that runs in the browser, as envisioned here: <a href=\"https://github.com/WasmEdge/WasmEdge/issues/1432\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/WasmEdge/WasmEdge/i</span><span class=\"invisible\">ssues/1432</span></a></p><p>That would enable me to build Steampipe-backed apps -- like the Mastodon dashboard I'm developing -- using vanilla JS. I would love to try that.</p><p>If/when you see a WASM Postgres driver that's real, please let me know!</p><p><a href=\"https://mastodon.social/tags/postgresql\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>postgresql</span></a> <a href=\"https://mastodon.social/tags/postgres\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>postgres</span></a> <a href=\"https://mastodon.social/tags/wasm\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>wasm</span></a> <a href=\"https://mastodon.social/tags/steampipe\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>steampipe</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@gvwilson",
+        "display_name": "Greg Wilson"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/ksb2043/instagram_influencer_dataset",
+    "title": "GitHub - ksb2043/instagram_influencer_dataset: Influencer dataset collected from Instagram",
+    "latest": "2023-01-22T08:47:21+00:00",
+    "last_post": {
+      "url": "https://creative.ai/@alexjc/109731986903435807",
+      "content": "<p>RT @L_macchiato@twitter.com</p><p>Dataset of Instagram influencer posts.<br>AIBro also steals other people's private lives without their permission in order to accurately depict the human body.<br>This is not just a problem for creators anymore.<br>NOTE: 33,935 influencers <br>10,180,500  posts <a href=\"https://github.com/ksb2043/instagram_influencer_dataset\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/ksb2043/instagram_i</span><span class=\"invisible\">nfluencer_dataset</span></a></p><p>\ud83d\udc26\ud83d\udd17: <a href=\"https://twitter.com/L_macchiato/status/1616458042505310208\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">twitter.com/L_macchiato/status</span><span class=\"invisible\">/1616458042505310208</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://creative.ai/@alexjc",
+        "display_name": "Alex J. Champandard \u2744\ufe0f"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/mikedewar/streamscope#22nd-jan-2023",
+    "title": "GitHub - mikedewar/streamscope: visualise streams of data through a websocket",
+    "latest": "2023-01-22T08:11:18+00:00",
+    "last_post": {
+      "url": "https://mastodon.online/@mikedewar/109731845154665770",
+      "content": "<p>This morning's <a href=\"https://mastodon.online/tags/streamscope\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>streamscope</span></a> update. Prototyped two fields! The particles now change colour when they hit the first field and change bearing when they hit the second. Begs some questions about the visual metaphor of an oscilloscope.. Think the tool will get better as I tend toward following the metaphor a bit better.... <a href=\"https://github.com/mikedewar/streamscope#22nd-jan-2023\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/mikedewar/streamsco</span><span class=\"invisible\">pe#22nd-jan-2023</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.online/@mikedewar",
+        "display_name": "mikedewar"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/matloff/TidyverseSkeptic",
+    "title": "GitHub - matloff/TidyverseSkeptic: An opinionated view of the Tidyverse \"dialect\" of the R language.",
+    "latest": "2023-01-22T08:05:42+00:00",
+    "last_post": {
+      "url": "https://mathstodon.xyz/@HydrePrever/109693389845047451",
+      "content": "<p><span class=\"h-card\"><a href=\"https://social.coop/@dynamic\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>dynamic</span></a></span> <span class=\"h-card\"><a href=\"https://fediscience.org/@christian_zerfass\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>christian_zerfass</span></a></span> <span class=\"h-card\"><a href=\"https://mas.to/@peter_mcmahan\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>peter_mcmahan</span></a></span> Some people have taken the time to gather some of the arguments against it: <a href=\"https://github.com/matloff/TidyverseSkeptic\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/matloff/TidyverseSk</span><span class=\"invisible\">eptic</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@jose_eduardo",
+        "display_name": "Jos\u00e9 Eduardo Gonz\u00e1lez"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/merveenoyan/my_notes",
+    "title": "GitHub - merveenoyan/my_notes: My small cheatsheets for data science, ML, computer science and more.",
+    "latest": "2023-01-22T05:55:24+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@mervenoyan/109729465349419649",
+      "content": "<p>Hello \ud83d\udc4b\ud83c\udffc <br>I just uploaded all of my cheatsheets (there's 100+ of them!) on various topics including machine learning, data structures, statistics and more.<br>\ud83d\udcd4 GitHub repository: <a href=\"https://github.com/merveenoyan/my_notes\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/merveenoyan/my_note</span><span class=\"invisible\">s</span></a><br>\ud83d\udcd3 Hugging Face dataset repository: <a href=\"https://huggingface.co/datasets/merve/my_notes\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">huggingface.co/datasets/merve/</span><span class=\"invisible\">my_notes</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@vh",
+        "display_name": "Vincent HETRU"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/brycedrennan/imaginAIry/blob/master/README.md",
+    "title": "imaginAIry/README.md at master \u00b7 brycedrennan/imaginAIry",
+    "latest": "2023-01-22T05:20:03+00:00",
+    "last_post": {
+      "url": "https://die-partei.social/@hackernews/109731171736718346",
+      "content": "<p>New AI edits images based on text instructions (instructPix2Pix/imaginAIry) - <a href=\"https://github.com/brycedrennan/imaginAIry/blob/master/README.md\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/brycedrennan/imagin</span><span class=\"invisible\">AIry/blob/master/README.md</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://die-partei.social/@hackernews",
+        "display_name": "Hackernews"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/benrugg/AI-Render",
     "title": "GitHub - benrugg/AI-Render: Stable Diffusion in Blender",
     "latest": "2023-01-20T09:58:02+00:00",
@@ -3110,96 +3200,6 @@
       {
         "url": "https://sauropods.win/@futurebird",
         "display_name": "myrmepropagandist"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/TIBHannover/optimetaCitations/",
-    "title": "github.com/TIBHannover/optimet...",
-    "latest": "2023-01-05T09:39:27+00:00",
-    "last_post": {
-      "url": "https://mstdn.science/@serhii/109635932495907682",
-      "content": "<p>New interesting <a href=\"https://mstdn.science/tags/preprint\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>preprint</span></a> about The OPTIMETA project <a href=\"https://projects.tib.eu/optimeta/en/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">projects.tib.eu/optimeta/en/</span><span class=\"invisible\"></span></a> from <span class=\"h-card\"><a href=\"https://openbiblio.social/@tibhannover\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>tibhannover</span></a></span> &amp; Ko:</p><p> \ud83d\udcc4  <a href=\"https://arxiv.org/abs/2301.01502\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2301.01502</span><span class=\"invisible\"></span></a></p><p>Results: 2 open plugins for <a href=\"https://mstdn.science/tags/OJS\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>OJS</span></a> that collect, enrich, and automatically deliver <a href=\"https://mstdn.science/tags/citation\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>citation</span></a> metadata and spatio-temporal <a href=\"https://mstdn.science/tags/metadata\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>metadata</span></a> for articles:</p><p>\ud83d\udc49 <a href=\"https://github.com/TIBHannover/optimetaCitations/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/TIBHannover/optimet</span><span class=\"invisible\">aCitations/</span></a><br>\ud83d\udc49 <a href=\"https://github.com/TIBHannover/optimetaGeo\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/TIBHannover/optimet</span><span class=\"invisible\">aGeo</span></a></p><p><a href=\"https://mstdn.science/tags/OpenAccess\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>OpenAccess</span></a> <a href=\"https://mstdn.science/tags/publishing\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>publishing</span></a> <a href=\"https://mstdn.science/tags/assessment\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>assessment</span></a> <a href=\"https://mstdn.science/tags/discovery\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>discovery</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mstdn.science/@serhii",
-        "display_name": "Serhii Nazarovets"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/TIBHannover/optimetaGeo",
-    "title": "github.com/TIBHannover/optimet...",
-    "latest": "2023-01-05T09:39:27+00:00",
-    "last_post": {
-      "url": "https://mstdn.science/@serhii/109635932495907682",
-      "content": "<p>New interesting <a href=\"https://mstdn.science/tags/preprint\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>preprint</span></a> about The OPTIMETA project <a href=\"https://projects.tib.eu/optimeta/en/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">projects.tib.eu/optimeta/en/</span><span class=\"invisible\"></span></a> from <span class=\"h-card\"><a href=\"https://openbiblio.social/@tibhannover\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>tibhannover</span></a></span> &amp; Ko:</p><p> \ud83d\udcc4  <a href=\"https://arxiv.org/abs/2301.01502\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2301.01502</span><span class=\"invisible\"></span></a></p><p>Results: 2 open plugins for <a href=\"https://mstdn.science/tags/OJS\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>OJS</span></a> that collect, enrich, and automatically deliver <a href=\"https://mstdn.science/tags/citation\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>citation</span></a> metadata and spatio-temporal <a href=\"https://mstdn.science/tags/metadata\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>metadata</span></a> for articles:</p><p>\ud83d\udc49 <a href=\"https://github.com/TIBHannover/optimetaCitations/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/TIBHannover/optimet</span><span class=\"invisible\">aCitations/</span></a><br>\ud83d\udc49 <a href=\"https://github.com/TIBHannover/optimetaGeo\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/TIBHannover/optimet</span><span class=\"invisible\">aGeo</span></a></p><p><a href=\"https://mstdn.science/tags/OpenAccess\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>OpenAccess</span></a> <a href=\"https://mstdn.science/tags/publishing\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>publishing</span></a> <a href=\"https://mstdn.science/tags/assessment\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>assessment</span></a> <a href=\"https://mstdn.science/tags/discovery\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>discovery</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mstdn.science/@serhii",
-        "display_name": "Serhii Nazarovets"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/HelgeKrueger/mastodon_recommender/blob/replies_visualization/hypergraph.ipynb",
-    "title": "mastodon_recommender/hypergraph.ipynb at replies_visualization \u00b7 HelgeKrueger/mastodon_recommender",
-    "latest": "2023-01-05T09:12:01+00:00",
-    "last_post": {
-      "url": "https://mas.to/@helgek/109635523217553078",
-      "content": "<p><span class=\"h-card\"><a href=\"https://mastodon.sandwich.net/@dragfyre\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>dragfyre</span></a></span> </p><p>Warning: work in progress</p><p>I'm working on one. My current visualizations are on.</p><p><a href=\"https://github.com/HelgeKrueger/mastodon_recommender/blob/replies_visualization/hypergraph.ipynb\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/HelgeKrueger/mastod</span><span class=\"invisible\">on_recommender/blob/replies_visualization/hypergraph.ipynb</span></a></p><p>My current thinking is that the percentage of federated posts with a hashtag might be the interesting quantity. Example I should be on an instance where the hashtag <a href=\"https://mas.to/tags/dataviz\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>dataviz</span></a> is more likely to get federated than <a href=\"https://mas.to/tags/taylorswift\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>taylorswift</span></a> .</p>"
-    },
-    "people": [
-      {
-        "url": "https://techhub.social/@ruthpozuelo",
-        "display_name": "Ruth Pozuelo Martinez"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/NeuromatchAcademy/mastodon/pull/8",
-    "title": "[feature] fetch all replies by sneakers-the-rat \u00b7 Pull Request #8 \u00b7 NeuromatchAcademy/mastodon",
-    "latest": "2023-01-05T05:11:39+00:00",
-    "last_post": {
-      "url": "https://neuromatch.social/@jonny/109634869235794426",
-      "content": "<p><span class=\"h-card\"><a href=\"https://indieweb.social/@jdp23\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>jdp23</span></a></span> <span class=\"h-card\"><a href=\"https://4xl.co/@liamsora\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>liamsora</span></a></span> <span class=\"h-card\"><a href=\"https://kitchenparty.online/@kichae\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>kichae</span></a></span> <span class=\"h-card\"><a href=\"https://sauropods.win/@futurebird\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>futurebird</span></a></span> <span class=\"h-card\"><a href=\"https://famichiki.jp/@stopthatgirl7\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>stopthatgirl7</span></a></span> <br>it certainly doesn't address the problem fully, but I'll be merging this into neuromatch.social to test soon enough: <a href=\"https://github.com/NeuromatchAcademy/mastodon/pull/8\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/NeuromatchAcademy/m</span><span class=\"invisible\">astodon/pull/8</span></a></p><p>It's relatively simple patch that's entirely frontend so hopefully easy to deploy on smaller instances.</p><p>Makes a button that lets you request the replies to a given post so you can see them even if no one on your instance follows the poster (ie. your instance wouldn't know about the post because of the pub/sub issues described above). </p><p>It works by using the search feature to fetch posts (as <span class=\"h-card\"><a href=\"https://4xl.co/@liamsora\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>liamsora</span></a></span> also discovered):</p><p>Ask OP server for the context that it knows about, replies and ancestors<br>Submits the URLs for each of the replies to the search endpoint<br>Inserts posts as they are received into the redux store -&gt; into the React component displaying the thread</p><p>It currently inserts them in a disordered way because the React component holding a thread is a single-layer component that holds expanded post &amp; ancestors &amp; replies. that's also related to why a thread is completely unreadable (imo) because it's rendered as a flat list rather than as a tree - which is what a thread is. Will be working on making a properly recursive component next.</p><p>Once that's done, then it should be possible to iteratively request replies in a smarter way, but that will also require another change in the way the /context endpoint works, which currently takes no arguments for subsetting and has no pagination - so therefore has relatively low hardcoded limits on the amount of replies you can request without being logged in. That will need to change to be able to request a certain depth (currently it gets the entire reply tree and then flattens it into an array) and paginate through results so that eg. you can get all the top-level replies to the request you have open, and then as you open deeper replies you get the replies to that reply, and so on....</p><p>(sorry for wall of text sort of got away from me.)</p><p><a href=\"https://neuromatch.social/tags/FetchAllReplies\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>FetchAllReplies</span></a> <a href=\"https://neuromatch.social/tags/NestedThreads\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>NestedThreads</span></a> <a href=\"https://neuromatch.social/tags/ContextAPI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ContextAPI</span></a> <a href=\"https://neuromatch.social/tags/MastoDev\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>MastoDev</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://sauropods.win/@futurebird",
-        "display_name": "myrmepropagandist"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/pymc-labs/CausalPy/releases/tag/0.0.8",
-    "title": "Release 0.0.8 \u00b7 pymc-labs/CausalPy",
-    "latest": "2023-01-05T05:10:42+00:00",
-    "last_post": {
-      "url": "https://fosstodon.org/@benvincent/109631413971669610",
-      "content": "<p>CausalPy 0.0.8 is now out. </p><p>We've given some love to Difference in Differences...You can now include multiple pre and post treatment observations. And there are some correctness fixes.</p><p>Plot legends are also improved with combined posterior mean and HDI. All plots are now consistent in the they show posterior mean/HDI, rather than some showing the posterior predictive.</p><p>Release notes here: <a href=\"https://github.com/pymc-labs/CausalPy/releases/tag/0.0.8\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/pymc-labs/CausalPy/</span><span class=\"invisible\">releases/tag/0.0.8</span></a></p><p><span class=\"h-card\"><a href=\"https://bayes.club/@pymc_labs\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>pymc_labs</span></a></span> <a href=\"https://fosstodon.org/tags/CausalInference\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CausalInference</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://bayes.club/@twiecki",
-        "display_name": "Thomas Wiecki"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/davecheney/pub",
-    "title": "GitHub - davecheney/pub: pub, a tiny ActivityPub to Mastodon bridge",
-    "latest": "2023-01-05T00:45:58.918000+00:00",
-    "last_post": {
-      "url": "https://coredump.social/@shep/109631795216889521",
-      "content": "<p>ActivityPub mini-server (intended for a single actor) in <a href=\"https://coredump.social/tags/golang\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>golang</span></a>.  </p><p>Implements the Mastodon API so you should be able to use it with Mastodon clients.</p><p><a href=\"https://coredump.social/tags/Golang\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Golang</span></a> <a href=\"https://coredump.social/tags/ActivityPub\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ActivityPub</span></a> <a href=\"https://coredump.social/tags/Go\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Go</span></a></p><p><a href=\"https://github.com/davecheney/pub\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/davecheney/pub</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://hachyderm.io/@kvnweb",
-        "display_name": "Kevin Webb"
       }
     ]
   }
