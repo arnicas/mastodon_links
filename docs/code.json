@@ -1,5 +1,99 @@
 [
   {
+    "link": "https://github.com/bikehopper/bikehopper-ui",
+    "title": "GitHub - bikehopper/bikehopper-ui: Friendly bike+transit directions (frontend)",
+    "latest": "2023-01-24T21:46:20+00:00",
+    "last_post": {
+      "url": "https://social.coop/@graue/109719222045865339",
+      "content": "<p>My project right now is <a href=\"https://social.coop/tags/BikeHopper\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>BikeHopper</span></a>, an open-source directions app for transit+bikes.</p><p><a href=\"https://github.com/bikehopper/bikehopper-ui\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/bikehopper/bikehopp</span><span class=\"invisible\">er-ui</span></a></p><p>It uses <a href=\"https://social.coop/tags/OpenStreetMap\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>OpenStreetMap</span></a> and a modified version of GraphHopper.</p><p>Two main benefits over other trip planning apps:<br>1. Bike-on-bus, bike-on-train etc. options<br>2. Tries really hard to find low-stress routes, avoiding main roads</p>"
+    },
+    "people": [
+      {
+        "url": "https://datasci.social/@mszll",
+        "display_name": "Michael Szell"
+      }
+    ]
+  },
+  {
+    "link": "https://observablehq.com/@mauforonda/state-of-obsidian-plugins",
+    "title": "State of obsidian plugins",
+    "latest": "2023-01-24T21:40:10+00:00",
+    "last_post": {
+      "url": "https://hachyderm.io/@mauforonda/109746350382011459",
+      "content": "<p>A small thing I made to explore the universe of <a href=\"https://hachyderm.io/tags/obsidian\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>obsidian</span></a> plugins because I found these data was open and I just *had* to do it. </p><p><a href=\"https://observablehq.com/@mauforonda/state-of-obsidian-plugins\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">observablehq.com/@mauforonda/s</span><span class=\"invisible\">tate-of-obsidian-plugins</span></a></p><p>\ud83d\ude43</p>"
+    },
+    "people": [
+      {
+        "url": "https://hachyderm.io/@mauforonda",
+        "display_name": "mauforonda"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/scripting/Scripting-News/issues/250",
+    "title": "NPM and package.json weirdness \u00b7 Issue #250 \u00b7 scripting/Scripting-News",
+    "latest": "2023-01-24T21:34:52+00:00",
+    "last_post": {
+      "url": "https://social.masto.land/@dave/109746310640627956",
+      "content": "<p>NPM and package.json weirdness.</p><p><a href=\"https://github.com/scripting/Scripting-News/issues/250\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/scripting/Scripting</span><span class=\"invisible\">-News/issues/250</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@davew",
+        "display_name": "Dave Winer \u2615\ufe0f"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/jkirsteins/PixelPlanets/releases/tag/a712f4",
+    "title": "github.com/jkirsteins/PixelPla...",
+    "latest": "2023-01-24T21:30:08+00:00",
+    "last_post": {
+      "url": "https://mastodon.gamedev.place/@jki/109746215622082760",
+      "content": "<p>Stumbled across this cool pixel planet generator today: <a href=\"https://deep-fold.itch.io\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">deep-fold.itch.io</span><span class=\"invisible\"></span></a></p><p>It's open source (made in <a href=\"https://mastodon.gamedev.place/tags/godotengine\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>godotengine</span></a>), but had no macOS builds available (only Windows/Linux). </p><p>I built and published a macOS build in a fork, in case anybody's interested in an offline mac version: <a href=\"https://github.com/jkirsteins/PixelPlanets/releases/tag/a712f4\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/jkirsteins/PixelPla</span><span class=\"invisible\">nets/releases/tag/a712f4</span></a></p><p><a href=\"https://mastodon.gamedev.place/tags/pixelart\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>pixelart</span></a> <a href=\"https://mastodon.gamedev.place/tags/gamedev\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>gamedev</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@RobF",
+        "display_name": "Bobbins"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/ZeldaFan0225/Stable_Horde_Discord",
+    "title": "https://github.com/ZeldaFan0225/Stable_Horde_Discord",
+    "latest": "2023-01-24T21:28:52+00:00",
+    "last_post": {
+      "url": "https://dbzer0.com/blog/new-discord-bot-for-the-stable-horde/",
+      "content": "<p>For a few months now the Stable Horde has had its own Discord bot, developed by JamDon. One of the most important aspects I wanted for the bot (and the reason for its original creation), was the ability to be able to gift kudos to people via emojis, which would serve as a way to promote good behavior and mutual aid.</p><p>In the process, the the bot received more and more features, such as receiving the functionality of being able to generate images from the Stable Horde, or getting information about the linked horde account etc. </p><p>Unfortunately development eventually slowed and then 2 months ago or so, ago JamDon informed me that they do not have time anymore to continue development. Further complicating things was the fact that the bot was written in JavaScript which I do not speak, which made it impossible for me to continue its development on my own. So it languished unmaintained, as the horde got more and more features and other things started changing. It was the reason why I couldn\u2019t make the \u201cr2\u201d payload parameter true by default for example. </p><p>The final straw was when our own bot got IP banned by the horde because it was a public bot and had been added to a lot of servers, which we do not control. And apparently people there attempted to generate unethical images, which the horde promptly blocked. Unfortunately that meant that the bot image generation also stopped working everywhere every time this happened.</p><p>At the same time, another discord regular had not only developed their own discord bot based on the stable horde, but a whole JavaScript<a href=\"https://www.npmjs.com/package/@zeldafan0225/stable_horde\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"> SDK</a>! The bot was in fact very well developed and had most of the features of the previous stable horde bot plus a lot of new stuff like image ratings. The only thing really missing which was really important, was the ability to gift images via emojis, which was the original reason to get as discord bot in the first place \ud83d\ude42</p><p>Fortunately with some convincing and plenty of kudos, zelda_fan agreed to onboard this functionality, as a few other small things that I wished for (like automated roles), and the <a href=\"https://github.com/ZeldaFan0225/Stable_Horde_Discord\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">Stable Horde Bot was reborn</a>!</p><p>Unfortunately this did mean that all existing users were logged out and had to log in once more to be able to use the functionality, and it\u2019s commands did change quite significantly, but those were fairly minor things. </p><p>Soon after the new bot was deployed, it was also added to the official LAION discord as well, so that their community could use it to rate images as well. I also checked and the bot has been already added to 365 different servers by now. Fortunately its demand is not quite as massive as it\u2019s not prepared to scale quite as well as the stable horde itself.</p><p>BTW If you want to add the bot to your own discord server, you can do so by visiting <a href=\"https://discord.com/api/oauth2/authorize?client_id=1019572037360025650&amp;permissions=8192&amp;scope=bot\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">this link</a>. If you want to be able to transfer kudos, you\u2019ll need to contact me so I onboard your emojis though. But other functionality should work. </p><p></p><p><a href=\"https://dbzer0.com/blog/new-discord-bot-for-the-stable-horde/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">https://dbzer0.com/blog/new-discord-bot-for-the-stable-horde/</a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@stablehorde",
+        "display_name": "Stable Horde"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/awesome-spectral-indices/spyndex",
+    "title": "GitHub - awesome-spectral-indices/spyndex: Awesome Spectral Indices in Python.",
+    "latest": "2023-01-24T20:15:31+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@dmlmont/109745536834856154",
+      "content": "<p>Hey <a href=\"https://fosstodon.org/tags/RemoteSensing\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>RemoteSensing</span></a> enthusiasts! I've also released <a href=\"https://fosstodon.org/tags/spyndex\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>spyndex</span></a> v0.3.0 and now you have access to <a href=\"https://fosstodon.org/tags/AwesomeSpectralIndices\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AwesomeSpectralIndices</span></a> v0.3.0 in <a href=\"https://fosstodon.org/tags/Python\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Python</span></a>! \ud83d\udc0d\ud83d\udef0\ufe0f\ud83c\udf3f</p><p>Check it here: <a href=\"https://github.com/awesome-spectral-indices/spyndex\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/awesome-spectral-in</span><span class=\"invisible\">dices/spyndex</span></a></p><p>You can use it for <a href=\"https://fosstodon.org/tags/numpy\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>numpy</span></a>, (geo)pandas, <a href=\"https://fosstodon.org/tags/xarray\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>xarray</span></a>, <a href=\"https://fosstodon.org/tags/dask\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>dask</span></a> and <a href=\"https://fosstodon.org/tags/EarthEngine\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>EarthEngine</span></a>! \ud83d\ude80\ud83d\ude09</p><p><a href=\"https://fosstodon.org/tags/GISchat\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>GISchat</span></a> <a href=\"https://fosstodon.org/tags/EOchat\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>EOchat</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://scicomm.xyz/@leouieda",
+        "display_name": "Dr Leonardo Uieda"
+      },
+      {
+        "url": "https://fosstodon.org/@underdarkGIS",
+        "display_name": "Anita Graser \ud83c\uddea\ud83c\uddfa\ud83c\uddfa\ud83c\udde6"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/sjmeis/CRAML_Beta",
     "title": "GitHub - sjmeis/CRAML_Beta: Beta Version of the Context Rule-Assisted Machine Learning (CRAML) UI",
     "latest": "2023-01-24T09:57:33+00:00",
@@ -3090,104 +3184,6 @@
       {
         "url": "https://mastodon.social/@MattHodges",
         "display_name": "Matt Hodges"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/sts10/tidy",
-    "title": "GitHub - sts10/tidy: Combine and clean word lists",
-    "latest": "2023-01-06T14:55:18+00:00",
-    "last_post": {
-      "url": "https://hachyderm.io/@schlink/109642836781798905",
-      "content": "<p>I think my most impressive open source project is Tidy, a CLI that combines and cleans large word lists.</p><p><a href=\"https://github.com/sts10/tidy\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/sts10/tidy</span><span class=\"invisible\"></span></a></p><p>It's written in <a href=\"https://hachyderm.io/tags/Rust\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Rust</span></a> and includes some interesting options, like: </p><p>* guarantee a maximum shared prefix length<br>* guarantee a minimum edit distance between words<br>* make list uniquely decodable by removing prefix words, suffix words, or using the Sardinas-Patterson algorithm<br>* aid list creators in avoiding certain brute force attacks</p>"
-    },
-    "people": [
-      {
-        "url": "https://hachyderm.io/@schlink",
-        "display_name": "Sam Schlinkert"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/sts10/",
-    "title": "https://github.com/sts10/",
-    "latest": "2023-01-06T14:32:06+00:00",
-    "last_post": {
-      "url": "https://hachyderm.io/@schlink/109642745517415753",
-      "content": "<p>\ud83d\udc4b  <br>If you know of any junior/entry-level developer roles, especially in Rust, Python, or Ruby, let me know! My health insurance expires soon! </p><p>My website: <a href=\"https://www.samschlinkert.com/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">samschlinkert.com/</span><span class=\"invisible\"></span></a></p><p>GitHub: <a href=\"https://github.com/sts10/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/sts10/</span><span class=\"invisible\"></span></a></p><p>(Posting again for the ET morning crowd. Boosts appreciated!) <br><a href=\"https://hachyderm.io/tags/GetFediHIred\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>GetFediHIred</span></a> <a href=\"https://hachyderm.io/tags/FediHired\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>FediHired</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://hachyderm.io/@schlink",
-        "display_name": "Sam Schlinkert"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/nektos/act",
-    "title": "GitHub - nektos/act: Run your GitHub Actions locally \ud83d\ude80",
-    "latest": "2023-01-06T14:21:40+00:00",
-    "last_post": {
-      "url": "https://post.lurk.org/@liza/109642704545064542",
-      "content": "<p><span class=\"h-card\"><a href=\"https://mstdn.social/@arnicas\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>arnicas</span></a></span> there\u2019s <a href=\"https://github.com/nektos/act\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/nektos/act</span><span class=\"invisible\"></span></a> but for various reasons it\u2019s never worked for my particular tricky cases</p>"
-    },
-    "people": [
-      {
-        "url": "https://post.lurk.org/@liza",
-        "display_name": "Liza Daly"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/recap-cloud/recap",
-    "title": "https://github.com/recap-cloud/recap",
-    "latest": "2023-01-06T13:45:29+00:00",
-    "last_post": {
-      "url": "https://data-folks.masto.host/@criccomini/109639172921447776",
-      "content": "<p>I'm open sourcing Recap, a dead simple data catalog for engineers! Unlike traditional catalogs, Recap is built to power infrastructure and tools that need metadata.</p><p>Check out my blog post for more on why I built Recap and how it's different from traditional catalogs:<br><a href=\"https://cnr.sh/essays/recap-for-people-who-hate-data-catalogs\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">cnr.sh/essays/recap-for-people</span><span class=\"invisible\">-who-hate-data-catalogs</span></a></p><p>Read the docs:<br><a href=\"https://docs.recap.cloud\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">docs.recap.cloud</span><span class=\"invisible\"></span></a></p><p>Or dive straight into the Github repo:<br><a href=\"https://github.com/recap-cloud/recap\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/recap-cloud/recap</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://social.juanlu.space/@astrojuanlu",
-        "display_name": "Juan Luis"
-      },
-      {
-        "url": "https://data-folks.masto.host/@rmoff",
-        "display_name": "rmoff \ud83c\udfc3\ud83c\udffb \ud83c\udf7a \ud83e\udd53"
-      }
-    ]
-  },
-  {
-    "link": "https://observablehq.com/@neocartocnrs/carpooling",
-    "title": "Bla bla cartes",
-    "latest": "2023-01-06T13:18:18+00:00",
-    "last_post": {
-      "url": "https://vis.social/@neocarto/109642455340637250",
-      "content": "<p>Some visualizations of carpooling data with <span class=\"h-card\"><a href=\"https://vis.social/@observablehq\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>observablehq</span></a></span> <a href=\"https://vis.social/tags/JSspatial\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>JSspatial</span></a> <br><a href=\"https://observablehq.com/@neocartocnrs/carpooling\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">observablehq.com/@neocartocnrs</span><span class=\"invisible\">/carpooling</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://vis.social/@neocarto",
-        "display_name": "Nicolas Lambert \ud83c\udf0f"
-      }
-    ]
-  },
-  {
-    "link": "https://observablehq.com/@neocartocnrs/hello-geotoolbox?collection=@neocartocnrs/geotoolbox",
-    "title": "Hello geotoolbox",
-    "latest": "2023-01-06T13:15:28+00:00",
-    "last_post": {
-      "url": "https://vis.social/@mikebrondbjerg/109641385227313363",
-      "content": "<p>This JS library by <span class=\"h-card\"><a href=\"https://vis.social/@neocarto\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>neocarto</span></a></span> looks REALLY useful: \"geotoolbox is javascript tool for geographers based on d3geo, topojson and jsts.\" :   <a href=\"https://observablehq.com/@neocartocnrs/hello-geotoolbox?collection=@neocartocnrs/geotoolbox\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">observablehq.com/@neocartocnrs</span><span class=\"invisible\">/hello-geotoolbox?collection=@neocartocnrs/geotoolbox</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mapstodon.space/@floledermann",
-        "display_name": "Florian Ledermann"
-      },
-      {
-        "url": "https://vis.social/@neocarto",
-        "display_name": "Nicolas Lambert \ud83c\udf0f"
       }
     ]
   }
