@@ -1,5 +1,95 @@
 [
   {
+    "link": "https://github.com/Astrosp/osint-tools",
+    "title": "GitHub - Astrosp/osint-tools: OSINT tools can be used for Information gathering, Cybersecurity, Reverse searching, bugbounty, trust and safety, red team oprations and more.",
+    "latest": "2023-01-29T09:22:02+00:00",
+    "last_post": {
+      "url": "https://infosec.exchange/@nikahverse/109742060004477830",
+      "content": "<p>This collection of osint tools have so many useful and interesting links and tools. You should give it a try, the collection is for websites, for pentration testing, Reverse Searching, Red team Oprations, information gathering, bugbounty and more.</p><p>OSINT for Everything:<br><a href=\"https://github.com/Astrosp/osint-tools\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/Astrosp/osint-tools</span><span class=\"invisible\"></span></a></p><p><a href=\"https://infosec.exchange/tags/osint\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>osint</span></a> <a href=\"https://infosec.exchange/tags/cybersec\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>cybersec</span></a> <a href=\"https://infosec.exchange/tags/cybersecurity\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>cybersecurity</span></a> <a href=\"https://infosec.exchange/tags/infosec\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>infosec</span></a> <a href=\"https://infosec.exchange/tags/infosecurity\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>infosecurity</span></a>  <a href=\"https://infosec.exchange/tags/malware\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>malware</span></a> <a href=\"https://infosec.exchange/tags/crypto\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>crypto</span></a> <a href=\"https://infosec.exchange/tags/socint\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>socint</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@JulianOliver",
+        "display_name": "Julian Oliver"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/scandum/quadsort",
+    "title": "GitHub - scandum/quadsort: Quadsort is a branchless stable adaptive mergesort faster than quicksort.",
+    "latest": "2023-01-29T09:00:03+00:00",
+    "last_post": {
+      "url": "https://die-partei.social/@hackernews/109771672979938098",
+      "content": "<p>Show HN: QuadSort, Esoteric Fast Sort - <a href=\"https://github.com/scandum/quadsort\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/scandum/quadsort</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://die-partei.social/@hackernews",
+        "display_name": "Hackernews"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/stevana/armstrong-distributed-systems/blob/main/docs/erlang-is-not-about.md",
+    "title": "armstrong-distributed-systems/erlang-is-not-about.md at main \u00b7 stevana/armstrong-distributed-systems",
+    "latest": "2023-01-29T08:31:13+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@erlang_discussions/109762122244645056",
+      "content": "<p>Erlang's not about lightweight processes and message passing</p><p><a href=\"https://github.com/stevana/armstrong-distributed-systems/blob/main/docs/erlang-is-not-about.md\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/stevana/armstrong-d</span><span class=\"invisible\">istributed-systems/blob/main/docs/erlang-is-not-about.md</span></a></p><p>Discussions: <a href=\"https://discu.eu/q/https://github.com/stevana/armstrong-distributed-systems/blob/main/docs/erlang-is-not-about.md\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">discu.eu/q/https://github.com/</span><span class=\"invisible\">stevana/armstrong-distributed-systems/blob/main/docs/erlang-is-not-about.md</span></a></p><p><a href=\"https://mastodon.social/tags/erlang\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>erlang</span></a> <a href=\"https://mastodon.social/tags/programming\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>programming</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@compsci_discussions",
+        "display_name": "Compsci Weekly"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/asiekierka/almost-of-zzt",
+    "title": "GitHub - asiekierka/almost-of-zzt: (Almost) development backup of ZZT's original source code.",
+    "latest": "2023-01-29T08:30:43+00:00",
+    "last_post": {
+      "url": "https://mk.asie.pl/notes/9ak03q7mal",
+      "content": "<p><span>According to Tim Sweeney, the original ZZT source code was lost in the early 90s: \"[... If] I had it, I'd release it, but I lost it in a crash a long time ago.\"<br><br>But they were all of them deceived, for another backup was made.<br><br>This is an (almost) unaltered copy of the actual ZZT ~3.0 source code - not decompiled, not reverse-engineered, but preserved for its historical value.<br><br>You wouldn't believe me if I told you how many years I spent looking for it, after catching wind of where it might be... For three decades, the ZZT community hoped it would turn up. For two, it thought it was impossible. And yet, here we are.<br><br>I'm really happy to have been able to contribute to the ZZT community's preservation efforts for all these years. Thank you. This is probably my magnum opus.<br><br></span><a href=\"https://github.com/asiekierka/almost-of-zzt\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">https://github.com/asiekierka/almost-of-zzt</a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@RobF",
+        "display_name": "Bobbins"
+      }
+    ]
+  },
+  {
+    "link": "https://gitlab.com/mysocialportal/relatica/-/blob/main/README.md",
+    "title": "https://gitlab.com/mysocialportal/relatica/-/blob/main/README.md",
+    "latest": "2023-01-29T05:16:17+00:00",
+    "last_post": {
+      "url": "https://public.mitra.social/objects/0185fbab-d17e-c9fa-8349-a2bed48c148e",
+      "content": "<p>## Relatica - the new desktop and mobile Fediverse client</p><p>Relatica is a new, refreshing, and promising cross platform <a class=\"hashtag\" href=\"https://public.mitra.social/collections/tags/friendica\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#Friendica</a> client in beta now.</p><p><a class=\"hashtag\" href=\"https://public.mitra.social/collections/tags/relatica\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#Relatica</a> runs on <a class=\"hashtag\" href=\"https://public.mitra.social/collections/tags/android\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#Android</a>, <a class=\"hashtag\" href=\"https://public.mitra.social/collections/tags/linux\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#Linux</a>, <a class=\"hashtag\" href=\"https://public.mitra.social/collections/tags/mac\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#Mac</a>, and <a class=\"hashtag\" href=\"https://public.mitra.social/collections/tags/windows\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#Windows</a>. It also has some welcome and ambitious goals on the roadmap:</p><p>Testers, packagers, and early adopters are wanted for the official beta program.</p><p>Relatica's developer is friendly, accessible, and responsive. The project enjoys an aggressive development cycle and has its own dedicated <a class=\"hashtag\" href=\"https://public.mitra.social/collections/tags/matrix\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#Matrix</a> support channel.</p><p>It's good to see a novel and dedicated effort to deliver a capable <a class=\"hashtag\" href=\"https://public.mitra.social/collections/tags/desktop\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#desktop</a> and mobile client that allows for <a class=\"hashtag\" href=\"https://public.mitra.social/collections/tags/social\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#social</a> engagement without a browser:</p><p><a href=\"https://gitlab.com/mysocialportal/relatica/-/blob/main/README.md\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">https://gitlab.com/mysocialportal/relatica/-/blob/main/README.md</a></p><p>For those here that aren't aware already, Friendica is one of the earliest and yet most modern and feature rich <a class=\"hashtag\" href=\"https://public.mitra.social/collections/tags/fediverse\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#Fediverse</a> platforms, <a class=\"hashtag\" href=\"https://public.mitra.social/collections/tags/internetworking\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#internetworking</a> with other protocols that enables you to do things like directly interface with <a class=\"hashtag\" href=\"https://public.mitra.social/collections/tags/diaspora\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#Diaspora</a> and even the deprecated legacy silo networks too.</p><p><a class=\"hashtag\" href=\"https://public.mitra.social/collections/tags/friendica\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#Friendica</a> has a pluggable addon system and provides direct support for multiple text formats and even direct linking of images in posts.</p><p>There's really just too much to list. If you're wanting a feature complete platform for <a class=\"hashtag\" href=\"https://public.mitra.social/collections/tags/publishing\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#publishing</a>, <a class=\"hashtag\" href=\"https://public.mitra.social/collections/tags/microblogging\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#microblogging</a>, <a class=\"hashtag\" href=\"https://public.mitra.social/collections/tags/news\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#news</a>, <a class=\"hashtag\" href=\"https://public.mitra.social/collections/tags/rss\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#RSS</a>, social engagement and more then Relatica is definitely worth trying out!</p><p>If you're interested in trying out Relatica's ease of use and features then you'll need to have a user account on a Friendica server.</p><p>You can self-host or get yourself a free Friendica account here:</p><p><a href=\"https://Friendi.ca\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">https://Friendi.ca</a></p><p>I hope that helps!</p><p>I can be reached on Matrix at:</p><p>@tallship:matrix.org</p><p>via XMPP at:</p><p>tallship@jabber.org</p><p>and in the Fediverse at:<br>@tallship@public.mitra.social</p><p><a class=\"hashtag\" href=\"https://public.mitra.social/collections/tags/tallship\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#tallship</a> <a class=\"hashtag\" href=\"https://public.mitra.social/collections/tags/foss\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#FOSS</a> <a class=\"hashtag\" href=\"https://public.mitra.social/collections/tags/relatica\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#Relatica</a> <a class=\"hashtag\" href=\"https://public.mitra.social/collections/tags/activitypub\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#ActivityPub</a> You can haz #Cheezburgerz! \ud83c\udf54</p><p>\u26f5</p><p>.</p>"
+    },
+    "people": [
+      {
+        "url": "https://indieweb.social/@tchambers",
+        "display_name": "Tim Chambers"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/Ichimaruu/MOOD",
+    "title": "GitHub - Ichimaruu/MOOD: A game about how you're doing",
+    "latest": "2023-01-29T04:30:39+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@python_discussions/109770613710176919",
+      "content": "<p>Sharing my first text-based python game: MOOD! The game features crafting, pets and housing systems. I'm sure it will still crash here and there since I'm just starting out, but I hope you enjoy it</p><p><a href=\"https://github.com/Ichimaruu/MOOD\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/Ichimaruu/MOOD</span><span class=\"invisible\"></span></a></p><p>Discussions: <a href=\"https://discu.eu/q/https://github.com/Ichimaruu/MOOD\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">discu.eu/q/https://github.com/</span><span class=\"invisible\">Ichimaruu/MOOD</span></a></p><p><a href=\"https://mastodon.social/tags/programming\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>programming</span></a> <a href=\"https://mastodon.social/tags/python\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>python</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@python_discussions",
+        "display_name": "Python Weekly"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/openai/gpt-2-outputdataset",
     "title": "github.com/openai/gpt-2-output...",
     "latest": "2023-01-28T21:25:47+00:00",
@@ -3046,100 +3136,6 @@
       {
         "url": "https://hachyderm.io/@gvdr",
         "display_name": "gvdr :julia_lang:"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/tonybaloney/django-compare-tool/blob/master/analysis.ipynb",
-    "title": "django-compare-tool/analysis.ipynb at master \u00b7 tonybaloney/django-compare-tool",
-    "latest": "2023-01-11T05:25:05+00:00",
-    "last_post": {
-      "url": "https://fosstodon.org/@tonybaloney/109668906110747222",
-      "content": "<p>The last chart I shared on Django performance was skewed by the rounding of locust to miliseconds. I've written a wrapper for locust so I can get distributions down to the nanosecond so the charts are a little less bias to rounding. <a href=\"https://github.com/tonybaloney/django-compare-tool/blob/master/analysis.ipynb\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/tonybaloney/django-</span><span class=\"invisible\">compare-tool/blob/master/analysis.ipynb</span></a> <a href=\"https://fosstodon.org/tags/django\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>django</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://fosstodon.org/@tonybaloney",
-        "display_name": "Anthony Shaw :python:"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/open-duelyst/duelyst",
-    "title": "GitHub - open-duelyst/duelyst: Duelyst is a digital collectible card game and turn-based strategy hybrid, developed by Counterplay Games.",
-    "latest": "2023-01-10T21:20:03+00:00",
-    "last_post": {
-      "url": "https://die-partei.social/@hackernews/109666998891502323",
-      "content": "<p>The source code for Duelyst, a digital collectible card game - <a href=\"https://github.com/open-duelyst/duelyst\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/open-duelyst/duelys</span><span class=\"invisible\">t</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://die-partei.social/@hackernews",
-        "display_name": "Hackernews"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/cboettig/quarto-hugo-material-dashboard/",
-    "title": "GitHub - cboettig/quarto-hugo-material-dashboard: Adapting material-dashboard to Quarto and Hugo",
-    "latest": "2023-01-10T21:10:43+00:00",
-    "last_post": {
-      "url": "https://ecoevo.social/@cboettig/109666958330817210",
-      "content": "<p>Have been enjoying <span class=\"h-card\"><a href=\"https://fosstodon.org/@Posit\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>Posit</span></a></span> <a href=\"https://ecoevo.social/tags/quarto\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>quarto</span></a> but wanting more flexible layout /aesthetics for dashboards etc.</p><p>The hugo output format is great for this -- a bit more manual but much more flexible!</p><p>A sketch using custom elements below.  Draft theme at <a href=\"https://github.com/cboettig/quarto-hugo-material-dashboard/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/cboettig/quarto-hug</span><span class=\"invisible\">o-material-dashboard/</span></a> , feedback or suggestions welcome!</p><p>layout in quarto files uses {bslib} with ggplot/ggiraph charts.</p><p><a href=\"https://ecoevo.social/tags/rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rstats</span></a> <a href=\"https://ecoevo.social/tags/QuartoPub\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>QuartoPub</span></a> <a href=\"https://ecoevo.social/tags/python\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>python</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://fosstodon.org/@nrennie",
-        "display_name": "Nicola Rennie"
-      },
-      {
-        "url": "https://fosstodon.org/@djnavarro",
-        "display_name": "Danielle Navarro"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/mamuso/discussion-to-markdown-action",
-    "title": "GitHub - mamuso/discussion-to-markdown-action: An action for transforming a GitHub Discussion into a markdown output.",
-    "latest": "2023-01-10T20:17:48+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@mamuso/109663370414561484",
-      "content": "<p>I had some fun with GitHub actions + discussions lately:</p><p>- Discussion to markdown: it dumps the contents of a discussion into a workflow summary as markdown \u2013 <a href=\"https://github.com/mamuso/discussion-to-markdown-action\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/mamuso/discussion-t</span><span class=\"invisible\">o-markdown-action</span></a></p><p>- Weekly update: creates a new GitHub discussion weekly. It has the option of posting in advance and sending a reply to the post later in the week as a reminder \u2013 <a href=\"https://github.com/mamuso/weekly-update-action\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/mamuso/weekly-updat</span><span class=\"invisible\">e-action</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://fosstodon.org/@richardvenusfo",
-        "display_name": "Richard"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/mamuso/weekly-update-action",
-    "title": "github.com/mamuso/weekly-updat...",
-    "latest": "2023-01-10T20:17:48+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@mamuso/109663370414561484",
-      "content": "<p>I had some fun with GitHub actions + discussions lately:</p><p>- Discussion to markdown: it dumps the contents of a discussion into a workflow summary as markdown \u2013 <a href=\"https://github.com/mamuso/discussion-to-markdown-action\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/mamuso/discussion-t</span><span class=\"invisible\">o-markdown-action</span></a></p><p>- Weekly update: creates a new GitHub discussion weekly. It has the option of posting in advance and sending a reply to the post later in the week as a reminder \u2013 <a href=\"https://github.com/mamuso/weekly-update-action\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/mamuso/weekly-updat</span><span class=\"invisible\">e-action</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://fosstodon.org/@richardvenusfo",
-        "display_name": "Richard"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/python/peps/pull/2955/files",
-    "title": "PEP 703: Making the Global Interpreter Lock Optional in CPython by colesbury \u00b7 Pull Request #2955 \u00b7 python/peps",
-    "latest": "2023-01-10T09:35:34+00:00",
-    "last_post": {
-      "url": "https://creative.ai/@alexjc/109664228767065016",
-      "content": "<p>Reading <a href=\"https://creative.ai/tags/Python\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Python</span></a>'s PEP703, this is a step in the right direction but the new ABI has the potential to cause fragmentation in the community just like the transition from 2.x 3.x.</p><p>As it stands, this looks like Python 4.x?<br><a href=\"https://github.com/python/peps/pull/2955/files\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/python/peps/pull/29</span><span class=\"invisible\">55/files</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://creative.ai/@alexjc",
-        "display_name": "Alex J. Champandard \u2744\ufe0f"
       }
     ]
   }
