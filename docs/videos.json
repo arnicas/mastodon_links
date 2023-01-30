@@ -1,5 +1,125 @@
 [
   {
+    "link": "https://www.youtube.com/watch?v=UNhlhFUcDDo",
+    "title": "ExPlates: Spatializing Interactive Analysis to Scaffold Visual Exploration",
+    "latest": "2023-01-30T21:57:08+00:00",
+    "last_post": {
+      "url": "https://vis.social/@elm/109780390956838086",
+      "content": "<p>Next comes ExPlates (IEEE EuroVis 2013), where my student Waqas Javed took the idea to its logical extreme: what if interactions were spatialized as new visual elements? Using a web-based visual canvas, users can interact with a data-flow structure merely by interacting with visualizations, which automatically generates new nodes where the interactions (filtering, transformation, visual changes) have been performed. Youtube: <a href=\"https://www.youtube.com/watch?v=UNhlhFUcDDo\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">youtube.com/watch?v=UNhlhFUcDD</span><span class=\"invisible\">o</span></a> PDF: <a href=\"http://users.umiacs.umd.edu/~elm/projects/explates/explates.pdf\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">http://</span><span class=\"ellipsis\">users.umiacs.umd.edu/~elm/proj</span><span class=\"invisible\">ects/explates/explates.pdf</span></a> 6/</p>"
+    },
+    "people": [
+      {
+        "url": "https://vis.social/@elm",
+        "display_name": "Niklas Elmqvist"
+      }
+    ]
+  },
+  {
+    "link": "https://www.youtube.com/watch?v=bu3xEpTVSo8",
+    "title": "Bradley Gawthrop - Show-and-Tell #031",
+    "latest": "2023-01-30T21:56:45+00:00",
+    "last_post": {
+      "url": "https://chaos.social/@attie/109780354109215366",
+      "content": "<p>This week, my guest is <span class=\"h-card\"><a href=\"https://mastodon.social/@talldarknweirdo\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>talldarknweirdo</span></a></span>! I'm looking forward to hearing about Bradley's story to date - come and join us!</p><p><a href=\"https://www.youtube.com/watch?v=bu3xEpTVSo8\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">youtube.com/watch?v=bu3xEpTVSo</span><span class=\"invisible\">8</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://macaw.social/@andypiper",
+        "display_name": "Andy Piper"
+      }
+    ]
+  },
+  {
+    "link": "https://youtu.be/Ki92zYgiUNo",
+    "title": "https://youtu.be/Ki92zYgiUNo",
+    "latest": "2023-01-30T21:54:01+00:00",
+    "last_post": {
+      "url": "https://vis.social/@elm/109780378652290550",
+      "content": "<p>Our work on Hugin (IEEE ITS 2010) drew inspiration from LARK (2009) to create a visual data-flow pipeline on touch-based tabletops. The key contribution here was to enable mixed-presence collaboration for visual analysis on tabletops where some collaborators were co-located and some were distributed. Accordingly, Hugin (the name of one of Odin's ravens) have support for access control on the level of individual visual elements. Youtube: <a href=\"https://youtu.be/Ki92zYgiUNo\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">youtu.be/Ki92zYgiUNo</span><span class=\"invisible\"></span></a> PDF: <a href=\"http://users.umiacs.umd.edu/~elm/projects/hugin/hugin.pdf\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">http://</span><span class=\"ellipsis\">users.umiacs.umd.edu/~elm/proj</span><span class=\"invisible\">ects/hugin/hugin.pdf</span></a> 5/</p>"
+    },
+    "people": [
+      {
+        "url": "https://vis.social/@elm",
+        "display_name": "Niklas Elmqvist"
+      }
+    ]
+  },
+  {
+    "link": "https://youtu.be/eQ2p5hN11KQ",
+    "title": "https://youtu.be/eQ2p5hN11KQ",
+    "latest": "2023-01-30T21:53:05+00:00",
+    "last_post": {
+      "url": "https://vis.social/@elm/109780375021746043",
+      "content": "<p>In an IEEE InfoVis 2009 paper on the use of GPUs for image-space visualization, we presented a visual programming model using a data-flow metaphor to enable a user to build an image-space pixel shader (in GLSL) entirely using drag-and-drop visual elements. (Please forgive the crappy interface, this is Java Swing and Piccolo2D in all its glory!) Youtube: <a href=\"https://youtu.be/eQ2p5hN11KQ\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">youtu.be/eQ2p5hN11KQ</span><span class=\"invisible\"></span></a> PDF: <a href=\"http://users.umiacs.umd.edu/~elm/projects/gpuvis/gpuvis.pdf\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">http://</span><span class=\"ellipsis\">users.umiacs.umd.edu/~elm/proj</span><span class=\"invisible\">ects/gpuvis/gpuvis.pdf</span></a> 4/</p>"
+    },
+    "people": [
+      {
+        "url": "https://vis.social/@elm",
+        "display_name": "Niklas Elmqvist"
+      }
+    ]
+  },
+  {
+    "link": "https://youtu.be/FO2MsmtWX_4",
+    "title": "https://youtu.be/FO2MsmtWX_4",
+    "latest": "2023-01-30T21:51:23+00:00",
+    "last_post": {
+      "url": "https://vis.social/@elm/109780368304086227",
+      "content": "<p>Since this is one of my favorite data analytics models, I have a couple of papers here. First is DataMeadow (VAST 2007), where we used the concept of \"data roses\" (polar area charts) with axis filtering where multiple roses can be combined using set operations and displayed with specialized chart probes. I find this visual drag-and-drop interaction particularly powerful because the user is progressively authoring the query. Youtube: <a href=\"https://youtu.be/FO2MsmtWX_4\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">youtu.be/FO2MsmtWX_4</span><span class=\"invisible\"></span></a> PDF: <a href=\"http://users.umiacs.umd.edu/~elm/projects/datameadow/datameadow.pdf\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">http://</span><span class=\"ellipsis\">users.umiacs.umd.edu/~elm/proj</span><span class=\"invisible\">ects/datameadow/datameadow.pdf</span></a> 3/</p>"
+    },
+    "people": [
+      {
+        "url": "https://vis.social/@elm",
+        "display_name": "Niklas Elmqvist"
+      }
+    ]
+  },
+  {
+    "link": "https://youtu.be/AIZf1lWGt8o",
+    "title": "https://youtu.be/AIZf1lWGt8o",
+    "latest": "2023-01-30T21:06:43+00:00",
+    "last_post": {
+      "url": "https://hci.social/@hoffman/109779344403287141",
+      "content": "<p>Journalists often ask me to define \"robot\" or \"AI\". </p><p>I argue that there is \"robot\"/\"AI\" the *technology* and \"robot\"/\"AI\" the *fantasy*. Both are important factors in how these concepts affect human society. </p><p>Hear more about this distinction in my conversation with <span class=\"h-card\"><a href=\"https://mastodon.social/@Katecrawford\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>Katecrawford</span></a></span> and Amelie Klein<br><a href=\"https://youtu.be/AIZf1lWGt8o\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">youtu.be/AIZf1lWGt8o</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://hci.social/@andresmh",
+        "display_name": "Andr\u00e9s Monroy-Hern\u00e1ndez"
+      }
+    ]
+  },
+  {
+    "link": "https://youtu.be/vvr9AMWEU-c",
+    "title": "https://youtu.be/vvr9AMWEU-c",
+    "latest": "2023-01-30T20:10:15+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@neave/109779032239354958",
+      "content": "<p>The sound of dial-up Internet. So much nostalgia \ud83e\udd70 <a href=\"https://youtu.be/vvr9AMWEU-c\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">youtu.be/vvr9AMWEU-c</span><span class=\"invisible\"></span></a> <a href=\"https://mastodon.social/tags/DataVis\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DataVis</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://indieweb.social/@alwirtes",
+        "display_name": "Al Wirtes"
+      }
+    ]
+  },
+  {
+    "link": "https://www.youtube.com/watch?v=lVIGhYMwRgs",
+    "title": "Riker sits down",
+    "latest": "2023-01-30T19:57:09+00:00",
+    "last_post": {
+      "url": "https://nerdculture.de/@rlmcelreath/109779919152934012",
+      "content": "<p>riker | r\u028c\u026ak\u0259 |<br>verb [with object]<br>to sit in a chair by lifting a leg and vaulting over the back of it: He entered the room and rikered the first empty seat. <a href=\"https://www.youtube.com/watch?v=lVIGhYMwRgs\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">youtube.com/watch?v=lVIGhYMwRg</span><span class=\"invisible\">s</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://nerdculture.de/@rlmcelreath",
+        "display_name": "Richard McElreath \ud83e\udd94"
+      }
+    ]
+  },
+  {
     "link": "https://youtu.be/0vmxsYCJBfo",
     "title": "https://youtu.be/0vmxsYCJBfo",
     "latest": "2023-01-30T09:05:42+00:00",
@@ -2916,126 +3036,6 @@
       {
         "url": "https://mastodon.social/@micron",
         "display_name": "Martin M\u00fchlh\u00e4user"
-      }
-    ]
-  },
-  {
-    "link": "https://www.youtube.com/watch?v=oxHnRfhDmrk",
-    "title": "Don McLean - Vincent ( Starry, Starry Night) With Lyrics",
-    "latest": "2023-01-10T08:33:29+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@micron/109663984650617048",
-      "content": "<p><a href=\"https://mastodon.social/tags/MusicTuesday\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>MusicTuesday</span></a> <br>- Songs for when you're down.</p><p>Don McLean - Vincent</p><p><a href=\"https://www.youtube.com/watch?v=oxHnRfhDmrk\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">youtube.com/watch?v=oxHnRfhDmr</span><span class=\"invisible\">k</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@micron",
-        "display_name": "Martin M\u00fchlh\u00e4user"
-      }
-    ]
-  },
-  {
-    "link": "https://www.youtube.com/watch?v=LXzWmRjGiLg",
-    "title": "The Sandman - Behind The Scenes | Audible UK",
-    "latest": "2023-01-10T08:22:58+00:00",
-    "last_post": {
-      "url": "https://det.social/@DottoreWho/109660153316497897",
-      "content": "<p>The amount of work and talent that went into Audible's audio adaptation of Neil Gaiman's The Sandman is  staggering and leaves me constantly speechless. The voice talent alone (Kat Dennings, James McAvoy, Samantha Morton, Michael Sheen, Andy Serkis, Riz Ahmed, Reg\u00e9-Jean Page, David Tennant, Bill Nighy, John Lithgow, ...) is out of this world. And having <span class=\"h-card\"><a href=\"https://mastodon.social/@neilhimself\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>neilhimself</span></a></span> as the narrator is a treat on top. </p><p><a href=\"https://www.youtube.com/watch?v=LXzWmRjGiLg\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">youtube.com/watch?v=LXzWmRjGiL</span><span class=\"invisible\">g</span></a></p><p>(all three Acts also available on CD now)<br><a href=\"https://det.social/tags/TheSandman\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>TheSandman</span></a> <a href=\"https://det.social/tags/NeilGaiman\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>NeilGaiman</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@neilhimself",
-        "display_name": "Neil Gaiman"
-      }
-    ]
-  },
-  {
-    "link": "https://www.youtube.com/@JamesDavenport",
-    "title": "https://www.youtube.com/@JamesDavenport",
-    "latest": "2023-01-10T08:19:45+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@jradavenport/109663930641040396",
-      "content": "<p>OK, got my <a href=\"https://mastodon.social/tags/aas241\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>aas241</span></a> vlog for today edited before midnight. Uploading and going to bed, check it out in the morning!!</p><p><a href=\"https://www.youtube.com/@JamesDavenport\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">youtube.com/@JamesDavenport</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@jradavenport",
-        "display_name": "James Davenport \ud83d\udd2d\u2615\ufe0f"
-      }
-    ]
-  },
-  {
-    "link": "https://www.youtube.com/watch?v=GWYTDd9t_u4&amp;utm_source=stephaniewalter.design&amp;utm_medium=weeklylinks",
-    "title": "youtube.com/watch?v=GWYTDd9t_u...",
-    "latest": "2023-01-10T08:04:09+00:00",
-    "last_post": {
-      "url": "https://front-end.social/@stephaniewalter/109663869284754474",
-      "content": "<p><a href=\"https://front-end.social/tags/Game\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Game</span></a><br>Introducing Project Leonardo, a more accessible very customizable PlayStation 5 controller for gamers with disabilities<br>Article: <a href=\"https://newatlas.com/games/playstation5-project-leonardo-accessibility-customizable-controller/?utm_source=stephaniewalter.design&amp;utm_medium=weeklylinks\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">newatlas.com/games/playstation</span><span class=\"invisible\">5-project-leonardo-accessibility-customizable-controller/?utm_source=stephaniewalter.design&amp;utm_medium=weeklylinks</span></a>  <a href=\"https://www.youtube.com/watch?v=GWYTDd9t_u4&amp;utm_source=stephaniewalter.design&amp;utm_medium=weeklylinks\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">youtube.com/watch?v=GWYTDd9t_u</span><span class=\"invisible\">4&amp;utm_source=stephaniewalter.design&amp;utm_medium=weeklylinks</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://front-end.social/@stephaniewalter",
-        "display_name": "Stef Walter"
-      }
-    ]
-  },
-  {
-    "link": "https://www.youtube.com/watch?v=bMmxVCCQsTA",
-    "title": "Run or die: Russia will hold new waves of mobilisation and anyone can be recruited",
-    "latest": "2023-01-10T05:20:15+00:00",
-    "last_post": {
-      "url": "https://osintua.eu/@benb/109661493900968719",
-      "content": "<p>Run or die: Russia will hold new waves of mobilisation and anyone can be recruited</p><p>\ud83d\udcbe<br>At least half a million more people are planned to be mobilised in Russia. This information was announced in the Main Directorate of Intelligence of the Ministry of Defence of Ukraine. According to the agency, a new wave of mobilisation in Russia will be announced in the near future, after the end of the winter  <a href=\"https://www.youtube.com/watch?v=bMmxVCCQsTA\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">youtube.com/watch?v=bMmxVCCQsT</span><span class=\"invisible\">A</span></a> source : UATV English <a href=\"https://osintua.eu/tags/Ukraine\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Ukraine</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.online/@statstas",
-        "display_name": "Stas Kolenikov"
-      }
-    ]
-  },
-  {
-    "link": "https://www.youtube.com/watch?v=gcFQf49h0VQ",
-    "title": "Do you really want a Clone? Computer commercial",
-    "latest": "2023-01-09T21:48:47+00:00",
-    "last_post": {
-      "url": "https://dialup.cafe/@vga256/109661425325841330",
-      "content": "<p>1 minute of your life <a href=\"https://dialup.cafe/tags/canada\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>canada</span></a> can never give back</p><p><a href=\"https://www.youtube.com/watch?v=gcFQf49h0VQ\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">youtube.com/watch?v=gcFQf49h0V</span><span class=\"invisible\">Q</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://toot.cafe/@JesseSkinner",
-        "display_name": "Jesse Skinner :javascript:"
-      }
-    ]
-  },
-  {
-    "link": "https://youtu.be/bIJuIN6kUcU",
-    "title": "https://youtu.be/bIJuIN6kUcU",
-    "latest": "2023-01-09T21:33:34+00:00",
-    "last_post": {
-      "url": "https://sigmoid.social/@ceperez/109661389758490549",
-      "content": "<p>RT @vervaeke_john@twitter.com</p><p>Episode 1 of After Socrates is now live!</p><p><a href=\"https://youtu.be/bIJuIN6kUcU\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">youtu.be/bIJuIN6kUcU</span><span class=\"invisible\"></span></a></p><p>\ud83d\udc26\ud83d\udd17: <a href=\"https://twitter.com/vervaeke_john/status/1612561865611137027\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">twitter.com/vervaeke_john/stat</span><span class=\"invisible\">us/1612561865611137027</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://sigmoid.social/@ceperez",
-        "display_name": "Carlos E. Perez @IntuitMachine"
-      }
-    ]
-  },
-  {
-    "link": "https://www.youtube.com/watch?v=5Co18HcyqHk",
-    "title": "Start Me Up Livestream | Virgin Orbit",
-    "latest": "2023-01-09T21:24:34+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@aallan/109661354335289780",
-      "content": "<p>The live stream for tonight's <a href=\"https://mastodon.social/tags/VirginOrbit\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>VirginOrbit</span></a> launch attempt has started, <a href=\"https://www.youtube.com/watch?v=5Co18HcyqHk\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">youtube.com/watch?v=5Co18HcyqH</span><span class=\"invisible\">k</span></a>. Take off time for <a href=\"https://mastodon.social/tags/CosmicGirl\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CosmicGirl</span></a> is 21:45. With the drop and launch of <a href=\"https://mastodon.social/tags/LauncherOne\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>LauncherOne</span></a> at  22:54 GMT (17:54 EST).</p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@aallan",
-        "display_name": "Alasdair Allan"
       }
     ]
   }

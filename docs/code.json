@@ -1,5 +1,69 @@
 [
   {
+    "link": "https://codeberg.org/TomLarrow/creative-coding-experiments/src/branch/main/x_0052",
+    "title": "creative-coding-experiments",
+    "latest": "2023-01-30T21:58:39+00:00",
+    "last_post": {
+      "url": "https://vis.social/@TomLarrow/109780396878836336",
+      "content": "<p>Today's <a href=\"https://vis.social/tags/CreativeCoding\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CreativeCoding</span></a> was really more just trying to get past my own mental block regarding hexagon tiling.</p><p>I've probably started making something that needed hex tiling at least a dozen times, and always walked away like I was trying to procrastinate or avoid it.</p><p>Also fought some OpenGL threading issues that I should have faced earlier, and don't know why those sketches didn't have issues \u00af\\_(\u30c4)_/\u00af But I know how to get by it in the future</p><p>Code: <a href=\"https://codeberg.org/TomLarrow/creative-coding-experiments/src/branch/main/x_0052\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">codeberg.org/TomLarrow/creativ</span><span class=\"invisible\">e-coding-experiments/src/branch/main/x_0052</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://vis.social/@TomLarrow",
+        "display_name": "Tom Larrow"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/simonw/datasette/blob/0b4a28691468b5c758df74fa1d72a823813c96bf/datasette/static/app.css#L719-L757",
+    "title": "datasette/app.css at 0b4a28691468b5c758df74fa1d72a823813c96bf \u00b7 simonw/datasette",
+    "latest": "2023-01-30T21:16:10+00:00",
+    "last_post": {
+      "url": "https://fedi.simonwillison.net/@simon/109780229830400264",
+      "content": "<p><span class=\"h-card\"><a href=\"https://omfg.town/@dansinker\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>dansinker</span></a></span> Those only work for individual properties though, right? I have a whole block of stuff I want to apply - it's basically this bit: <a href=\"https://github.com/simonw/datasette/blob/0b4a28691468b5c758df74fa1d72a823813c96bf/datasette/static/app.css#L719-L757\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/simonw/datasette/bl</span><span class=\"invisible\">ob/0b4a28691468b5c758df74fa1d72a823813c96bf/datasette/static/app.css#L719-L757</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fedi.simonwillison.net/@simon",
+        "display_name": "Simon Willison"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/joeycastillo/The-Open-Book/tree/reboot",
+    "title": "GitHub - joeycastillo/The-Open-Book at reboot",
+    "latest": "2023-01-30T20:47:52+00:00",
+    "last_post": {
+      "url": "https://merveilles.town/@cathos/109779428515423145",
+      "content": "<p>Finished building my first [Open Book](<a href=\"https://github.com/joeycastillo/The-Open-Book/tree/reboot\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/joeycastillo/The-Op</span><span class=\"invisible\">en-Book/tree/reboot</span></a>) <a href=\"https://merveilles.town/tags/oshw\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>oshw</span></a> <a href=\"https://merveilles.town/tags/ebook\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ebook</span></a> <a href=\"https://merveilles.town/tags/theWorkshop\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>theWorkshop</span></a> <a href=\"https://merveilles.town/tags/openbook\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>openbook</span></a> <a href=\"https://merveilles.town/tags/oddlyspecificobjects\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>oddlyspecificobjects</span></a> <a href=\"https://merveilles.town/tags/soldering\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>soldering</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://vis.social/@Ttso",
+        "display_name": "Tuija Sonkkila"
+      },
+      {
+        "url": "https://mastodon.social/@ojala",
+        "display_name": "Luis Apiolaza"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/facebookresearch/tart",
+    "title": "github.com/facebookresearch/ta...",
+    "latest": "2023-01-30T20:00:05+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@ceperez/109779930648547001",
+      "content": "<p>An innteresting new large LLM tuned to spit out a search engine query in response to a question.</p><p>RT @AkariAsai@twitter.com</p><p>@_lewtun@twitter.com @AiEleuther@twitter.com We have instruction-tuned LMs that learn to retrieve *documents* following users' instructions (e.g., retrieve corresponding code/an answer to a technical question) </p><p><a href=\"https://huggingface.co/facebook/tart-full-flan-t5-xl\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">huggingface.co/facebook/tart-f</span><span class=\"invisible\">ull-flan-t5-xl</span></a><br><a href=\"https://huggingface.co/facebook/tart-full-t0-3b\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">huggingface.co/facebook/tart-f</span><span class=\"invisible\">ull-t0-3b</span></a></p><p>paper: <a href=\"https://arxiv.org/abs/2211.09260\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2211.09260</span><span class=\"invisible\"></span></a> <br>GitHub: <a href=\"https://github.com/facebookresearch/tart\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/facebookresearch/ta</span><span class=\"invisible\">rt</span></a></p><p>\ud83d\udc26\ud83d\udd17: <a href=\"https://twitter.com/AkariAsai/status/1620115280268783616\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">twitter.com/AkariAsai/status/1</span><span class=\"invisible\">620115280268783616</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@ceperez",
+        "display_name": "Carlos E. Perez @IntuitMachine"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/Matthias84/awesome-flying-fpv",
     "title": "GitHub - Matthias84/awesome-flying-fpv: curated list of Free software and hardware to build remote controlled copters and planes",
     "latest": "2023-01-30T09:25:55+00:00",
@@ -3068,66 +3132,6 @@
       {
         "url": "https://social.luca.run/@luca",
         "display_name": "Luca \ud83d\udd28"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/deepshamenghani/tidytuesday/tree/master/2023/Week2_birdfeeder",
-    "title": "tidytuesday/2023/Week2_birdfeeder at master \u00b7 deepshamenghani/tidytuesday",
-    "latest": "2023-01-11T21:37:09+00:00",
-    "last_post": {
-      "url": "https://fosstodon.org/@deepsha/109671254630899305",
-      "content": "<p>This week's <a href=\"https://fosstodon.org/tags/TidyTuesday\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>TidyTuesday</span></a> data is from FeederWatch, a citizen science program that asks participants to identify and count the birds that visit the area around their home. </p><p>code: <a href=\"https://github.com/deepshamenghani/tidytuesday/tree/master/2023/Week2_birdfeeder\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/deepshamenghani/tid</span><span class=\"invisible\">ytuesday/tree/master/2023/Week2_birdfeeder</span></a></p><p><a href=\"https://fosstodon.org/tags/RStats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>RStats</span></a> <a href=\"https://fosstodon.org/tags/DataViz\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DataViz</span></a> <a href=\"https://fosstodon.org/tags/R4DS\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>R4DS</span></a> <a href=\"https://fosstodon.org/tags/RSpatial\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>RSpatial</span></a> <a href=\"https://fosstodon.org/tags/Plotly\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Plotly</span></a> <a href=\"https://fosstodon.org/tags/MapPromptMonday\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>MapPromptMonday</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://vis.social/@miskaknapek",
-        "display_name": "miska knapek"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/Denis-Vannier/colleges_mediacites_lille",
-    "title": "GitHub - Denis-Vannier/colleges_mediacites_lille: Profils sociaux des secteurs de coll\u00e8ge de la m\u00e9tropole de Lille",
-    "latest": "2023-01-11T21:30:52+00:00",
-    "last_post": {
-      "url": "https://piaille.fr/@denisvannier/109672703746988281",
-      "content": "<p>Et si la m\u00e9thode utilis\u00e9e, le script python et les donn\u00e9es d\u00e9taill\u00e9es vous int\u00e9ressent, tout est consultable sur Github : <a href=\"https://github.com/Denis-Vannier/colleges_mediacites_lille\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/Denis-Vannier/colle</span><span class=\"invisible\">ges_mediacites_lille</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://piaille.fr/@denisvannier",
-        "display_name": "Denis Vannier"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/anitagraser/TimeManager",
-    "title": "GitHub - anitagraser/TimeManager: QGIS Time Manager plugin",
-    "latest": "2023-01-11T21:24:11+00:00",
-    "last_post": {
-      "url": "https://fosstodon.org/@underdarkGIS/109672677473485879",
-      "content": "<p><span class=\"h-card\"><a href=\"https://norden.social/@cartocalypse\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>cartocalypse</span></a></span> <span class=\"h-card\"><a href=\"https://social.sciences.re/@NRoelandt\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>NRoelandt</span></a></span> <span class=\"h-card\"><a href=\"https://fosstodon.org/@qgis\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>qgis</span></a></span> I think it hasn't been necessary for a long time. <br>Timemanager loads png images for buttons directly:<br><a href=\"https://github.com/anitagraser/TimeManager\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/anitagraser/TimeMan</span><span class=\"invisible\">ager</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://fosstodon.org/@underdarkGIS",
-        "display_name": "Anita Graser \ud83c\uddea\ud83c\uddfa\ud83c\uddfa\ud83c\udde6"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/THUDM/GLM-130B",
-    "title": "GitHub - THUDM/GLM-130B: GLM-130B: An Open Bilingual Pre-Trained Model",
-    "latest": "2023-01-11T21:10:29+00:00",
-    "last_post": {
-      "url": "https://creative.ai/@alexjc/109672623570496518",
-      "content": "<p>RT @alexjc@twitter.com</p><p>@_nateraw@twitter.com @huggingface@twitter.com Make it easy &amp; automatic to run large models on consumer GPU hardware using the best applicable techniques: quantization, weight offloading.</p><p>If you have 2 GPUS, we'll use them with offloading!  If you have 4 GPUs, just quantization, etc.</p><p><a href=\"https://github.com/THUDM/GLM-130B\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/THUDM/GLM-130B</span><span class=\"invisible\"></span></a></p><p>\ud83d\udc26\ud83d\udd17: <a href=\"https://twitter.com/alexjc/status/1612023080108400641\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">twitter.com/alexjc/status/1612</span><span class=\"invisible\">023080108400641</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://creative.ai/@alexjc",
-        "display_name": "Alex J. Champandard \u2744\ufe0f"
       }
     ]
   }
