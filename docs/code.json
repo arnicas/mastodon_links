@@ -1,5 +1,84 @@
 [
   {
+    "link": "https://gist.github.com/Bleuje/cd2de169127d5674454b0ebed35abe26",
+    "title": "cliffordTorus_v1.pde",
+    "latest": "2023-01-31T21:43:53+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@bleuje/109786001170992202",
+      "content": "<p>Processing source code : <a href=\"https://gist.github.com/Bleuje/cd2de169127d5674454b0ebed35abe26\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gist.github.com/Bleuje/cd2de16</span><span class=\"invisible\">9127d5674454b0ebed35abe26</span></a></p><p>inspired by this shader by <span class=\"h-card\"><a href=\"https://mastodon.gamedev.place/@tdhooper\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>tdhooper</span></a></span> : <a href=\"https://www.shadertoy.com/view/wsfGDS\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">shadertoy.com/view/wsfGDS</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@bleuje",
+        "display_name": "Etienne Jacob"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/orgs/pyOpenSci/projects/3/views/1?utm_source=dlvr.it&amp;utm_medium=mastodon",
+    "title": "Help Wanted - these are things That pyopensci could use help with. \u2022 pyOpenSci",
+    "latest": "2023-01-31T21:25:20+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@pyOpenSci/109785903657957526",
+      "content": "<p>If you are interested in helping pyOpenSci as we grow our python software peer review process - there are a few issues open that we could use help with. check out our help-wanted board for more!</p><p><a href=\"https://github.com/orgs/pyOpenSci/projects/3/views/1?utm_source=dlvr.it&amp;utm_medium=mastodon\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/orgs/pyOpenSci/proj</span><span class=\"invisible\">ects/3/views/1?utm_source=dlvr.it&amp;utm_medium=mastodon</span></a> <br><a href=\"https://fosstodon.org/tags/openscience\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>openscience</span></a> <a href=\"https://fosstodon.org/tags/opensource\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>opensource</span></a> <a href=\"https://fosstodon.org/tags/python\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>python</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://hci.social/@bkeegan",
+        "display_name": "Brian C. Keegan"
+      },
+      {
+        "url": "https://mastodon.social/@sgillies",
+        "display_name": "Sean Gillies"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/mattdesl/point-in-triangle",
+    "title": "GitHub - mattdesl/point-in-triangle: returns true if a 2D point is inside a triangle",
+    "latest": "2023-01-31T20:44:51.004000+00:00",
+    "last_post": {
+      "url": "https://cornerof.world/objects/99557f85-7161-49e4-b6b9-e61102896983",
+      "content": "RE <span class=\"h-card\"><a class=\"u-url mention\" href=\"https://cornerof.world/users/mattdesl\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>mattdesl</span></a></span>: This 8-year old module is peak authoring style IMHO:\n<a href=\"https://github.com/mattdesl/point-in-triangle\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">https://github.com/mattdesl/point-in-triangle</a>\n\nno bundler-du-jour, zero config, works across ESM + CJS, old and new tools can take advantage of this code. re-authoring as ESM would likely break upstream deps and has no clear benefit.\n\n<a href=\"https://twitter.com/mattdesl/status/1620509415404371968\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">2023-01-31 19:48:46 UTC</a>"
+    },
+    "people": [
+      {
+        "url": "https://cornerof.world/users/mattdesl",
+        "display_name": "Matt DesLauriers"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/mattdesl/raf-loop",
+    "title": "GitHub - mattdesl/raf-loop: a minimal requestAnimationFrame render loop",
+    "latest": "2023-01-31T20:44:49.672000+00:00",
+    "last_post": {
+      "url": "https://cornerof.world/objects/5395b1d6-5c28-4fce-86e2-6fc058ec97e2",
+      "content": "RE @mxdvl: yep\u2014still a lot of configuration &amp; bloat. compare with this 8-year old module authoring workflow, that still works well today across CJS require + ESM imports:\n\n<a href=\"https://github.com/mattdesl/raf-loop\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">https://github.com/mattdesl/raf-loop</a>\n\n<a href=\"https://twitter.com/mattdesl/status/1620501655535095809\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">2023-01-31 19:17:56 UTC</a>"
+    },
+    "people": [
+      {
+        "url": "https://cornerof.world/users/mattdesl",
+        "display_name": "Matt DesLauriers"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/memory-hunter/cH80s",
+    "title": "GitHub - memory-hunter/cH80s: Simply another CHIP-8 emulator",
+    "latest": "2023-01-31T20:30:44+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@compsci_discussions/109785713532570985",
+      "content": "<p>Finally, completed CHIP-8 in C++ with sound generation</p><p><a href=\"https://github.com/memory-hunter/cH80s\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/memory-hunter/cH80s</span><span class=\"invisible\"></span></a></p><p>Discussions: <a href=\"https://discu.eu/q/https://github.com/memory-hunter/cH80s\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">discu.eu/q/https://github.com/</span><span class=\"invisible\">memory-hunter/cH80s</span></a></p><p><a href=\"https://mastodon.social/tags/compsci\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>compsci</span></a> <a href=\"https://mastodon.social/tags/cpp\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>cpp</span></a> <a href=\"https://mastodon.social/tags/emudev\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>emudev</span></a> <a href=\"https://mastodon.social/tags/programming\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>programming</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@compsci_discussions",
+        "display_name": "Compsci Weekly"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/nrennie/tidytuesday/tree/main/2023/2023-01-31",
     "title": "tidytuesday/2023/2023-01-31 at main \u00b7 nrennie/tidytuesday",
     "latest": "2023-01-31T09:52:22+00:00",
@@ -3037,101 +3116,6 @@
       {
         "url": "https://sigmoid.social/@twc",
         "display_name": "twc"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/elk-zone/elk",
-    "title": "https://github.com/elk-zone/elk",
-    "latest": "2023-01-13T06:07:57+00:00",
-    "last_post": {
-      "url": "https://sigmoid.social/@f/109680399299936841",
-      "content": "<p>Been working on a SwiftUI Fediverse client (as one does) in my spare time, but I don't like how it is going. It's very janky and has a few issues ... </p><p>Might have to go back to the pure JavaScript one, or take a look at running Elk (<a href=\"https://github.com/elk-zone/elk\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/elk-zone/elk</span><span class=\"invisible\"></span></a>) locally ... Decisions, decisions \ud83d\ude1b</p>"
-    },
-    "people": [
-      {
-        "url": "https://indieweb.social/@tchambers",
-        "display_name": "Tim Chambers"
-      },
-      {
-        "url": "https://tech.lgbt/@_dmh",
-        "display_name": "Dave Howcroft \ud83e\udd94"
-      },
-      {
-        "url": "https://macaw.social/@andypiper",
-        "display_name": "Andy Piper"
-      },
-      {
-        "url": "https://sigmoid.social/@f",
-        "display_name": "Fahim Farook"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/ajnafa/project-template",
-    "title": "GitHub - ajnafa/project-template: Skeleton Structure for New Projects",
-    "latest": "2023-01-13T05:54:56+00:00",
-    "last_post": {
-      "url": "https://bayes.club/@ajordannafa/109680275879465921",
-      "content": "<p>So I pushed a bunch of major updates to my Quarto project template today. I designed it as a skeleton in an attempt to automate my OCD about file structures. Has my manuscript templates for LaTeX, Word, and HTML + example documents. Code here <a href=\"https://github.com/ajnafa/project-template\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/ajnafa/project-temp</span><span class=\"invisible\">late</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@JoranJongerling",
-        "display_name": "Joran"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/assemblee-virtuelle/activitypods",
-    "title": "GitHub - assemblee-virtuelle/activitypods: ActivityPub + Solid PODS = \u2764\ufe0f",
-    "latest": "2023-01-13T05:08:33+00:00",
-    "last_post": {
-      "url": "https://social.technoetic.com/@steve/109669537226518676",
-      "content": "<p><span class=\"h-card\"><a href=\"https://social.treehouse.systems/@deadsuperhero\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>deadsuperhero</span></a></span> The ActivityPods project might be interesting in this context.</p><p>\"A new kind of architecture which makes use of two important standards: (1) PODs (Personal Online Datastore), the masterpiece of the Solid project led by Tim Berners-Lee (2) <a href=\"https://social.technoetic.com/tags/ActivityPub\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ActivityPub</span></a>, which enables communication between the PODs through a shared vocabulary.\"</p><p><a href=\"https://github.com/assemblee-virtuelle/activitypods\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/assemblee-virtuelle</span><span class=\"invisible\">/activitypods</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://social.coop/@nicol",
-        "display_name": "Nicol Wistreich"
-      },
-      {
-        "url": "https://indieweb.social/@tchambers",
-        "display_name": "Tim Chambers"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/cloudflare/wildebeest/",
-    "title": "GitHub - cloudflare/wildebeest: Wildebeest is an ActivityPub and Mastodon-compatible server",
-    "latest": "2023-01-13T05:04:51+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@joschi/109676483166973603",
-      "content": "<p>Wildebeest: <a href=\"https://github.com/cloudflare/wildebeest/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/cloudflare/wildebee</span><span class=\"invisible\">st/</span></a></p><p><a href=\"https://mastodon.social/tags/Cloudflare\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Cloudflare</span></a> created an <a href=\"https://mastodon.social/tags/ActivityPub\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ActivityPub</span></a>/#Mastodon-compatible server running on their platform. Some people cry wolf but I think it's interesting as a tech demo of what's possible on their platform.</p><p>Now waiting for <a href=\"https://mastodon.social/tags/AWS\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AWS</span></a> to follow suit. \ud83d\ude09</p><p>People on the <a href=\"https://mastodon.social/tags/Fediverse\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Fediverse</span></a> are concerned this could mean an \"Embrace, extend, and extinguish\" (EEE) move on their side, but I see a reduced risk in this if _a lot of big players_ are joining and keep up the competition. \ud83d\ude09</p>"
-    },
-    "people": [
-      {
-        "url": "https://friend.camp/@darius",
-        "display_name": "Darius Kazemi"
-      },
-      {
-        "url": "https://indieweb.social/@tchambers",
-        "display_name": "Tim Chambers"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/cloudflare/circl",
-    "title": "GitHub - cloudflare/circl: CIRCL: Cloudflare Interoperable Reusable Cryptographic Library",
-    "latest": "2023-01-12T20:20:03+00:00",
-    "last_post": {
-      "url": "https://die-partei.social/@hackernews/109678087577273554",
-      "content": "<p>Circl: Cloudflare Interoperable Reusable Cryptographic Library - <a href=\"https://github.com/cloudflare/circl\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/cloudflare/circl</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://die-partei.social/@hackernews",
-        "display_name": "Hackernews"
       }
     ]
   }
