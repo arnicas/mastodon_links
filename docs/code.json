@@ -1,5 +1,144 @@
 [
   {
+    "link": "https://github.com/nrennie/tidytuesday/tree/main/2023/2023-01-31",
+    "title": "tidytuesday/2023/2023-01-31 at main \u00b7 nrennie/tidytuesday",
+    "latest": "2023-01-31T09:52:22+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@nrennie/109783203330602723",
+      "content": "<p>Looking at cat's for <a href=\"https://fosstodon.org/tags/TidyTuesday\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>TidyTuesday</span></a> this week! I spent time working on annotations - with some help from <span class=\"h-card\"><a href=\"https://fosstodon.org/@cararthompson\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>cararthompson</span></a></span>'s excellent \"Level Up Your Labels\" talk from useR last year!</p><p>PS. Magic is an exceptionally fast cat! \ud83d\udc08</p><p>Code: <a href=\"https://github.com/nrennie/tidytuesday/tree/main/2023/2023-01-31\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/nrennie/tidytuesday</span><span class=\"invisible\">/tree/main/2023/2023-01-31</span></a></p><p>Cara's talk materials: <a href=\"https://www.cararthompson.com/talks/user2022/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">cararthompson.com/talks/user20</span><span class=\"invisible\">22/</span></a></p><p><a href=\"https://fosstodon.org/tags/RStats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>RStats</span></a> <a href=\"https://fosstodon.org/tags/R4DS\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>R4DS</span></a> <a href=\"https://fosstodon.org/tags/DataViz\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DataViz</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fosstodon.org/@nrennie",
+        "display_name": "Nicola Rennie"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/salesforce/LAVIS",
+    "title": "https://github.com/salesforce/LAVIS",
+    "latest": "2023-01-31T09:31:04+00:00",
+    "last_post": {
+      "url": "https://creative.ai/@alexjc/109783119609775103",
+      "content": "<p>RT @mrdbourke@twitter.com</p><p>2022: text-to-image models \ud83d\udcc8</p><p>2023: let\u2019s reverse it \ud83d\udd04</p><p>BLIP-2 introduces image-to-text!</p><p>Combine vision encoder (eg ViT) &amp; bring your own language model (eg FlanT5) to converse with the image!</p><p>Paper: <a href=\"https://arxiv.org/abs/2301.12597\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2301.12597</span><span class=\"invisible\"></span></a><br>Code: <a href=\"https://github.com/salesforce/LAVIS\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/salesforce/LAVIS</span><span class=\"invisible\"></span></a></p><p>\ud83d\udc26\ud83d\udd17: <a href=\"https://twitter.com/mrdbourke/status/1620353263651688448\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">twitter.com/mrdbourke/status/1</span><span class=\"invisible\">620353263651688448</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://creative.ai/@alexjc",
+        "display_name": "Alex J. Champandard \u2744\ufe0f"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/tysam-code/hlb-CIFAR10",
+    "title": "GitHub - tysam-code/hlb-CIFAR10: Train to 94% on CIFAR-10 in less than 10 seconds on a single A100, the current world record. Or ~95.77% in ~188 seconds.",
+    "latest": "2023-01-31T08:29:22+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@mc/109781726556789435",
+      "content": "<p>I like the idea of kaggle but with constraints (parameter count, inference time, training time, data availability, architectural restrictions, etc).</p><p>A few months ago I first learned about the DAWNBench challenge [1] through a fantastic series about fast training [2]. Then yesterday, there was a post about reaching 94% accuracy on CIFAR10 in ~10 seconds [3], which got me thinking about it again.</p><p>[1]: <a href=\"https://dawn.cs.stanford.edu/benchmark/index.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">dawn.cs.stanford.edu/benchmark</span><span class=\"invisible\">/index.html</span></a><br>[2]: <a href=\"https://myrtle.ai/learn/how-to-train-your-resnet/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">myrtle.ai/learn/how-to-train-y</span><span class=\"invisible\">our-resnet/</span></a><br>[3]: <a href=\"https://github.com/tysam-code/hlb-CIFAR10\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/tysam-code/hlb-CIFA</span><span class=\"invisible\">R10</span></a></p><p><a href=\"https://sigmoid.social/tags/ML\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ML</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://die-partei.social/@hackernews",
+        "display_name": "Hackernews"
+      },
+      {
+        "url": "https://sigmoid.social/@andrey",
+        "display_name": "Andrey Kurenkov"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/markuswt/gpt-commit",
+    "title": "GitHub - markuswt/gpt-commit: Generate commit messages using GPT-3",
+    "latest": "2023-01-31T07:15:02+00:00",
+    "last_post": {
+      "url": "https://die-partei.social/@hackernews/109782584665943557",
+      "content": "<p>Show HN: Generate commit messages using GPT-3 - <a href=\"https://github.com/markuswt/gpt-commit\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/markuswt/gpt-commit</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://die-partei.social/@hackernews",
+        "display_name": "Hackernews"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/weixi-feng/structured-diffusion-guidance",
+    "title": "https://github.com/weixi-feng/structured-diffusion-guidance",
+    "latest": "2023-01-31T05:39:11.747000+00:00",
+    "last_post": {
+      "url": "https://a.farook.org/objects/b1aca62f-dfc5-4997-bda8-ad0c73c2eb0d",
+      "content": "\"Training-Free Structured Diffusion Guidance for Compositional Text-to-Image Synthesis. (arXiv:2212.05032v2 [cs.CV] UPDATED)\" \u2014 Improving the compositional skills of text-to-image models; specifically, obtainining more accurate attribute binding and better image compositions by incorporating linguistic structures with the diffusion guidance process based on the controllable properties of manipulating cross-attention layers in diffusion-based models.<br><br>Paper: <a href=\"http://arxiv.org/abs/2212.05032\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">http://arxiv.org/abs/2212.05032</a><br>Code: <a href=\"https://github.com/weixi-feng/structured-diffusion-guidance\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">https://github.com/weixi-feng/structured-diffusion-guidance</a><br><br><a class=\"hashtag\" href=\"https://a.farook.org/tag/ai\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#AI</a> <a class=\"hashtag\" href=\"https://a.farook.org/tag/cv\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#CV</a> <a class=\"hashtag\" href=\"https://a.farook.org/tag/newpaper\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#NewPaper</a> <a class=\"hashtag\" href=\"https://a.farook.org/tag/deeplearning\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#DeepLearning</a>  <a class=\"hashtag\" href=\"https://a.farook.org/tag/machinelearning\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#MachineLearning</a><br><br>&lt;&lt;Find this useful? Please boost so that others can benefit too \ud83d\ude42&gt;&gt;<br><a href=\"https://a.farook.org/media/5aea94c9a97e3432a43d1ca1873ff93db33de659d2406e5c65e0ebe10264c142.jpg\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">Three challenging phenomena in \u2026</a>"
+    },
+    "people": [
+      {
+        "url": "https://a.farook.org/users/f",
+        "display_name": "Fahim Farook"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/cuishiyao96/ECE",
+    "title": "GitHub - cuishiyao96/ECE: Dataset and code for COLING2022 paper Event Causality Extraction with Event Argument Correlations",
+    "latest": "2023-01-31T05:39:10+00:00",
+    "last_post": {
+      "url": "https://creative.ai/@arxiv_cl/109782207725374486",
+      "content": "<p>\ud83d\udcdd Event Causality Extraction with Event Argument Correlations \ud83d\udcda</p><p>\"Proposes a method with a dual grid tagging scheme to capture the intra- and inter-event argument correlations for ECE, and design an event type-enhanced model architecture to realize the proposed dual grid tagging scheme.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/cuishiyao96/ECE\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/cuishiyao96/ECE</span><span class=\"invisible\"></span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2301.11621v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2301.11621v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://creative.ai/@arxiv_cl",
+        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/yulonghui/moca",
+    "title": "https://github.com/yulonghui/moca",
+    "latest": "2023-01-31T05:26:18.573000+00:00",
+    "last_post": {
+      "url": "https://a.farook.org/objects/103d9789-96fa-494c-8434-f8e33671e165",
+      "content": "\"Continual Learning by Modeling Intra-Class Variation. (arXiv:2210.05398v2 [cs.LG] UPDATED)\" \u2014 An examination of memory-based continual learning which identifies that large variation in the representation space is crucial for avoiding catastrophic forgetting. <br><br>Paper: <a href=\"http://arxiv.org/abs/2210.05398\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">http://arxiv.org/abs/2210.05398</a><br>Code: <a href=\"https://github.com/yulonghui/moca\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">https://github.com/yulonghui/moca</a><br><br><a class=\"hashtag\" href=\"https://a.farook.org/tag/ai\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#AI</a> <a class=\"hashtag\" href=\"https://a.farook.org/tag/cv\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#CV</a> <a class=\"hashtag\" href=\"https://a.farook.org/tag/newpaper\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#NewPaper</a> <a class=\"hashtag\" href=\"https://a.farook.org/tag/deeplearning\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#DeepLearning</a>  <a class=\"hashtag\" href=\"https://a.farook.org/tag/machinelearning\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#MachineLearning</a><br><br>&lt;&lt;Find this useful? Please boost so that others can benefit too \ud83d\ude42&gt;&gt;<br><a href=\"https://a.farook.org/media/f138d120a2ba79e19900018d17aa1ef14cdd89f485ddacc9566003f2a8b2e68b.jpg\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">Average intra-class angle devia\u2026</a>"
+    },
+    "people": [
+      {
+        "url": "https://a.farook.org/users/f",
+        "display_name": "Fahim Farook"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/revaludo/MEAL",
+    "title": "https://github.com/revaludo/MEAL",
+    "latest": "2023-01-31T05:15:01.200000+00:00",
+    "last_post": {
+      "url": "https://a.farook.org/objects/2325e07a-2625-4c3c-bbf8-5d0eb1637a60",
+      "content": "\"Multi-Level Visual Similarity Based Personalized Tourist Attraction Recommendation Using Geo-Tagged Photos. (arXiv:2109.08275v2 [cs.MM] UPDATED)\" \u2014 A geo-tagged photo based tourist attraction recommendation system which utilizes the visual contents of photos and interaction behavior data to obtain the final embeddings of users and tourist attractions, which are then used to predict the visit probabilities.<br><br>Paper: <a href=\"http://arxiv.org/abs/2109.08275\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">http://arxiv.org/abs/2109.08275</a><br>Code: <a href=\"https://github.com/revaludo/MEAL\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">https://github.com/revaludo/MEAL</a><br><br><a class=\"hashtag\" href=\"https://a.farook.org/tag/ai\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#AI</a> <a class=\"hashtag\" href=\"https://a.farook.org/tag/cv\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#CV</a> <a class=\"hashtag\" href=\"https://a.farook.org/tag/newpaper\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#NewPaper</a> <a class=\"hashtag\" href=\"https://a.farook.org/tag/deeplearning\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#DeepLearning</a>  <a class=\"hashtag\" href=\"https://a.farook.org/tag/machinelearning\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#MachineLearning</a><br><br>&lt;&lt;Find this useful? Please boost so that others can benefit too \ud83d\ude42&gt;&gt;<br><a href=\"https://a.farook.org/media/3b90fcd68064bf931c4d68318a7130a5bd8bdb2607616ebddca4904203ce2d2f.jpg\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">An illustration of the multi-le\u2026</a>"
+    },
+    "people": [
+      {
+        "url": "https://a.farook.org/users/f",
+        "display_name": "Fahim Farook"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/lucidrains/musiclm-pytorch",
+    "title": "GitHub - lucidrains/musiclm-pytorch: Implementation of MusicLM, Google's new SOTA model for music generation using attention networks, in Pytorch",
+    "latest": "2023-01-31T04:40:02+00:00",
+    "last_post": {
+      "url": "https://die-partei.social/@hackernews/109781975188154802",
+      "content": "<p>Open source implementation of Google's MusicLM in PyTorch - <a href=\"https://github.com/lucidrains/musiclm-pytorch\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/lucidrains/musiclm-</span><span class=\"invisible\">pytorch</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://die-partei.social/@hackernews",
+        "display_name": "Hackernews"
+      }
+    ]
+  },
+  {
     "link": "https://codeberg.org/TomLarrow/creative-coding-experiments/src/branch/main/x_0052",
     "title": "creative-coding-experiments",
     "latest": "2023-01-30T21:58:39+00:00",
@@ -105,21 +244,6 @@
       {
         "url": "https://tech.lgbt/@jesper",
         "display_name": "Jesper Dr.amsch :v_enby:"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/tysam-code/hlb-CIFAR10",
-    "title": "GitHub - tysam-code/hlb-CIFAR10: Train to 94% on CIFAR-10 in less than 10 seconds on a single A100, the current world record. Or ~95.77% in ~188 seconds.",
-    "latest": "2023-01-30T04:20:02+00:00",
-    "last_post": {
-      "url": "https://die-partei.social/@hackernews/109776234255731248",
-      "content": "<p>Show HN: Train CIFAR10 to 94% in under 10 seconds on a single A100, world record - <a href=\"https://github.com/tysam-code/hlb-CIFAR10\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/tysam-code/hlb-CIFA</span><span class=\"invisible\">R10</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://die-partei.social/@hackernews",
-        "display_name": "Hackernews"
       }
     ]
   },
@@ -3008,130 +3132,6 @@
       {
         "url": "https://die-partei.social/@hackernews",
         "display_name": "Hackernews"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/cuinfoscience/INFO3402-Spring2022",
-    "title": "GitHub - cuinfoscience/INFO3402-Spring2022: Spring 2022 version of INFO 3402 Information Exposition",
-    "latest": "2023-01-12T08:17:18+00:00",
-    "last_post": {
-      "url": "https://hci.social/@bkeegan/109672255491849629",
-      "content": "<p>Here's a link to the lectures, notebooks, and syllabus for the Spring 2022 version of this class: <a href=\"https://github.com/cuinfoscience/INFO3402-Spring2022\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/cuinfoscience/INFO3</span><span class=\"invisible\">402-Spring2022</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://econtwitter.net/@undercoverhistorian",
-        "display_name": "Beatrice Cherrier"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/mayankgrwl97/gbt",
-    "title": "https://github.com/mayankgrwl97/gbt",
-    "latest": "2023-01-12T08:05:50.373000+00:00",
-    "last_post": {
-      "url": "https://sigmoid.social/@akhaliq/109673755607659677",
-      "content": "<p>Geometry-biased Transformers for Novel View Synthesis</p><p>abs: <a href=\"https://arxiv.org/abs/2301.04650\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2301.04650</span><span class=\"invisible\"></span></a> <br>project page: <a href=\"https://mayankgrwl97.github.io/gbt/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">mayankgrwl97.github.io/gbt/</span><span class=\"invisible\"></span></a> <br>github: <a href=\"https://github.com/mayankgrwl97/gbt\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/mayankgrwl97/gbt</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mstdn.social/@cwizprod1",
-        "display_name": "Cyberwizard"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/godly-devotion/MochiDiffusion?utm_source=stephaniewalter.design&amp;utm_medium=weeklylinks",
-    "title": "GitHub - godly-devotion/MochiDiffusion: Run Stable Diffusion on Mac natively",
-    "latest": "2023-01-12T08:03:55+00:00",
-    "last_post": {
-      "url": "https://front-end.social/@stephaniewalter/109675192998114831",
-      "content": "<p><a href=\"https://front-end.social/tags/AIArt\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AIArt</span></a><br>I had some fun with MochiDiffusion, a GUI to run stable diffusion on mac: <a href=\"https://github.com/godly-devotion/MochiDiffusion?utm_source=stephaniewalter.design&amp;utm_medium=weeklylinks\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/godly-devotion/Moch</span><span class=\"invisible\">iDiffusion?utm_source=stephaniewalter.design&amp;utm_medium=weeklylinks</span></a> <br>I found a Inkpunk Diffusion model that I really like: <a href=\"https://huggingface.co/Envvi/Inkpunk-Diffusion?utm_source=stephaniewalter.design&amp;utm_medium=weeklylinks\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">huggingface.co/Envvi/Inkpunk-D</span><span class=\"invisible\">iffusion?utm_source=stephaniewalter.design&amp;utm_medium=weeklylinks</span></a></p><p>(Warning: if you look for models, prompts example for the hassanblend are totally NSFW)</p>"
-    },
-    "people": [
-      {
-        "url": "https://front-end.social/@stephaniewalter",
-        "display_name": "Stef Walter"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/skywalker023/sodaverse",
-    "title": "GitHub - skywalker023/sodaverse: \ud83e\udd64\ud83e\uddd1\ud83c\udffb\u200d\ud83d\ude80Code and dataset for our paper - \"SODA: Million-scale Dialogue Distillation with Social Commonsense Contextualization\"",
-    "latest": "2023-01-12T07:58:27+00:00",
-    "last_post": {
-      "url": "https://sigmoid.social/@SwePalm/109672523851711680",
-      "content": "<p><a href=\"https://sigmoid.social/tags/COSMO\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>COSMO</span></a> is now available on <a href=\"https://sigmoid.social/tags/huggingface\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>huggingface</span></a> <br>and a chat_with_cosmo.py is available on <a href=\"https://sigmoid.social/tags/github\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>github</span></a>. So i could test this one on my laptop.</p><p>COSMO was trained with SODA, a dataset with \"social commonsense\" and is \"only\" 3B parameters.</p><p>It is not trained to answer questions like <a href=\"https://sigmoid.social/tags/chatgpt\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>chatgpt</span></a> , so have right expectations.</p><p>But it is really a nice companion...but this conversation got a bit scary \ud83d\ude02 </p><p>Try yourself:<br><a href=\"https://github.com/skywalker023/sodaverse\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/skywalker023/sodave</span><span class=\"invisible\">rse</span></a></p><p><a href=\"https://sigmoid.social/tags/ml\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ml</span></a> <a href=\"https://sigmoid.social/tags/ai\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ai</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://sigmoid.social/@SwePalm",
-        "display_name": "SwePalm"
-      },
-      {
-        "url": "https://sigmoid.social/@vh",
-        "display_name": "Vincent HETRU"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/fsquillace/junest",
-    "title": "GitHub - fsquillace/junest: The lightweight Arch Linux based distro that runs, without root privileges, upon any Linux distro",
-    "latest": "2023-01-12T07:15:03+00:00",
-    "last_post": {
-      "url": "https://die-partei.social/@hackernews/109675000869557068",
-      "content": "<p>Lightweight Arch-based distro that runs, without root, upon any Linux distro - <a href=\"https://github.com/fsquillace/junest\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/fsquillace/junest</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://die-partei.social/@hackernews",
-        "display_name": "Hackernews"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/MeMAD-project/trecvid-vsum",
-    "title": "GitHub - MeMAD-project/trecvid-vsum: MeMAD approach for the TRECVID VSUM 2020 task",
-    "latest": "2023-01-12T07:09:26+00:00",
-    "last_post": {
-      "url": "https://mastodon.top/@rtroncy/109674978756827878",
-      "content": "<p>We also create unsupervised summaries of the <a href=\"https://mastodon.top/tags/BBC\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>BBC</span></a> @bbceastenders@twitter.com TV series and show how to automatically get different type of events of interests. Evaluation come from the @trecvid@twitter.com VSUM campaign where we got top results. Our method is reproducible at <a href=\"https://github.com/MeMAD-project/trecvid-vsum\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/MeMAD-project/trecv</span><span class=\"invisible\">id-vsum</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.top/@rtroncy",
-        "display_name": "Rapha\u00ebl Troncy"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/alisonreboud/screenplay_summarization",
-    "title": "GitHub - alisonreboud/screenplay_summarization",
-    "latest": "2023-01-12T07:00:28+00:00",
-    "last_post": {
-      "url": "https://mastodon.top/@rtroncy/109674943522479287",
-      "content": "<p>We show how to create TV series summaries by Zero-Shot classifying scenes, using various text inputs, in specific events of interests, experimenting on the CSI dataset. Our results are superior to the SUMMER baseline. The method is fully reproducible at <a href=\"https://github.com/alisonreboud/screenplay_summarization\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/alisonreboud/screen</span><span class=\"invisible\">play_summarization</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.top/@rtroncy",
-        "display_name": "Rapha\u00ebl Troncy"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/eramdam/tokimeki-mastodon",
-    "title": "github.com/eramdam/tokimeki-ma...",
-    "latest": "2023-01-12T05:37:43+00:00",
-    "last_post": {
-      "url": "https://octodon.social/@Eramdam/109663455265127820",
-      "content": "<p>Alright let's go:</p><p>Do you feel like you follow too many people On Here? Do you find Mastodon's UI to review your followings to be too limiting/cumbersome? Boy do I have the tool for you!</p><p>Introducing \u2728 Tokimeki Mastodon \u2728 </p><p>It's free, open-source, works entirely in your browser (your progress is kept locally) and makes cleaning your feed a breeze \ud83d\ude04 </p><p>Check it out!</p><p><a href=\"https://tokimeki-mastodon.vercel.app\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">tokimeki-mastodon.vercel.app</span><span class=\"invisible\"></span></a></p><p>(Source <a href=\"https://github.com/eramdam/tokimeki-mastodon\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/eramdam/tokimeki-ma</span><span class=\"invisible\">stodon</span></a>)</p>"
-    },
-    "people": [
-      {
-        "url": "https://social.luca.run/@luca",
-        "display_name": "Luca \ud83d\udd28"
       }
     ]
   }
