@@ -1,5 +1,84 @@
 [
   {
+    "link": "https://arxiv.org/abs/2211.01324",
+    "title": "eDiff-I: Text-to-Image Diffusion Models with an Ensemble of Expert Denoisers",
+    "latest": "2023-02-07T21:52:56+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@gowthami/109677111409955588",
+      "content": "<p>eDiff-I: A new text-to-image <a href=\"https://sigmoid.social/tags/diffusion\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>diffusion</span></a> model. Uses T5 and both CLIP encoders for conditioning. Instead of using the same denoising model for all steps, they propose using multiple specialized ones. A \ud83e\uddf5</p><p>Paper: <a href=\"https://arxiv.org/abs/2211.01324\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2211.01324</span><span class=\"invisible\"></span></a></p><p>Day 11 <a href=\"https://sigmoid.social/tags/30daysofDiffusion\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>30daysofDiffusion</span></a> <a href=\"https://sigmoid.social/tags/MachineLearning\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>MachineLearning</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@andrey",
+        "display_name": "Andrey Kurenkov"
+      },
+      {
+        "url": "https://creative.ai/@arxiv",
+        "display_name": "arXiv Highlights AI/ML \ud83d\udcdd\ud83e\udd16"
+      }
+    ]
+  },
+  {
+    "link": "https://arxiv.org/abs/2302.02596",
+    "title": "Ten Lessons We Have Learned in the New \"Sparseland\": A Short Handbook for Sparse Neural Network Researchers",
+    "latest": "2023-02-07T21:02:03+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@at/109824560751869598",
+      "content": "<p>Ten Lessons We Have Learned in the New \"Sparseland\": A Short Handbook for Sparse Neural Network Researchers<br>Shiwei Liu, Zhangyang Wang </p><p>What a beautifully-written, kind, and academically-funny abstract!</p><p>favorite part: \"At the very least ... if you are writing/planning to write a<br>paper or rebuttal in the field of SNNs, we hope some of our answers could help<br>you! </p><p>abs: <a href=\"https://arxiv.org/abs/2302.02596\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2302.02596</span><span class=\"invisible\"></span></a> <br>pdf: <a href=\"https://arxiv.org/pdf/2302.02596.pdf\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/pdf/2302.02596.pdf</span><span class=\"invisible\"></span></a> </p><p><a href=\"https://sigmoid.social/tags/arXiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arXiv</span></a> <a href=\"https://sigmoid.social/tags/SNNs\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>SNNs</span></a> <a href=\"https://sigmoid.social/tags/AmyPostsPapers\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AmyPostsPapers</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://indieweb.social/@dnnydnl",
+        "display_name": "Donny Daniel :mastodon:"
+      }
+    ]
+  },
+  {
+    "link": "https://arxiv.org/pdf/2302.02596.pdf",
+    "title": "https://arxiv.org/pdf/2302.02596.pdf",
+    "latest": "2023-02-07T21:02:03+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@at/109824560751869598",
+      "content": "<p>Ten Lessons We Have Learned in the New \"Sparseland\": A Short Handbook for Sparse Neural Network Researchers<br>Shiwei Liu, Zhangyang Wang </p><p>What a beautifully-written, kind, and academically-funny abstract!</p><p>favorite part: \"At the very least ... if you are writing/planning to write a<br>paper or rebuttal in the field of SNNs, we hope some of our answers could help<br>you! </p><p>abs: <a href=\"https://arxiv.org/abs/2302.02596\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2302.02596</span><span class=\"invisible\"></span></a> <br>pdf: <a href=\"https://arxiv.org/pdf/2302.02596.pdf\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/pdf/2302.02596.pdf</span><span class=\"invisible\"></span></a> </p><p><a href=\"https://sigmoid.social/tags/arXiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arXiv</span></a> <a href=\"https://sigmoid.social/tags/SNNs\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>SNNs</span></a> <a href=\"https://sigmoid.social/tags/AmyPostsPapers\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AmyPostsPapers</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://indieweb.social/@dnnydnl",
+        "display_name": "Donny Daniel :mastodon:"
+      }
+    ]
+  },
+  {
+    "link": "https://arxiv.org/abs/2111.09839",
+    "title": "https://arxiv.org/abs/2111.09839",
+    "latest": "2023-02-07T21:00:27+00:00",
+    "last_post": {
+      "url": "https://creative.ai/@alexjc/109825466521239393",
+      "content": "<p>RT @colinraffel@twitter.com</p><p>Announcing a new research focus in my lab: Developing tools to enable collaboratively-built and continually-improved models.</p><p>Blog post: <a href=\"https://colinraffel.com/blog/a-call-to-build-models-like-we-build-open-source-software.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">colinraffel.com/blog/a-call-to</span><span class=\"invisible\">-build-models-like-we-build-open-source-software.html</span></a><br>Paper on model \"patches\": <a href=\"https://arxiv.org/abs/2111.09839\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2111.09839</span><span class=\"invisible\"></span></a><br>Paper on \"merging\" models: <a href=\"https://arxiv.org/abs/2111.09832\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2111.09832</span><span class=\"invisible\"></span></a><br>Thread \u2b07\ufe0f (1/11)</p><p>\ud83d\udc26\ud83d\udd17: <a href=\"https://twitter.com/colinraffel/status/1468618801134592012\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">twitter.com/colinraffel/status</span><span class=\"invisible\">/1468618801134592012</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://creative.ai/@alexjc",
+        "display_name": "Alex J. Champandard \u2744\ufe0f"
+      }
+    ]
+  },
+  {
+    "link": "https://arxiv.org/abs/2111.09832",
+    "title": "https://arxiv.org/abs/2111.09832",
+    "latest": "2023-02-07T21:00:27+00:00",
+    "last_post": {
+      "url": "https://creative.ai/@alexjc/109825466521239393",
+      "content": "<p>RT @colinraffel@twitter.com</p><p>Announcing a new research focus in my lab: Developing tools to enable collaboratively-built and continually-improved models.</p><p>Blog post: <a href=\"https://colinraffel.com/blog/a-call-to-build-models-like-we-build-open-source-software.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">colinraffel.com/blog/a-call-to</span><span class=\"invisible\">-build-models-like-we-build-open-source-software.html</span></a><br>Paper on model \"patches\": <a href=\"https://arxiv.org/abs/2111.09839\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2111.09839</span><span class=\"invisible\"></span></a><br>Paper on \"merging\" models: <a href=\"https://arxiv.org/abs/2111.09832\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2111.09832</span><span class=\"invisible\"></span></a><br>Thread \u2b07\ufe0f (1/11)</p><p>\ud83d\udc26\ud83d\udd17: <a href=\"https://twitter.com/colinraffel/status/1468618801134592012\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">twitter.com/colinraffel/status</span><span class=\"invisible\">/1468618801134592012</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://creative.ai/@alexjc",
+        "display_name": "Alex J. Champandard \u2744\ufe0f"
+      }
+    ]
+  },
+  {
     "link": "https://arxiv.org/abs/2302.03027",
     "title": "Zero-shot Image-to-Image Translation",
     "latest": "2023-02-07T09:59:41+00:00",
@@ -3057,81 +3136,6 @@
       {
         "url": "https://vis.social/@jandot",
         "display_name": "Jan Aerts"
-      }
-    ]
-  },
-  {
-    "link": "http://osf.io/n67g8/",
-    "title": "http://osf.io/n67g8/",
-    "latest": "2023-01-25T09:36:49+00:00",
-    "last_post": {
-      "url": "https://botsin.space/@SocArXivBot/109749168315481363",
-      "content": "<p>The Dual-Perspective Model's \"Primacy of Communion\" Hypothesis: A Vignette Experiment Using LIWC-22 and Further Theoretical Exploration <a href=\"http://osf.io/n67g8/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">http://</span><span class=\"\">osf.io/n67g8/</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://botsin.space/@SocArXivBot",
-        "display_name": "SocArXiv"
-      }
-    ]
-  },
-  {
-    "link": "http://osf.io/kwxn2/",
-    "title": "http://osf.io/kwxn2/",
-    "latest": "2023-01-25T09:36:48+00:00",
-    "last_post": {
-      "url": "https://botsin.space/@SocArXivBot/109749168271703806",
-      "content": "<p>Policy Responses to Technological Change in the Workplace <a href=\"http://osf.io/kwxn2/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">http://</span><span class=\"\">osf.io/kwxn2/</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://botsin.space/@SocArXivBot",
-        "display_name": "SocArXiv"
-      }
-    ]
-  },
-  {
-    "link": "http://osf.io/675ty/",
-    "title": "http://osf.io/675ty/",
-    "latest": "2023-01-25T09:36:47+00:00",
-    "last_post": {
-      "url": "https://botsin.space/@SocArXivBot/109749168234670223",
-      "content": "<p>Benchmarking Plans for Community-based Small Business Resilience across Gulf Coast Counties <a href=\"http://osf.io/675ty/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">http://</span><span class=\"\">osf.io/675ty/</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://botsin.space/@SocArXivBot",
-        "display_name": "SocArXiv"
-      }
-    ]
-  },
-  {
-    "link": "https://doi.org/10.5334/kula.63",
-    "title": "https://doi.org/10.5334/kula.63",
-    "latest": "2023-01-25T09:36:23+00:00",
-    "last_post": {
-      "url": "https://openbiblio.social/@v_i_o_l_a/109748716763754688",
-      "content": "<p>\"Introducing Massively Open Online Papers (MOOPs)\" @ Kula 4.1(2020): <a href=\"https://doi.org/10.5334/kula.63\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">doi.org/10.5334/kula.63</span><span class=\"invisible\"></span></a> <a href=\"https://openbiblio.social/tags/OpenScience\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>OpenScience</span></a> <a href=\"https://openbiblio.social/tags/collaboration\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>collaboration</span></a> <a href=\"https://openbiblio.social/tags/recommendations\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>recommendations</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://masto.ai/@cheng",
-        "display_name": "Cheng Soon Ong"
-      }
-    ]
-  },
-  {
-    "link": "http://osf.io/jvxdm/",
-    "title": "http://osf.io/jvxdm/",
-    "latest": "2023-01-25T09:07:02+00:00",
-    "last_post": {
-      "url": "https://botsin.space/@SocArXivBot/109749051224811240",
-      "content": "<p>Modeling social resilience: Questions, answers, open problems <a href=\"http://osf.io/jvxdm/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">http://</span><span class=\"\">osf.io/jvxdm/</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://botsin.space/@SocArXivBot",
-        "display_name": "SocArXiv"
       }
     ]
   }
