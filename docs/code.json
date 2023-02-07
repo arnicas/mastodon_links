@@ -1,5 +1,170 @@
 [
   {
+    "link": "https://gist.github.com/cararthompson/d539190ee62a2bd102039c045125af0b",
+    "title": "Turning #rstats tweetorials into quarto blog posts",
+    "latest": "2023-02-07T09:53:54+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@cararthompson/109822711677214480",
+      "content": "<p>Written a bunch of tweetorials and threads and never took the time to turn them into blog posts? \ud83d\udcdd </p><p>Here's the <a href=\"https://fosstodon.org/tags/rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rstats</span></a> code I wrote to turn all of mine into <a href=\"https://fosstodon.org/tags/quartoPub\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>quartoPub</span></a> blog posts - images, alt text, code snippets, mentions and all.</p><p>Feel free to reuse! This may only work for the next few days, depending on what happens to API access on Twitter this week! \ud83d\udc26 </p><p><a href=\"https://gist.github.com/cararthompson/d539190ee62a2bd102039c045125af0b\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gist.github.com/cararthompson/</span><span class=\"invisible\">d539190ee62a2bd102039c045125af0b</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@maelle",
+        "display_name": "Ma\u00eblle Salmon"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/riatelab/maptiles",
+    "title": "https://github.com/riatelab/maptiles",
+    "latest": "2023-02-07T09:39:36+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@rcarto/109721667943496081",
+      "content": "<p>New version of {cartography} :rstats: package. </p><p>Blog post here:<br><a href=\"https://rcarto.github.io/posts/cartography_v3.1.3/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">rcarto.github.io/posts/cartogr</span><span class=\"invisible\">aphy_v3.1.3/</span></a></p><p>This release has been triggered by the upcoming retirement of {rgeos} and {rgdal} (see <a href=\"https://r-spatial.org/r/2022/04/12/evolution.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">r-spatial.org/r/2022/04/12/evo</span><span class=\"invisible\">lution.html</span></a>). </p><p>Key message for {cartography} users:<br>1. Switch from {cartography} to {mapsf} if possible =&gt; <a href=\"https://riatelab.github.io/mapsf\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">riatelab.github.io/mapsf</span><span class=\"invisible\"></span></a><br>2. Use {maptiles} instead of getTiles() =&gt; <a href=\"https://github.com/riatelab/maptiles\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/riatelab/maptiles</span><span class=\"invisible\"></span></a><br>3. Use {potential} instead of smoothLayer() =&gt; <a href=\"https://riatelab.github.io/potential\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">riatelab.github.io/potential</span><span class=\"invisible\"></span></a></p><p><a href=\"https://fosstodon.org/tags/rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rstats</span></a> <a href=\"https://fosstodon.org/tags/rspatial\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rspatial</span></a> <a href=\"https://fosstodon.org/tags/gischat\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>gischat</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fosstodon.org/@mdsumner",
+        "display_name": "mdsumner"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/ianjonsen/foieGras.paper/tree/main/SI",
+    "title": "github.com/ianjonsen/foieGras....",
+    "latest": "2023-02-07T09:37:21+00:00",
+    "last_post": {
+      "url": "https://mastodon.online/@ijonsen/109784120771995462",
+      "content": "<p>For those using {aniMotum} - the R \ud83d\udce6formerly known as {foieGras} - here's a new paper where we outline its main features and provide example applications. </p><p><a href=\"https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.14060\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">besjournals.onlinelibrary.wile</span><span class=\"invisible\">y.com/doi/10.1111/2041-210X.14060</span></a></p><p>Full R code for the applications is available in supplementary files and on GitHub - </p><p><a href=\"https://github.com/ianjonsen/foieGras.paper/tree/main/SI\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/ianjonsen/foieGras.</span><span class=\"invisible\">paper/tree/main/SI</span></a></p><p>Data are available on Dryad - </p><p><a href=\"https://doi.org/10.5061/dryad.qz612jmjw\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">doi.org/10.5061/dryad.qz612jmj</span><span class=\"invisible\">w</span></a></p><p><a href=\"https://mastodon.online/tags/rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rstats</span></a> <a href=\"https://mastodon.online/tags/rspatial\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rspatial</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fosstodon.org/@mdsumner",
+        "display_name": "mdsumner"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/nrennie/tidytuesday/tree/main/2023/2023-02-07",
+    "title": "tidytuesday/2023/2023-02-07 at main \u00b7 nrennie/tidytuesday",
+    "latest": "2023-02-07T09:36:14+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@nrennie/109822776086528084",
+      "content": "<p>It's time for <a href=\"https://fosstodon.org/tags/TidyTuesday\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>TidyTuesday</span></a> again! Thanks to Evan Gower for sharing the data this week!</p><p>We're looking at stock prices of tech companies, and I used geom_sankey_bump() from {ggsankey} to look at the rank of Adobe over time!</p><p>Code: <a href=\"https://github.com/nrennie/tidytuesday/tree/main/2023/2023-02-07\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/nrennie/tidytuesday</span><span class=\"invisible\">/tree/main/2023/2023-02-07</span></a></p><p><a href=\"https://fosstodon.org/tags/RStats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>RStats</span></a> <a href=\"https://fosstodon.org/tags/DataViz\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DataViz</span></a> <a href=\"https://fosstodon.org/tags/R4DS\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>R4DS</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fosstodon.org/@nrennie",
+        "display_name": "Nicola Rennie"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/r-spatial/discuss/issues/56#issuecomment-1416780597",
+    "title": "Remote sensing in R \u00b7 Issue #56 \u00b7 r-spatial/discuss",
+    "latest": "2023-02-07T09:33:27+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@krzysztof_dyba/109807775572864658",
+      "content": "<p>Interesting and comprehensive comment from Gilberto Camara about the current state of remote sensing in R and the comparison with Python:<br><a href=\"https://github.com/r-spatial/discuss/issues/56#issuecomment-1416780597\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/r-spatial/discuss/i</span><span class=\"invisible\">ssues/56#issuecomment-1416780597</span></a></p><p><a href=\"https://fosstodon.org/tags/rspatial\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rspatial</span></a> <a href=\"https://fosstodon.org/tags/gischat\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>gischat</span></a> <a href=\"https://fosstodon.org/tags/remotesensing\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>remotesensing</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fosstodon.org/@mdsumner",
+        "display_name": "mdsumner"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/indeedeng/iwf",
+    "title": "GitHub - indeedeng/iwf: iWF is a platform providing all-in-one tooling for building long-running business application. It provides an  abstraction for persistence(database, elasticSearch) and more, with clean, simple and easy to use interface.",
+    "latest": "2023-02-07T08:45:02+00:00",
+    "last_post": {
+      "url": "https://die-partei.social/@hackernews/109822574776465997",
+      "content": "<p>Show HN: iWF \u2013 A new \u201cworkflow as code\u201d execution engine - <a href=\"https://github.com/indeedeng/iwf\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/indeedeng/iwf</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://die-partei.social/@hackernews",
+        "display_name": "Hackernews"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/ONSvisual/svelte-charts",
+    "title": "GitHub - ONSvisual/svelte-charts: Reusable chart templates for Svelte projects.",
+    "latest": "2023-02-07T08:38:10+00:00",
+    "last_post": {
+      "url": "https://vis.social/@mikebrondbjerg/109822547746183570",
+      "content": "<p><span class=\"h-card\"><a href=\"https://vis.social/@bothness\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>bothness</span></a></span> hey Ahmad! Just come across your svelte charts repo: <a href=\"https://github.com/ONSvisual/svelte-charts\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/ONSvisual/svelte-ch</span><span class=\"invisible\">arts</span></a> . I thihnk we might be going down a similar route here. Do you have a repo somewhere, where you are importing and implementing the charts... Interested to see the entire lifecylce from writing, to compiling, to implementation in an application! Cheers!</p>"
+    },
+    "people": [
+      {
+        "url": "https://vis.social/@mikebrondbjerg",
+        "display_name": "Mike Brondbjerg"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/agusdmb/autofake",
+    "title": "GitHub - agusdmb/autofake",
+    "latest": "2023-02-07T08:30:06+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@python_discussions/109822515995903751",
+      "content": "<p>AutoFake for Python</p><p><a href=\"https://github.com/agusdmb/autofake\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/agusdmb/autofake</span><span class=\"invisible\"></span></a></p><p>Discussions: <a href=\"https://discu.eu/q/https://github.com/agusdmb/autofake\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">discu.eu/q/https://github.com/</span><span class=\"invisible\">agusdmb/autofake</span></a></p><p><a href=\"https://mastodon.social/tags/programming\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>programming</span></a> <a href=\"https://mastodon.social/tags/python\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>python</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@python_discussions",
+        "display_name": "Python Weekly"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/LAION-AI/Open-Assistant",
+    "title": "GitHub - LAION-AI/Open-Assistant: OpenAssistant is a chat-based assistant that understands tasks, can interact with third-party systems, and retrieve information dynamically to do so.",
+    "latest": "2023-02-07T07:41:07+00:00",
+    "last_post": {
+      "url": "https://toolsforthought.rocks/@absamma/109818402874989759",
+      "content": "<p>In your spare time, consider supporting Open Assistant, an attempt to make an open AI assistant for all. AI should not belong to institutions. <a href=\"https://toolsforthought.rocks/tags/AI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AI</span></a> <a href=\"https://toolsforthought.rocks/tags/llm\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>llm</span></a> <a href=\"https://toolsforthought.rocks/tags/openassistant\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>openassistant</span></a> </p><p><a href=\"https://github.com/LAION-AI/Open-Assistant\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/LAION-AI/Open-Assis</span><span class=\"invisible\">tant</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@dougholton",
+        "display_name": "Doug Holton"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/kdpsingh/Tidier.jl",
+    "title": "GitHub - kdpsingh/Tidier.jl: 100% Julia implementation of the R tidyverse mini-language",
+    "latest": "2023-02-07T07:22:30+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@johnmackintosh/109822250245722832",
+      "content": "<p><a href=\"https://github.com/kdpsingh/Tidier.jl\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/kdpsingh/Tidier.jl</span><span class=\"invisible\"></span></a></p><p>Well this makes Julia even more interesting now.. kudos <span class=\"h-card\"><a href=\"https://mastodon.social/@kdpsingh\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>kdpsingh</span></a></span></p>"
+    },
+    "people": [
+      {
+        "url": "https://fosstodon.org/@johnmackintosh",
+        "display_name": "John MacKintosh"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/deepmind/pycolab",
+    "title": "GitHub - deepmind/pycolab: A highly-customisable gridworld game engine with some batteries included. Make your own gridworld games to test reinforcement learning agents!",
+    "latest": "2023-02-07T06:24:06+00:00",
+    "last_post": {
+      "url": "https://creative.ai/@arxiv_cl/109822020610667529",
+      "content": "<p>\ud83d\udcdd Collaborating with Language Models for Embodied Reasoning \ud83e\udde0\ud83d\udc7e\ud83d\udcda</p><p>\"The planner is a large-scale language model (e,g, GPT-3) that can issue commands to an embodied agent (e,g, a TurtleBot) that is placed in the environment, which then performs the actions in the command.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/LG\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>LG</span></a> <a href=\"https://creative.ai/tags/AI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AI</span></a> <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/deepmind/pycolab\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/deepmind/pycolab</span><span class=\"invisible\"></span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2302.00763v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2302.00763v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://creative.ai/@arxiv_cl",
+        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/zeux/pugixml",
     "title": "GitHub - zeux/pugixml: Light-weight, simple and fast XML parser for C++ with XPath support",
     "latest": "2023-02-06T20:18:15+00:00",
@@ -2947,171 +3112,6 @@
       {
         "url": "https://die-partei.social/@hackernews",
         "display_name": "Hackernews"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/OneUptime/oneuptime",
-    "title": "GitHub - OneUptime/oneuptime: OneUptime is an open-source complete SRE and DevOps platform.",
-    "latest": "2023-01-20T05:20:03+00:00",
-    "last_post": {
-      "url": "https://die-partei.social/@hackernews/109719847135489406",
-      "content": "<p>OneUptime is an open-source Datadog alternative - <a href=\"https://github.com/OneUptime/oneuptime\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/OneUptime/oneuptime</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://die-partei.social/@hackernews",
-        "display_name": "Hackernews"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/asg017/sqlite-regex",
-    "title": "GitHub - asg017/sqlite-regex: A fast regular expression SQLite extension, written in Rust",
-    "latest": "2023-01-19T21:40:32+00:00",
-    "last_post": {
-      "url": "https://data-folks.masto.host/@alexgarciaxyz/109717373814262438",
-      "content": "<p>Introducing sqlite-regex - the fastest and most complete SQLite extension for regular expressions, written in Rust!</p><p>- regexp(), finding, replacing, splitting <br>- Regex Set support!<br>- 2x faster than the official regexp extension, 6x faster than sqlean's</p><p>Repo: <a href=\"https://github.com/asg017/sqlite-regex\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/asg017/sqlite-regex</span><span class=\"invisible\"></span></a></p><p>Blog post, including a live demo on Datasette: <a href=\"https://observablehq.com/@asg017/introducing-sqlite-regex\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">observablehq.com/@asg017/intro</span><span class=\"invisible\">ducing-sqlite-regex</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://fedi.simonwillison.net/@simon",
-        "display_name": "Simon Willison"
-      }
-    ]
-  },
-  {
-    "link": "https://observablehq.com/@asg017/introducing-sqlite-regex",
-    "title": "observablehq.com/@asg017/intro...",
-    "latest": "2023-01-19T21:40:32+00:00",
-    "last_post": {
-      "url": "https://data-folks.masto.host/@alexgarciaxyz/109717373814262438",
-      "content": "<p>Introducing sqlite-regex - the fastest and most complete SQLite extension for regular expressions, written in Rust!</p><p>- regexp(), finding, replacing, splitting <br>- Regex Set support!<br>- 2x faster than the official regexp extension, 6x faster than sqlean's</p><p>Repo: <a href=\"https://github.com/asg017/sqlite-regex\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/asg017/sqlite-regex</span><span class=\"invisible\"></span></a></p><p>Blog post, including a live demo on Datasette: <a href=\"https://observablehq.com/@asg017/introducing-sqlite-regex\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">observablehq.com/@asg017/intro</span><span class=\"invisible\">ducing-sqlite-regex</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://fedi.simonwillison.net/@simon",
-        "display_name": "Simon Willison"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/nrennie/EuropeanFlights-R",
-    "title": "github.com/nrennie/EuropeanFli...",
-    "latest": "2023-01-19T20:21:55+00:00",
-    "last_post": {
-      "url": "https://fosstodon.org/@nrennie/109709833582043820",
-      "content": "<p>Spot the difference! I wanted to see the differences between Shiny in <a href=\"https://fosstodon.org/tags/RStats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>RStats</span></a> and Shiny in <a href=\"https://fosstodon.org/tags/Python\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Python</span></a>, so I built a (very simple) Shiny app - twice! \ud83d\udc40 </p><p>R version: <a href=\"https://nrennie35.shinyapps.io/EuropeanFlights/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">nrennie35.shinyapps.io/Europea</span><span class=\"invisible\">nFlights/</span></a></p><p>Python version: <a href=\"https://nrennie.github.io/EuropeanFlights-Python/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">nrennie.github.io/EuropeanFlig</span><span class=\"invisible\">hts-Python/</span></a></p><p>You can also view the source code for these Shiny apps on GitHub!</p><p>R version: <a href=\"https://github.com/nrennie/EuropeanFlights-R\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/nrennie/EuropeanFli</span><span class=\"invisible\">ghts-R</span></a></p><p>Python version: <a href=\"https://github.com/nrennie/EuropeanFlights-Python\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/nrennie/EuropeanFli</span><span class=\"invisible\">ghts-Python</span></a></p><p>Blog post coming soon!</p>"
-    },
-    "people": [
-      {
-        "url": "https://fosstodon.org/@juliasilge",
-        "display_name": "Julia Silge"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/nrennie/EuropeanFlights-Python",
-    "title": "github.com/nrennie/EuropeanFli...",
-    "latest": "2023-01-19T20:21:55+00:00",
-    "last_post": {
-      "url": "https://fosstodon.org/@nrennie/109709833582043820",
-      "content": "<p>Spot the difference! I wanted to see the differences between Shiny in <a href=\"https://fosstodon.org/tags/RStats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>RStats</span></a> and Shiny in <a href=\"https://fosstodon.org/tags/Python\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Python</span></a>, so I built a (very simple) Shiny app - twice! \ud83d\udc40 </p><p>R version: <a href=\"https://nrennie35.shinyapps.io/EuropeanFlights/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">nrennie35.shinyapps.io/Europea</span><span class=\"invisible\">nFlights/</span></a></p><p>Python version: <a href=\"https://nrennie.github.io/EuropeanFlights-Python/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">nrennie.github.io/EuropeanFlig</span><span class=\"invisible\">hts-Python/</span></a></p><p>You can also view the source code for these Shiny apps on GitHub!</p><p>R version: <a href=\"https://github.com/nrennie/EuropeanFlights-R\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/nrennie/EuropeanFli</span><span class=\"invisible\">ghts-R</span></a></p><p>Python version: <a href=\"https://github.com/nrennie/EuropeanFlights-Python\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/nrennie/EuropeanFli</span><span class=\"invisible\">ghts-Python</span></a></p><p>Blog post coming soon!</p>"
-    },
-    "people": [
-      {
-        "url": "https://fosstodon.org/@juliasilge",
-        "display_name": "Julia Silge"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/ringtailsoftware/lyuba",
-    "title": "GitHub - ringtailsoftware/lyuba: ESP32 Mastodon Tooter",
-    "latest": "2023-01-19T20:10:03+00:00",
-    "last_post": {
-      "url": "https://mastodon.me.uk/@tobyjaffey/109614252481595521",
-      "content": "<p>Had a fun break with time to hack on <a href=\"https://mastodon.me.uk/tags/ActivityPub\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ActivityPub</span></a> projects</p><p> - <a href=\"https://mastodon.me.uk/tags/ESP32\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ESP32</span></a> Mastodon client <a href=\"https://github.com/ringtailsoftware/lyuba\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/ringtailsoftware/ly</span><span class=\"invisible\">uba</span></a><br> - <a href=\"https://codeberg.org/grunfink/snac2\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">codeberg.org/grunfink/snac2</span><span class=\"invisible\"></span></a> (bugfixing, built janky <a href=\"https://mastodon.me.uk/tags/MastodonAPI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>MastodonAPI</span></a> as PoC)<br> - Replaced SNAC with <a href=\"https://mastodon.me.uk/tags/NodeJs\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>NodeJs</span></a> <a href=\"https://github.com/ringtailsoftware/cubiti\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/ringtailsoftware/cu</span><span class=\"invisible\">biti</span></a><br> - Added features for <a href=\"https://mastodon.me.uk/tags/shuttlecraft\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>shuttlecraft</span></a> <a href=\"https://github.com/benbrown/shuttlecraft/pulls\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/benbrown/shuttlecra</span><span class=\"invisible\">ft/pulls</span></a></p><p>Soon, it'll be time to get (mostly) back to the day job - embedded microcontroller/ <a href=\"https://mastodon.me.uk/tags/IoT\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>IoT</span></a> /networked widgets for startups<br>Available for work in 2023! <a href=\"https://www.ringtailsoftware.co.uk/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">ringtailsoftware.co.uk/</span><span class=\"invisible\"></span></a> <a href=\"https://mastodon.me.uk/tags/fedihire\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>fedihire</span></a> &lt;/shameless plug&gt;</p>"
-    },
-    "people": [
-      {
-        "url": "https://aus.social/@KathyReid",
-        "display_name": "Kathy Reid"
-      }
-    ]
-  },
-  {
-    "link": "https://codeberg.org/grunfink/snac2",
-    "title": "https://codeberg.org/grunfink/snac2",
-    "latest": "2023-01-19T20:10:03+00:00",
-    "last_post": {
-      "url": "https://mastodon.me.uk/@tobyjaffey/109614252481595521",
-      "content": "<p>Had a fun break with time to hack on <a href=\"https://mastodon.me.uk/tags/ActivityPub\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ActivityPub</span></a> projects</p><p> - <a href=\"https://mastodon.me.uk/tags/ESP32\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ESP32</span></a> Mastodon client <a href=\"https://github.com/ringtailsoftware/lyuba\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/ringtailsoftware/ly</span><span class=\"invisible\">uba</span></a><br> - <a href=\"https://codeberg.org/grunfink/snac2\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">codeberg.org/grunfink/snac2</span><span class=\"invisible\"></span></a> (bugfixing, built janky <a href=\"https://mastodon.me.uk/tags/MastodonAPI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>MastodonAPI</span></a> as PoC)<br> - Replaced SNAC with <a href=\"https://mastodon.me.uk/tags/NodeJs\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>NodeJs</span></a> <a href=\"https://github.com/ringtailsoftware/cubiti\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/ringtailsoftware/cu</span><span class=\"invisible\">biti</span></a><br> - Added features for <a href=\"https://mastodon.me.uk/tags/shuttlecraft\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>shuttlecraft</span></a> <a href=\"https://github.com/benbrown/shuttlecraft/pulls\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/benbrown/shuttlecra</span><span class=\"invisible\">ft/pulls</span></a></p><p>Soon, it'll be time to get (mostly) back to the day job - embedded microcontroller/ <a href=\"https://mastodon.me.uk/tags/IoT\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>IoT</span></a> /networked widgets for startups<br>Available for work in 2023! <a href=\"https://www.ringtailsoftware.co.uk/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">ringtailsoftware.co.uk/</span><span class=\"invisible\"></span></a> <a href=\"https://mastodon.me.uk/tags/fedihire\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>fedihire</span></a> &lt;/shameless plug&gt;</p>"
-    },
-    "people": [
-      {
-        "url": "https://aus.social/@KathyReid",
-        "display_name": "Kathy Reid"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/ringtailsoftware/cubiti",
-    "title": "github.com/ringtailsoftware/cu...",
-    "latest": "2023-01-19T20:10:03+00:00",
-    "last_post": {
-      "url": "https://mastodon.me.uk/@tobyjaffey/109614252481595521",
-      "content": "<p>Had a fun break with time to hack on <a href=\"https://mastodon.me.uk/tags/ActivityPub\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ActivityPub</span></a> projects</p><p> - <a href=\"https://mastodon.me.uk/tags/ESP32\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ESP32</span></a> Mastodon client <a href=\"https://github.com/ringtailsoftware/lyuba\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/ringtailsoftware/ly</span><span class=\"invisible\">uba</span></a><br> - <a href=\"https://codeberg.org/grunfink/snac2\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">codeberg.org/grunfink/snac2</span><span class=\"invisible\"></span></a> (bugfixing, built janky <a href=\"https://mastodon.me.uk/tags/MastodonAPI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>MastodonAPI</span></a> as PoC)<br> - Replaced SNAC with <a href=\"https://mastodon.me.uk/tags/NodeJs\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>NodeJs</span></a> <a href=\"https://github.com/ringtailsoftware/cubiti\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/ringtailsoftware/cu</span><span class=\"invisible\">biti</span></a><br> - Added features for <a href=\"https://mastodon.me.uk/tags/shuttlecraft\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>shuttlecraft</span></a> <a href=\"https://github.com/benbrown/shuttlecraft/pulls\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/benbrown/shuttlecra</span><span class=\"invisible\">ft/pulls</span></a></p><p>Soon, it'll be time to get (mostly) back to the day job - embedded microcontroller/ <a href=\"https://mastodon.me.uk/tags/IoT\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>IoT</span></a> /networked widgets for startups<br>Available for work in 2023! <a href=\"https://www.ringtailsoftware.co.uk/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">ringtailsoftware.co.uk/</span><span class=\"invisible\"></span></a> <a href=\"https://mastodon.me.uk/tags/fedihire\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>fedihire</span></a> &lt;/shameless plug&gt;</p>"
-    },
-    "people": [
-      {
-        "url": "https://aus.social/@KathyReid",
-        "display_name": "Kathy Reid"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/benbrown/shuttlecraft/pulls",
-    "title": "github.com/benbrown/shuttlecra...",
-    "latest": "2023-01-19T20:10:03+00:00",
-    "last_post": {
-      "url": "https://mastodon.me.uk/@tobyjaffey/109614252481595521",
-      "content": "<p>Had a fun break with time to hack on <a href=\"https://mastodon.me.uk/tags/ActivityPub\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ActivityPub</span></a> projects</p><p> - <a href=\"https://mastodon.me.uk/tags/ESP32\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ESP32</span></a> Mastodon client <a href=\"https://github.com/ringtailsoftware/lyuba\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/ringtailsoftware/ly</span><span class=\"invisible\">uba</span></a><br> - <a href=\"https://codeberg.org/grunfink/snac2\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">codeberg.org/grunfink/snac2</span><span class=\"invisible\"></span></a> (bugfixing, built janky <a href=\"https://mastodon.me.uk/tags/MastodonAPI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>MastodonAPI</span></a> as PoC)<br> - Replaced SNAC with <a href=\"https://mastodon.me.uk/tags/NodeJs\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>NodeJs</span></a> <a href=\"https://github.com/ringtailsoftware/cubiti\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/ringtailsoftware/cu</span><span class=\"invisible\">biti</span></a><br> - Added features for <a href=\"https://mastodon.me.uk/tags/shuttlecraft\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>shuttlecraft</span></a> <a href=\"https://github.com/benbrown/shuttlecraft/pulls\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/benbrown/shuttlecra</span><span class=\"invisible\">ft/pulls</span></a></p><p>Soon, it'll be time to get (mostly) back to the day job - embedded microcontroller/ <a href=\"https://mastodon.me.uk/tags/IoT\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>IoT</span></a> /networked widgets for startups<br>Available for work in 2023! <a href=\"https://www.ringtailsoftware.co.uk/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">ringtailsoftware.co.uk/</span><span class=\"invisible\"></span></a> <a href=\"https://mastodon.me.uk/tags/fedihire\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>fedihire</span></a> &lt;/shameless plug&gt;</p>"
-    },
-    "people": [
-      {
-        "url": "https://aus.social/@KathyReid",
-        "display_name": "Kathy Reid"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/tedivm/",
-    "title": "tedivm - Overview",
-    "latest": "2023-01-19T20:05:28+00:00",
-    "last_post": {
-      "url": "https://hachyderm.io/@tedivm/109711024235337104",
-      "content": "<p>Hey Folks! I'm on the job market and looking for a Principal or Staff role, <a href=\"https://hachyderm.io/tags/Chicago\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Chicago</span></a> or Remote.</p><p>I've been using <a href=\"https://hachyderm.io/tags/AWS\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AWS</span></a> since 2008, have extensive experience in half a dozen programming languages (I \u2764\ufe0f <a href=\"https://hachyderm.io/tags/Python\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Python</span></a>), am writing a book on <a href=\"https://hachyderm.io/tags/Terraform\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Terraform</span></a>, and have experience ranging from founding engineer to managing a technical org with ~25 people.</p><p>I've also got a ton of open source projects - <a href=\"https://github.com/tedivm/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/tedivm/</span><span class=\"invisible\"></span></a></p><p>My resume - <a href=\"https://blog.tedivm.com/resume\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">blog.tedivm.com/resume</span><span class=\"invisible\"></span></a></p><p>pls boost!</p><p><a href=\"https://hachyderm.io/tags/FediHire\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>FediHire</span></a> <a href=\"https://hachyderm.io/tags/HireMe\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>HireMe</span></a> <a href=\"https://hachyderm.io/tags/FediHired\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>FediHired</span></a> <a href=\"https://hachyderm.io/tags/hachyjobs\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>hachyjobs</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://aus.social/@KathyReid",
-        "display_name": "Kathy Reid"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/MinBZK/woo-besluit-broncode-digid-app/",
-    "title": "GitHub - MinBZK/woo-besluit-broncode-digid-app",
-    "latest": "2023-01-19T20:03:12+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@EvenRouault/109717625206958178",
-      "content": "<p>Looks interesting for a potential rewrite for the well-known GDALTermProgress() function (aka \"0...10...20...30...40...50...60...70...80...90...100 - done.\")</p><p>RT @JeroenFrijters@twitter.com</p><p>The Dutch government was forced to release the source code of their DigiD digital authentication iOS app. It is written in C#.<br><a href=\"https://github.com/MinBZK/woo-besluit-broncode-digid-app/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/MinBZK/woo-besluit-</span><span class=\"invisible\">broncode-digid-app/</span></a></p><p>\ud83d\udc26\ud83d\udd17: <a href=\"https://twitter.com/JeroenFrijters/status/1615204074588180481\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">twitter.com/JeroenFrijters/sta</span><span class=\"invisible\">tus/1615204074588180481</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@sgillies",
-        "display_name": "Sean Gillies"
       }
     ]
   }
