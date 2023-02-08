@@ -51,47 +51,12 @@
     ]
   },
   {
-    "link": "https://pluralistic.net/2023/01/21/potemkin-ai/#hey-guys",
-    "title": "Pluralistic: Tiktok\u2019s enshittification (21 Jan 2023) \u2013 Pluralistic: Daily links from Cory Doctorow",
-    "latest": "2023-02-07T06:35:45+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@robin/109821473361531998",
-      "content": "<p>A great frame to parse Google's announcement of <a href=\"https://mastodon.social/tags/Bard\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Bard</span></a> with is <span class=\"h-card\"><a href=\"https://mamot.fr/@pluralistic\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>pluralistic</span></a></span>'s recent minting of \"enshittification\": <a href=\"https://pluralistic.net/2023/01/21/potemkin-ai/#hey-guys\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">pluralistic.net/2023/01/21/pot</span><span class=\"invisible\">emkin-ai/#hey-guys</span></a></p><p>The core proposition is clear from the UI: everyone gets less say except for Google.</p>"
-    },
-    "people": [
-      {
-        "url": "https://social.juanlu.space/@astrojuanlu",
-        "display_name": "Juan Luis"
-      },
-      {
-        "url": "https://sunny.garden/@winnie",
-        "display_name": "gwen windflower \ud83d\udcca\ud83e\udd37\ud83c\udffb\u200d\u2640\ud83d\udcc8"
-      },
-      {
-        "url": "https://fosstodon.org/@milesmcbain",
-        "display_name": "MilesMcBain"
-      },
-      {
-        "url": "https://lingo.lol/@grvsmth",
-        "display_name": "Dr. Angus Andrea Grieve-Smith"
-      },
-      {
-        "url": "https://mamot.fr/@pluralistic",
-        "display_name": "Cory Doctorow's linkblog"
-      },
-      {
-        "url": "https://vis.social/@elm",
-        "display_name": "Niklas Elmqvist"
-      }
-    ]
-  },
-  {
     "link": "https://www.kickstarter.com/projects/mwichary/shift-happens",
     "title": "kickstarter.com/projects/mwich...",
-    "latest": "2023-02-07T21:07:54+00:00",
+    "latest": "2023-02-08T06:33:35+00:00",
     "last_post": {
-      "url": "https://saturation.social/@jkottke/109825495856932673",
-      "content": "<p>Pro tip: do not introduce your trifling little t-shirt on the same day <span class=\"h-card\"><a href=\"https://mastodon.online/@mwichary\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>mwichary</span></a></span> launches his monumental book on keyboards.</p><p><a href=\"https://kottke.org/23/02/kottke-hypertext-tshirt\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">kottke.org/23/02/kottke-hypert</span><span class=\"invisible\">ext-tshirt</span></a></p><p><a href=\"https://www.kickstarter.com/projects/mwichary/shift-happens\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">kickstarter.com/projects/mwich</span><span class=\"invisible\">ary/shift-happens</span></a></p>"
+      "url": "https://social.coop/@scottjenson/109827720210674276",
+      "content": "<p>All of the cool kids are talking about <span class=\"h-card\"><a href=\"https://mastodon.online/@mwichary\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>mwichary</span></a></span> 's new book. You must check it out.  A book like this comes out very rarely and I've already enthusiastically ordered my copy.</p><p><a href=\"https://www.kickstarter.com/projects/mwichary/shift-happens\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">kickstarter.com/projects/mwich</span><span class=\"invisible\">ary/shift-happens</span></a></p>"
     },
     "people": [
       {
@@ -117,6 +82,45 @@
       {
         "url": "https://saturation.social/@jkottke",
         "display_name": "Jason Kottke"
+      },
+      {
+        "url": "https://social.coop/@scottjenson",
+        "display_name": "Scott Jenson"
+      }
+    ]
+  },
+  {
+    "link": "https://simonwillison.net/2023/Jan/13/semantic-search-answers/",
+    "title": "Semantic search answers: Q&A against documentation with GPT3 + OpenAI embeddings",
+    "latest": "2023-02-08T05:19:57+00:00",
+    "last_post": {
+      "url": "https://fedi.simonwillison.net/@simon/109825268418865436",
+      "content": "<p>It looks to me like the Bing implementation is the same pattern that a bunch of other people are trying at the moment: you run a traditional search, then dump the search result summaries into a prompt and get the language model to generate text using those summaries</p><p>I tried something similar against my blog a few weeks ago! <a href=\"https://simonwillison.net/2023/Jan/13/semantic-search-answers/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">simonwillison.net/2023/Jan/13/</span><span class=\"invisible\">semantic-search-answers/</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@osma",
+        "display_name": "Osma Suominen"
+      },
+      {
+        "url": "https://mastodon.social/@judell",
+        "display_name": "Jon Udell"
+      },
+      {
+        "url": "https://mastodon.social/@Colarusso",
+        "display_name": "David Colarusso"
+      },
+      {
+        "url": "https://sigmoid.social/@vh",
+        "display_name": "Vincent HETRU"
+      },
+      {
+        "url": "https://fedi.simonwillison.net/@simon",
+        "display_name": "Simon Willison"
+      },
+      {
+        "url": "https://mastodon.online/@vladiliescu",
+        "display_name": "Vlad Iliescu \ud83d\udc2c"
       }
     ]
   },
@@ -191,193 +195,12 @@
     ]
   },
   {
-    "link": "https://simonwillison.net/2023/Jan/13/semantic-search-answers/",
-    "title": "Semantic search answers: Q&A against documentation with GPT3 + OpenAI embeddings",
-    "latest": "2023-02-07T20:10:04+00:00",
-    "last_post": {
-      "url": "https://fedi.simonwillison.net/@simon/109825268418865436",
-      "content": "<p>It looks to me like the Bing implementation is the same pattern that a bunch of other people are trying at the moment: you run a traditional search, then dump the search result summaries into a prompt and get the language model to generate text using those summaries</p><p>I tried something similar against my blog a few weeks ago! <a href=\"https://simonwillison.net/2023/Jan/13/semantic-search-answers/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">simonwillison.net/2023/Jan/13/</span><span class=\"invisible\">semantic-search-answers/</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://sigmoid.social/@osma",
-        "display_name": "Osma Suominen"
-      },
-      {
-        "url": "https://mastodon.social/@judell",
-        "display_name": "Jon Udell"
-      },
-      {
-        "url": "https://mastodon.social/@Colarusso",
-        "display_name": "David Colarusso"
-      },
-      {
-        "url": "https://sigmoid.social/@vh",
-        "display_name": "Vincent HETRU"
-      },
-      {
-        "url": "https://fedi.simonwillison.net/@simon",
-        "display_name": "Simon Willison"
-      }
-    ]
-  },
-  {
-    "link": "https://www.stableattribution.com/",
-    "title": "Find the human art behind the A.I. images",
-    "latest": "2023-02-07T06:35:41+00:00",
-    "last_post": {
-      "url": "https://someone.elses.computer/@lilianedwards/109817588174070462",
-      "content": "<p>The problem with this <a href=\"https://www.stableattribution.com/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">stableattribution.com/</span><span class=\"invisible\"></span></a> (allowing lookup of which artists contributed to a generated  image) is it works because Stability  (and MidJourney and Hugging Faces diffusion algo) are built on an open source underlying dataset LAION.<br>Meanwhile those who put their stuff behind closed source / trade secret wall (hello OpenAI, sic) are not open to analysis.</p>"
-    },
-    "people": [
-      {
-        "url": "https://creative.ai/@alexjc",
-        "display_name": "Alex J. Champandard \u2744\ufe0f"
-      },
-      {
-        "url": "https://cornerof.world/users/mattdesl",
-        "display_name": "Matt DesLauriers"
-      },
-      {
-        "url": "https://mastodon.social/@GaelVaroquaux",
-        "display_name": "Ga\u00ebl Varoquaux"
-      },
-      {
-        "url": "https://social.juanlu.space/@astrojuanlu",
-        "display_name": "Juan Luis"
-      }
-    ]
-  },
-  {
-    "link": "https://www.zeit-verlagsgruppe.de/jobs/studentischer-mitarbeiter-werkstudent-daten-und-visualisierung-zeit-online-m-w-d/",
-    "title": "Studentischer Mitarbeiter / Werkstudent Daten und Visualisierung - ZEIT ONLINE (m/w/d) - Zeit Verlagsgruppe",
-    "latest": "2023-02-07T06:08:42+00:00",
-    "last_post": {
-      "url": "https://vis.social/@juliustroeger/109819920931812574",
-      "content": "<p>Du studierst und interessierst dich f\u00fcr Daten und Visualisierungen? Dann freuen wir uns \u00fcber deine Bewerbung!</p><p><a href=\"https://www.zeit-verlagsgruppe.de/jobs/studentischer-mitarbeiter-werkstudent-daten-und-visualisierung-zeit-online-m-w-d/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">zeit-verlagsgruppe.de/jobs/stu</span><span class=\"invisible\">dentischer-mitarbeiter-werkstudent-daten-und-visualisierung-zeit-online-m-w-d/</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://vis.social/@juliustroeger",
-        "display_name": "juliustroeger"
-      },
-      {
-        "url": "https://journa.host/@claus",
-        "display_name": "Claus Hesseling"
-      },
-      {
-        "url": "https://norden.social/@cartocalypse",
-        "display_name": ""
-      },
-      {
-        "url": "https://vis.social/@boris",
-        "display_name": "Boris M\u00fcller"
-      }
-    ]
-  },
-  {
-    "link": "https://blog.google/technology/ai/bard-google-ai-search-updates/",
-    "title": "An important next step on our AI journey",
-    "latest": "2023-02-07T06:56:13+00:00",
-    "last_post": {
-      "url": "https://sigmoid.social/@Riedl/109819425173551333",
-      "content": "<p>LaMDA is rebranded as Bard. A non-full-sized version is to be released in the next few weeks </p><p><a href=\"https://blog.google/technology/ai/bard-google-ai-search-updates/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">blog.google/technology/ai/bard</span><span class=\"invisible\">-google-ai-search-updates/</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@johnmu",
-        "display_name": "John Mueller"
-      },
-      {
-        "url": "https://dair-community.social/@emilymbender",
-        "display_name": "Emily M. Bender (she/her)"
-      },
-      {
-        "url": "https://wandering.shop/@minxdragon",
-        "display_name": "J. Rosenbaum (they/them)"
-      },
-      {
-        "url": "https://mastodon.social/@ayirpelle",
-        "display_name": "ayirpelle"
-      }
-    ]
-  },
-  {
-    "link": "http://www.trevorowens.org/2022/07/open-review-of-the-second-half-of-after-disruption-a-future-for-cultural-memory/",
-    "title": "Open Review of the Second Half of \u201cAfter Disruption: A Future for Cultural Memory\u201d",
-    "latest": "2023-02-07T06:57:00+00:00",
-    "last_post": {
-      "url": "https://digipres.club/@tjowens/109807653218703975",
-      "content": "<p>Starting on revisions to respond to peer reviews of my forthcoming book, After Disruption: A Future for Cultural Memory. For background on the book, you can read the full drafts of it here <a href=\"http://www.trevorowens.org/2022/07/open-review-of-the-second-half-of-after-disruption-a-future-for-cultural-memory/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">http://www.</span><span class=\"ellipsis\">trevorowens.org/2022/07/open-r</span><span class=\"invisible\">eview-of-the-second-half-of-after-disruption-a-future-for-cultural-memory/</span></a> and here <a href=\"http://www.trevorowens.org/2022/01/open-review-of-the-first-half-of-after-disruption-a-future-for-cultural-memory/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">http://www.</span><span class=\"ellipsis\">trevorowens.org/2022/01/open-r</span><span class=\"invisible\">eview-of-the-first-half-of-after-disruption-a-future-for-cultural-memory/</span></a></p><p>I am planning to add some additional targeted positive examples of cultural memory work/projects/initiatives that model centering an ethic of care, a maintenance mindset, and a focus on repair.</p>"
-    },
-    "people": [
-      {
-        "url": "https://digipres.club/@jonippolito",
-        "display_name": "Jon Ippolito"
-      },
-      {
-        "url": "https://mstdn.social/@felwert",
-        "display_name": "Frederik Elwert"
-      },
-      {
-        "url": "https://saturation.social/@shannonmattern",
-        "display_name": "Shannon Mattern"
-      }
-    ]
-  },
-  {
-    "link": "https://www.njtierney.com/post/2023/02/07/naniar-version-1/",
-    "title": "naniar Version 1.0.0 | Credibly Curious",
-    "latest": "2023-02-07T06:02:31+00:00",
-    "last_post": {
-      "url": "https://aus.social/@njtierney/109821850271511204",
-      "content": "<p>naniar version 1.0.0 is now on CRAN!</p><p>This is a 1.0.0 release to signify its publication in JSS - the Journal of Statistical Software. Thank you to <span class=\"h-card\"><a href=\"https://aus.social/@visnut\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>visnut</span></a></span> for her continued support and inspiration for the software and the paper</p><p>Here's a little bit more info in a blog post:</p><p><a href=\"https://www.njtierney.com/post/2023/02/07/naniar-version-1/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">njtierney.com/post/2023/02/07/</span><span class=\"invisible\">naniar-version-1/</span></a></p><p>And here's the JSS paper: <a href=\"https://www.jstatsoft.org/article/view/v105i07\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">jstatsoft.org/article/view/v10</span><span class=\"invisible\">5i07</span></a></p><p><a href=\"https://aus.social/tags/rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rstats</span></a> <a href=\"https://aus.social/tags/missingdata\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>missingdata</span></a> <a href=\"https://aus.social/tags/datavis\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>datavis</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@maelle",
-        "display_name": "Ma\u00eblle Salmon"
-      },
-      {
-        "url": "https://aus.social/@visnut",
-        "display_name": "Dr Di Cook"
-      },
-      {
-        "url": "https://fosstodon.org/@brodriguesco",
-        "display_name": "brodriguesco :rstats: :tux:"
-      }
-    ]
-  },
-  {
-    "link": "https://www.jstatsoft.org/article/view/v105i07",
-    "title": "jstatsoft.org/article/view/v10...",
-    "latest": "2023-02-07T06:02:31+00:00",
-    "last_post": {
-      "url": "https://aus.social/@njtierney/109821850271511204",
-      "content": "<p>naniar version 1.0.0 is now on CRAN!</p><p>This is a 1.0.0 release to signify its publication in JSS - the Journal of Statistical Software. Thank you to <span class=\"h-card\"><a href=\"https://aus.social/@visnut\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>visnut</span></a></span> for her continued support and inspiration for the software and the paper</p><p>Here's a little bit more info in a blog post:</p><p><a href=\"https://www.njtierney.com/post/2023/02/07/naniar-version-1/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">njtierney.com/post/2023/02/07/</span><span class=\"invisible\">naniar-version-1/</span></a></p><p>And here's the JSS paper: <a href=\"https://www.jstatsoft.org/article/view/v105i07\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">jstatsoft.org/article/view/v10</span><span class=\"invisible\">5i07</span></a></p><p><a href=\"https://aus.social/tags/rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rstats</span></a> <a href=\"https://aus.social/tags/missingdata\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>missingdata</span></a> <a href=\"https://aus.social/tags/datavis\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>datavis</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@maelle",
-        "display_name": "Ma\u00eblle Salmon"
-      },
-      {
-        "url": "https://aus.social/@visnut",
-        "display_name": "Dr Di Cook"
-      },
-      {
-        "url": "https://fosstodon.org/@brodriguesco",
-        "display_name": "brodriguesco :rstats: :tux:"
-      }
-    ]
-  },
-  {
     "link": "https://www.theverge.com/2023/2/7/23587454/microsoft-bing-edge-chatgpt-ai",
     "title": "Microsoft announces new Bing and Edge browser powered by upgraded ChatGPT AI",
-    "latest": "2023-02-07T19:53:20+00:00",
+    "latest": "2023-02-08T06:49:50+00:00",
     "last_post": {
-      "url": "https://sigmoid.social/@Riedl/109825202595396109",
-      "content": "<p>Bing's model is being called Prometheus, which is... a choice</p><p><a href=\"https://www.theverge.com/2023/2/7/23587454/microsoft-bing-edge-chatgpt-ai\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">theverge.com/2023/2/7/23587454</span><span class=\"invisible\">/microsoft-bing-edge-chatgpt-ai</span></a></p>"
+      "url": "https://writing.exchange/@ryansingel/109827724023854576",
+      "content": "<p>Microsoft is turning Bing into a AI-powered Ask Jeeves</p><p><a href=\"https://www.theverge.com/2023/2/7/23587454/microsoft-bing-edge-chatgpt-ai\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">theverge.com/2023/2/7/23587454</span><span class=\"invisible\">/microsoft-bing-edge-chatgpt-ai</span></a></p><p>I worked at Ask Jeeves in its hey day as Q&amp;A database, which is also when anyone at the company could see *all* the queries. </p><p>Which is to say I pity that chatbot and the people who are going to have to tune it.</p>"
     },
     "people": [
       {
@@ -391,6 +214,106 @@
       {
         "url": "https://sigmoid.social/@Riedl",
         "display_name": "Mark Riedl"
+      },
+      {
+        "url": "https://sigmoid.social/@Yarin",
+        "display_name": "Yarin :verified: :verified:"
+      },
+      {
+        "url": "https://mastodon.social/@mmasnick",
+        "display_name": "Mike Masnick \u2705"
+      }
+    ]
+  },
+  {
+    "link": "https://2023-eu.semantics.cc/page/cfp_rev_rep",
+    "title": "SEMANTICS-2023",
+    "latest": "2023-02-08T08:57:23+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@semantics/109760479285702961",
+      "content": "<p>CALL FOR PAPERS: Research and Innovation Track</p><p>We welcome papers on novel scientific research and/or innovations relevant to <a href=\"https://sigmoid.social/tags/SemanticWeb\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>SemanticWeb</span></a>, <a href=\"https://sigmoid.social/tags/KnowledgeGraphs\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>KnowledgeGraphs</span></a>, <a href=\"https://sigmoid.social/tags/AI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AI</span></a>, <a href=\"https://sigmoid.social/tags/ML\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ML</span></a>, <a href=\"https://sigmoid.social/tags/NLP\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>NLP</span></a> and more</p><p>Deadlines:<br>\ud83d\uddd3\ufe0fAbstracts: May 09<br>\ud83d\uddd3\ufe0fPapers: May 16</p><p>For more info: \ud83c\udf10<a href=\"https://2023-eu.semantics.cc/page/cfp_rev_rep\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">2023-eu.semantics.cc/page/cfp_</span><span class=\"invisible\">rev_rep</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@semantics",
+        "display_name": "SEMANTiCS Conference"
+      },
+      {
+        "url": "https://mastodon.nl/@pietervaneverdingen",
+        "display_name": "Pieter van Everdingen"
+      },
+      {
+        "url": "https://fedihum.org/@naudgnit",
+        "display_name": "Tinghui Duan \u6bb5\u5ead\u8f89 \ud83c\udf0e"
+      }
+    ]
+  },
+  {
+    "link": "https://clivethompson.medium.com/how-i-use-rss-to-rewild-my-attention-7731267a40d8",
+    "title": "How I Use RSS To \u201cRewild\u201d My Attention - Clive Thompson - Medium",
+    "latest": "2023-02-08T05:14:33+00:00",
+    "last_post": {
+      "url": "https://saturation.social/@clive/109825599186101635",
+      "content": "<p>\"How I Use RSS To 'Rewild' My Attention\"</p><p>My essay on the joys of using RSS to follow 400 weird, offbeat, niche blogs and sites that cater to my particular obsessions ...</p><p>... and how it helps me find more fascinating, deeper material than I see on algorthmically-sorted-for-virality social media </p><p>The piece, for Medium subscribers: <a href=\"https://clivethompson.medium.com/how-i-use-rss-to-rewild-my-attention-7731267a40d8\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">clivethompson.medium.com/how-i</span><span class=\"invisible\">-use-rss-to-rewild-my-attention-7731267a40d8</span></a></p><p>If you're not a Medium subscriber, here's a \"friend\" link: <a href=\"https://clivethompson.medium.com/how-i-use-rss-to-rewild-my-attention-7731267a40d8?sk=54d69b1b262db8d3d1a0229ae69816b9\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">clivethompson.medium.com/how-i</span><span class=\"invisible\">-use-rss-to-rewild-my-attention-7731267a40d8?sk=54d69b1b262db8d3d1a0229ae69816b9</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://octodon.social/@craignicol",
+        "display_name": "Craig Nicol"
+      },
+      {
+        "url": "https://saturation.social/@clive",
+        "display_name": "Clive Thompson"
+      },
+      {
+        "url": "https://fosstodon.org/@apreshill",
+        "display_name": "Alison Presmanes Hill"
+      }
+    ]
+  },
+  {
+    "link": "https://clivethompson.medium.com/how-i-use-rss-to-rewild-my-attention-7731267a40d8?sk=54d69b1b262db8d3d1a0229ae69816b9",
+    "title": "How I Use RSS To \u201cRewild\u201d My Attention - Clive Thompson - Medium",
+    "latest": "2023-02-08T05:14:33+00:00",
+    "last_post": {
+      "url": "https://saturation.social/@clive/109825599186101635",
+      "content": "<p>\"How I Use RSS To 'Rewild' My Attention\"</p><p>My essay on the joys of using RSS to follow 400 weird, offbeat, niche blogs and sites that cater to my particular obsessions ...</p><p>... and how it helps me find more fascinating, deeper material than I see on algorthmically-sorted-for-virality social media </p><p>The piece, for Medium subscribers: <a href=\"https://clivethompson.medium.com/how-i-use-rss-to-rewild-my-attention-7731267a40d8\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">clivethompson.medium.com/how-i</span><span class=\"invisible\">-use-rss-to-rewild-my-attention-7731267a40d8</span></a></p><p>If you're not a Medium subscriber, here's a \"friend\" link: <a href=\"https://clivethompson.medium.com/how-i-use-rss-to-rewild-my-attention-7731267a40d8?sk=54d69b1b262db8d3d1a0229ae69816b9\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">clivethompson.medium.com/how-i</span><span class=\"invisible\">-use-rss-to-rewild-my-attention-7731267a40d8?sk=54d69b1b262db8d3d1a0229ae69816b9</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://octodon.social/@craignicol",
+        "display_name": "Craig Nicol"
+      },
+      {
+        "url": "https://saturation.social/@clive",
+        "display_name": "Clive Thompson"
+      },
+      {
+        "url": "https://fosstodon.org/@apreshill",
+        "display_name": "Alison Presmanes Hill"
+      }
+    ]
+  },
+  {
+    "link": "https://thelead.uk/ghosts-behind-ai",
+    "title": "The ghosts behind AI",
+    "latest": "2023-02-08T08:04:34+00:00",
+    "last_post": {
+      "url": "https://dair-community.social/@DAIR/109825616733438833",
+      "content": "<p>\u201cThat is pretty much a tale as old as time, which is why it is being referred to as digital colonialism. Find people with the least resources, pay them as little as you can get away with and dispose of them as necessary.\u201d says <span class=\"h-card\"><a href=\"https://dair-community.social/@adrienneandgp\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>adrienneandgp</span></a></span> </p><p><a href=\"https://thelead.uk/ghosts-behind-ai\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">thelead.uk/ghosts-behind-ai</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://dair-community.social/@DAIR",
+        "display_name": "DAIR"
+      },
+      {
+        "url": "https://octodon.social/@craignicol",
+        "display_name": "Craig Nicol"
+      },
+      {
+        "url": "https://mastodon.me.uk/@slowe",
+        "display_name": "Stuart"
       }
     ]
   },
@@ -418,25 +341,6 @@
     ]
   },
   {
-    "link": "https://arxiv.org/abs/2212.03551",
-    "title": "Talking About Large Language Models",
-    "latest": "2023-02-07T07:54:40+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@BartSchellekens/109822376343892520",
-      "content": "<p>We moeten het hebben over hoe we we het hebben over <a href=\"https://mastodon.social/tags/AI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AI</span></a>.  </p><p>\"The more adept LLMs become at mimicking human language, the more vulnerable we become to anthropomorphism, to seeing the systems in which they are embedded as more human like than they really are. This trend is amplified by the natural tendency to use philosophically loaded terms, such as \"knows\", \"believes\", and \"thinks\", when describing these systems.\"</p><p>Great paper by <span class=\"h-card\"><a href=\"https://sigmoid.social/@mshanahan\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>mshanahan</span></a></span> </p><p>\u27a1<a href=\"https://arxiv.org/abs/2212.03551\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2212.03551</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@datatherapist",
-        "display_name": "The Data Therapist"
-      },
-      {
-        "url": "https://creative.ai/@arxiv_cl",
-        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
-      }
-    ]
-  },
-  {
     "link": "https://arxiv.org/abs/2211.01324",
     "title": "eDiff-I: Text-to-Image Diffusion Models with an Ensemble of Expert Denoisers",
     "latest": "2023-02-07T21:52:56+00:00",
@@ -456,21 +360,40 @@
     ]
   },
   {
-    "link": "https://find.sciences.social/",
-    "title": "https://find.sciences.social",
-    "latest": "2023-02-07T08:26:21+00:00",
+    "link": "https://arxiv.org/abs/2301.13867",
+    "title": "Mathematical Capabilities of ChatGPT",
+    "latest": "2023-02-08T07:11:22+00:00",
     "last_post": {
-      "url": "https://sciences.social/@markigra/109822402661178635",
-      "content": "<p><span class=\"h-card\"><a href=\"https://sigmoid.social/@LChoshen\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>LChoshen</span></a></span> Depending on the field you might try <a href=\"https://find.sciences.social\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">find.sciences.social</span><span class=\"invisible\"></span></a> , but that's only if those people signed up to be on one of the included lists.</p>"
+      "url": "https://mastodon.social/@dougholton/109827868772183197",
+      "content": "<p>A comprehensive listing of the types of things <a href=\"https://mastodon.social/tags/ChatGPT\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ChatGPT</span></a> can't do well (or fails at), including reasoning, factual errors, math, coding, and bias <a href=\"https://arxiv.org/abs/2302.03494\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2302.03494</span><span class=\"invisible\"></span></a><br>See also this GitHub repository: <a href=\"https://github.com/giuven95/chatgpt-failures\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/giuven95/chatgpt-fa</span><span class=\"invisible\">ilures</span></a><br>And this other paper analyzing the Mathematical Capabilities of ChatGPT <a href=\"https://arxiv.org/abs/2301.13867\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2301.13867</span><span class=\"invisible\"></span></a><br><a href=\"https://mastodon.social/tags/EdTech\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>EdTech</span></a> <a href=\"https://mastodon.social/tags/LLM\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>LLM</span></a> <a href=\"https://mastodon.social/tags/AI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AI</span></a> <a href=\"https://mastodon.social/tags/MathEd\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>MathEd</span></a></p>"
     },
     "people": [
       {
-        "url": "https://hci.social/@bkeegan",
-        "display_name": "Brian C. Keegan"
+        "url": "https://idf.social/@arjen",
+        "display_name": "Arjen P. de Vries Timmers \ud83d\udd4a\ufe0f"
       },
       {
-        "url": "https://sigmoid.social/@LChoshen",
-        "display_name": "Leshem Choshen"
+        "url": "https://mastodon.social/@dougholton",
+        "display_name": "Doug Holton"
+      }
+    ]
+  },
+  {
+    "link": "https://til.simonwillison.net/webassembly/python-in-a-wasm-sandbox",
+    "title": "til.simonwillison.net/webassem...",
+    "latest": "2023-02-08T05:13:19+00:00",
+    "last_post": {
+      "url": "https://fedi.simonwillison.net/@simon/109797308506437783",
+      "content": "<p>Thanks to <span class=\"h-card\"><a href=\"https://hachyderm.io/@pims\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>pims</span></a></span> I finally have code that successfully runs untrusted Python code inside a WebAssembly sandbox inside a wrapper Python script!</p><p>It's using wasmtime-py as the WebAssembly runtime, and the new build of Python-compiled-to-WebAssembly that VMware put out the other day</p><p><a href=\"https://til.simonwillison.net/webassembly/python-in-a-wasm-sandbox\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">til.simonwillison.net/webassem</span><span class=\"invisible\">bly/python-in-a-wasm-sandbox</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fedi.simonwillison.net/@simon",
+        "display_name": "Simon Willison"
+      },
+      {
+        "url": "https://social.yesterweb.org/@triptych",
+        "display_name": "Andrew Wooldridge"
       }
     ]
   },
@@ -494,21 +417,40 @@
     ]
   },
   {
-    "link": "http://www.trevorowens.org/2022/01/open-review-of-the-first-half-of-after-disruption-a-future-for-cultural-memory/",
-    "title": "trevorowens.org/2022/01/open-r...",
-    "latest": "2023-02-07T06:57:00+00:00",
+    "link": "https://caniuse.com/css-container-queries",
+    "title": "CSS Container Queries (Size) | Can I use... Support tables for HTML5, CSS3, etc",
+    "latest": "2023-02-08T07:52:08+00:00",
     "last_post": {
-      "url": "https://digipres.club/@tjowens/109807653218703975",
-      "content": "<p>Starting on revisions to respond to peer reviews of my forthcoming book, After Disruption: A Future for Cultural Memory. For background on the book, you can read the full drafts of it here <a href=\"http://www.trevorowens.org/2022/07/open-review-of-the-second-half-of-after-disruption-a-future-for-cultural-memory/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">http://www.</span><span class=\"ellipsis\">trevorowens.org/2022/07/open-r</span><span class=\"invisible\">eview-of-the-second-half-of-after-disruption-a-future-for-cultural-memory/</span></a> and here <a href=\"http://www.trevorowens.org/2022/01/open-review-of-the-first-half-of-after-disruption-a-future-for-cultural-memory/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">http://www.</span><span class=\"ellipsis\">trevorowens.org/2022/01/open-r</span><span class=\"invisible\">eview-of-the-first-half-of-after-disruption-a-future-for-cultural-memory/</span></a></p><p>I am planning to add some additional targeted positive examples of cultural memory work/projects/initiatives that model centering an ethic of care, a maintenance mindset, and a focus on repair.</p>"
+      "url": "https://mamot.fr/@nhoizey/109814001965601763",
+      "content": "<p>Firefox 110 will be released on February 14th, for all Container Queries lovers! \ud83e\udd70</p><p><a href=\"https://caniuse.com/css-container-queries\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">caniuse.com/css-container-quer</span><span class=\"invisible\">ies</span></a></p><p><a href=\"https://mamot.fr/tags/ContainerQueries\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ContainerQueries</span></a> <a href=\"https://mamot.fr/tags/CSS\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CSS</span></a> <a href=\"https://mamot.fr/tags/Firefox\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Firefox</span></a></p><p>\u2693\ufe0f <a href=\"https://nicolas-hoizey.com/notes/2023/02/05/1/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">nicolas-hoizey.com/notes/2023/</span><span class=\"invisible\">02/05/1/</span></a></p>"
     },
     "people": [
       {
-        "url": "https://mstdn.social/@felwert",
-        "display_name": "Frederik Elwert"
+        "url": "https://front-end.social/@jensimmons",
+        "display_name": "Jen Simmons"
       },
       {
-        "url": "https://saturation.social/@shannonmattern",
-        "display_name": "Shannon Mattern"
+        "url": "https://social.yesterweb.org/@triptych",
+        "display_name": "Andrew Wooldridge"
+      }
+    ]
+  },
+  {
+    "link": "https://nicolas-hoizey.com/notes/2023/02/05/1/",
+    "title": "nicolas-hoizey.com/notes/2023/...",
+    "latest": "2023-02-08T07:52:08+00:00",
+    "last_post": {
+      "url": "https://mamot.fr/@nhoizey/109814001965601763",
+      "content": "<p>Firefox 110 will be released on February 14th, for all Container Queries lovers! \ud83e\udd70</p><p><a href=\"https://caniuse.com/css-container-queries\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">caniuse.com/css-container-quer</span><span class=\"invisible\">ies</span></a></p><p><a href=\"https://mamot.fr/tags/ContainerQueries\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ContainerQueries</span></a> <a href=\"https://mamot.fr/tags/CSS\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CSS</span></a> <a href=\"https://mamot.fr/tags/Firefox\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Firefox</span></a></p><p>\u2693\ufe0f <a href=\"https://nicolas-hoizey.com/notes/2023/02/05/1/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">nicolas-hoizey.com/notes/2023/</span><span class=\"invisible\">02/05/1/</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://front-end.social/@jensimmons",
+        "display_name": "Jen Simmons"
+      },
+      {
+        "url": "https://social.yesterweb.org/@triptych",
+        "display_name": "Andrew Wooldridge"
       }
     ]
   },
@@ -551,63 +493,6 @@
     ]
   },
   {
-    "link": "https://cards-for-ukraine.at/",
-    "title": "Cards for Ukraine",
-    "latest": "2023-02-07T06:17:16+00:00",
-    "last_post": {
-      "url": "https://mastodon.gamedev.place/@badlogic/109819107861883258",
-      "content": "<p>Since donations are drying up, figured I mention our little project one more time.</p><p><a href=\"https://cards-for-ukraine.at\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">cards-for-ukraine.at</span><span class=\"invisible\"></span></a></p><p>We convert donations to \u20ac50 food vouchers for Ukrainian families who fled to Austria. We operate zero overhead, and even have a discount contract with a large local grocery chain.</p><p>I just finished packaging 260 cards of the last batch. We've sent out about \u20ac180.000 worth of vouchers since May 2022.</p><p>We're also 100% transparent. All contracts/orders/payments here:<br><a href=\"https://drive.google.com/drive/folders/1PxOL8A44bIRU1Hdoq87_2iXSLNmnMXQr\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">drive.google.com/drive/folders</span><span class=\"invisible\">/1PxOL8A44bIRU1Hdoq87_2iXSLNmnMXQr</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://fosstodon.org/@underdarkGIS",
-        "display_name": "Anita Graser \ud83c\uddea\ud83c\uddfa\ud83c\uddfa\ud83c\udde6"
-      },
-      {
-        "url": "https://sciences.social/@bernardforgues",
-        "display_name": "Bernard Forgues"
-      }
-    ]
-  },
-  {
-    "link": "https://drive.google.com/drive/folders/1PxOL8A44bIRU1Hdoq87_2iXSLNmnMXQr",
-    "title": "drive.google.com/drive/folders...",
-    "latest": "2023-02-07T06:17:16+00:00",
-    "last_post": {
-      "url": "https://mastodon.gamedev.place/@badlogic/109819107861883258",
-      "content": "<p>Since donations are drying up, figured I mention our little project one more time.</p><p><a href=\"https://cards-for-ukraine.at\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">cards-for-ukraine.at</span><span class=\"invisible\"></span></a></p><p>We convert donations to \u20ac50 food vouchers for Ukrainian families who fled to Austria. We operate zero overhead, and even have a discount contract with a large local grocery chain.</p><p>I just finished packaging 260 cards of the last batch. We've sent out about \u20ac180.000 worth of vouchers since May 2022.</p><p>We're also 100% transparent. All contracts/orders/payments here:<br><a href=\"https://drive.google.com/drive/folders/1PxOL8A44bIRU1Hdoq87_2iXSLNmnMXQr\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">drive.google.com/drive/folders</span><span class=\"invisible\">/1PxOL8A44bIRU1Hdoq87_2iXSLNmnMXQr</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://fosstodon.org/@underdarkGIS",
-        "display_name": "Anita Graser \ud83c\uddea\ud83c\uddfa\ud83c\uddfa\ud83c\udde6"
-      },
-      {
-        "url": "https://sciences.social/@bernardforgues",
-        "display_name": "Bernard Forgues"
-      }
-    ]
-  },
-  {
-    "link": "https://spacehost.one/",
-    "title": "SpaceHost",
-    "latest": "2023-02-07T06:54:20+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@atomicpoet/109819344666098449",
-      "content": "<p>\ud83e\udd73 HOORAY! \ud83e\udd73 </p><p><a href=\"https://mastodon.social/tags/SpaceHost\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>SpaceHost</span></a> is taking applications for early access!</p><p>What is <a href=\"https://mastodon.social/tags/SpaceHost\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>SpaceHost</span></a>? Fully managed hosting for the Fediverse!</p><p>Among the services we will host:</p><p>* Mastodon<br>* Pixelfed<br>* Calckey<br>* Lemmy<br>* Gitea<br>* and more!</p><p>What's more, we'll have your instance up and running within 5 minutes!</p><p><span class=\"h-card\"><a href=\"https://mastodon.social/@reiver\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>reiver</span></a></span> and I have been fast at work on <a href=\"https://mastodon.social/tags/SpaceHost\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>SpaceHost</span></a> for months. We want to make running a Fediverse instance super easy peasy!</p><p>It will soon be available in closed beta!</p><p><a href=\"https://spacehost.one/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">spacehost.one/</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@judell",
-        "display_name": "Jon Udell"
-      },
-      {
-        "url": "https://octodon.social/@craignicol",
-        "display_name": "Craig Nicol"
-      }
-    ]
-  },
-  {
     "link": "https://bit.ly/3a1RTAU",
     "title": "https://bit.ly/3a1RTAU",
     "latest": "2023-02-07T19:59:32+00:00",
@@ -627,59 +512,21 @@
     ]
   },
   {
-    "link": "https://ardc.edu.au/article/shaping-research-software-an-interview-with-michael-roach/",
-    "title": "Shaping Research Software: An Interview With Michael Roach | ARDC",
-    "latest": "2023-02-07T07:28:42+00:00",
+    "link": "https://github.com/nrennie/tidytuesday/tree/main/2023/2023-02-07",
+    "title": "tidytuesday/2023/2023-02-07 at main \u00b7 nrennie/tidytuesday",
+    "latest": "2023-02-08T08:39:04+00:00",
     "last_post": {
-      "url": "https://aus.social/@visnut/109822274588081338",
-      "content": "<p>If you are writing software for data analysis, consider applying for the Venables award at <a href=\"https://ardc.edu.au/article/shaping-research-software-an-interview-with-michael-roach/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">ardc.edu.au/article/shaping-re</span><span class=\"invisible\">search-software-an-interview-with-michael-roach/</span></a> <a href=\"https://aus.social/tags/rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rstats</span></a> <a href=\"https://aus.social/tags/python\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>python</span></a></p>"
+      "url": "https://fosstodon.org/@nrennie/109822776086528084",
+      "content": "<p>It's time for <a href=\"https://fosstodon.org/tags/TidyTuesday\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>TidyTuesday</span></a> again! Thanks to Evan Gower for sharing the data this week!</p><p>We're looking at stock prices of tech companies, and I used geom_sankey_bump() from {ggsankey} to look at the rank of Adobe over time!</p><p>Code: <a href=\"https://github.com/nrennie/tidytuesday/tree/main/2023/2023-02-07\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/nrennie/tidytuesday</span><span class=\"invisible\">/tree/main/2023/2023-02-07</span></a></p><p><a href=\"https://fosstodon.org/tags/RStats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>RStats</span></a> <a href=\"https://fosstodon.org/tags/DataViz\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DataViz</span></a> <a href=\"https://fosstodon.org/tags/R4DS\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>R4DS</span></a></p>"
     },
     "people": [
       {
-        "url": "https://fosstodon.org/@mdsumner",
-        "display_name": "mdsumner"
+        "url": "https://fosstodon.org/@nrennie",
+        "display_name": "Nicola Rennie"
       },
       {
-        "url": "https://aus.social/@visnut",
-        "display_name": "Dr Di Cook"
-      }
-    ]
-  },
-  {
-    "link": "https://ourworldindata.org/explorers/food-footprints?facet=none&amp;uniformYAxis=0&amp;Commodity+or+Specific+Food+Product=Specific+food+products&amp;Environmental+Impact=Carbon+footprint&amp;Kilogram+%2F+Protein+%2F+Calories=Per+kilogram&amp;By+stage+of+supply+chain=false&amp;country=Beefburger~Cow%27s+milk~Pizza~Oat+milk~Soy+milk~Almond+milk~Rice+milk",
-    "title": "Data Explorer: Environmental Impacts of Food",
-    "latest": "2023-02-07T08:53:10+00:00",
-    "last_post": {
-      "url": "https://mas.to/@maxroser/109822606715782915",
-      "content": "<p>One for breakfast: Greenhouse gas emissions per kilogram of different milks.</p><p>The production of cow\u2019s milk causes the highest emissions \u2013 oat milk the lowest.</p><p>From our \u2018Environmental Impacts of Food Explorer\u2019<br><a href=\"https://ourworldindata.org/explorers/food-footprints?facet=none&amp;uniformYAxis=0&amp;Commodity+or+Specific+Food+Product=Specific+food+products&amp;Environmental+Impact=Carbon+footprint&amp;Kilogram+%2F+Protein+%2F+Calories=Per+kilogram&amp;By+stage+of+supply+chain=false&amp;country=Beefburger~Cow%27s+milk~Pizza~Oat+milk~Soy+milk~Almond+milk~Rice+milk\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">ourworldindata.org/explorers/f</span><span class=\"invisible\">ood-footprints?facet=none&amp;uniformYAxis=0&amp;Commodity+or+Specific+Food+Product=Specific+food+products&amp;Environmental+Impact=Carbon+footprint&amp;Kilogram+%2F+Protein+%2F+Calories=Per+kilogram&amp;By+stage+of+supply+chain=false&amp;country=Beefburger~Cow%27s+milk~Pizza~Oat+milk~Soy+milk~Almond+milk~Rice+milk</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://vis.social/@jhilden",
-        "display_name": "Jonatan Hild\u00e9n"
-      },
-      {
-        "url": "https://mas.to/@maxroser",
-        "display_name": "Max Roser"
-      }
-    ]
-  },
-  {
-    "link": "https://radiofreefedi.net/",
-    "title": "https://radiofreefedi.net",
-    "latest": "2023-02-07T09:01:30+00:00",
-    "last_post": {
-      "url": "https://musician.social/@radiofreefedi/109822633703855977",
-      "content": "<p>for <a href=\"https://musician.social/tags/musicTuesday\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>musicTuesday</span></a> why not check out the fediverse's own 24/7 community stream of 100% fedi artists music, spoken word, poetry, micro fiction and fun</p><p>only a few days old but our catalogue and diversity are growing and everyone can participate. we need music, words, voices and readers, listeners and supporters and celebrators of fedi artists.</p><p>ways to listen and contribute:<br><a href=\"https://radiofreefedi.net\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">radiofreefedi.net</span><span class=\"invisible\"></span></a></p><p><a href=\"https://musician.social/tags/radioFreeFedi\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>radioFreeFedi</span></a> <a href=\"https://musician.social/tags/community\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>community</span></a> <a href=\"https://musician.social/tags/radio\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>radio</span></a> <a href=\"https://musician.social/tags/fediMusic\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>fediMusic</span></a> <a href=\"https://musician.social/tags/fediArt\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>fediArt</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.lol/@morgandawn",
-        "display_name": "Morgan Dawn"
-      },
-      {
-        "url": "https://mastodon.art/@Curator",
-        "display_name": "Mastodon\u2022ART \ud83c\udfa8 Curator :masto:"
+        "url": "https://fosstodon.org/@leeolney",
+        "display_name": "Lee Olney"
       }
     ]
   },
@@ -703,40 +550,21 @@
     ]
   },
   {
-    "link": "https://mazzzystar.github.io/2022/12/29/Run-CLIP-on-iPhone-to-Search-Photos/",
-    "title": "Run CLIP on iPhone to Search Photos | TL;DR",
-    "latest": "2023-02-07T07:45:03+00:00",
+    "link": "https://github.com/kdpsingh/Tidier.jl",
+    "title": "GitHub - kdpsingh/Tidier.jl: 100% Julia implementation of the R tidyverse mini-language",
+    "latest": "2023-02-08T06:44:51+00:00",
     "last_post": {
-      "url": "https://die-partei.social/@hackernews/109822338883807252",
-      "content": "<p>Run CLIP on iPhone to search photos - <a href=\"https://mazzzystar.github.io/2022/12/29/Run-CLIP-on-iPhone-to-Search-Photos/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">mazzzystar.github.io/2022/12/2</span><span class=\"invisible\">9/Run-CLIP-on-iPhone-to-Search-Photos/</span></a></p>"
+      "url": "https://mastodon.social/@kdpsingh/109826522960608268",
+      "content": "<p>Introducing Tidier.jl for <a href=\"https://mastodon.social/tags/JuliaLang\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>JuliaLang</span></a>:</p><p>A 100% Julia implementation of the <a href=\"https://mastodon.social/tags/rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rstats</span></a> {tidyverse}. Powered by the DataFrames.jl package and Julia\u2019s meta-programming capabilities.</p><p><a href=\"https://github.com/kdpsingh/Tidier.jl\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/kdpsingh/Tidier.jl</span><span class=\"invisible\"></span></a></p><p>Still a work in progress.</p><p>Tidier.jl currently supports many of the core tidyverse functions. Because the package implements a non-standard domain-specific language (i.e., tidyverse) within Julia, it requires macros instead of plain functions, which is why all of the functions start with a \"@\".</p>"
     },
     "people": [
       {
-        "url": "https://mastodon.social/@terhechte",
-        "display_name": "terhechte"
+        "url": "https://fosstodon.org/@johnmackintosh",
+        "display_name": "John MacKintosh"
       },
       {
-        "url": "https://die-partei.social/@hackernews",
-        "display_name": "Hackernews"
-      }
-    ]
-  },
-  {
-    "link": "https://spectrum.ieee.org/duolingo",
-    "title": "How Duolingo\u2019s AI Learns What You Need to Learn",
-    "latest": "2023-02-07T06:01:07+00:00",
-    "last_post": {
-      "url": "https://fediscience.org/@ct_bergstrom/109821497324805608",
-      "content": "<p>I write a fair bit about the things at AI/ML is not good at, so I want to acknowledge some of the really amazing use cases. </p><p>One seems to be in very specific kinds of education. </p><p>I'm very impressed with the capabilities of Duolingo, which I've been using 10-15 hours a week for the past four months. </p><p>Here's an interesting article from the Duolingo team about how they use ML to make it such a good learning experience.</p><p><a href=\"https://spectrum.ieee.org/duolingo\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">spectrum.ieee.org/duolingo</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://sigmoid.social/@ivanscat",
-        "display_name": "capybara-separated values"
-      },
-      {
-        "url": "https://recsys.social/@eugeneyan",
-        "display_name": "Eugene Yan"
+        "url": "https://mathstodon.xyz/@theta_max",
+        "display_name": "Tom"
       }
     ]
   },
@@ -756,44 +584,6 @@
       {
         "url": "https://mastodon.social/@dangillmor",
         "display_name": "Dan Gillmor"
-      }
-    ]
-  },
-  {
-    "link": "https://clivethompson.medium.com/how-i-use-rss-to-rewild-my-attention-7731267a40d8",
-    "title": "How I Use RSS To \u201cRewild\u201d My Attention - Clive Thompson - Medium",
-    "latest": "2023-02-07T21:34:11+00:00",
-    "last_post": {
-      "url": "https://saturation.social/@clive/109825599186101635",
-      "content": "<p>\"How I Use RSS To 'Rewild' My Attention\"</p><p>My essay on the joys of using RSS to follow 400 weird, offbeat, niche blogs and sites that cater to my particular obsessions ...</p><p>... and how it helps me find more fascinating, deeper material than I see on algorthmically-sorted-for-virality social media </p><p>The piece, for Medium subscribers: <a href=\"https://clivethompson.medium.com/how-i-use-rss-to-rewild-my-attention-7731267a40d8\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">clivethompson.medium.com/how-i</span><span class=\"invisible\">-use-rss-to-rewild-my-attention-7731267a40d8</span></a></p><p>If you're not a Medium subscriber, here's a \"friend\" link: <a href=\"https://clivethompson.medium.com/how-i-use-rss-to-rewild-my-attention-7731267a40d8?sk=54d69b1b262db8d3d1a0229ae69816b9\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">clivethompson.medium.com/how-i</span><span class=\"invisible\">-use-rss-to-rewild-my-attention-7731267a40d8?sk=54d69b1b262db8d3d1a0229ae69816b9</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://octodon.social/@craignicol",
-        "display_name": "Craig Nicol"
-      },
-      {
-        "url": "https://saturation.social/@clive",
-        "display_name": "Clive Thompson"
-      }
-    ]
-  },
-  {
-    "link": "https://clivethompson.medium.com/how-i-use-rss-to-rewild-my-attention-7731267a40d8?sk=54d69b1b262db8d3d1a0229ae69816b9",
-    "title": "How I Use RSS To \u201cRewild\u201d My Attention - Clive Thompson - Medium",
-    "latest": "2023-02-07T21:34:11+00:00",
-    "last_post": {
-      "url": "https://saturation.social/@clive/109825599186101635",
-      "content": "<p>\"How I Use RSS To 'Rewild' My Attention\"</p><p>My essay on the joys of using RSS to follow 400 weird, offbeat, niche blogs and sites that cater to my particular obsessions ...</p><p>... and how it helps me find more fascinating, deeper material than I see on algorthmically-sorted-for-virality social media </p><p>The piece, for Medium subscribers: <a href=\"https://clivethompson.medium.com/how-i-use-rss-to-rewild-my-attention-7731267a40d8\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">clivethompson.medium.com/how-i</span><span class=\"invisible\">-use-rss-to-rewild-my-attention-7731267a40d8</span></a></p><p>If you're not a Medium subscriber, here's a \"friend\" link: <a href=\"https://clivethompson.medium.com/how-i-use-rss-to-rewild-my-attention-7731267a40d8?sk=54d69b1b262db8d3d1a0229ae69816b9\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">clivethompson.medium.com/how-i</span><span class=\"invisible\">-use-rss-to-rewild-my-attention-7731267a40d8?sk=54d69b1b262db8d3d1a0229ae69816b9</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://octodon.social/@craignicol",
-        "display_name": "Craig Nicol"
-      },
-      {
-        "url": "https://saturation.social/@clive",
-        "display_name": "Clive Thompson"
       }
     ]
   },
@@ -855,6 +645,25 @@
     ]
   },
   {
+    "link": "http://blog.archive.org/2023/02/07/our-digital-history-is-at-risk/",
+    "title": "Our Digital History Is at Risk - Internet Archive Blogs",
+    "latest": "2023-02-08T07:26:16+00:00",
+    "last_post": {
+      "url": "https://mastodon.archive.org/@brewsterkahle/109824551077488579",
+      "content": "<p>\"Our Digital History Is at Risk\" by me in Time Magazine</p><p>Free societies need access to history, unaltered by changing corporate or political interests. </p><p>This is the role that libraries have played and need to keep playing. </p><p><a href=\"http://blog.archive.org/2023/02/07/our-digital-history-is-at-risk/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">http://</span><span class=\"ellipsis\">blog.archive.org/2023/02/07/ou</span><span class=\"invisible\">r-digital-history-is-at-risk/</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mas.to/@vrandecic",
+        "display_name": "Denny Vrande\u010di\u0107"
+      },
+      {
+        "url": "https://fedihum.org/@christof",
+        "display_name": "Christof Sch\u00f6ch (moderator)"
+      }
+    ]
+  },
+  {
     "link": "https://atlas.nomic.ai/map/twitter",
     "title": "Atlas",
     "latest": "2023-02-07T19:56:39+00:00",
@@ -870,6 +679,215 @@
       {
         "url": "https://dair-community.social/@miriamkp",
         "display_name": "Miriam Posner"
+      }
+    ]
+  },
+  {
+    "link": "https://orbital.rodeo/~mike/20230205-static-toot-archive/",
+    "title": "project: a static-hosted toot archive",
+    "latest": "2023-02-08T09:05:09+00:00",
+    "last_post": {
+      "url": "https://orbital.rodeo/.activitypub/pho4cexa-tweets/o/000000b.json",
+      "content": "<p>this toot was served not from a mastodon instance but from a static webserver running nginx! and yet it's boostable!? i didn't honestly expect this to actually work...</p><p>update 2023-02-05: <a href=\"https://orbital.rodeo/~mike/20230205-static-toot-archive/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">here's a writeup</a> about how this works.</p>"
+    },
+    "people": [
+      {
+        "url": "https://fosstodon.org/@richardvenusfo",
+        "display_name": "Richard"
+      },
+      {
+        "url": "https://wandering.shop/@cstross",
+        "display_name": "Charlie Stross"
+      }
+    ]
+  },
+  {
+    "link": "https://man.sr.ht/~etalab/logiciels-libres/docs/2023_01_RapportIndiceDurabilite.pdf",
+    "title": "man.sr.ht/~etalab/logiciels-li...",
+    "latest": "2023-02-08T08:43:05+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@CodeGouvFr/109817450485602079",
+      "content": "<p>Le conseil <a href=\"https://mastodon.social/tags/LogicielsLibres\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>LogicielsLibres</span></a>, anim\u00e9 par la mission logiciels libres de la DINUM, \u00e9met son 1er avis en r\u00e9pondant positivement \u00e0 la question: \"Pensez-vous que de rendre possible l\u2019installation d\u2019un syst\u00e8me d\u2019exploitation libre augmente la durabilit\u00e9 des ordinateurs (portables ou non) et des smartphones ?\" </p><p>Cet avis s\u2019est nourri d\u2019une synth\u00e8se r\u00e9dig\u00e9e par des membres du conseil \u00e0 lire ici\ud83d\udc49 <a href=\"https://man.sr.ht/~etalab/logiciels-libres/docs/2023_01_RapportIndiceDurabilite.pdf\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">man.sr.ht/~etalab/logiciels-li</span><span class=\"invisible\">bres/docs/2023_01_RapportIndiceDurabilite.pdf</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://framapiaf.org/@fcodvpt",
+        "display_name": "Fran\u00e7oise Conil"
+      },
+      {
+        "url": "https://mamot.fr/@pierrepo",
+        "display_name": "Pierre Poulain"
+      }
+    ]
+  },
+  {
+    "link": "https://brilliantmonocle.com/",
+    "title": "https://brilliantmonocle.com",
+    "latest": "2023-02-08T05:59:00+00:00",
+    "last_post": {
+      "url": "https://mastodon.gamedev.place/@omershapira/109827222410911182",
+      "content": "<p>If MONOCLE is remotely real, it's one of the bravest things to come out of open source hardware:</p><p>\u2022 Novel form factor pracitcal AR device<br>\u2022 Gain-of-function for ordinary people<br>\u2022 MCU-FPGA division of labor without large CPU<br>\u2022 $350</p><p><a href=\"https://brilliantmonocle.com\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">brilliantmonocle.com</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://wandering.shop/@cstross",
+        "display_name": "Charlie Stross"
+      },
+      {
+        "url": "https://hachyderm.io/@timbray",
+        "display_name": "Tim Bray"
+      }
+    ]
+  },
+  {
+    "link": "https://zbmed.github.io/damalos/",
+    "title": "DaMaLOS 2023",
+    "latest": "2023-02-08T08:31:14+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@lysander07/109828182812823658",
+      "content": "<p>3rd Workshop on Metadata and Research (objects) Management for Linked Open Science - <a href=\"https://sigmoid.social/tags/DaMaLOS2023\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DaMaLOS2023</span></a> at <br><span class=\"h-card\"><a href=\"https://sigmoid.social/@eswc_conf\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>eswc_conf</span></a></span> <a href=\"https://sigmoid.social/tags/eswc2023\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>eswc2023</span></a></p><p>Interested in <a href=\"https://sigmoid.social/tags/SemanticWeb\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>SemanticWeb</span></a> <a href=\"https://sigmoid.social/tags/LinkedOpenScience\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>LinkedOpenScience</span></a> <a href=\"https://sigmoid.social/tags/LinkedData\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>LinkedData</span></a> <a href=\"https://sigmoid.social/tags/OpenScience\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>OpenScience</span></a> <a href=\"https://sigmoid.social/tags/DataManagement\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DataManagement</span></a> <a href=\"https://sigmoid.social/tags/ROCrates\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ROCrates</span></a> and you want to share your research results? Deadline for paper submission: March 31, 2023 </p><p><a href=\"https://zbmed.github.io/damalos/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">zbmed.github.io/damalos/</span><span class=\"invisible\"></span></a> </p><p><span class=\"h-card\"><a href=\"https://mastodon.social/@ZBMED\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>ZBMED</span></a></span> <span class=\"h-card\"><a href=\"https://sciences.social/@GESIS\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>GESIS</span></a></span></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@metilli",
+        "display_name": "Daniele Metilli"
+      },
+      {
+        "url": "https://sigmoid.social/@lysander07",
+        "display_name": "Harald Sack"
+      }
+    ]
+  },
+  {
+    "link": "https://www.mtpr.org/montana-news/2023-02-07/bill-would-ban-the-teaching-of-scientific-theories-in-montana-schools",
+    "title": "Bill would ban the teaching of scientific theories in Montana schools",
+    "latest": "2023-02-08T06:25:21+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@JoeUchill/109827647500833074",
+      "content": "<p>Montana mulls a ban of teaching of any scientific theory.</p><p><a href=\"https://www.mtpr.org/montana-news/2023-02-07/bill-would-ban-the-teaching-of-scientific-theories-in-montana-schools\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">mtpr.org/montana-news/2023-02-</span><span class=\"invisible\">07/bill-would-ban-the-teaching-of-scientific-theories-in-montana-schools</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://wandering.shop/@cstross",
+        "display_name": "Charlie Stross"
+      },
+      {
+        "url": "https://dair-community.social/@ubiquity75",
+        "display_name": "Sarah T. Roberts, Ph.D."
+      }
+    ]
+  },
+  {
+    "link": "https://blogs.microsoft.com/blog/2023/02/07/reinventing-search-with-a-new-ai-powered-microsoft-bing-and-edge-your-copilot-for-the-web/",
+    "title": "Reinventing search with a new AI-powered Microsoft Bing and Edge, your copilot for the web - The Official Microsoft Blog",
+    "latest": "2023-02-08T06:13:22+00:00",
+    "last_post": {
+      "url": "https://arvr.social/@rschu/109827640665442582",
+      "content": "<p>Microsoft's answer to Google's answer to ChatGPT ? \ud83d\ude2c</p><p>Bing includes an <a href=\"https://arvr.social/tags/AI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AI</span></a> Copilot. You can even try it already! \ud83e\udd13</p><p>Really clever to use the best of both worlds with <a href=\"https://arvr.social/tags/LLMs\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>LLMs</span></a> combined with web search responses to solve the issue of outdated information.  \ud83d\udca1</p><p><a href=\"https://blogs.microsoft.com/blog/2023/02/07/reinventing-search-with-a-new-ai-powered-microsoft-bing-and-edge-your-copilot-for-the-web/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">blogs.microsoft.com/blog/2023/</span><span class=\"invisible\">02/07/reinventing-search-with-a-new-ai-powered-microsoft-bing-and-edge-your-copilot-for-the-web/</span></a></p><p><a href=\"https://arvr.social/tags/AI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AI</span></a> <a href=\"https://arvr.social/tags/DeepLearning\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DeepLearning</span></a> <a href=\"https://arvr.social/tags/LLM\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>LLM</span></a> <a href=\"https://arvr.social/tags/chatgpt\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>chatgpt</span></a> <a href=\"https://arvr.social/tags/largelanguagemodels\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>largelanguagemodels</span></a> <a href=\"https://arvr.social/tags/transformers\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>transformers</span></a> <a href=\"https://arvr.social/tags/NLP\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>NLP</span></a> <a href=\"https://arvr.social/tags/bard\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>bard</span></a> <a href=\"https://arvr.social/tags/google\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>google</span></a> <a href=\"https://arvr.social/tags/gpt3\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>gpt3</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@snifffe",
+        "display_name": "Snifffe"
+      },
+      {
+        "url": "https://arvr.social/@rschu",
+        "display_name": "Rene Schulte"
+      }
+    ]
+  },
+  {
+    "link": "https://testthat.r-lib.org/reference/index.html#reporters",
+    "title": "Function reference",
+    "latest": "2023-02-08T05:53:11+00:00",
+    "last_post": {
+      "url": "https://aus.social/@njtierney/109827341244301636",
+      "content": "<p>Alrighty I feel like I've run into this <a href=\"https://aus.social/tags/rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rstats</span></a> <a href=\"https://aus.social/tags/unittesting\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>unittesting</span></a> issue many times, and each time I get confused.</p><p>In testthat - I want to be able to keep a log of the tests somewhere so I can look at date/timestamped tests.</p><p>I remember that there's something about special \"Reporter\" classes or something, but I don't really know what that means, and I can't seem to find examples on the testthat documentation. I could definitely be missing something here - if anyone knows were to look, I'm all ears.</p><p>My question is:</p><p>How do I save the text output from `testthat::test()`?</p><p>I seem to recall that there's some testthat option, but I can't seem to find it here: <a href=\"https://testthat.r-lib.org/reference/index.html#reporters\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">testthat.r-lib.org/reference/i</span><span class=\"invisible\">ndex.html#reporters</span></a> </p><p>I also can't seem to find much info about Reporters here? <a href=\"https://testthat.r-lib.org/reference/MinimalReporter.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">testthat.r-lib.org/reference/M</span><span class=\"invisible\">inimalReporter.html</span></a> I see that they are mentioned in NEWS: <a href=\"https://testthat.r-lib.org/news/index.html?q=reporter#reporters-1-0-0\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">testthat.r-lib.org/news/index.</span><span class=\"invisible\">html?q=reporter#reporters-1-0-0</span></a></p><p>Anywho, my usecase is this:</p><p>My tests sometimes 15-20 minutes. I want to check that I'm getting consistent testing behaviour, but after tinkering and fixing, I can't see what the original test failures were. So I need to run them again, and that takes time.</p><p>Yes, I can check GH actions tests, but sometimes those aren't accurate for GH related reasons.</p><p>Has anyone got some thoughts on this?</p><p>I should also note that <span class=\"h-card\"><a href=\"https://fosstodon.org/@yoni_cd\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>yoni_cd</span></a></span> 's <a href=\"https://github.com/yonicd/covr\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/yonicd/covr</span><span class=\"invisible\"></span></a> package does nearly everything I want, however I have run into some minor issues to do with my pkg that break things.</p>"
+    },
+    "people": [
+      {
+        "url": "https://fosstodon.org/@brodriguesco",
+        "display_name": "brodriguesco :rstats: :tux:"
+      },
+      {
+        "url": "https://mas.to/@dpprdan",
+        "display_name": "Daniel Possenriede"
+      }
+    ]
+  },
+  {
+    "link": "https://testthat.r-lib.org/reference/MinimalReporter.html",
+    "title": "testthat.r-lib.org/reference/M...",
+    "latest": "2023-02-08T05:53:11+00:00",
+    "last_post": {
+      "url": "https://aus.social/@njtierney/109827341244301636",
+      "content": "<p>Alrighty I feel like I've run into this <a href=\"https://aus.social/tags/rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rstats</span></a> <a href=\"https://aus.social/tags/unittesting\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>unittesting</span></a> issue many times, and each time I get confused.</p><p>In testthat - I want to be able to keep a log of the tests somewhere so I can look at date/timestamped tests.</p><p>I remember that there's something about special \"Reporter\" classes or something, but I don't really know what that means, and I can't seem to find examples on the testthat documentation. I could definitely be missing something here - if anyone knows were to look, I'm all ears.</p><p>My question is:</p><p>How do I save the text output from `testthat::test()`?</p><p>I seem to recall that there's some testthat option, but I can't seem to find it here: <a href=\"https://testthat.r-lib.org/reference/index.html#reporters\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">testthat.r-lib.org/reference/i</span><span class=\"invisible\">ndex.html#reporters</span></a> </p><p>I also can't seem to find much info about Reporters here? <a href=\"https://testthat.r-lib.org/reference/MinimalReporter.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">testthat.r-lib.org/reference/M</span><span class=\"invisible\">inimalReporter.html</span></a> I see that they are mentioned in NEWS: <a href=\"https://testthat.r-lib.org/news/index.html?q=reporter#reporters-1-0-0\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">testthat.r-lib.org/news/index.</span><span class=\"invisible\">html?q=reporter#reporters-1-0-0</span></a></p><p>Anywho, my usecase is this:</p><p>My tests sometimes 15-20 minutes. I want to check that I'm getting consistent testing behaviour, but after tinkering and fixing, I can't see what the original test failures were. So I need to run them again, and that takes time.</p><p>Yes, I can check GH actions tests, but sometimes those aren't accurate for GH related reasons.</p><p>Has anyone got some thoughts on this?</p><p>I should also note that <span class=\"h-card\"><a href=\"https://fosstodon.org/@yoni_cd\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>yoni_cd</span></a></span> 's <a href=\"https://github.com/yonicd/covr\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/yonicd/covr</span><span class=\"invisible\"></span></a> package does nearly everything I want, however I have run into some minor issues to do with my pkg that break things.</p>"
+    },
+    "people": [
+      {
+        "url": "https://fosstodon.org/@brodriguesco",
+        "display_name": "brodriguesco :rstats: :tux:"
+      },
+      {
+        "url": "https://mas.to/@dpprdan",
+        "display_name": "Daniel Possenriede"
+      }
+    ]
+  },
+  {
+    "link": "https://testthat.r-lib.org/news/index.html?q=reporter#reporters-1-0-0",
+    "title": "testthat.r-lib.org/news/index....",
+    "latest": "2023-02-08T05:53:11+00:00",
+    "last_post": {
+      "url": "https://aus.social/@njtierney/109827341244301636",
+      "content": "<p>Alrighty I feel like I've run into this <a href=\"https://aus.social/tags/rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rstats</span></a> <a href=\"https://aus.social/tags/unittesting\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>unittesting</span></a> issue many times, and each time I get confused.</p><p>In testthat - I want to be able to keep a log of the tests somewhere so I can look at date/timestamped tests.</p><p>I remember that there's something about special \"Reporter\" classes or something, but I don't really know what that means, and I can't seem to find examples on the testthat documentation. I could definitely be missing something here - if anyone knows were to look, I'm all ears.</p><p>My question is:</p><p>How do I save the text output from `testthat::test()`?</p><p>I seem to recall that there's some testthat option, but I can't seem to find it here: <a href=\"https://testthat.r-lib.org/reference/index.html#reporters\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">testthat.r-lib.org/reference/i</span><span class=\"invisible\">ndex.html#reporters</span></a> </p><p>I also can't seem to find much info about Reporters here? <a href=\"https://testthat.r-lib.org/reference/MinimalReporter.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">testthat.r-lib.org/reference/M</span><span class=\"invisible\">inimalReporter.html</span></a> I see that they are mentioned in NEWS: <a href=\"https://testthat.r-lib.org/news/index.html?q=reporter#reporters-1-0-0\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">testthat.r-lib.org/news/index.</span><span class=\"invisible\">html?q=reporter#reporters-1-0-0</span></a></p><p>Anywho, my usecase is this:</p><p>My tests sometimes 15-20 minutes. I want to check that I'm getting consistent testing behaviour, but after tinkering and fixing, I can't see what the original test failures were. So I need to run them again, and that takes time.</p><p>Yes, I can check GH actions tests, but sometimes those aren't accurate for GH related reasons.</p><p>Has anyone got some thoughts on this?</p><p>I should also note that <span class=\"h-card\"><a href=\"https://fosstodon.org/@yoni_cd\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>yoni_cd</span></a></span> 's <a href=\"https://github.com/yonicd/covr\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/yonicd/covr</span><span class=\"invisible\"></span></a> package does nearly everything I want, however I have run into some minor issues to do with my pkg that break things.</p>"
+    },
+    "people": [
+      {
+        "url": "https://fosstodon.org/@brodriguesco",
+        "display_name": "brodriguesco :rstats: :tux:"
+      },
+      {
+        "url": "https://mas.to/@dpprdan",
+        "display_name": "Daniel Possenriede"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/yonicd/covr",
+    "title": "https://github.com/yonicd/covr",
+    "latest": "2023-02-08T05:53:11+00:00",
+    "last_post": {
+      "url": "https://aus.social/@njtierney/109827341244301636",
+      "content": "<p>Alrighty I feel like I've run into this <a href=\"https://aus.social/tags/rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rstats</span></a> <a href=\"https://aus.social/tags/unittesting\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>unittesting</span></a> issue many times, and each time I get confused.</p><p>In testthat - I want to be able to keep a log of the tests somewhere so I can look at date/timestamped tests.</p><p>I remember that there's something about special \"Reporter\" classes or something, but I don't really know what that means, and I can't seem to find examples on the testthat documentation. I could definitely be missing something here - if anyone knows were to look, I'm all ears.</p><p>My question is:</p><p>How do I save the text output from `testthat::test()`?</p><p>I seem to recall that there's some testthat option, but I can't seem to find it here: <a href=\"https://testthat.r-lib.org/reference/index.html#reporters\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">testthat.r-lib.org/reference/i</span><span class=\"invisible\">ndex.html#reporters</span></a> </p><p>I also can't seem to find much info about Reporters here? <a href=\"https://testthat.r-lib.org/reference/MinimalReporter.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">testthat.r-lib.org/reference/M</span><span class=\"invisible\">inimalReporter.html</span></a> I see that they are mentioned in NEWS: <a href=\"https://testthat.r-lib.org/news/index.html?q=reporter#reporters-1-0-0\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">testthat.r-lib.org/news/index.</span><span class=\"invisible\">html?q=reporter#reporters-1-0-0</span></a></p><p>Anywho, my usecase is this:</p><p>My tests sometimes 15-20 minutes. I want to check that I'm getting consistent testing behaviour, but after tinkering and fixing, I can't see what the original test failures were. So I need to run them again, and that takes time.</p><p>Yes, I can check GH actions tests, but sometimes those aren't accurate for GH related reasons.</p><p>Has anyone got some thoughts on this?</p><p>I should also note that <span class=\"h-card\"><a href=\"https://fosstodon.org/@yoni_cd\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>yoni_cd</span></a></span> 's <a href=\"https://github.com/yonicd/covr\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/yonicd/covr</span><span class=\"invisible\"></span></a> package does nearly everything I want, however I have run into some minor issues to do with my pkg that break things.</p>"
+    },
+    "people": [
+      {
+        "url": "https://fosstodon.org/@brodriguesco",
+        "display_name": "brodriguesco :rstats: :tux:"
+      },
+      {
+        "url": "https://mas.to/@dpprdan",
+        "display_name": "Daniel Possenriede"
+      }
+    ]
+  },
+  {
+    "link": "https://www.thurrott.com/cloud/social/279094/mastodon-continues-to-lose-users",
+    "title": "Mastodon Continues to Lose Users",
+    "latest": "2023-02-08T05:52:13+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@mmasnick/109827557524288491",
+      "content": "<p>More strange Mastodon reporting. This time from <span class=\"h-card\"><a href=\"https://twit.social/@thurrott\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>thurrott</span></a></span>, who claims \"I\u2019ve been using Mastodon since December, but the interaction there is almost non-existent compared to Twitter.\"</p><p>Dude, you follow 22 people. Try following more people. The \"non-existent\" interaction is *up to you*.</p><p>I've found WAY MORE interactions and engagement here than I ever had on Twitter. Plus fewer death threats. </p><p><a href=\"https://www.thurrott.com/cloud/social/279094/mastodon-continues-to-lose-users\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">thurrott.com/cloud/social/2790</span><span class=\"invisible\">94/mastodon-continues-to-lose-users</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://twit.social/@glennf",
+        "display_name": "Glenn Fleishman"
+      },
+      {
+        "url": "https://mastodon.social/@mmasnick",
+        "display_name": "Mike Masnick \u2705"
       }
     ]
   }
