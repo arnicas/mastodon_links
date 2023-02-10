@@ -1,5 +1,103 @@
 [
   {
+    "link": "https://github.com/sts10/sort_bench/blob/main/benches/sorts.rs#L25-L28",
+    "title": "sort_bench/sorts.rs at main \u00b7 sts10/sort_bench",
+    "latest": "2023-02-10T21:43:25+00:00",
+    "last_post": {
+      "url": "https://hachyderm.io/@schlink/109842622405261524",
+      "content": "<p>OK riddle me this: </p><p>How do I benchmark a function that changes (mutates) its input? Cuz like, on the second of 100 runs, it's going to be already changed from the first run?</p><p><a href=\"https://github.com/sts10/sort_bench/blob/main/benches/sorts.rs#L25-L28\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/sts10/sort_bench/bl</span><span class=\"invisible\">ob/main/benches/sorts.rs#L25-L28</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://hachyderm.io/@schlink",
+        "display_name": "Sam Schlinkert"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/jorvlan/raincloudplots-workshops",
+    "title": "GitHub - jorvlan/raincloudplots-workshops: raincloudplots workshops",
+    "latest": "2023-02-10T21:25:33+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@rogierK/109839855138108315",
+      "content": "<p>As part of our Open Science Fund, we will host our fourth (&amp;last) FREE Raincloudplots virtual workshop - Sign up and join us to learn how to make rainclouds in R and Python!<br>When: 17 Feb 2023, 14:00-16:00 CET<br>Sign-up: <a href=\"https://github.com/jorvlan/raincloudplots-workshops\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/jorvlan/raincloudpl</span><span class=\"invisible\">ots-workshops</span></a><br>Funded by: <a href=\"https://mastodon.social/tags/NWO\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>NWO</span></a> <a href=\"https://mastodon.social/tags/OpenScienceFund\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>OpenScienceFund</span></a> (edited) <a href=\"https://mastodon.social/tags/rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rstats</span></a> <a href=\"https://mastodon.social/tags/datascience\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>datascience</span></a> <a href=\"https://mastodon.social/tags/dataisbeautiful\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>dataisbeautiful</span></a> <a href=\"https://mastodon.social/tags/raincloudplots\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>raincloudplots</span></a> <span class=\"h-card\"><a href=\"https://mas.to/@jordyvanlangen\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>jordyvanlangen</span></a></span></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@JoranJongerling",
+        "display_name": "Joran"
+      }
+    ]
+  },
+  {
+    "link": "https://observablehq.com/@asg017/introducing-sqlite-vss",
+    "title": "Introducing sqlite-vss: A SQLite Extension for Vector Search",
+    "latest": "2023-02-10T21:13:47+00:00",
+    "last_post": {
+      "url": "https://fedi.simonwillison.net/@simon/109842505896608627",
+      "content": "<p>The interactive demo for <span class=\"h-card\"><a href=\"https://data-folks.masto.host/@alexgarciaxyz\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>alexgarciaxyz</span></a></span>'s new sqlite-vss extension - adding vector similarity search to SQLite - really has to be seen to be believed:</p><p><a href=\"https://observablehq.com/@asg017/introducing-sqlite-vss\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">observablehq.com/@asg017/intro</span><span class=\"invisible\">ducing-sqlite-vss</span></a></p><p>He has fast semantic search running against 200,000 news headlines and summaries and the results are fantastic: stories about Halloween returned for \"scary orange holiday\" for example</p>"
+    },
+    "people": [
+      {
+        "url": "https://newsie.social/@derekwillis",
+        "display_name": "Derek Willis"
+      },
+      {
+        "url": "https://fedi.simonwillison.net/@simon",
+        "display_name": "Simon Willison"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/zihao12/concept-algebra",
+    "title": "GitHub - zihao12/concept-algebra",
+    "latest": "2023-02-10T21:00:34+00:00",
+    "last_post": {
+      "url": "https://creative.ai/@arxiv_cl/109842453895671637",
+      "content": "<p>\ud83d\udcdd Concept Algebra for Text-Controlled Vision Models \ud83d\udcda\ud83e\udde0</p><p>\"Concept algebra is a way to directly manipulate concepts that the output depends on by using algebraic operations on a suitably defined representation of input prompts (the concept representation).\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a> <a href=\"https://creative.ai/tags/LG\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>LG</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/zihao12/concept-algebra\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/zihao12/concept-alg</span><span class=\"invisible\">ebra</span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2302.03693v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2302.03693v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://creative.ai/@arxiv_cl",
+        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/contributor-experience",
+    "title": "contributor-experience",
+    "latest": "2023-02-10T20:19:07+00:00",
+    "last_post": {
+      "url": "https://floss.social/@lhawthorn/109811734725378069",
+      "content": "<p>Have been behind on Tooting from <a href=\"https://floss.social/tags/CommunityDevRoom\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CommunityDevRoom</span></a>. Thank you to Inessa Pawson for her excellent presentation on contributor experience. Community of Practice for folks interested in joining in discussion to improve contributor experience at <a href=\"https://github.com/contributor-experience\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/contributor-experie</span><span class=\"invisible\">nce</span></a> <a href=\"https://floss.social/tags/FOSDEM\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>FOSDEM</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://chaos.social/@noatamir",
+        "display_name": "Noa :python: \ud83c\udff3\ufe0f\u200d\ud83c\udf08"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/quadrismegistus/mastotron",
+    "title": "GitHub - quadrismegistus/mastotron: Different interface to mastodon",
+    "latest": "2023-02-10T20:18:58+00:00",
+    "last_post": {
+      "url": "https://zirk.us/@heuser/109838089472588601",
+      "content": "<p>Introducing my hobby coding project since xmas: </p><p>Mastotron!</p><p>It's a different interface to Mastodon, replacing the mindless \"feed\" of most social media with a network map of conversations and recent and popular posts. </p><p>\ud83d\udc49 You can download it here: <a href=\"https://github.com/quadrismegistus/mastotron\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/quadrismegistus/mas</span><span class=\"invisible\">totron</span></a> \ud83d\udd96</p><p>There's easy, double-click installation for Mac and Linux; Windows is a bit trickier for now. </p><p>This is b new, so bound to be bugs. But if you can, give it a whirl, and let me know if it works and what you'd like to see!</p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@kidehen",
+        "display_name": "Kingsley Uyi Idehen"
+      },
+      {
+        "url": "https://mastodon.social/@Gargron",
+        "display_name": "Eugen Rochko"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/pharmapsychotic/",
     "title": "pharmapsychotic - Overview",
     "latest": "2023-02-10T09:37:52+00:00",
@@ -3022,100 +3120,6 @@
       {
         "url": "https://idf.social/@arjen",
         "display_name": "Arjen P. de Vries Timmers \ud83d\udd4a\ufe0f"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/360-info/sverto",
-    "title": "GitHub - 360-info/sverto: Add Svelte visualisations to your Quarto documents",
-    "latest": "2023-01-25T06:53:41+00:00",
-    "last_post": {
-      "url": "https://aus.social/@jimjamslam/109746920532428999",
-      "content": "<p>I'm really excited to present Sverto! Sverto is an open tool for seamlessly adding reactive <a href=\"https://aus.social/tags/svelte\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>svelte</span></a> <a href=\"https://aus.social/tags/dataviz\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>dataviz</span></a> to <a href=\"https://aus.social/tags/quartopub\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>quartopub</span></a> docs and websites.</p><p>\ud83d\udcbb Code: <a href=\"https://github.com/360-info/sverto\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/360-info/sverto</span><span class=\"invisible\"></span></a><br>\ud83d\udcda Docs: <a href=\"https://360-info.github.io/sverto\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">360-info.github.io/sverto</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://vis.social/@seblammers",
-        "display_name": "Sebastian Lammers"
-      },
-      {
-        "url": "https://fosstodon.org/@johnmackintosh",
-        "display_name": "John MacKintosh"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/ahmedssabir/",
-    "title": "ahmedssabir - Overview",
-    "latest": "2023-01-25T06:51:02+00:00",
-    "last_post": {
-      "url": "https://creative.ai/@arxiv_cl/109748516458419555",
-      "content": "<p>\ud83d\udcdd Visual Semantic Relatedness Dataset for Image Captioning \ud83d\udcda\ud83d\udd2d</p><p>\"Proposes textual visual context dataset (TVC), in which the publicly available dataset COCO Captions (Lin et al, 2014) has been extended with information about the scene (such as objects in the image).\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a> <a href=\"https://creative.ai/tags/CV\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CV</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/ahmedssabir/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/ahmedssabir/</span><span class=\"invisible\"></span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2301.08784v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2301.08784v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://creative.ai/@arxiv_cl",
-        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/vinesmsuic/ipainter-diffusion",
-    "title": "https://github.com/vinesmsuic/ipainter-diffusion",
-    "latest": "2023-01-25T04:53:44.865000+00:00",
-    "last_post": {
-      "url": "https://a.farook.org/objects/e17eb6f2-74e1-4dcc-9fb4-c801ac9a1bae",
-      "content": "\"Intelligent Painter: Picture Composition With Resampling Diffusion Model. (arXiv:2210.17106v2 [cs.CV] UPDATED)\" \u2014 An intelligent painter that generate a person's imaginary scene in one go, given explicit hints as to the objects to appear in the final image, their placement in the image etc.<br><br>Paper: <a href=\"http://arxiv.org/abs/2210.17106\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">http://arxiv.org/abs/2210.17106</a><br>Code: <a href=\"https://github.com/vinesmsuic/ipainter-diffusion\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">https://github.com/vinesmsuic/ipainter-diffusion</a><br><br><a class=\"hashtag\" href=\"https://a.farook.org/tag/ai\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#AI</a> <a class=\"hashtag\" href=\"https://a.farook.org/tag/cv\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#CV</a> <a class=\"hashtag\" href=\"https://a.farook.org/tag/newpaper\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#NewPaper</a> <a class=\"hashtag\" href=\"https://a.farook.org/tag/deeplearning\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#DeepLearning</a>  <a class=\"hashtag\" href=\"https://a.farook.org/tag/machinelearning\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#MachineLearning</a><br><br>&lt;&lt;Find this useful? Please boost so that others can benefit too \ud83d\ude42&gt;&gt;<br><a href=\"https://a.farook.org/media/be46629eed4a3639987f125c68f2d91be14c3f1dbdf37797dc98b567c3448f3c.jpg\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">The architecture of the propose\u2026</a>"
-    },
-    "people": [
-      {
-        "url": "https://a.farook.org/users/f",
-        "display_name": "Fahim Farook"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/claroche-r/pnp_ladmm",
-    "title": "https://github.com/claroche-r/pnp_ladmm",
-    "latest": "2023-01-25T04:49:59.650000+00:00",
-    "last_post": {
-      "url": "https://a.farook.org/objects/812da29f-872f-4fb2-b56e-12bd57c6b7d1",
-      "content": "\"Provably Convergent Plug &amp; Play Linearized ADMM, applied to Deblurring Spatially Varying Kernels. (arXiv:2210.10605v3 [cs.CV] UPDATED)\" \u2014 A plug &amp; play framework based on linearized ADMM that allows you to bypass the computation of intractable proximal operators. <br><br>Paper: <a href=\"http://arxiv.org/abs/2210.10605\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">http://arxiv.org/abs/2210.10605</a><br>Code: <a href=\"https://github.com/claroche-r/pnp_ladmm\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">https://github.com/claroche-r/pnp_ladmm</a><br><br><a class=\"hashtag\" href=\"https://a.farook.org/tag/ai\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#AI</a> <a class=\"hashtag\" href=\"https://a.farook.org/tag/cv\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#CV</a> <a class=\"hashtag\" href=\"https://a.farook.org/tag/newpaper\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#NewPaper</a> <a class=\"hashtag\" href=\"https://a.farook.org/tag/deeplearning\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#DeepLearning</a>  <a class=\"hashtag\" href=\"https://a.farook.org/tag/machinelearning\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#MachineLearning</a><br><br>&lt;&lt;Find this useful? Please boost so that others can benefit too \ud83d\ude42&gt;&gt;<br><a href=\"https://a.farook.org/media/06157856cb2771227daad1e1dd1dc885181c762d8309b23537788970c810da26.jpg\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">Example of sample from the test\u2026</a>"
-    },
-    "people": [
-      {
-        "url": "https://a.farook.org/users/f",
-        "display_name": "Fahim Farook"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/bikehopper/bikehopper-ui",
-    "title": "GitHub - bikehopper/bikehopper-ui: Friendly bike+transit directions (frontend)",
-    "latest": "2023-01-24T21:46:20+00:00",
-    "last_post": {
-      "url": "https://social.coop/@graue/109719222045865339",
-      "content": "<p>My project right now is <a href=\"https://social.coop/tags/BikeHopper\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>BikeHopper</span></a>, an open-source directions app for transit+bikes.</p><p><a href=\"https://github.com/bikehopper/bikehopper-ui\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/bikehopper/bikehopp</span><span class=\"invisible\">er-ui</span></a></p><p>It uses <a href=\"https://social.coop/tags/OpenStreetMap\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>OpenStreetMap</span></a> and a modified version of GraphHopper.</p><p>Two main benefits over other trip planning apps:<br>1. Bike-on-bus, bike-on-train etc. options<br>2. Tries really hard to find low-stress routes, avoiding main roads</p>"
-    },
-    "people": [
-      {
-        "url": "https://datasci.social/@mszll",
-        "display_name": "Michael Szell"
-      }
-    ]
-  },
-  {
-    "link": "https://observablehq.com/@mauforonda/state-of-obsidian-plugins",
-    "title": "State of obsidian plugins",
-    "latest": "2023-01-24T21:40:10+00:00",
-    "last_post": {
-      "url": "https://hachyderm.io/@mauforonda/109746350382011459",
-      "content": "<p>A small thing I made to explore the universe of <a href=\"https://hachyderm.io/tags/obsidian\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>obsidian</span></a> plugins because I found these data was open and I just *had* to do it. </p><p><a href=\"https://observablehq.com/@mauforonda/state-of-obsidian-plugins\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">observablehq.com/@mauforonda/s</span><span class=\"invisible\">tate-of-obsidian-plugins</span></a></p><p>\ud83d\ude43</p>"
-    },
-    "people": [
-      {
-        "url": "https://hachyderm.io/@mauforonda",
-        "display_name": "mauforonda"
       }
     ]
   }
