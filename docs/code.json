@@ -1,5 +1,368 @@
 [
   {
+    "link": "https://github.com/PedramNavid/dbtpal/releases/tag/v0.0.1",
+    "title": "Release v0.0.1 - First Release \u00b7 PedramNavid/dbtpal",
+    "latest": "2023-02-11T09:59:37+00:00",
+    "last_post": {
+      "url": "https://sfba.social/@pedram/109845517279608617",
+      "content": "<p>\ud83d\ude80 Docs are written, CI checks passed. 0.0.1 is released! <a href=\"https://github.com/PedramNavid/dbtpal/releases/tag/v0.0.1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/PedramNavid/dbtpal/</span><span class=\"invisible\">releases/tag/v0.0.1</span></a></p><p>Features:<br>- Run / test model, project, or selectors.<br>- Async jobs with pop-up  outputs<br>- Jinja-aware SQL syntax highlighting<br>- Protects compiled files<br>- Fuzzy Find go-to-file</p>"
+    },
+    "people": [
+      {
+        "url": "https://sfba.social/@pedram",
+        "display_name": "pedram \u2705"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/vankesteren/r_database_query",
+    "title": "GitHub - vankesteren/r_database_query: Constructing and querying a database from .sav files",
+    "latest": "2023-02-11T09:26:54+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@erikjan/109844970607695085",
+      "content": "<p>Here is a small example repository, going from SPSS .sav files to <a href=\"https://fosstodon.org/tags/duckdb\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>duckdb</span></a> via the <a href=\"https://fosstodon.org/tags/rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rstats</span></a> {haven} package and then performing a simple query.</p><p><a href=\"https://github.com/vankesteren/r_database_query\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/vankesteren/r_datab</span><span class=\"invisible\">ase_query</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@JoranJongerling",
+        "display_name": "Joran"
+      }
+    ]
+  },
+  {
+    "link": "https://observablehq.com/@asg017/introducing-sqlite-vss",
+    "title": "Introducing sqlite-vss: A SQLite Extension for Vector Search",
+    "latest": "2023-02-11T08:50:27+00:00",
+    "last_post": {
+      "url": "https://fedi.simonwillison.net/@simon/109842505896608627",
+      "content": "<p>The interactive demo for <span class=\"h-card\"><a href=\"https://data-folks.masto.host/@alexgarciaxyz\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>alexgarciaxyz</span></a></span>'s new sqlite-vss extension - adding vector similarity search to SQLite - really has to be seen to be believed:</p><p><a href=\"https://observablehq.com/@asg017/introducing-sqlite-vss\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">observablehq.com/@asg017/intro</span><span class=\"invisible\">ducing-sqlite-vss</span></a></p><p>He has fast semantic search running against 200,000 news headlines and summaries and the results are fantastic: stories about Halloween returned for \"scary orange holiday\" for example</p>"
+    },
+    "people": [
+      {
+        "url": "https://newsie.social/@derekwillis",
+        "display_name": "Derek Willis"
+      },
+      {
+        "url": "https://fedi.simonwillison.net/@simon",
+        "display_name": "Simon Willison"
+      },
+      {
+        "url": "https://mastodon.social/@severo",
+        "display_name": "Sylvain Lesage"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/martinKindall/compile-for-risc-v-gnu",
+    "title": "GitHub - martinKindall/compile-for-risc-v-gnu: Examples for compiling code using the RISC-V gnu toolchain",
+    "latest": "2023-02-11T08:31:22+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@compsci_discussions/109845170264057586",
+      "content": "<p>Handy commands for using the RISC-V gnu toolchain and generate .elf or .hex w/ libgcc</p><p><a href=\"https://github.com/martinKindall/compile-for-risc-v-gnu\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/martinKindall/compi</span><span class=\"invisible\">le-for-risc-v-gnu</span></a></p><p>Discussions: <a href=\"https://discu.eu/q/https://github.com/martinKindall/compile-for-risc-v-gnu\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">discu.eu/q/https://github.com/</span><span class=\"invisible\">martinKindall/compile-for-risc-v-gnu</span></a></p><p><a href=\"https://mastodon.social/tags/compsci\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>compsci</span></a> <a href=\"https://mastodon.social/tags/riscv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>riscv</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@compsci_discussions",
+        "display_name": "Compsci Weekly"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/mastodon/mastodon/releases/tag/v4.1.0",
+    "title": "Release v4.1.0 \u00b7 mastodon/mastodon",
+    "latest": "2023-02-11T07:22:19+00:00",
+    "last_post": {
+      "url": "https://oliphant.social/@oliphant/109842829411604721",
+      "content": "<p>Mastodon just released 4.1.0.</p><p>This full release contains a lot of updates, but for server admins, you can now import (and export) blocklists!</p><p><a href=\"https://github.com/mastodon/mastodon/releases/tag/v4.1.0\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/mastodon/mastodon/r</span><span class=\"invisible\">eleases/tag/v4.1.0</span></a></p><p>Also for server admins:</p><p>media remove --prune-profiles will give you back *so much cache*.</p>"
+    },
+    "people": [
+      {
+        "url": "https://hci.social/@bkeegan",
+        "display_name": "Brian C. Keegan"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/bmschmidt/bare-bones-blog",
+    "title": "github.com/bmschmidt/bare-bone...",
+    "latest": "2023-02-11T07:12:25.118000+00:00",
+    "last_post": {
+      "url": "https://vis.social/@benmschmidt/109844039024052736",
+      "content": "<p>As an exercise in minimalism, I stripped my blogging template down to a bare-bones repo, generating a static-site blog with RSS that publishes to github pages (or wherever) using pandoc and svelte-kit. Audience is maybe beginners, people who love pandoc and are thinking of moving on from Jekyll/Hugo, or people just curious to see how a svelte-kit site works. The whole filesystem-based router has been really eye-opening for me, personally. <a href=\"https://bmschmidt.github.io/bare-bones-blog/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">bmschmidt.github.io/bare-bones</span><span class=\"invisible\">-blog/</span></a> <a href=\"https://github.com/bmschmidt/bare-bones-blog\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/bmschmidt/bare-bone</span><span class=\"invisible\">s-blog</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mstdn.social/@felwert",
+        "display_name": "Frederik Elwert"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/nathanlesage/academics-on-mastodon",
+    "title": "github.com/nathanlesage/academ...",
+    "latest": "2023-02-11T07:02:51+00:00",
+    "last_post": {
+      "url": "https://fediscience.org/@semantic/109808417449579494",
+      "content": "<p><a href=\"https://fediscience.org/tags/introduction\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>introduction</span></a><br>Find Semantic Web+ researchers on Mastodon! \ud83d\ude4c </p><p>Subscribe to the list here:<br><a href=\"https://semantisch.github.io/SemanticWeb//\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">semantisch.github.io/SemanticW</span><span class=\"invisible\">eb//</span></a></p><p>Join the growing list here as a researcher:<br><a href=\"https://forms.gle/pjNmNG6xwzU28Y3o6\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">forms.gle/pjNmNG6xwzU28Y3o6</span><span class=\"invisible\"></span></a></p><p><a href=\"https://fediscience.org/tags/SemanticWeb\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>SemanticWeb</span></a> <a href=\"https://fediscience.org/tags/KnowledgeGraph\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>KnowledgeGraph</span></a> <a href=\"https://fediscience.org/tags/LinkedData\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>LinkedData</span></a> <a href=\"https://fediscience.org/tags/LinkedOpenData\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>LinkedOpenData</span></a> <a href=\"https://fediscience.org/tags/Ontology\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Ontology</span></a> <a href=\"https://fediscience.org/tags/KnowledgeRepresentation\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>KnowledgeRepresentation</span></a> <a href=\"https://fediscience.org/tags/Reasoning\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Reasoning</span></a> <a href=\"https://fediscience.org/tags/RDF\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>RDF</span></a> <a href=\"https://fediscience.org/tags/SPARQL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>SPARQL</span></a> <a href=\"https://fediscience.org/tags/OWL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>OWL</span></a> <a href=\"https://fediscience.org/tags/SHACL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>SHACL</span></a> <a href=\"https://fediscience.org/tags/Wikidata\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Wikidata</span></a> <a href=\"https://fediscience.org/tags/DBPedia\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DBPedia</span></a> <a href=\"https://fediscience.org/tags/Solid\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Solid</span></a></p><p>Other academics on Mastodon:<br><a href=\"https://github.com/nathanlesage/academics-on-mastodon\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/nathanlesage/academ</span><span class=\"invisible\">ics-on-mastodon</span></a></p><p>Would you kindly boost and re-toot! \ud83d\ude09<br><span class=\"h-card\"><a href=\"https://mastodon.social/@openscience\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>openscience</span></a></span> <span class=\"h-card\"><a href=\"https://sigmoid.social/@fizise\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>fizise</span></a></span> <span class=\"h-card\"><a href=\"https://a.gup.pe/u/academicchatter\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>academicchatter</span></a></span> <span class=\"h-card\"><a href=\"https://a.gup.pe/u/academicsunite\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>academicsunite</span></a></span>  <span class=\"h-card\"><a href=\"https://a.gup.pe/u/semanticweb\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>semanticweb</span></a></span></p>"
+    },
+    "people": [
+      {
+        "url": "https://mstdn.social/@felwert",
+        "display_name": "Frederik Elwert"
+      },
+      {
+        "url": "https://fediscience.org/@semantic",
+        "display_name": "Daniel Dobriy (Q112275832)"
+      },
+      {
+        "url": "https://sigmoid.social/@lysander07",
+        "display_name": "Harald Sack"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/mvdan/gofumpt",
+    "title": "GitHub - mvdan/gofumpt: A stricter gofmt",
+    "latest": "2023-02-11T06:55:03+00:00",
+    "last_post": {
+      "url": "https://die-partei.social/@hackernews/109844791496610994",
+      "content": "<p>Gofumpt: A stricter gofmt - <a href=\"https://github.com/mvdan/gofumpt\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/mvdan/gofumpt</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://die-partei.social/@hackernews",
+        "display_name": "Hackernews"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/curl/curl/discussions/10465",
+    "title": "curl turns 25 years old on March 20, 2023 \u00b7 Discussion #10465 \u00b7 curl/curl",
+    "latest": "2023-02-11T06:55:03+00:00",
+    "last_post": {
+      "url": "https://die-partei.social/@hackernews/109844791502591129",
+      "content": "<p>Curl turns 25 years old GitHub Celebration - <a href=\"https://github.com/curl/curl/discussions/10465\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/curl/curl/discussio</span><span class=\"invisible\">ns/10465</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://die-partei.social/@hackernews",
+        "display_name": "Hackernews"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/quadrismegistus/mastotron",
+    "title": "GitHub - quadrismegistus/mastotron: Different interface to mastodon",
+    "latest": "2023-02-11T06:23:00+00:00",
+    "last_post": {
+      "url": "https://zirk.us/@heuser/109838089472588601",
+      "content": "<p>Introducing my hobby coding project since xmas: </p><p>Mastotron!</p><p>It's a different interface to Mastodon, replacing the mindless \"feed\" of most social media with a network map of conversations and recent and popular posts. </p><p>\ud83d\udc49 You can download it here: <a href=\"https://github.com/quadrismegistus/mastotron\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/quadrismegistus/mas</span><span class=\"invisible\">totron</span></a> \ud83d\udd96</p><p>There's easy, double-click installation for Mac and Linux; Windows is a bit trickier for now. </p><p>This is b new, so bound to be bugs. But if you can, give it a whirl, and let me know if it works and what you'd like to see!</p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@kidehen",
+        "display_name": "Kingsley Uyi Idehen"
+      },
+      {
+        "url": "https://mastodon.social/@Gargron",
+        "display_name": "Eugen Rochko"
+      },
+      {
+        "url": "https://octodon.social/@craignicol",
+        "display_name": "Craig Nicol"
+      },
+      {
+        "url": "https://mastodon.social/@JoranJongerling",
+        "display_name": "Joran"
+      },
+      {
+        "url": "https://mastodon.gamedev.place/@johnaustin",
+        "display_name": "John Austin"
+      },
+      {
+        "url": "https://social.luca.run/@luca",
+        "display_name": "Luca \ud83d\udd28"
+      }
+    ]
+  },
+  {
+    "link": "https://observablehq.com/@observablehq/build-your-first-choropleth-map-with-observable-plot",
+    "title": "Build your first choropleth map with Observable Plot",
+    "latest": "2023-02-11T06:16:33+00:00",
+    "last_post": {
+      "url": "https://vis.social/@observablehq/109836549335746889",
+      "content": "<p>\ud83d\uddfa\ufe0f We are excited to follow up on our Build your first map with Observable Plot tutorial with a brand new addition to the series:</p><p>\u2728 Build your first choropleth map with Observable Plot by our very own Paul Buffa and <span class=\"h-card\"><a href=\"https://mastodon.social/@allison_horst\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>allison_horst</span></a></span>!<br>\ud83d\udccd Check it out to learn some essential tools &amp; steps to make and customize beautiful choropleth maps quickly, then add interactivity with tooltips &amp; inputs!</p><p>\u27a1\ufe0f <a href=\"https://observablehq.com/@observablehq/build-your-first-choropleth-map-with-observable-plot\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">observablehq.com/@observablehq</span><span class=\"invisible\">/build-your-first-choropleth-map-with-observable-plot</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://vis.social/@ijlyttle",
+        "display_name": "Ian Lyttle"
+      },
+      {
+        "url": "https://vis.social/@mikebrondbjerg",
+        "display_name": "Mike Brondbjerg"
+      },
+      {
+        "url": "https://mapstodon.space/@Amber",
+        "display_name": "Amber Manfree"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/JefferyO/HierarchicalEvent-Grounding",
+    "title": "github.com/JefferyO/Hierarchic...",
+    "latest": "2023-02-11T05:45:30+00:00",
+    "last_post": {
+      "url": "https://creative.ai/@arxiv_cl/109844518066487484",
+      "content": "<p>\ud83d\udcdd Hierarchical Event Grounding \ud83d\udcda</p><p>\"Leverages event hierarchy through an auxiliary hierarchical loss during retrieval of candidates to be re-ranked using cross-encoder model (BERT) (Devlin, Chang, and Lee 2019).\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/JefferyO/HierarchicalEvent-Grounding\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/JefferyO/Hierarchic</span><span class=\"invisible\">alEvent-Grounding</span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2302.04197v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2302.04197v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://creative.ai/@arxiv_cl",
+        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/Perl/perl5/pull/20795/files",
+    "title": "Perldelta for new 'class' feature by leonerd \u00b7 Pull Request #20795 \u00b7 Perl/perl5",
+    "latest": "2023-02-11T05:09:35+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@ovid/109841201056255149",
+      "content": "<p>For those following the <a href=\"https://fosstodon.org/tags/Corinna\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Corinna</span></a> project to being modern <a href=\"https://fosstodon.org/tags/OOP\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>OOP</span></a> to the <a href=\"https://fosstodon.org/tags/perl\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>perl</span></a> core, the first pass has now been merged. <a href=\"https://github.com/Perl/perl5/pull/20795/files\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/Perl/perl5/pull/207</span><span class=\"invisible\">95/files</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://masto.nyc/@jmac",
+        "display_name": "jmac"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/sts10/tic-tac-go#readme",
+    "title": "GitHub - sts10/tic-tac-go: A command line tic-tac-toe game in Golang",
+    "latest": "2023-02-11T04:46:30+00:00",
+    "last_post": {
+      "url": "https://hachyderm.io/@schlink/109844286038109274",
+      "content": "<p>\ud83d\udc40  I just added a note to my two Golang repos about the telemetry discussion: </p><p><a href=\"https://github.com/sts10/tic-tac-go#readme\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/sts10/tic-tac-go#re</span><span class=\"invisible\">adme</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://hachyderm.io/@schlink",
+        "display_name": "Sam Schlinkert"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/tuskyapp/Tusky/releases/tag/v21.0",
+    "title": "Release Tusky 21 \u00b7 tuskyapp/Tusky",
+    "latest": "2023-02-11T04:08:43+00:00",
+    "last_post": {
+      "url": "https://mitra.social/objects/01863be8-2c88-2bd3-ec2a-287fed5a70c0",
+      "content": "<p>Week in Fediverse 2023-02-10</p><p>Servers</p><p>- <a href=\"https://github.com/LemmyNet/lemmy/releases/tag/0.17.1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">Lemmy 0.17.1</a><br>- <a href=\"https://comam.es/snac/grunfink/p/1676034617.053176\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">snac v2.21</a>.<br>- <a href=\"https://codeberg.org/silverpill/mitra/releases/tag/v1.13.0\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">Mitra v1.13.0</a><br>- <a href=\"https://socialhome.network/content/8d9a0eeb-ae15-422d-a591-08da57cc9142/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">Socialhome v0.16.0</a><br>- <a href=\"https://github.com/misskey-dev/misskey/blob/13.5.0/CHANGELOG.md\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">Misskey v13.5.0</a><br>- <a href=\"https://codeberg.org/calckey/calckey/releases/tag/v13.1.2\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">Calckey v13.1.2</a><br>- <a href=\"https://joinpeertube.org/news/roadmap-v6\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">What 2023 will bring for PeerTube</a></p><p>Clients</p><p>- <a href=\"https://github.com/tuskyapp/Tusky/releases/tag/v21.0\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">Tusky v21.0</a><br>- <a href=\"https://toot.fedilab.app/@apps/109813468284369805\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">Fedilab v3.17.0</a><br>- <a href=\"https://github.com/dessalines/jerboa/releases/tag/0.0.26\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">Jerboa v0.0.26</a></p><p>Protocol</p><p>- <a href=\"https://codeberg.org/fediverse/fep/src/branch/main/feps/fep-1b12.md\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">FEP-1b12 has been finalized</a></p><p>Articles</p><p>- <a href=\"https://a.exozy.me/posts/missing-half-activitypub-potential/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">We're Missing Half ActivityPub's Potential!</a><br>- <a href=\"https://www.fastly.com/blog/fastly-and-the-fediverse-pt-1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">Fastly and the Fediverse, pt.1</a></p><p>-----</p><p><a class=\"hashtag\" href=\"https://mitra.social/collections/tags/weekinfediverse\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#WeekInFediverse</a> <a class=\"hashtag\" href=\"https://mitra.social/collections/tags/fediverse\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#Fediverse</a> <a class=\"hashtag\" href=\"https://mitra.social/collections/tags/activitypub\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#ActivityPub</a></p><p>Previous edition: <a href=\"https://mitra.social/objects/018617e3-97c0-664f-0b8b-e61620afa106\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">https://mitra.social/objects/018617e3-97c0-664f-0b8b-e61620afa106</a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.online/@vwbusguy",
+        "display_name": "Scott Williams  \ud83d\udc27"
+      },
+      {
+        "url": "https://indieweb.social/@tchambers",
+        "display_name": "Tim Chambers"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/LemmyNet/lemmy/releases/tag/0.17.1",
+    "title": "Release v0.17.1 Release \u00b7 LemmyNet/lemmy",
+    "latest": "2023-02-11T04:08:43+00:00",
+    "last_post": {
+      "url": "https://mitra.social/objects/01863be8-2c88-2bd3-ec2a-287fed5a70c0",
+      "content": "<p>Week in Fediverse 2023-02-10</p><p>Servers</p><p>- <a href=\"https://github.com/LemmyNet/lemmy/releases/tag/0.17.1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">Lemmy 0.17.1</a><br>- <a href=\"https://comam.es/snac/grunfink/p/1676034617.053176\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">snac v2.21</a>.<br>- <a href=\"https://codeberg.org/silverpill/mitra/releases/tag/v1.13.0\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">Mitra v1.13.0</a><br>- <a href=\"https://socialhome.network/content/8d9a0eeb-ae15-422d-a591-08da57cc9142/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">Socialhome v0.16.0</a><br>- <a href=\"https://github.com/misskey-dev/misskey/blob/13.5.0/CHANGELOG.md\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">Misskey v13.5.0</a><br>- <a href=\"https://codeberg.org/calckey/calckey/releases/tag/v13.1.2\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">Calckey v13.1.2</a><br>- <a href=\"https://joinpeertube.org/news/roadmap-v6\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">What 2023 will bring for PeerTube</a></p><p>Clients</p><p>- <a href=\"https://github.com/tuskyapp/Tusky/releases/tag/v21.0\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">Tusky v21.0</a><br>- <a href=\"https://toot.fedilab.app/@apps/109813468284369805\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">Fedilab v3.17.0</a><br>- <a href=\"https://github.com/dessalines/jerboa/releases/tag/0.0.26\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">Jerboa v0.0.26</a></p><p>Protocol</p><p>- <a href=\"https://codeberg.org/fediverse/fep/src/branch/main/feps/fep-1b12.md\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">FEP-1b12 has been finalized</a></p><p>Articles</p><p>- <a href=\"https://a.exozy.me/posts/missing-half-activitypub-potential/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">We're Missing Half ActivityPub's Potential!</a><br>- <a href=\"https://www.fastly.com/blog/fastly-and-the-fediverse-pt-1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">Fastly and the Fediverse, pt.1</a></p><p>-----</p><p><a class=\"hashtag\" href=\"https://mitra.social/collections/tags/weekinfediverse\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#WeekInFediverse</a> <a class=\"hashtag\" href=\"https://mitra.social/collections/tags/fediverse\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#Fediverse</a> <a class=\"hashtag\" href=\"https://mitra.social/collections/tags/activitypub\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#ActivityPub</a></p><p>Previous edition: <a href=\"https://mitra.social/objects/018617e3-97c0-664f-0b8b-e61620afa106\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">https://mitra.social/objects/018617e3-97c0-664f-0b8b-e61620afa106</a></p>"
+    },
+    "people": [
+      {
+        "url": "https://indieweb.social/@tchambers",
+        "display_name": "Tim Chambers"
+      }
+    ]
+  },
+  {
+    "link": "https://codeberg.org/silverpill/mitra/releases/tag/v1.13.0",
+    "title": "https://codeberg.org/silverpill/mitra/releases/tag/v1.13.0",
+    "latest": "2023-02-11T04:08:43+00:00",
+    "last_post": {
+      "url": "https://mitra.social/objects/01863be8-2c88-2bd3-ec2a-287fed5a70c0",
+      "content": "<p>Week in Fediverse 2023-02-10</p><p>Servers</p><p>- <a href=\"https://github.com/LemmyNet/lemmy/releases/tag/0.17.1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">Lemmy 0.17.1</a><br>- <a href=\"https://comam.es/snac/grunfink/p/1676034617.053176\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">snac v2.21</a>.<br>- <a href=\"https://codeberg.org/silverpill/mitra/releases/tag/v1.13.0\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">Mitra v1.13.0</a><br>- <a href=\"https://socialhome.network/content/8d9a0eeb-ae15-422d-a591-08da57cc9142/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">Socialhome v0.16.0</a><br>- <a href=\"https://github.com/misskey-dev/misskey/blob/13.5.0/CHANGELOG.md\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">Misskey v13.5.0</a><br>- <a href=\"https://codeberg.org/calckey/calckey/releases/tag/v13.1.2\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">Calckey v13.1.2</a><br>- <a href=\"https://joinpeertube.org/news/roadmap-v6\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">What 2023 will bring for PeerTube</a></p><p>Clients</p><p>- <a href=\"https://github.com/tuskyapp/Tusky/releases/tag/v21.0\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">Tusky v21.0</a><br>- <a href=\"https://toot.fedilab.app/@apps/109813468284369805\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">Fedilab v3.17.0</a><br>- <a href=\"https://github.com/dessalines/jerboa/releases/tag/0.0.26\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">Jerboa v0.0.26</a></p><p>Protocol</p><p>- <a href=\"https://codeberg.org/fediverse/fep/src/branch/main/feps/fep-1b12.md\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">FEP-1b12 has been finalized</a></p><p>Articles</p><p>- <a href=\"https://a.exozy.me/posts/missing-half-activitypub-potential/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">We're Missing Half ActivityPub's Potential!</a><br>- <a href=\"https://www.fastly.com/blog/fastly-and-the-fediverse-pt-1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">Fastly and the Fediverse, pt.1</a></p><p>-----</p><p><a class=\"hashtag\" href=\"https://mitra.social/collections/tags/weekinfediverse\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#WeekInFediverse</a> <a class=\"hashtag\" href=\"https://mitra.social/collections/tags/fediverse\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#Fediverse</a> <a class=\"hashtag\" href=\"https://mitra.social/collections/tags/activitypub\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#ActivityPub</a></p><p>Previous edition: <a href=\"https://mitra.social/objects/018617e3-97c0-664f-0b8b-e61620afa106\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">https://mitra.social/objects/018617e3-97c0-664f-0b8b-e61620afa106</a></p>"
+    },
+    "people": [
+      {
+        "url": "https://indieweb.social/@tchambers",
+        "display_name": "Tim Chambers"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/misskey-dev/misskey/blob/13.5.0/CHANGELOG.md",
+    "title": "https://github.com/misskey-dev/misskey/blob/13.5.0/CHANGELOG.md",
+    "latest": "2023-02-11T04:08:43+00:00",
+    "last_post": {
+      "url": "https://mitra.social/objects/01863be8-2c88-2bd3-ec2a-287fed5a70c0",
+      "content": "<p>Week in Fediverse 2023-02-10</p><p>Servers</p><p>- <a href=\"https://github.com/LemmyNet/lemmy/releases/tag/0.17.1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">Lemmy 0.17.1</a><br>- <a href=\"https://comam.es/snac/grunfink/p/1676034617.053176\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">snac v2.21</a>.<br>- <a href=\"https://codeberg.org/silverpill/mitra/releases/tag/v1.13.0\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">Mitra v1.13.0</a><br>- <a href=\"https://socialhome.network/content/8d9a0eeb-ae15-422d-a591-08da57cc9142/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">Socialhome v0.16.0</a><br>- <a href=\"https://github.com/misskey-dev/misskey/blob/13.5.0/CHANGELOG.md\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">Misskey v13.5.0</a><br>- <a href=\"https://codeberg.org/calckey/calckey/releases/tag/v13.1.2\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">Calckey v13.1.2</a><br>- <a href=\"https://joinpeertube.org/news/roadmap-v6\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">What 2023 will bring for PeerTube</a></p><p>Clients</p><p>- <a href=\"https://github.com/tuskyapp/Tusky/releases/tag/v21.0\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">Tusky v21.0</a><br>- <a href=\"https://toot.fedilab.app/@apps/109813468284369805\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">Fedilab v3.17.0</a><br>- <a href=\"https://github.com/dessalines/jerboa/releases/tag/0.0.26\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">Jerboa v0.0.26</a></p><p>Protocol</p><p>- <a href=\"https://codeberg.org/fediverse/fep/src/branch/main/feps/fep-1b12.md\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">FEP-1b12 has been finalized</a></p><p>Articles</p><p>- <a href=\"https://a.exozy.me/posts/missing-half-activitypub-potential/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">We're Missing Half ActivityPub's Potential!</a><br>- <a href=\"https://www.fastly.com/blog/fastly-and-the-fediverse-pt-1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">Fastly and the Fediverse, pt.1</a></p><p>-----</p><p><a class=\"hashtag\" href=\"https://mitra.social/collections/tags/weekinfediverse\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#WeekInFediverse</a> <a class=\"hashtag\" href=\"https://mitra.social/collections/tags/fediverse\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#Fediverse</a> <a class=\"hashtag\" href=\"https://mitra.social/collections/tags/activitypub\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#ActivityPub</a></p><p>Previous edition: <a href=\"https://mitra.social/objects/018617e3-97c0-664f-0b8b-e61620afa106\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">https://mitra.social/objects/018617e3-97c0-664f-0b8b-e61620afa106</a></p>"
+    },
+    "people": [
+      {
+        "url": "https://indieweb.social/@tchambers",
+        "display_name": "Tim Chambers"
+      }
+    ]
+  },
+  {
+    "link": "https://codeberg.org/calckey/calckey/releases/tag/v13.1.2",
+    "title": "https://codeberg.org/calckey/calckey/releases/tag/v13.1.2",
+    "latest": "2023-02-11T04:08:43+00:00",
+    "last_post": {
+      "url": "https://mitra.social/objects/01863be8-2c88-2bd3-ec2a-287fed5a70c0",
+      "content": "<p>Week in Fediverse 2023-02-10</p><p>Servers</p><p>- <a href=\"https://github.com/LemmyNet/lemmy/releases/tag/0.17.1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">Lemmy 0.17.1</a><br>- <a href=\"https://comam.es/snac/grunfink/p/1676034617.053176\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">snac v2.21</a>.<br>- <a href=\"https://codeberg.org/silverpill/mitra/releases/tag/v1.13.0\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">Mitra v1.13.0</a><br>- <a href=\"https://socialhome.network/content/8d9a0eeb-ae15-422d-a591-08da57cc9142/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">Socialhome v0.16.0</a><br>- <a href=\"https://github.com/misskey-dev/misskey/blob/13.5.0/CHANGELOG.md\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">Misskey v13.5.0</a><br>- <a href=\"https://codeberg.org/calckey/calckey/releases/tag/v13.1.2\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">Calckey v13.1.2</a><br>- <a href=\"https://joinpeertube.org/news/roadmap-v6\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">What 2023 will bring for PeerTube</a></p><p>Clients</p><p>- <a href=\"https://github.com/tuskyapp/Tusky/releases/tag/v21.0\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">Tusky v21.0</a><br>- <a href=\"https://toot.fedilab.app/@apps/109813468284369805\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">Fedilab v3.17.0</a><br>- <a href=\"https://github.com/dessalines/jerboa/releases/tag/0.0.26\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">Jerboa v0.0.26</a></p><p>Protocol</p><p>- <a href=\"https://codeberg.org/fediverse/fep/src/branch/main/feps/fep-1b12.md\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">FEP-1b12 has been finalized</a></p><p>Articles</p><p>- <a href=\"https://a.exozy.me/posts/missing-half-activitypub-potential/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">We're Missing Half ActivityPub's Potential!</a><br>- <a href=\"https://www.fastly.com/blog/fastly-and-the-fediverse-pt-1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">Fastly and the Fediverse, pt.1</a></p><p>-----</p><p><a class=\"hashtag\" href=\"https://mitra.social/collections/tags/weekinfediverse\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#WeekInFediverse</a> <a class=\"hashtag\" href=\"https://mitra.social/collections/tags/fediverse\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#Fediverse</a> <a class=\"hashtag\" href=\"https://mitra.social/collections/tags/activitypub\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#ActivityPub</a></p><p>Previous edition: <a href=\"https://mitra.social/objects/018617e3-97c0-664f-0b8b-e61620afa106\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">https://mitra.social/objects/018617e3-97c0-664f-0b8b-e61620afa106</a></p>"
+    },
+    "people": [
+      {
+        "url": "https://indieweb.social/@tchambers",
+        "display_name": "Tim Chambers"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/dessalines/jerboa/releases/tag/0.0.26",
+    "title": "https://github.com/dessalines/jerboa/releases/tag/0.0.26",
+    "latest": "2023-02-11T04:08:43+00:00",
+    "last_post": {
+      "url": "https://mitra.social/objects/01863be8-2c88-2bd3-ec2a-287fed5a70c0",
+      "content": "<p>Week in Fediverse 2023-02-10</p><p>Servers</p><p>- <a href=\"https://github.com/LemmyNet/lemmy/releases/tag/0.17.1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">Lemmy 0.17.1</a><br>- <a href=\"https://comam.es/snac/grunfink/p/1676034617.053176\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">snac v2.21</a>.<br>- <a href=\"https://codeberg.org/silverpill/mitra/releases/tag/v1.13.0\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">Mitra v1.13.0</a><br>- <a href=\"https://socialhome.network/content/8d9a0eeb-ae15-422d-a591-08da57cc9142/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">Socialhome v0.16.0</a><br>- <a href=\"https://github.com/misskey-dev/misskey/blob/13.5.0/CHANGELOG.md\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">Misskey v13.5.0</a><br>- <a href=\"https://codeberg.org/calckey/calckey/releases/tag/v13.1.2\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">Calckey v13.1.2</a><br>- <a href=\"https://joinpeertube.org/news/roadmap-v6\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">What 2023 will bring for PeerTube</a></p><p>Clients</p><p>- <a href=\"https://github.com/tuskyapp/Tusky/releases/tag/v21.0\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">Tusky v21.0</a><br>- <a href=\"https://toot.fedilab.app/@apps/109813468284369805\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">Fedilab v3.17.0</a><br>- <a href=\"https://github.com/dessalines/jerboa/releases/tag/0.0.26\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">Jerboa v0.0.26</a></p><p>Protocol</p><p>- <a href=\"https://codeberg.org/fediverse/fep/src/branch/main/feps/fep-1b12.md\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">FEP-1b12 has been finalized</a></p><p>Articles</p><p>- <a href=\"https://a.exozy.me/posts/missing-half-activitypub-potential/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">We're Missing Half ActivityPub's Potential!</a><br>- <a href=\"https://www.fastly.com/blog/fastly-and-the-fediverse-pt-1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">Fastly and the Fediverse, pt.1</a></p><p>-----</p><p><a class=\"hashtag\" href=\"https://mitra.social/collections/tags/weekinfediverse\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#WeekInFediverse</a> <a class=\"hashtag\" href=\"https://mitra.social/collections/tags/fediverse\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#Fediverse</a> <a class=\"hashtag\" href=\"https://mitra.social/collections/tags/activitypub\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#ActivityPub</a></p><p>Previous edition: <a href=\"https://mitra.social/objects/018617e3-97c0-664f-0b8b-e61620afa106\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">https://mitra.social/objects/018617e3-97c0-664f-0b8b-e61620afa106</a></p>"
+    },
+    "people": [
+      {
+        "url": "https://indieweb.social/@tchambers",
+        "display_name": "Tim Chambers"
+      }
+    ]
+  },
+  {
+    "link": "https://codeberg.org/fediverse/fep/src/branch/main/feps/fep-1b12.md",
+    "title": "https://codeberg.org/fediverse/fep/src/branch/main/feps/fep-1b12.md",
+    "latest": "2023-02-11T04:08:43+00:00",
+    "last_post": {
+      "url": "https://mitra.social/objects/01863be8-2c88-2bd3-ec2a-287fed5a70c0",
+      "content": "<p>Week in Fediverse 2023-02-10</p><p>Servers</p><p>- <a href=\"https://github.com/LemmyNet/lemmy/releases/tag/0.17.1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">Lemmy 0.17.1</a><br>- <a href=\"https://comam.es/snac/grunfink/p/1676034617.053176\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">snac v2.21</a>.<br>- <a href=\"https://codeberg.org/silverpill/mitra/releases/tag/v1.13.0\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">Mitra v1.13.0</a><br>- <a href=\"https://socialhome.network/content/8d9a0eeb-ae15-422d-a591-08da57cc9142/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">Socialhome v0.16.0</a><br>- <a href=\"https://github.com/misskey-dev/misskey/blob/13.5.0/CHANGELOG.md\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">Misskey v13.5.0</a><br>- <a href=\"https://codeberg.org/calckey/calckey/releases/tag/v13.1.2\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">Calckey v13.1.2</a><br>- <a href=\"https://joinpeertube.org/news/roadmap-v6\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">What 2023 will bring for PeerTube</a></p><p>Clients</p><p>- <a href=\"https://github.com/tuskyapp/Tusky/releases/tag/v21.0\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">Tusky v21.0</a><br>- <a href=\"https://toot.fedilab.app/@apps/109813468284369805\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">Fedilab v3.17.0</a><br>- <a href=\"https://github.com/dessalines/jerboa/releases/tag/0.0.26\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">Jerboa v0.0.26</a></p><p>Protocol</p><p>- <a href=\"https://codeberg.org/fediverse/fep/src/branch/main/feps/fep-1b12.md\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">FEP-1b12 has been finalized</a></p><p>Articles</p><p>- <a href=\"https://a.exozy.me/posts/missing-half-activitypub-potential/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">We're Missing Half ActivityPub's Potential!</a><br>- <a href=\"https://www.fastly.com/blog/fastly-and-the-fediverse-pt-1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">Fastly and the Fediverse, pt.1</a></p><p>-----</p><p><a class=\"hashtag\" href=\"https://mitra.social/collections/tags/weekinfediverse\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#WeekInFediverse</a> <a class=\"hashtag\" href=\"https://mitra.social/collections/tags/fediverse\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#Fediverse</a> <a class=\"hashtag\" href=\"https://mitra.social/collections/tags/activitypub\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#ActivityPub</a></p><p>Previous edition: <a href=\"https://mitra.social/objects/018617e3-97c0-664f-0b8b-e61620afa106\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">https://mitra.social/objects/018617e3-97c0-664f-0b8b-e61620afa106</a></p>"
+    },
+    "people": [
+      {
+        "url": "https://indieweb.social/@tchambers",
+        "display_name": "Tim Chambers"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/sts10/sort_bench/blob/main/benches/sorts.rs#L25-L28",
     "title": "sort_bench/sorts.rs at main \u00b7 sts10/sort_bench",
     "latest": "2023-02-10T21:43:25+00:00",
@@ -30,25 +393,6 @@
     ]
   },
   {
-    "link": "https://observablehq.com/@asg017/introducing-sqlite-vss",
-    "title": "Introducing sqlite-vss: A SQLite Extension for Vector Search",
-    "latest": "2023-02-10T21:13:47+00:00",
-    "last_post": {
-      "url": "https://fedi.simonwillison.net/@simon/109842505896608627",
-      "content": "<p>The interactive demo for <span class=\"h-card\"><a href=\"https://data-folks.masto.host/@alexgarciaxyz\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>alexgarciaxyz</span></a></span>'s new sqlite-vss extension - adding vector similarity search to SQLite - really has to be seen to be believed:</p><p><a href=\"https://observablehq.com/@asg017/introducing-sqlite-vss\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">observablehq.com/@asg017/intro</span><span class=\"invisible\">ducing-sqlite-vss</span></a></p><p>He has fast semantic search running against 200,000 news headlines and summaries and the results are fantastic: stories about Halloween returned for \"scary orange holiday\" for example</p>"
-    },
-    "people": [
-      {
-        "url": "https://newsie.social/@derekwillis",
-        "display_name": "Derek Willis"
-      },
-      {
-        "url": "https://fedi.simonwillison.net/@simon",
-        "display_name": "Simon Willison"
-      }
-    ]
-  },
-  {
     "link": "https://github.com/zihao12/concept-algebra",
     "title": "GitHub - zihao12/concept-algebra",
     "latest": "2023-02-10T21:00:34+00:00",
@@ -75,25 +419,6 @@
       {
         "url": "https://chaos.social/@noatamir",
         "display_name": "Noa :python: \ud83c\udff3\ufe0f\u200d\ud83c\udf08"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/quadrismegistus/mastotron",
-    "title": "GitHub - quadrismegistus/mastotron: Different interface to mastodon",
-    "latest": "2023-02-10T20:18:58+00:00",
-    "last_post": {
-      "url": "https://zirk.us/@heuser/109838089472588601",
-      "content": "<p>Introducing my hobby coding project since xmas: </p><p>Mastotron!</p><p>It's a different interface to Mastodon, replacing the mindless \"feed\" of most social media with a network map of conversations and recent and popular posts. </p><p>\ud83d\udc49 You can download it here: <a href=\"https://github.com/quadrismegistus/mastotron\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/quadrismegistus/mas</span><span class=\"invisible\">totron</span></a> \ud83d\udd96</p><p>There's easy, double-click installation for Mac and Linux; Windows is a bit trickier for now. </p><p>This is b new, so bound to be bugs. But if you can, give it a whirl, and let me know if it works and what you'd like to see!</p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@kidehen",
-        "display_name": "Kingsley Uyi Idehen"
-      },
-      {
-        "url": "https://mastodon.social/@Gargron",
-        "display_name": "Eugen Rochko"
       }
     ]
   },
@@ -233,25 +558,6 @@
       {
         "url": "https://mastodon.pirateparty.be/@utopiah",
         "display_name": "Utopiah (Fabien Benetou)"
-      }
-    ]
-  },
-  {
-    "link": "https://observablehq.com/@observablehq/build-your-first-choropleth-map-with-observable-plot",
-    "title": "Build your first choropleth map with Observable Plot",
-    "latest": "2023-02-09T21:15:25+00:00",
-    "last_post": {
-      "url": "https://vis.social/@observablehq/109836549335746889",
-      "content": "<p>\ud83d\uddfa\ufe0f We are excited to follow up on our Build your first map with Observable Plot tutorial with a brand new addition to the series:</p><p>\u2728 Build your first choropleth map with Observable Plot by our very own Paul Buffa and <span class=\"h-card\"><a href=\"https://mastodon.social/@allison_horst\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>allison_horst</span></a></span>!<br>\ud83d\udccd Check it out to learn some essential tools &amp; steps to make and customize beautiful choropleth maps quickly, then add interactivity with tooltips &amp; inputs!</p><p>\u27a1\ufe0f <a href=\"https://observablehq.com/@observablehq/build-your-first-choropleth-map-with-observable-plot\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">observablehq.com/@observablehq</span><span class=\"invisible\">/build-your-first-choropleth-map-with-observable-plot</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://vis.social/@ijlyttle",
-        "display_name": "Ian Lyttle"
-      },
-      {
-        "url": "https://vis.social/@mikebrondbjerg",
-        "display_name": "Mike Brondbjerg"
       }
     ]
   },
@@ -1042,25 +1348,6 @@
     ]
   },
   {
-    "link": "https://github.com/nathanlesage/academics-on-mastodon",
-    "title": "github.com/nathanlesage/academ...",
-    "latest": "2023-02-04T20:44:39+00:00",
-    "last_post": {
-      "url": "https://fediscience.org/@semantic/109808417449579494",
-      "content": "<p><a href=\"https://fediscience.org/tags/introduction\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>introduction</span></a><br>Find Semantic Web+ researchers on Mastodon! \ud83d\ude4c </p><p>Subscribe to the list here:<br><a href=\"https://semantisch.github.io/SemanticWeb//\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">semantisch.github.io/SemanticW</span><span class=\"invisible\">eb//</span></a></p><p>Join the growing list here as a researcher:<br><a href=\"https://forms.gle/pjNmNG6xwzU28Y3o6\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">forms.gle/pjNmNG6xwzU28Y3o6</span><span class=\"invisible\"></span></a></p><p><a href=\"https://fediscience.org/tags/SemanticWeb\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>SemanticWeb</span></a> <a href=\"https://fediscience.org/tags/KnowledgeGraph\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>KnowledgeGraph</span></a> <a href=\"https://fediscience.org/tags/LinkedData\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>LinkedData</span></a> <a href=\"https://fediscience.org/tags/LinkedOpenData\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>LinkedOpenData</span></a> <a href=\"https://fediscience.org/tags/Ontology\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Ontology</span></a> <a href=\"https://fediscience.org/tags/KnowledgeRepresentation\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>KnowledgeRepresentation</span></a> <a href=\"https://fediscience.org/tags/Reasoning\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Reasoning</span></a> <a href=\"https://fediscience.org/tags/RDF\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>RDF</span></a> <a href=\"https://fediscience.org/tags/SPARQL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>SPARQL</span></a> <a href=\"https://fediscience.org/tags/OWL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>OWL</span></a> <a href=\"https://fediscience.org/tags/SHACL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>SHACL</span></a> <a href=\"https://fediscience.org/tags/Wikidata\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Wikidata</span></a> <a href=\"https://fediscience.org/tags/DBPedia\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DBPedia</span></a> <a href=\"https://fediscience.org/tags/Solid\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Solid</span></a></p><p>Other academics on Mastodon:<br><a href=\"https://github.com/nathanlesage/academics-on-mastodon\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/nathanlesage/academ</span><span class=\"invisible\">ics-on-mastodon</span></a></p><p>Would you kindly boost and re-toot! \ud83d\ude09<br><span class=\"h-card\"><a href=\"https://mastodon.social/@openscience\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>openscience</span></a></span> <span class=\"h-card\"><a href=\"https://sigmoid.social/@fizise\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>fizise</span></a></span> <span class=\"h-card\"><a href=\"https://a.gup.pe/u/academicchatter\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>academicchatter</span></a></span> <span class=\"h-card\"><a href=\"https://a.gup.pe/u/academicsunite\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>academicsunite</span></a></span>  <span class=\"h-card\"><a href=\"https://a.gup.pe/u/semanticweb\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>semanticweb</span></a></span></p>"
-    },
-    "people": [
-      {
-        "url": "https://mstdn.social/@felwert",
-        "display_name": "Frederik Elwert"
-      },
-      {
-        "url": "https://fediscience.org/@semantic",
-        "display_name": "Daniel Dobriy (Q112275832)"
-      }
-    ]
-  },
-  {
     "link": "https://github.com/dev-sushi/sushi",
     "title": "GitHub - dev-sushi/sushi: \ud83c\udf63 use functions from any language in your favourite language",
     "latest": "2023-02-04T20:30:04+00:00",
@@ -1207,21 +1494,6 @@
       {
         "url": "https://indieweb.social/@tchambers",
         "display_name": "Tim Chambers"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/tuskyapp/Tusky/releases/tag/v21.0",
-    "title": "Release Tusky 21 \u00b7 tuskyapp/Tusky",
-    "latest": "2023-02-03T21:28:43+00:00",
-    "last_post": {
-      "url": "https://norden.social/@nick/109802915880453850",
-      "content": "<p><a href=\"https://norden.social/tags/Tusky\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Tusky</span></a> 21.0 ist erschienen!</p><p><a href=\"https://github.com/tuskyapp/Tusky/releases/tag/v21.0\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/tuskyapp/Tusky/rele</span><span class=\"invisible\">ases/tag/v21.0</span></a></p><p>Via F-Droid sind aktuell die Beta-Versionen verf\u00fcgbar... also noch ein wenig Geduld.</p><p>Tusky (Ein Multi-Account-Client f\u00fcr das soziale Netzwerk <a href=\"https://norden.social/tags/Mastodon\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Mastodon</span></a>)<br><a href=\"https://f-droid.org/packages/com.keylesspalace.tusky/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">f-droid.org/packages/com.keyle</span><span class=\"invisible\">sspalace.tusky/</span></a></p><p>Auf der Projektsite verlinkt der Download noch auf Tusky 20.0 (APK).</p><p>Aber hey, Tusky 21 ist noch ofenwarm... ;-)</p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.online/@vwbusguy",
-        "display_name": "Scott Williams  \ud83d\udc27"
       }
     ]
   },
@@ -2868,258 +3140,6 @@
       {
         "url": "https://fosstodon.org/@PipingHotData",
         "display_name": "Shannon Pileggi"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/simonw/datasette-search-all/blob/5b5f1926d7634ae3ed39f7eaf3fa74325e5d842b/datasette_search_all/templates/search_all.html#L97-L106",
-    "title": "datasette-search-all/search_all.html at 5b5f1926d7634ae3ed39f7eaf3fa74325e5d842b \u00b7 simonw/datasette-search-all",
-    "latest": "2023-01-26T19:28:47+00:00",
-    "last_post": {
-      "url": "https://fedi.simonwillison.net/@simon/109757157511395462",
-      "content": "<p><span class=\"h-card\"><a href=\"https://toot.cafe/@matt\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>matt</span></a></span> that's the great thing about tagged template literals... you can roll your own auto-escaping in a few lines of code! See <a href=\"https://github.com/simonw/datasette-search-all/blob/5b5f1926d7634ae3ed39f7eaf3fa74325e5d842b/datasette_search_all/templates/search_all.html#L97-L106\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/simonw/datasette-se</span><span class=\"invisible\">arch-all/blob/5b5f1926d7634ae3ed39f7eaf3fa74325e5d842b/datasette_search_all/templates/search_all.html#L97-L106</span></a> line 97 - then you get to write this:</p><p>el.innerHTML = autoescape`&lt;p&gt;<br>  &lt;a href=\"${search_url}\"&gt;${Number(more_count).toLocaleString()} more result${more_count == 1 ? '' : 's'}&lt;/a&gt;<br>&lt;/p&gt;`;</p><p>(I also love that backticks give you multiline strings)</p>"
-    },
-    "people": [
-      {
-        "url": "https://fedi.simonwillison.net/@simon",
-        "display_name": "Simon Willison"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/lysander07/Presentations/raw/main/EGC2023_Symbolic%20and%20Subsymbolic%20AI%20%20-%20an%20Epic%20Dilemma.pdf",
-    "title": "github.com/lysander07/Presenta...",
-    "latest": "2023-01-26T08:07:14+00:00",
-    "last_post": {
-      "url": "https://sigmoid.social/@lysander07/109717123377973339",
-      "content": "<p>Here are the slides of my keynote presentation \"Symbolic and Subsymbolic AI - An Epic Dilemma?\", at the Extraction et Gestion des Connaissances (EGC 2023) conference in Lyon.</p><p><a href=\"https://github.com/lysander07/Presentations/raw/main/EGC2023_Symbolic%20and%20Subsymbolic%20AI%20%20-%20an%20Epic%20Dilemma.pdf\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/lysander07/Presenta</span><span class=\"invisible\">tions/raw/main/EGC2023_Symbolic%20and%20Subsymbolic%20AI%20%20-%20an%20Epic%20Dilemma.pdf</span></a></p><p><a href=\"https://sigmoid.social/tags/ai\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ai</span></a> <a href=\"https://sigmoid.social/tags/llm\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>llm</span></a> <a href=\"https://sigmoid.social/tags/foundationmodels\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>foundationmodels</span></a> <a href=\"https://sigmoid.social/tags/deeplearning\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>deeplearning</span></a> <a href=\"https://sigmoid.social/tags/hybridai\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>hybridai</span></a> <a href=\"https://sigmoid.social/tags/knowledgegraphs\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>knowledgegraphs</span></a> <a href=\"https://sigmoid.social/tags/semanticweb\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>semanticweb</span></a> <a href=\"https://sigmoid.social/tags/deeplearning\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>deeplearning</span></a> <a href=\"https://sigmoid.social/tags/egc2023\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>egc2023</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.nl/@pietervaneverdingen",
-        "display_name": "Pieter van Everdingen"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/nmikstas/asteroids-disassembly",
-    "title": "GitHub - nmikstas/asteroids-disassembly: Disassembly of the Asteroids arcade game firmware",
-    "latest": "2023-01-26T07:50:02+00:00",
-    "last_post": {
-      "url": "https://die-partei.social/@hackernews/109754410762304771",
-      "content": "<p>Disassembly of the Asteroids arcade game firmware - <a href=\"https://github.com/nmikstas/asteroids-disassembly\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/nmikstas/asteroids-</span><span class=\"invisible\">disassembly</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://die-partei.social/@hackernews",
-        "display_name": "Hackernews"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/mastodon/mastodon/issues/12423",
-    "title": "Support Post Migration \u00b7 Issue #12423 \u00b7 mastodon/mastodon",
-    "latest": "2023-01-26T07:46:44+00:00",
-    "last_post": {
-      "url": "https://toot.io/@Sirsquid/109751074805926556",
-      "content": "<p>Mastodon 100% should pull your posts with you when you move instance.</p><p><a href=\"https://github.com/mastodon/mastodon/issues/12423\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/mastodon/mastodon/i</span><span class=\"invisible\">ssues/12423</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://vis.social/@julians",
-        "display_name": "Julian Stahnke"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/TodePond/FishLab/tree/main/images/fish",
-    "title": "github.com/TodePond/FishLab/tr...",
-    "latest": "2023-01-26T07:02:45+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@TodePond/109754224838633761",
-      "content": "<p>Second post of MASTODON YEAR! \ud83d\udc1f<br>I generated 1000 uniquely coloured fish</p><p>Grab your own! at...<br><a href=\"https://github.com/TodePond/FishLab/tree/main/images/fish\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/TodePond/FishLab/tr</span><span class=\"invisible\">ee/main/images/fish</span></a></p><p><a href=\"https://mastodon.social/tags/creativecoding\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>creativecoding</span></a> + <a href=\"https://mastodon.social/tags/alife\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>alife</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@TodePond",
-        "display_name": "Lu Wilson"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/threeify/threeify/blob/master/packages/scene/src/loaders/glTF.ts",
-    "title": "threeify/glTF.ts at master \u00b7 threeify/threeify",
-    "latest": "2023-01-25T21:50:25+00:00",
-    "last_post": {
-      "url": "https://mastodon.gamedev.place/@BenHouston3D/109752006083241601",
-      "content": "<p>Got <a href=\"https://mastodon.gamedev.place/tags/glTF\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>glTF</span></a>'s loading into my <a href=\"https://mastodon.gamedev.place/tags/Threeify\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Threeify</span></a> toy rendering using <span class=\"h-card\"><a href=\"https://fosstodon.org/@donmccurdy\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>donmccurdy</span></a></span> glTF-transform loader.  160 lines of code isn't bad for loading a glb and the basic PBR material model: <a href=\"https://github.com/threeify/threeify/blob/master/packages/scene/src/loaders/glTF.ts\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/threeify/threeify/b</span><span class=\"invisible\">lob/master/packages/scene/src/loaders/glTF.ts</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://fosstodon.org/@donmccurdy",
-        "display_name": "Don McCurdy"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/qgis/QGIS/wiki/QOD-January-2023",
-    "title": "QOD January 2023",
-    "latest": "2023-01-25T21:14:29+00:00",
-    "last_post": {
-      "url": "https://fosstodon.org/@qgis/109751794204028994",
-      "content": "<p>The next <a href=\"https://fosstodon.org/tags/QGISOpenDay\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>QGISOpenDay</span></a> is this Friday, the 27th of January!<br>Don't miss any of the interesting sessions scheduled for the day. For more info and links visit: <a href=\"https://github.com/qgis/QGIS/wiki/QOD-January-2023\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/qgis/QGIS/wiki/QOD-</span><span class=\"invisible\">January-2023</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://fosstodon.org/@underdarkGIS",
-        "display_name": "Anita Graser \ud83c\uddea\ud83c\uddfa\ud83c\uddfa\ud83c\udde6"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/giswqs/leafmap/pull/347",
-    "title": "Add STAC API Browser GUI by giswqs \u00b7 Pull Request #347 \u00b7 giswqs/leafmap",
-    "latest": "2023-01-25T20:37:19+00:00",
-    "last_post": {
-      "url": "https://fosstodon.org/@giswqs/109750174559750989",
-      "content": "<p>Searching and visualizing <a href=\"https://fosstodon.org/tags/AWS\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AWS</span></a> open geospatial datasets interactively with <a href=\"https://fosstodon.org/tags/leafmap\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>leafmap</span></a>. Image footprints with attribute data can be added to the map automatically and accessed through a GeoPandas GeoDataFrame.</p><p><a href=\"https://github.com/giswqs/leafmap/pull/347\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/giswqs/leafmap/pull</span><span class=\"invisible\">/347</span></a> </p><p><a href=\"https://fosstodon.org/tags/geospatial\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>geospatial</span></a> <a href=\"https://fosstodon.org/tags/dataviz\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>dataviz</span></a> <a href=\"https://fosstodon.org/tags/geopython\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>geopython</span></a> <a href=\"https://fosstodon.org/tags/opensource\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>opensource</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://fosstodon.org/@underdarkGIS",
-        "display_name": "Anita Graser \ud83c\uddea\ud83c\uddfa\ud83c\uddfa\ud83c\udde6"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/tdeerenberg/Musort",
-    "title": "GitHub - tdeerenberg/Musort: Rename multiple audio/music files based on the ID3 tag at once. Written in Python3.",
-    "latest": "2023-01-25T20:30:40+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@python_discussions/109751739402523524",
-      "content": "<p>I wrote a program that organizes your music library by renaming your music files based on the ID3 tag (metadata).</p><p><a href=\"https://github.com/tdeerenberg/Musort\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/tdeerenberg/Musort</span><span class=\"invisible\"></span></a></p><p>Discussions: <a href=\"https://discu.eu/q/https://github.com/tdeerenberg/Musort\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">discu.eu/q/https://github.com/</span><span class=\"invisible\">tdeerenberg/Musort</span></a></p><p><a href=\"https://mastodon.social/tags/programming\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>programming</span></a> <a href=\"https://mastodon.social/tags/python\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>python</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@python_discussions",
-        "display_name": "Python Weekly"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/Aleph-One-Marathon/data-marathon",
-    "title": "github.com/Aleph-One-Marathon/...",
-    "latest": "2023-01-25T20:30:02+00:00",
-    "last_post": {
-      "url": "https://floss.social/@Le_bottin_des_jeux_linux/109751663376210673",
-      "content": "<p>\ud83d\udd79\ufe0f Title: Marathon<br>\ud83e\udd8a\ufe0f What's: The 1st episode of a free trilogy mixing FPS &amp; sci-fi adventure<br>\ud83c\udfe1\ufe0f <a href=\"https://alephone.lhowon.org/games/marathon.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">alephone.lhowon.org/games/mara</span><span class=\"invisible\">thon.html</span></a><br>\ud83d\udc23\ufe0f <a href=\"https://github.com/Aleph-One-Marathon/data-marathon\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/Aleph-One-Marathon/</span><span class=\"invisible\">data-marathon</span></a><br>\ud83d\udd16 <a href=\"https://floss.social/tags/LinuxGaming\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>LinuxGaming</span></a> <a href=\"https://floss.social/tags/Adventure\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Adventure</span></a> <a href=\"https://floss.social/tags/FPS\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>FPS</span></a> <a href=\"https://floss.social/tags/SciFi\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>SciFi</span></a> <a href=\"https://floss.social/tags/Free\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Free</span></a> <a href=\"https://floss.social/tags/Libre\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Libre</span></a> <a href=\"https://floss.social/tags/Bin\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Bin</span></a> <a href=\"https://floss.social/tags/Arch\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Arch</span></a> <a href=\"https://floss.social/tags/RPM\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>RPM</span></a> <a href=\"https://floss.social/tags/Flatpak\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Flatpak</span></a><br>\ud83d\udcd6 Our entry: <a href=\"http://www.lebottindesjeuxlinux.tuxfamily.org/en/online/lights-on/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">http://www.</span><span class=\"ellipsis\">lebottindesjeuxlinux.tuxfamily</span><span class=\"invisible\">.org/en/online/lights-on/</span></a></p><p>\u2697\ufe0f New deliverable \ud83d\udce6\ufe0f<br>\ud83d\udde8\ufe0f A deliverable in Flatpak format is available (tested &amp; working)!<br>\ud83d\udd0d\ufe0f Review: \ud83d\udc4f\ufe0f\u2b50\u2b50\u2b50\u2b50</p><p>\ud83c\udffa\ufe0f <a href=\"https://watch.thekitty.zone/GCn7IyzrNrU\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">watch.thekitty.zone/GCn7IyzrNr</span><span class=\"invisible\">U</span></a><br>\ud83d\udd75\ufe0f <a href=\"https://watch.thekitty.zone/kUYgKyMZ-B4\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">watch.thekitty.zone/kUYgKyMZ-B</span><span class=\"invisible\">4</span></a><br>\ud83d\udd75\ufe0f <a href=\"https://watch.thekitty.zone/SGcoxadvLAY\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">watch.thekitty.zone/SGcoxadvLA</span><span class=\"invisible\">Y</span></a><br>\ud83d\udd79\ufe0f(sp) <a href=\"https://watch.thekitty.zone/QK0SfRt5Jcs\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">watch.thekitty.zone/QK0SfRt5Jc</span><span class=\"invisible\">s</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mathstodon.xyz/@yrochat",
-        "display_name": "Yannick Rochat"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/microsoft/torchgeo/releases/tag/v0.4.0#user-content-datamodules",
-    "title": "Release v0.4.0 \u00b7 microsoft/torchgeo",
-    "latest": "2023-01-25T19:49:30+00:00",
-    "last_post": {
-      "url": "https://fosstodon.org/@underdarkGIS/109751577485842772",
-      "content": "<p>Hey <a href=\"https://fosstodon.org/tags/GISchat\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>GISchat</span></a>, have you ever tried <a href=\"https://fosstodon.org/tags/TorchGeo\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>TorchGeo</span></a>?<br><a href=\"https://github.com/microsoft/torchgeo/releases/tag/v0.4.0#user-content-datamodules\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/microsoft/torchgeo/</span><span class=\"invisible\">releases/tag/v0.4.0#user-content-datamodules</span></a></p><p>Would you recommend it? Is it <a href=\"https://fosstodon.org/tags/EO\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>EO</span></a> data only? </p><p><a href=\"https://fosstodon.org/tags/PyTorch\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>PyTorch</span></a> <a href=\"https://fosstodon.org/tags/GeoAI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>GeoAI</span></a> <a href=\"https://fosstodon.org/tags/SpatialDataScience\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>SpatialDataScience</span></a> <a href=\"https://fosstodon.org/tags/geospatial\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>geospatial</span></a> <a href=\"https://fosstodon.org/tags/giscience\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>giscience</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://fosstodon.org/@underdarkGIS",
-        "display_name": "Anita Graser \ud83c\uddea\ud83c\uddfa\ud83c\uddfa\ud83c\udde6"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/Dimillian/IceCubesApp",
-    "title": "Discussions \u00b7 Dimillian/IceCubesApp",
-    "latest": "2023-01-25T09:19:00+00:00",
-    "last_post": {
-      "url": "https://fediscience.org/@FrederikAust/109749085302795977",
-      "content": "<p>A lot of iOS users are excited about Ivory and I agree it is nice. But I think the recently released open source alternative <span class=\"h-card\"><a href=\"https://mastodon.cloud/@icecubesapp\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>icecubesapp</span></a></span> deserves more love. It has great features, looks great and is completely free! Do check it out. <a href=\"https://github.com/Dimillian/IceCubesApp\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/Dimillian/IceCubesA</span><span class=\"invisible\">pp</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://macaw.social/@andypiper",
-        "display_name": "Andy Piper"
-      },
-      {
-        "url": "https://indieweb.social/@tchambers",
-        "display_name": "Tim Chambers"
-      },
-      {
-        "url": "https://mastodon.online/@vladiliescu",
-        "display_name": "Vlad Iliescu \ud83d\udc2c"
-      },
-      {
-        "url": "https://fosstodon.org/@djnavarro",
-        "display_name": "Danielle Navarro"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/huggingface/diffusers/tree/main/examples/text_to_image#training-with-lora",
-    "title": "diffusers/examples/text_to_image at main \u00b7 huggingface/diffusers",
-    "latest": "2023-01-25T08:59:37.496000+00:00",
-    "last_post": {
-      "url": "https://sigmoid.social/@akhaliq/109746945004260551",
-      "content": "<p>RT @RisingSayak@twitter.com</p><p>Fine-tune Stable Diffusion in T4/V100 on a custom image-caption pairs' dataset \ud83e\udde8 \ud83d\udd25 =&gt; memory efficiency</p><p>This is enabled by LoRA. With LoRA, the fine-tuned checkpoints are just **3 MBs** in size \ud83e\udd2f =&gt; portability</p><p>Know about it\ud83d\udc47 <a href=\"https://github.com/huggingface/diffusers/tree/main/examples/text_to_image#training-with-lora\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/huggingface/diffuse</span><span class=\"invisible\">rs/tree/main/examples/text_to_image#training-with-lora</span></a></p><p>\ud83d\udc26\ud83d\udd17: <a href=\"https://twitter.com/RisingSayak/status/1617915224119705601\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">twitter.com/RisingSayak/status</span><span class=\"invisible\">/1617915224119705601</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mstdn.social/@arnicas",
-        "display_name": "arnicas"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/awslabs/",
-    "title": "Amazon Web Services - Labs",
-    "latest": "2023-01-25T08:24:57+00:00",
-    "last_post": {
-      "url": "https://creative.ai/@arxiv_cl/109748885722421014",
-      "content": "<p>\ud83d\udcdd Dr.Spider: A Diagnostic Evaluation Benchmark Towards Text-to-SQL Robustness \ud83d\udcda</p><p>\"Designs 17 perturbations on databases, natural language questions, and SQL queries to measure the robustness from different angles and present a comprehensive robustness benchmark based on Spider, a cross-domain text-to-SQL benchmark.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/awslabs/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/awslabs/</span><span class=\"invisible\"></span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2301.08881v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2301.08881v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://creative.ai/@arxiv_cl",
-        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/refinedev/refine/blob/next/CHANGELOG.md",
-    "title": "refine/CHANGELOG.md at next \u00b7 refinedev/refine",
-    "latest": "2023-01-25T07:40:02+00:00",
-    "last_post": {
-      "url": "https://die-partei.social/@hackernews/109748709118325269",
-      "content": "<p>Show HN: Refine v3.97 \u2013 Open-source React framework for building CRUD apps - <a href=\"https://github.com/refinedev/refine/blob/next/CHANGELOG.md\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/refinedev/refine/bl</span><span class=\"invisible\">ob/next/CHANGELOG.md</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://die-partei.social/@hackernews",
-        "display_name": "Hackernews"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/stanfordnlp/dsp",
-    "title": "GitHub - stanfordnlp/dsp: The Demonstrate-Search-Predict Framework: Composing retrieval and language models for knowledge-intensive NLP",
-    "latest": "2023-01-25T07:02:33+00:00",
-    "last_post": {
-      "url": "https://idf.social/@arjen/109748561710999800",
-      "content": "<p>The Demonstrate-Search-Predict Framework: Composing retrieval and language models for knowledge-intensive NLP. </p><p><a href=\"https://github.com/stanfordnlp/dsp\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/stanfordnlp/dsp</span><span class=\"invisible\"></span></a></p><p>Like a zero-code programming environment for LLM based solutions to knowledge-intensive tasks.</p><p><a href=\"https://arxiv.org/abs/2212.14024\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2212.14024</span><span class=\"invisible\"></span></a></p><p><a href=\"https://idf.social/tags/LLM\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>LLM</span></a> <a href=\"https://idf.social/tags/NLProc\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>NLProc</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://idf.social/@arjen",
-        "display_name": "Arjen P. de Vries Timmers \ud83d\udd4a\ufe0f"
       }
     ]
   }
