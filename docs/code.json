@@ -1,5 +1,114 @@
 [
   {
+    "link": "https://github.com/yuzulabo/Mastodon-Archive-Viewer",
+    "title": "GitHub - yuzulabo/Mastodon-Archive-Viewer: Mastodon\u304b\u3089\u51fa\u529b\u3057\u305f\u30a2\u30fc\u30ab\u30a4\u30d6\u306e\u7d71\u8a08\u3001\u30c8\u30a5\u30fc\u30c8\u4e00\u89a7\u3092\u8868\u793a\u3057\u307e\u3059\u3002",
+    "latest": "2023-02-12T09:58:16+00:00",
+    "last_post": {
+      "url": "https://masto.ai/@nbax/109844143987439392",
+      "content": "<p>For what its worth, I used a modified version of Mastodon Archive Viewer <a href=\"https://github.com/yuzulabo/Mastodon-Archive-Viewer\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/yuzulabo/Mastodon-A</span><span class=\"invisible\">rchive-Viewer</span></a> to go through my toots to find ones I wanted to boost over here from <a href=\"https://masto.ai/tags/MastodonLOL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>MastodonLOL</span></a>, I then just copied the URLs and searched for them on masto.ai</p>"
+    },
+    "people": [
+      {
+        "url": "https://sfba.social/@morgandawn",
+        "display_name": "morgandawn"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/orgs/community/discussions/46691",
+    "title": "Why does the raw file still show previous data? \u00b7 Discussion #46691 \u00b7 community",
+    "latest": "2023-02-12T09:50:02+00:00",
+    "last_post": {
+      "url": "https://die-partei.social/@hackernews/109851141928362803",
+      "content": "<p>GitHub is aggressively caching raw.github, breaking many use cases - <a href=\"https://github.com/orgs/community/discussions/46691\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/orgs/community/disc</span><span class=\"invisible\">ussions/46691</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://die-partei.social/@hackernews",
+        "display_name": "Hackernews"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/mikedewar/streamscope",
+    "title": "GitHub - mikedewar/streamscope: visualise streams of data through a websocket",
+    "latest": "2023-02-12T09:08:43+00:00",
+    "last_post": {
+      "url": "https://mastodon.online/@mikedewar/109850979427661241",
+      "content": "<p>Today's <a href=\"https://mastodon.online/tags/streamscope\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>streamscope</span></a> update: got text to render FINALLY. Was tricky! Nowhere near to being useful, but have at least started. Half term this week coupled with a timely re-org at work means I might be able to make some good headway this week! Failing that: more naps!<br><a href=\"https://github.com/mikedewar/streamscope\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/mikedewar/streamsco</span><span class=\"invisible\">pe</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.online/@mikedewar",
+        "display_name": "mikedewar"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/moshi4/pyCirclize",
+    "title": "GitHub - moshi4/pyCirclize: Circular visualization in Python (Circos Plot, Chord Diagram)",
+    "latest": "2023-02-12T07:50:03+00:00",
+    "last_post": {
+      "url": "https://die-partei.social/@hackernews/109850670078325174",
+      "content": "<p>Show HN: PyCirclize \u2013 Circular Visualization in Python - <a href=\"https://github.com/moshi4/pyCirclize\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/moshi4/pyCirclize</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://die-partei.social/@hackernews",
+        "display_name": "Hackernews"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/bmschmidt/bare-bones-blog",
+    "title": "github.com/bmschmidt/bare-bone...",
+    "latest": "2023-02-12T06:31:21+00:00",
+    "last_post": {
+      "url": "https://vis.social/@benmschmidt/109844039024052736",
+      "content": "<p>As an exercise in minimalism, I stripped my blogging template down to a bare-bones repo, generating a static-site blog with RSS that publishes to github pages (or wherever) using pandoc and svelte-kit. Audience is maybe beginners, people who love pandoc and are thinking of moving on from Jekyll/Hugo, or people just curious to see how a svelte-kit site works. The whole filesystem-based router has been really eye-opening for me, personally. <a href=\"https://bmschmidt.github.io/bare-bones-blog/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">bmschmidt.github.io/bare-bones</span><span class=\"invisible\">-blog/</span></a> <a href=\"https://github.com/bmschmidt/bare-bones-blog\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/bmschmidt/bare-bone</span><span class=\"invisible\">s-blog</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mstdn.social/@felwert",
+        "display_name": "Frederik Elwert"
+      },
+      {
+        "url": "https://vis.social/@seblammers",
+        "display_name": "Sebastian Lammers"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/aappleby/Wideboard",
+    "title": "GitHub - aappleby/Wideboard: text editor experiment",
+    "latest": "2023-02-12T06:00:04+00:00",
+    "last_post": {
+      "url": "https://die-partei.social/@hackernews/109850237645025930",
+      "content": "<p>Wideboard: Render _all_ of Linux's source code in a browser tab via WebGL - <a href=\"https://github.com/aappleby/Wideboard\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/aappleby/Wideboard</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://die-partei.social/@hackernews",
+        "display_name": "Hackernews"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/rjindael/ca-dmv-bot",
+    "title": "GitHub - rjindael/ca-dmv-bot: Social media bot that randomly posts 23,463 personalized license plate applications the California DMV received from 2015-2016.",
+    "latest": "2023-02-12T05:01:11+00:00",
+    "last_post": {
+      "url": "https://botsin.space/@ca_dmv_bot/109600206797603070",
+      "content": "<p>This is a bot that posts *real* personalized license plate applications that the California DMV received, with *real* customer and DMV comments.</p><p>If you enjoyed this account, please consider giving it a star on GitHub!</p><p><a href=\"https://github.com/rjindael/ca-dmv-bot\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/rjindael/ca-dmv-bot</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://indieweb.social/@tchambers",
+        "display_name": "Tim Chambers"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/Nevin1901/erlog",
     "title": "GitHub - Nevin1901/erlog: Minimalist log collector",
     "latest": "2023-02-11T22:00:03+00:00",
@@ -263,21 +372,6 @@
       {
         "url": "https://mastodon.social/@compsci_discussions",
         "display_name": "Compsci Weekly"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/bmschmidt/bare-bones-blog",
-    "title": "github.com/bmschmidt/bare-bone...",
-    "latest": "2023-02-11T07:12:25.118000+00:00",
-    "last_post": {
-      "url": "https://vis.social/@benmschmidt/109844039024052736",
-      "content": "<p>As an exercise in minimalism, I stripped my blogging template down to a bare-bones repo, generating a static-site blog with RSS that publishes to github pages (or wherever) using pandoc and svelte-kit. Audience is maybe beginners, people who love pandoc and are thinking of moving on from Jekyll/Hugo, or people just curious to see how a svelte-kit site works. The whole filesystem-based router has been really eye-opening for me, personally. <a href=\"https://bmschmidt.github.io/bare-bones-blog/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">bmschmidt.github.io/bare-bones</span><span class=\"invisible\">-blog/</span></a> <a href=\"https://github.com/bmschmidt/bare-bones-blog\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/bmschmidt/bare-bone</span><span class=\"invisible\">s-blog</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mstdn.social/@felwert",
-        "display_name": "Frederik Elwert"
       }
     ]
   },
@@ -3042,96 +3136,6 @@
       {
         "url": "https://fosstodon.org/@johnmackintosh",
         "display_name": "John MacKintosh"
-      }
-    ]
-  },
-  {
-    "link": "https://gist.github.com/wesslen/940da012837dda5d125e35e6a97f82ec",
-    "title": "Prodigy recipe for binary text classification on the sentence level (highlighted) within context of paragraph.",
-    "latest": "2023-01-27T20:28:59+00:00",
-    "last_post": {
-      "url": "https://sigmoid.social/@ryanwesslen/109763057353282262",
-      "content": "<p>A nifty Prodi.gy \u2728 recipe for binary sentence classification in context (paragraph). \ud83d\ude80<br>\u25aa\ufe0fClassify the highlighted sentence<br>\u25aa\ufe0fKey shortcuts speed up the task<br>\u25aa\ufe0fOrdering paragraphs read it as intended <br><a href=\"https://gist.github.com/wesslen/940da012837dda5d125e35e6a97f82ec\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gist.github.com/wesslen/940da0</span><span class=\"invisible\">12837dda5d125e35e6a97f82ec</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://sigmoid.social/@ryanwesslen",
-        "display_name": "Ryan Wesslen"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/sts10/tidy/blob/counting_chars/src/lib.rs#L344-L350",
-    "title": "tidy/lib.rs at counting_chars \u00b7 sts10/tidy",
-    "latest": "2023-01-27T20:07:32+00:00",
-    "last_post": {
-      "url": "https://hachyderm.io/@schlink/109762973019729977",
-      "content": "<p>alright, I just decided to write my own count_characters function that normalizes to NFC before counting</p><p><a href=\"https://github.com/sts10/tidy/blob/counting_chars/src/lib.rs#L344-L350\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/sts10/tidy/blob/cou</span><span class=\"invisible\">nting_chars/src/lib.rs#L344-L350</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://hachyderm.io/@schlink",
-        "display_name": "Sam Schlinkert"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/sts10/tidy/pull/30",
-    "title": "Standardizes the way Tidy counts the length of a word (string) by sts10 \u00b7 Pull Request #30 \u00b7 sts10/tidy",
-    "latest": "2023-01-27T19:54:03+00:00",
-    "last_post": {
-      "url": "https://hachyderm.io/@schlink/109762920029289547",
-      "content": "<p><span class=\"h-card\"><a href=\"https://octodon.social/@CobaltVelvet\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>CobaltVelvet</span></a></span> I hope you're proud of me! <br><a href=\"https://github.com/sts10/tidy/pull/30\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/sts10/tidy/pull/30</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://hachyderm.io/@schlink",
-        "display_name": "Sam Schlinkert"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/r-devel/r-svn/commit/dd4ed6ffc9b620c7b4a92f8cb9dab9ecc8b5890c",
-    "title": "github.com/r-devel/r-svn/commi...",
-    "latest": "2023-01-27T19:53:23+00:00",
-    "last_post": {
-      "url": "https://econtwitter.net/@michaelchirico/109762817427583780",
-      "content": "<p>Big shoutout to the large group of translators who've helped to add &gt;3,000 translations in 8 languages to R! <a href=\"https://econtwitter.net/tags/rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rstats</span></a></p><p>And especially thanks to <span class=\"h-card\"><a href=\"https://fosstodon.org/@daroczig\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>daroczig</span></a></span> for setting up the weblate server to make translations so much easier. Try it here! <a href=\"https://translate.rx.studio\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">translate.rx.studio</span><span class=\"invisible\"></span></a></p><p><a href=\"https://github.com/r-devel/r-svn/commit/dd4ed6ffc9b620c7b4a92f8cb9dab9ecc8b5890c\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/r-devel/r-svn/commi</span><span class=\"invisible\">t/dd4ed6ffc9b620c7b4a92f8cb9dab9ecc8b5890c</span></a></p><p>[\ud83d\udc26 xpost]</p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@eliocamp",
-        "display_name": "Elio Campitelli"
-      }
-    ]
-  },
-  {
-    "link": "https://observablehq.com/@neocartocnrs/bertin-js-chropoleth?collection=@neocartocnrs/bertin",
-    "title": "Bertin.js: choropleth",
-    "latest": "2023-01-27T08:32:05+00:00",
-    "last_post": {
-      "url": "https://vis.social/@neocarto/109760238390344082",
-      "content": "<p>It was missing. In <a href=\"https://vis.social/tags/bertin\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>bertin</span></a>, you can now make choropleth maps with a geometric progression. <a href=\"https://vis.social/tags/JSspatial\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>JSspatial</span></a> <a href=\"https://vis.social/tags/cartography\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>cartography</span></a> <a href=\"https://observablehq.com/@neocartocnrs/bertin-js-chropoleth?collection=@neocartocnrs/bertin\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">observablehq.com/@neocartocnrs</span><span class=\"invisible\">/bertin-js-chropoleth?collection=@neocartocnrs/bertin</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://vis.social/@neocarto",
-        "display_name": "Nicolas Lambert \ud83c\udf0f"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/sts10/tidy/issues/26",
-    "title": "Which Unicode normalization should Tidy use? \u00b7 Issue #26 \u00b7 sts10/tidy",
-    "latest": "2023-01-27T07:58:40+00:00",
-    "last_post": {
-      "url": "https://hachyderm.io/@schlink/109760107045202618",
-      "content": "<p>sooo does anyone have strong opinions about which Unicode normalization form one should use for passphrase wordlists? NFC? NFKD?</p><p><a href=\"https://github.com/sts10/tidy/issues/26\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/sts10/tidy/issues/2</span><span class=\"invisible\">6</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://hachyderm.io/@schlink",
-        "display_name": "Sam Schlinkert"
       }
     ]
   }
