@@ -1,5 +1,129 @@
 [
   {
+    "link": "https://github.com/django-crispy-forms/django-crispy-forms/pull/1335",
+    "title": "2.0 Release by smithdc1 \u00b7 Pull Request #1335 \u00b7 django-crispy-forms/django-crispy-forms",
+    "latest": "2023-02-13T20:07:52+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@carlton/109859192791492662",
+      "content": "<p>Look at that! Shiny new django-crispy-forms 2.0 <a href=\"https://github.com/django-crispy-forms/django-crispy-forms/pull/1335\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/django-crispy-forms</span><span class=\"invisible\">/django-crispy-forms/pull/1335</span></a></p><p>Massive thanks to <span class=\"h-card\"><a href=\"https://fosstodon.org/@davidsmith\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>davidsmith</span></a></span>! <br>\ud83e\udd73\ud83d\udc9d\ud83c\udf82\ud83e\uddbe\u26f5\ufe0f</p>"
+    },
+    "people": [
+      {
+        "url": "https://fosstodon.org/@tonybaloney",
+        "display_name": "Anthony Shaw :python:"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/davesrocketshop/Rocket/blob/dev3_0/TESTING.md",
+    "title": "Rocket/TESTING.md at dev3_0 \u00b7 davesrocketshop/Rocket",
+    "latest": "2023-02-13T19:56:07+00:00",
+    "last_post": {
+      "url": "https://mstdn.ca/@DavesRocketShop/109805611387339649",
+      "content": "<p>New alpha branch of the Rocket Workbench available for testing. Installation instructions are available here: <a href=\"https://github.com/davesrocketshop/Rocket/blob/dev3_0/TESTING.md\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/davesrocketshop/Roc</span><span class=\"invisible\">ket/blob/dev3_0/TESTING.md</span></a></p><p>The current testing branch is dev3_0_alpha3_02042023<br><a href=\"https://mstdn.ca/tags/RocketWorkbench\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>RocketWorkbench</span></a> <a href=\"https://mstdn.ca/tags/FreeCAD\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>FreeCAD</span></a> <br> <br>Many bug fixes, primarily in the UI:<br>- Tree editing<br>- Improved custom fin workflow<br>- Improved part auto-sizing</p><p>I anticipate one more alpha release before feature freeze</p>"
+    },
+    "people": [
+      {
+        "url": "https://fosstodon.org/@FreeCAD",
+        "display_name": "FreeCAD :freecad:"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/duckduckgo/duckduckgo-help-pages/commit/900b5ec407fcebaaf5e0abcd061f1cabc4b91dd5",
+    "title": "Update to Sources help page (#120) \u00b7 duckduckgo/duckduckgo-help-pages@900b5ec",
+    "latest": "2023-02-13T19:54:53+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@autiomaa/109859182570051477",
+      "content": "<p>Example of how a rewritten documentation can make services more understandable for non-programmers. DuckDuckGo (on Jun 2, 2022) replaced mention of StackOverflow with a regular consumer application.<br><a href=\"https://github.com/duckduckgo/duckduckgo-help-pages/commit/900b5ec407fcebaaf5e0abcd061f1cabc4b91dd5\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/duckduckgo/duckduck</span><span class=\"invisible\">go-help-pages/commit/900b5ec407fcebaaf5e0abcd061f1cabc4b91dd5</span></a></p><p>Sadly 3rd party APIs come and go. Dark Sky weather forecast API closes down on March 31, 2023.<br><a href=\"https://darksky.net/apple-weather\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">darksky.net/apple-weather</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@autiomaa",
+        "display_name": "Daniel Schildt"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/sgoettel/teihdr2csv",
+    "title": "GitHub - sgoettel/teihdr2csv: A Python script for extracting data from TEI-encoded letters/postcards",
+    "latest": "2023-02-13T19:47:45+00:00",
+    "last_post": {
+      "url": "https://fedihum.org/@sgoettel/109858608033612476",
+      "content": "<p>Thinking about how to get corpora of TEI-encoded letters/postcards automatically into an overview, maybe to prepare for social network analysis or visualization? Here is my (hopefully) efficient way to extract key info from TEI-encoded letters. <a href=\"https://fedihum.org/tags/Python\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Python</span></a>, <a href=\"https://fedihum.org/tags/TEI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>TEI</span></a>, <a href=\"https://fedihum.org/tags/DigitalHumanities\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DigitalHumanities</span></a><br><a href=\"https://github.com/sgoettel/teihdr2csv\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/sgoettel/teihdr2csv</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fedihum.org/@christof",
+        "display_name": "Christof Sch\u00f6ch (moderator)"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/4silvertooth/QwikTape",
+    "title": "GitHub - 4silvertooth/QwikTape: Do calculations, annotate like you would on a paper \"qwikly\".",
+    "latest": "2023-02-13T19:15:04+00:00",
+    "last_post": {
+      "url": "https://die-partei.social/@hackernews/109859025995197527",
+      "content": "<p>QwikTape: Do calculations, annotate like you would on a paper - <a href=\"https://github.com/4silvertooth/QwikTape\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/4silvertooth/QwikTa</span><span class=\"invisible\">pe</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://die-partei.social/@hackernews",
+        "display_name": "Hackernews"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/tancik/Illusion-Diffusion",
+    "title": "GitHub - tancik/Illusion-Diffusion: Optical illusions using stable diffusion",
+    "latest": "2023-02-13T19:15:04+00:00",
+    "last_post": {
+      "url": "https://die-partei.social/@hackernews/109859026038514614",
+      "content": "<p>Illusion Diffusion: Optical Illusions Using Stable Diffusion - <a href=\"https://github.com/tancik/Illusion-Diffusion\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/tancik/Illusion-Dif</span><span class=\"invisible\">fusion</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://die-partei.social/@hackernews",
+        "display_name": "Hackernews"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/jmcastagnetto/my_map_prompt_monday/tree/main/2023-02-13_bivariate-maps",
+    "title": "my_map_prompt_monday/2023-02-13_bivariate-maps at main \u00b7 jmcastagnetto/my_map_prompt_monday",
+    "latest": "2023-02-13T19:12:30+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@jmcastagnetto/109859001193313033",
+      "content": "<p>For this week's <a href=\"https://mastodon.social/tags/MapPromptMonday\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>MapPromptMonday</span></a> , a bivariate map showing the relation between the <a href=\"https://mastodon.social/tags/HDI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>HDI</span></a> (at the province level), and the \"government density\" that measures the presence of government in a given region.</p><p>Highest HDI and gov density are mostly concentrated on the coast of <a href=\"https://mastodon.social/tags/Peru\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Peru</span></a></p><p><a href=\"https://mastodon.social/tags/Rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Rstats</span></a> code at: <a href=\"https://github.com/jmcastagnetto/my_map_prompt_monday/tree/main/2023-02-13_bivariate-maps\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/jmcastagnetto/my_ma</span><span class=\"invisible\">p_prompt_monday/tree/main/2023-02-13_bivariate-maps</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@hrbrmstr",
+        "display_name": "boB Rudis \ud83c\uddfa\ud83c\udde6"
+      }
+    ]
+  },
+  {
+    "link": "https://gist.github.com/aldavigdis/daa1ff79bdaf2f60733aa210a23c062f",
+    "title": "Falsehoods programmers belive about location data",
+    "latest": "2023-02-13T18:44:08+00:00",
+    "last_post": {
+      "url": "https://topspicy.social/@alda/109857369214091218",
+      "content": "<p>I just wrote a little Github gist about falsehoods programmers believe about locations and addresses.</p><p>It could be an interesting read.</p><p><a href=\"https://gist.github.com/aldavigdis/daa1ff79bdaf2f60733aa210a23c062f\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gist.github.com/aldavigdis/daa</span><span class=\"invisible\">1ff79bdaf2f60733aa210a23c062f</span></a></p><p><a href=\"https://topspicy.social/tags/programming\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>programming</span></a> <a href=\"https://topspicy.social/tags/ethnocentrism\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ethnocentrism</span></a> <a href=\"https://topspicy.social/tags/falsehoods\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>falsehoods</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://aus.social/@liam",
+        "display_name": "liam"
+      },
+      {
+        "url": "https://octodon.social/@craignicol",
+        "display_name": "Craig Nicol"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/schibsted/WAAS",
     "title": "GitHub - schibsted/WAAS: Whisper as a Service (Basic WIP API for transcribing speech)",
     "latest": "2023-02-13T09:25:02+00:00",
@@ -3020,126 +3144,6 @@
       {
         "url": "https://creative.ai/@arxiv_cl",
         "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/huggingface/transformers",
-    "title": "GitHub - huggingface/transformers: \ud83e\udd17 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.",
-    "latest": "2023-01-28T21:05:47+00:00",
-    "last_post": {
-      "url": "https://creative.ai/@arxiv_cl/109768864366641185",
-      "content": "<p>\ud83d\udcdd Parameter-Efficient Low-Resource Dialogue State Tracking by Prompt Tuning \ud83d\udcda\ud83d\udc7e</p><p>\"Uses soft prompt tokens (e,g, [TASK] and [STATE]) to replace LM parameters to learn task properties instead of tuning all LM parameters.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a> <a href=\"https://creative.ai/tags/AI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AI</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/huggingface/transformers\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/huggingface/transfo</span><span class=\"invisible\">rmers</span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2301.10915v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2301.10915v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://creative.ai/@arxiv_cl",
-        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/mszell/sciencememes",
-    "title": "GitHub - mszell/sciencememes: Science-inspired visual memes",
-    "latest": "2023-01-28T21:01:12+00:00",
-    "last_post": {
-      "url": "https://datasci.social/@mszll/109768846373089473",
-      "content": "<p>I realized I have created some science-inspired \"memes\" over the past years. To not lose them (and their source files) I organized them here: <a href=\"https://github.com/mszell/sciencememes\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/mszell/sciencememes</span><span class=\"invisible\"></span></a><br>Hope to add more in the future <a href=\"https://datasci.social/tags/sciencecomm\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>sciencecomm</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://datasci.social/@mszll",
-        "display_name": "Michael Szell"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/benrutter/clamshell",
-    "title": "GitHub - benrutter/clamshell: experimenting with a python based shell",
-    "latest": "2023-01-28T20:30:49+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@python_discussions/109768726924173840",
-      "content": "<p>Show HN: Clamshell- an experimental Python based shell</p><p><a href=\"https://github.com/benrutter/clamshell\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/benrutter/clamshell</span><span class=\"invisible\"></span></a></p><p>Discussions: <a href=\"https://discu.eu/q/https://github.com/benrutter/clamshell\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">discu.eu/q/https://github.com/</span><span class=\"invisible\">benrutter/clamshell</span></a></p><p><a href=\"https://mastodon.social/tags/programming\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>programming</span></a> <a href=\"https://mastodon.social/tags/python\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>python</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@python_discussions",
-        "display_name": "Python Weekly"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/fathyb/carbonyl",
-    "title": "GitHub - fathyb/carbonyl: Chromium running inside your terminal",
-    "latest": "2023-01-28T20:07:55+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@terhechte/109768636855133003",
-      "content": "<p>Somebody ported Chrome to the Terminal. Because why not. It looks incredible, and the detailed post of how they did it is mesmerising for sure.</p><p>I just watched some YouTube Videos, on YouTube, in the Terminal. Crazy.</p><p><a href=\"https://github.com/fathyb/carbonyl\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/fathyb/carbonyl</span><span class=\"invisible\"></span></a></p><p><a href=\"https://fathy.fr/carbonyl\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">fathy.fr/carbonyl</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@terhechte",
-        "display_name": "terhechte"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/Nirei/cutting",
-    "title": "GitHub - Nirei/cutting: Cutting is Processing written entirely in Ruby",
-    "latest": "2023-01-28T20:01:55+00:00",
-    "last_post": {
-      "url": "https://cascarilla.social/@nirro/109768613240974519",
-      "content": "<p>Been testing <a href=\"https://cascarilla.social/tags/Cutting\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Cutting</span></a> by writing some very simple animations and the results are satisfactory. Also, trying to actually do things forces me to push the codebase forward to support more and more of the <a href=\"https://cascarilla.social/tags/Processing\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Processing</span></a> API functionality.</p><p>Anyway, here are my first animations done with it.</p><p><a href=\"https://github.com/Nirei/cutting\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/Nirei/cutting</span><span class=\"invisible\"></span></a></p><p><a href=\"https://cascarilla.social/tags/CreativeCoding\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CreativeCoding</span></a> <a href=\"https://cascarilla.social/tags/GenerativeArt\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>GenerativeArt</span></a> <a href=\"https://cascarilla.social/tags/Genuary\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Genuary</span></a> <a href=\"https://cascarilla.social/tags/Genuary4\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Genuary4</span></a> <a href=\"https://cascarilla.social/tags/FreeSoftware\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>FreeSoftware</span></a> <a href=\"https://cascarilla.social/tags/OpenSource\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>OpenSource</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://cascarilla.social/@nirro",
-        "display_name": "Archiduque de Internet"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/mikedewar/streamscope#28th-jan-2023",
-    "title": "GitHub - mikedewar/streamscope: visualise streams of data through a websocket",
-    "latest": "2023-01-28T09:19:58+00:00",
-    "last_post": {
-      "url": "https://mastodon.online/@mikedewar/109766089018218888",
-      "content": "<p>Spent some more time on <a href=\"https://mastodon.online/tags/streamscope\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>streamscope</span></a> - this time playing with menus. Gonna need to refactor next I think; code's a mess. <a href=\"https://github.com/mikedewar/streamscope#28th-jan-2023\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/mikedewar/streamsco</span><span class=\"invisible\">pe#28th-jan-2023</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.online/@mikedewar",
-        "display_name": "mikedewar"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/swicg/general/issues/29",
-    "title": "github.com/swicg/general/issue...",
-    "latest": "2023-01-28T08:39:44+00:00",
-    "last_post": {
-      "url": "https://w3c.social/@andreas_kuckartz/109765840415400112",
-      "content": "<p><span class=\"h-card\"><a href=\"https://wien.rocks/@paula\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>paula</span></a></span> <br><span class=\"h-card\"><a href=\"https://wien.rocks/@AxelPolleres\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>AxelPolleres</span></a></span></p><p>Seit mehreren Jahren gibt es bereits <a href=\"https://socialhub.activitypub.rocks/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">socialhub.activitypub.rocks/</span><span class=\"invisible\"></span></a></p><p>Vor allem gibt es die W3C Social Web Incubator Community Group<br><a href=\"https://www.w3.org/community/socialcg/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">w3.org/community/socialcg/</span><span class=\"invisible\"></span></a></p><p>Eine der dr\u00e4ngenden Hauptaufgaben ist die Vereinigung der fragmentierten Community und Plattformen. Siehe dazu u.a.<br><a href=\"https://socialhub.activitypub.rocks/t/poll-socialhub-scope-and-purpose/2843/12\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">socialhub.activitypub.rocks/t/</span><span class=\"invisible\">poll-socialhub-scope-and-purpose/2843/12</span></a> und <a href=\"https://github.com/swicg/general/issues/29\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/swicg/general/issue</span><span class=\"invisible\">s/29</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://wien.rocks/@AxelPolleres",
-        "display_name": "AxelPolleres (Q54860587)"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/ali5h/zig-py-sample",
-    "title": "GitHub - ali5h/zig-py-sample: sample python extension in zig",
-    "latest": "2023-01-28T08:30:46+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@zig_discussions/109758341763916116",
-      "content": "<p>Python frontend with Zig backend</p><p><a href=\"https://github.com/ali5h/zig-py-sample\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/ali5h/zig-py-sample</span><span class=\"invisible\"></span></a></p><p>Discussions: <a href=\"https://discu.eu/q/https://github.com/ali5h/zig-py-sample\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">discu.eu/q/https://github.com/</span><span class=\"invisible\">ali5h/zig-py-sample</span></a></p><p><a href=\"https://mastodon.social/tags/programming\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>programming</span></a> <a href=\"https://mastodon.social/tags/python\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>python</span></a> <a href=\"https://mastodon.social/tags/ziglang\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ziglang</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@python_discussions",
-        "display_name": "Python Weekly"
       }
     ]
   }
