@@ -1,5 +1,137 @@
 [
   {
+    "link": "https://github.com/chainsawriot/rang",
+    "title": "GitHub - chainsawriot/rang: Reconstructing R computational environments",
+    "latest": "2023-02-15T21:57:36+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@schochastics/109870772205943358",
+      "content": "<p>Excited to introduce the <a href=\"https://fosstodon.org/tags/Rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Rstats</span></a> package rang (developed by <span class=\"h-card\"><a href=\"https://emacs.ch/@chainsawriot\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>chainsawriot</span></a></span>  and me). The pkg helps to reconstruct historical R environments to make old code run again (ie make it reproducible!). So far, it supports all code back to R 2.1.0 (2005!)<br><a href=\"https://github.com/chainsawriot/rang\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/chainsawriot/rang</span><span class=\"invisible\"></span></a><br> <br> <br>The package is an Rchaeological tool to ensure reproducibility retrospectively. You can also use rang to make your current projects future proof, but pkgs like renv or groundhog are better suited for this task.</p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@eliocamp",
+        "display_name": "Elio Campitelli"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/zloirock/core-js/blob/master/docs/2023-02-14-so-whats-next.md",
+    "title": "core-js/2023-02-14-so-whats-next.md at master \u00b7 zloirock/core-js",
+    "latest": "2023-02-15T21:47:49+00:00",
+    "last_post": {
+      "url": "https://everything.happens.horse/@ingrid/109869593829504874",
+      "content": "<p><a href=\"https://github.com/zloirock/core-js/blob/master/docs/2023-02-14-so-whats-next.md\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/zloirock/core-js/bl</span><span class=\"invisible\">ob/master/docs/2023-02-14-so-whats-next.md</span></a> not 100% on board with some parts of this post and also feel like it's a pretty clear case study in how open source largely exists to benefit capitalism and not actual human beings</p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@dabeaz",
+        "display_name": "David Beazley"
+      },
+      {
+        "url": "https://vis.social/@moritz",
+        "display_name": "moritz"
+      },
+      {
+        "url": "https://vis.social/@julians",
+        "display_name": "Julian Stahnke"
+      },
+      {
+        "url": "https://octodon.social/@craignicol",
+        "display_name": "Craig Nicol"
+      }
+    ]
+  },
+  {
+    "link": "https://observablehq.com/@fgregg/2019-ward-races",
+    "title": "observablehq.com/@fgregg/2019-...",
+    "latest": "2023-02-15T21:33:02+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@fgregg/109868877221523078",
+      "content": "<p>if you are making maps of <a href=\"https://mastodon.social/tags/chicago\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>chicago</span></a> then these lovingly-crafted dots could help you.  dots correspond to where chicagoans live and can add useful detail to your dot density maps.</p><p><a href=\"https://bunkum.us/chicago-dots/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">bunkum.us/chicago-dots/</span><span class=\"invisible\"></span></a></p><p>here's a project using these dots:</p><p><a href=\"https://observablehq.com/@fgregg/2019-ward-races\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">observablehq.com/@fgregg/2019-</span><span class=\"invisible\">ward-races</span></a></p><p><a href=\"https://mastodon.social/tags/dasymetric\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>dasymetric</span></a> <a href=\"https://mastodon.social/tags/DotDensity\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DotDensity</span></a> <a href=\"https://mastodon.social/tags/maps\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>maps</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://vis.social/@benmschmidt",
+        "display_name": "Ben Schmidt"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/keephq/keep",
+    "title": "GitHub - keephq/keep: Alerting. By developers, for developers.",
+    "latest": "2023-02-15T21:25:03+00:00",
+    "last_post": {
+      "url": "https://die-partei.social/@hackernews/109870861714490195",
+      "content": "<p>Show HN: Keep \u2013 Open-source alerting CLI - <a href=\"https://github.com/keephq/keep\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/keephq/keep</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://die-partei.social/@hackernews",
+        "display_name": "Hackernews"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/RUCKBReasoning/RESDSQL",
+    "title": "GitHub - RUCKBReasoning/RESDSQL: The Pytorch implementation of Decoupling the Skeleton Parsing and Schema Linking for Text-to-SQL (AAAI 2023).",
+    "latest": "2023-02-15T21:24:02+00:00",
+    "last_post": {
+      "url": "https://creative.ai/@arxiv_cl/109870857755889649",
+      "content": "<p>\ud83d\udcdd Decoupling the Skeleton Parsing and Schema Linking for Text-to-SQL \ud83d\udcda</p><p>\"Decouples the schema linking and the skeleton parsing during SQL generation through ranking-enhanced encoding and skeleton-aware decoding, which could alleviate error propagation and implicitly constrain SQL parsing, respectively.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/RUCKBReasoning/RESDSQL\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/RUCKBReasoning/RESD</span><span class=\"invisible\">SQL</span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2302.05965v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2302.05965v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://creative.ai/@arxiv_cl",
+        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/Auburn/FastNoiseLite",
+    "title": "GitHub - Auburn/FastNoiseLite: Fast Portable Noise Library - C# C++ C Java(Script) HLSL GLSL",
+    "latest": "2023-02-15T20:54:11+00:00",
+    "last_post": {
+      "url": "https://mastodon.pirateparty.be/@utopiah/109870740375700148",
+      "content": "<p><span class=\"h-card\"><a href=\"https://mastodon.social/@ada\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>ada</span></a></span> <a href=\"https://github.com/Auburn/FastNoiseLite\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/Auburn/FastNoiseLit</span><span class=\"invisible\">e</span></a> ?</p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.pirateparty.be/@utopiah",
+        "display_name": "Utopiah (Fabien Benetou)"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/yuwfan/HGN",
+    "title": "GitHub - yuwfan/HGN",
+    "latest": "2023-02-15T20:24:07+00:00",
+    "last_post": {
+      "url": "https://creative.ai/@arxiv_cl/109870622121811936",
+      "content": "<p>\ud83d\udcdd Analyzing the Effectiveness of the Underlying Reasoning Tasks in Multi-Hop Question Answering \ud83d\udcda</p><p>\"Evaluates the effect of underlying reasoning tasks (including both sentence-level and entity-level tasks) in three aspects: QA performance, reasoning shortcuts, and robustness.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/yuwfan/HGN\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/yuwfan/HGN</span><span class=\"invisible\"></span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2302.05963v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2302.05963v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://creative.ai/@arxiv_cl",
+        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/DioxusLabs/taffy/blob/main/RELEASES.md#030",
+    "title": "taffy/RELEASES.md at main \u00b7 DioxusLabs/taffy",
+    "latest": "2023-02-15T18:25:26+00:00",
+    "last_post": {
+      "url": "https://tech.lgbt/@alice_i_cecile/109853552897063176",
+      "content": "<p>Taffy 0.3 is now live!</p><p>This <a href=\"https://tech.lgbt/tags/rust\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rust</span></a> <a href=\"https://tech.lgbt/tags/ui\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ui</span></a> layout crate now has CSS grid support! Now you can enjoy both flexbox and css grid from the comfort of your cross-platform environment :P</p><p>Release notes: <a href=\"https://github.com/DioxusLabs/taffy/blob/main/RELEASES.md#030\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/DioxusLabs/taffy/bl</span><span class=\"invisible\">ob/main/RELEASES.md#030</span></a></p><p>Seriously: you should consider using this for your next \"revolutionary Rust UI framework\".</p><p>Full credit to my co-maintainer Nico Burns. He's done an incredible job spearheading these efforts and adding literally hundreds of rigorous (generated) tests.</p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.gamedev.place/@johnaustin",
+        "display_name": "John Austin"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/comeetie/francepixels2023/blob/main/omap_2023.json",
     "title": "francepixels2023/omap_2023.json at main \u00b7 comeetie/francepixels2023",
     "latest": "2023-02-15T09:46:07+00:00",
@@ -116,29 +248,6 @@
       {
         "url": "https://creative.ai/@arxiv_cl",
         "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/zloirock/core-js/blob/master/docs/2023-02-14-so-whats-next.md",
-    "title": "core-js/2023-02-14-so-whats-next.md at master \u00b7 zloirock/core-js",
-    "latest": "2023-02-15T04:57:32+00:00",
-    "last_post": {
-      "url": "https://macaw.social/@arrdem/109864029915898343",
-      "content": "<p>man this is bleak. <a href=\"https://github.com/zloirock/core-js/blob/master/docs/2023-02-14-so-whats-next.md\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/zloirock/core-js/bl</span><span class=\"invisible\">ob/master/docs/2023-02-14-so-whats-next.md</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@dabeaz",
-        "display_name": "David Beazley"
-      },
-      {
-        "url": "https://vis.social/@moritz",
-        "display_name": "moritz"
-      },
-      {
-        "url": "https://vis.social/@julians",
-        "display_name": "Julian Stahnke"
       }
     ]
   },
@@ -3067,111 +3176,6 @@
       {
         "url": "https://indieweb.social/@tchambers",
         "display_name": "Tim Chambers"
-      }
-    ]
-  },
-  {
-    "link": "https://codeberg.org/fediverse/delightful-fediverse-apps",
-    "title": "delightful-fediverse-apps",
-    "latest": "2023-02-02T04:33:47+00:00",
-    "last_post": {
-      "url": "https://nerdica.net/display/a85d7459-1463-db38-663b-5c2056344291",
-      "content": "Nerd Alert<br><br>A curated list of Fediverse software projects<br><br><a href=\"https://codeberg.org/fediverse/delightful-fediverse-apps\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">codeberg.org/fediverse/delight\u2026</a><br><br><a href=\"https://nerdica.net/search?tag=Fediverse\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Fediverse</span></a>"
-    },
-    "people": [
-      {
-        "url": "https://indieweb.social/@tchambers",
-        "display_name": "Tim Chambers"
-      }
-    ]
-  },
-  {
-    "link": "https://observablehq.com/@saneef/buildings-near-hal-airport",
-    "title": "Buildings Near HAL Airport, Bangalore",
-    "latest": "2023-02-01T21:38:56+00:00",
-    "last_post": {
-      "url": "https://front-end.social/@saneef/109791644013362050",
-      "content": "<p>Mucking around with GeoPackage and GeoJSON on <a href=\"https://front-end.social/tags/observablehq\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>observablehq</span></a> <a href=\"https://observablehq.com/@saneef/buildings-near-hal-airport\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">observablehq.com/@saneef/build</span><span class=\"invisible\">ings-near-hal-airport</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://front-end.social/@saneef",
-        "display_name": "Saneef H. Ansari"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/EdinburghNLP/SPICE",
-    "title": "GitHub - EdinburghNLP/SPICE: Semantic Parsing for Conversational Question Answering over Large Knowledge Graphs",
-    "latest": "2023-02-01T21:24:06+00:00",
-    "last_post": {
-      "url": "https://creative.ai/@arxiv_cl/109791585686959534",
-      "content": "<p>\ud83d\udcdd Semantic Parsing for Conversational Question Answering Over Knowledge Graphs \ud83d\udcda</p><p>\"Trains a BART-based semantic parser, which learns to map utterances into a sequence of Sparql query actions (\u00a7 ), and then augment it with a conversational context encoder to model conversational history as an attention memory (\u00a7 ).\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/EdinburghNLP/SPICE\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/EdinburghNLP/SPICE</span><span class=\"invisible\"></span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2301.12217v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2301.12217v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://creative.ai/@arxiv_cl",
-        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/Automattic/jetpack/pull/28694",
-    "title": "Sharing: add a Mastodon sharing button by jeherve \u00b7 Pull Request #28694 \u00b7 Automattic/jetpack",
-    "latest": "2023-02-01T21:11:04+00:00",
-    "last_post": {
-      "url": "https://religious.social/@kraft/109790334172776613",
-      "content": "<p>Jetpack for <a href=\"https://religious.social/tags/WordPress\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>WordPress</span></a> is working on a \"Share to Mastodon\" button for our Sharing feature. \ud83e\udd73 </p><p>Still in progress, so won't make the release next week. But still!</p><p>props <span class=\"h-card\"><a href=\"https://fedi.jeremy.hu/@jeremy\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>jeremy</span></a></span> </p><p><a href=\"https://religious.social/tags/mastoadmin\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>mastoadmin</span></a>  </p><p><a href=\"https://github.com/Automattic/jetpack/pull/28694\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/Automattic/jetpack/</span><span class=\"invisible\">pull/28694</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://indieweb.social/@tchambers",
-        "display_name": "Tim Chambers"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/vsbuffalo/remote_jupyter",
-    "title": "GitHub - vsbuffalo/remote_jupyter: Management of remote Jupyter sessions",
-    "latest": "2023-02-01T08:49:40+00:00",
-    "last_post": {
-      "url": "https://ecoevo.social/@vsbuffalo/109786359669015305",
-      "content": "<p>If you are annoyed by connecting and reconnecting Jupyter sessions running on a remote server via SSH tunneling, you might enjoy this command-line tool I made to make this easier:  <a href=\"https://github.com/vsbuffalo/remote_jupyter\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/vsbuffalo/remote_ju</span><span class=\"invisible\">pyter</span></a><br><a href=\"https://ecoevo.social/tags/compBio\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>compBio</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://scicomm.xyz/@leouieda",
-        "display_name": "Dr Leonardo Uieda"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/NonEuclideanDreamer/Shifting-Colors",
-    "title": "GitHub - NonEuclideanDreamer/Shifting-Colors: Creates Images of Selfsimilar Tilings with shifting colors",
-    "latest": "2023-02-01T08:46:47+00:00",
-    "last_post": {
-      "url": "https://mathstodon.xyz/@noneuclideandreamer/109788607744822661",
-      "content": "<p><a href=\"https://github.com/NonEuclideanDreamer/Shifting-Colors\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/NonEuclideanDreamer</span><span class=\"invisible\">/Shifting-Colors</span></a></p><p>I refactored my code so that you can change the settings in a config-file, then start the jar-file...</p><p>Because refactoring it to be readable code seemed harder...</p><p>Let me know if you play with it! \ud83e\udd17</p><p><a href=\"https://mathstodon.xyz/tags/creativecoding\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>creativecoding</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mathstodon.xyz/@noneuclideandreamer",
-        "display_name": "Non-Euclidean Dreamer"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/kingoflolz/mesh-transformer-jax",
-    "title": "GitHub - kingoflolz/mesh-transformer-jax: Model parallel transformers in JAX and Haiku",
-    "latest": "2023-02-01T06:24:06+00:00",
-    "last_post": {
-      "url": "https://creative.ai/@arxiv_cl/109788046707886276",
-      "content": "<p>\ud83d\udcdd Prompt-Based Editing for Text Style Transfer \ud83d\udcda\ud83d\udc7e\ud83e\udde0</p><p>\"A textual prompt is used to query a pretrained language model to generate style-transferred text word by word in an autoregressive manner, where the generation process less controllable and early prediction errors may affect future word prediction.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a> <a href=\"https://creative.ai/tags/AI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AI</span></a> <a href=\"https://creative.ai/tags/LG\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>LG</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/kingoflolz/mesh-transformer-jax\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/kingoflolz/mesh-tra</span><span class=\"invisible\">nsformer-jax</span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2301.11997v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2301.11997v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://creative.ai/@arxiv_cl",
-        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
       }
     ]
   }
