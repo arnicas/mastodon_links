@@ -1,5 +1,171 @@
 [
   {
+    "link": "https://github.com/thegeekyb0y/learnpython",
+    "title": "GitHub - thegeekyb0y/learnpython: Python Resources for Everyone",
+    "latest": "2023-02-16T20:30:21+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@python_discussions/108444542088276509",
+      "content": "<p>Python Learning Resources</p><p><a href=\"https://github.com/thegeekyb0y/learnpython\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/thegeekyb0y/learnpy</span><span class=\"invisible\">thon</span></a></p><p>Discussions: <a href=\"https://discu.eu/q/https://github.com/thegeekyb0y/learnpython\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">discu.eu/q/https://github.com/</span><span class=\"invisible\">thegeekyb0y/learnpython</span></a></p><p><a href=\"https://mastodon.social/tags/programming\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>programming</span></a> <a href=\"https://mastodon.social/tags/python\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>python</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@python_discussions",
+        "display_name": "Python Weekly"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/mastodon/mastodon/pull/19059",
+    "title": "Add groups support by ClearlyClaire \u00b7 Pull Request #19059 \u00b7 mastodon/mastodon",
+    "latest": "2023-02-16T20:10:47+00:00",
+    "last_post": {
+      "url": "https://stefanbohacek.online/@stefan/109876232038186822",
+      "content": "<p>Mastodon groups, currently in progress, according to the roadmap (1), look pretty interesting. <a href=\"https://github.com/mastodon/mastodon/pull/19059\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/mastodon/mastodon/p</span><span class=\"invisible\">ull/19059</span></a></p><p><a href=\"https://stefanbohacek.online/tags/mastodon\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>mastodon</span></a> <a href=\"https://stefanbohacek.online/tags/groups\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>groups</span></a></p><p>(1) <a href=\"https://joinmastodon.org/roadmap\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">joinmastodon.org/roadmap</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.online/@hildabast",
+        "display_name": "Hilda Bastian"
+      },
+      {
+        "url": "https://stefanbohacek.online/@stefan",
+        "display_name": "Stefan Bohacek"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/cfortuner/promptable",
+    "title": "GitHub - cfortuner/promptable: Build LLM apps in Typescript/Javascript. \ud83e\uddd1\u200d\ud83d\udcbb \ud83e\uddd1\u200d\ud83d\udcbb \ud83e\uddd1\u200d\ud83d\udcbb \ud83d\ude80 \ud83d\ude80 \ud83d\ude80",
+    "latest": "2023-02-16T20:03:30+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@swyx/109871442537968190",
+      "content": "<p>RT @PromptableAI<br>It's here.</p><p>The world's first library for building AI apps in Typescript.</p><p>\ud83d\udd25Promptable.js \ud83d\udd25</p><p>Use the full power of LLMs and Embeddings in your apps:</p><p>Prompt\ud83e\ude84<br>Search \ud83d\udd0d<br>Chain \u26d3\ufe0f<br>Trace \u27bf</p><p>Get started -&gt; npm i promptable</p><p>Repo <a href=\"https://github.com/cfortuner/promptable\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/cfortuner/promptabl</span><span class=\"invisible\">e</span></a><br>Docs <a href=\"https://docs-promptable.vercel.app/docs/introduction\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">docs-promptable.vercel.app/doc</span><span class=\"invisible\">s/introduction</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@vh",
+        "display_name": "Vincent HETRU"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/chainsawriot/rang",
+    "title": "GitHub - chainsawriot/rang: Reconstructing R computational environments",
+    "latest": "2023-02-16T19:56:46+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@schochastics/109870772205943358",
+      "content": "<p>Excited to introduce the <a href=\"https://fosstodon.org/tags/Rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Rstats</span></a> package rang (developed by <span class=\"h-card\"><a href=\"https://emacs.ch/@chainsawriot\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>chainsawriot</span></a></span>  and me). The pkg helps to reconstruct historical R environments to make old code run again (ie make it reproducible!). So far, it supports all code back to R 2.1.0 (2005!)<br><a href=\"https://github.com/chainsawriot/rang\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/chainsawriot/rang</span><span class=\"invisible\"></span></a><br> <br> <br>The package is an Rchaeological tool to ensure reproducibility retrospectively. You can also use rang to make your current projects future proof, but pkgs like renv or groundhog are better suited for this task.</p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@eliocamp",
+        "display_name": "Elio Campitelli"
+      },
+      {
+        "url": "https://fediscience.org/@dustinstoltz",
+        "display_name": "D\u1d1cs\u1d1b\u026a\u0274 S\u1d1b\u1d0f\u029f\u1d1b\u1d22 :tardis:"
+      },
+      {
+        "url": "https://fosstodon.org/@mdsumner",
+        "display_name": "mdsumner"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/davemlz/cubo",
+    "title": "GitHub - davemlz/cubo: Easily create EO mini cubes from STAC in Python",
+    "latest": "2023-02-16T19:51:30+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@dmlmont/109875754433021433",
+      "content": "<p>Hey <a href=\"https://fosstodon.org/tags/RemoteSensing\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>RemoteSensing</span></a> folks! I'm happy to announce the first release of <a href=\"https://fosstodon.org/tags/cubo\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>cubo</span></a>, a lovely <a href=\"https://fosstodon.org/tags/Python\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Python</span></a> package for easily creating EO mini cubes from <a href=\"https://fosstodon.org/tags/STAC\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>STAC</span></a> \ud83d\udef0\ufe0f\ud83e\uddca</p><p>gh: <a href=\"https://github.com/davemlz/cubo\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/davemlz/cubo</span><span class=\"invisible\"></span></a><br>docs: <a href=\"https://cubo.readthedocs.io\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">cubo.readthedocs.io</span><span class=\"invisible\"></span></a></p><p>The cool thing about <a href=\"https://fosstodon.org/tags/cubo\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>cubo</span></a> is that you just need to introduce a pair of coordinates, the edge size of the cube, and the start and end dates. Then you can select the STAC collection you require (also the endpoint) and the spatial resolution!</p><p><a href=\"https://fosstodon.org/tags/Geospatial\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Geospatial</span></a> <a href=\"https://fosstodon.org/tags/GeoPython\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>GeoPython</span></a> <a href=\"https://fosstodon.org/tags/DataViz\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DataViz</span></a> <a href=\"https://fosstodon.org/tags/EOchat\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>EOchat</span></a> <a href=\"https://fosstodon.org/tags/GISchat\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>GISchat</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fosstodon.org/@mdsumner",
+        "display_name": "mdsumner"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/joemasilotti/railsdevs.com/pull/778",
+    "title": "Add support for Mastodon to developer profiles by jordelver \u00b7 Pull Request #778 \u00b7 joemasilotti/railsdevs.com",
+    "latest": "2023-02-16T19:49:09+00:00",
+    "last_post": {
+      "url": "https://ruby.social/@joemasilotti/109875458051960760",
+      "content": "<p>Thanks to <span class=\"h-card\"><a href=\"https://hachyderm.io/@jordelver\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>jordelver</span></a></span> you can now add your Mastadon handle to RailsDevs! \ud83d\udc18</p><p>Full code changes in this PR if you want to see how the sausage is made.<br><a href=\"https://github.com/joemasilotti/railsdevs.com/pull/778\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/joemasilotti/railsd</span><span class=\"invisible\">evs.com/pull/778</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.me.uk/@jamesjefferies",
+        "display_name": "James Jefferies"
+      }
+    ]
+  },
+  {
+    "link": "https://gist.github.com/snipe/6868cc67618709592d79d9fe6b80fb45",
+    "title": "Pre-commit hook to prevent dummy text from being committed",
+    "latest": "2023-02-16T19:43:54+00:00",
+    "last_post": {
+      "url": "https://hackers.town/@snipe/109866983472924805",
+      "content": "<p>If you're interested in the code for the pre-commit hook:</p><p><a href=\"https://gist.github.com/snipe/6868cc67618709592d79d9fe6b80fb45\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gist.github.com/snipe/6868cc67</span><span class=\"invisible\">618709592d79d9fe6b80fb45</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@sellorm",
+        "display_name": "Mark Sellors"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/jbaiter/pdiiif/commit/28bf91645e750f95a9691e8f44a6f6f0b3082a61",
+    "title": "github.com/jbaiter/pdiiif/comm...",
+    "latest": "2023-02-16T19:35:31+00:00",
+    "last_post": {
+      "url": "https://openbiblio.social/@jbaiter/109876090037831619",
+      "content": "<p>Just pushed another <a href=\"https://openbiblio.social/tags/pdiiif\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>pdiiif</span></a> update to <a href=\"https://pdiiif.jbaiter.de\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">pdiiif.jbaiter.de</span><span class=\"invisible\"></span></a> :<br>Previously the PDFs would fail to render in some viewers (Acrobat, Edge). This should be fixed now.<br>Let me know if it still breaks for you!</p><p>[<br>gory details: messed up the PDF/ZIP polyglot implementation ever so slightly, breaking some hardcoded out-of-spec expectations in those viewers. Taking a closer look at how PoC||GTFO implemented it (thanks <span class=\"h-card\"><a href=\"https://mastodon.social/@Ange\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>Ange</span></a></span> , again) led to the fix.<br><a href=\"https://github.com/jbaiter/pdiiif/commit/28bf91645e750f95a9691e8f44a6f6f0b3082a61\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/jbaiter/pdiiif/comm</span><span class=\"invisible\">it/28bf91645e750f95a9691e8f44a6f6f0b3082a61</span></a><br>]</p>"
+    },
+    "people": [
+      {
+        "url": "https://blog.epoz.org/",
+        "display_name": "Etienne Posthumus"
+      },
+      {
+        "url": "https://fedihum.org/@naudgnit",
+        "display_name": "Tinghui Duan \u6bb5\u5ead\u8f89 \ud83c\udf0e"
+      }
+    ]
+  },
+  {
+    "link": "https://gitlab.com/crossref/labs/preservation-data/-/blob/main/2023-02%20-%20Data%20Check.md",
+    "title": "2023-02 - Data Check.md \u00b7 main \u00b7 crossref / labs / preservation-data \u00b7 GitLab",
+    "latest": "2023-02-16T18:33:46+00:00",
+    "last_post": {
+      "url": "https://ravenation.club/@mpe/109875850541651327",
+      "content": "<p>Reached a crucial but labour-intensive point in my digital preservation project: manual data checks. This has to be done as otherwise you end up replicating the same computational errors.</p><p>In any case, I have good data for CLOCKSS that seem correct!</p><p><a href=\"https://gitlab.com/crossref/labs/preservation-data/-/blob/main/2023-02%20-%20Data%20Check.md\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gitlab.com/crossref/labs/prese</span><span class=\"invisible\">rvation-data/-/blob/main/2023-02%20-%20Data%20Check.md</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://ravenation.club/@mpe",
+        "display_name": "Martin Paul Eve"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/hodgesmr/neural_network_from_scratch/blob/main/Neural%20Network%20From%20Scratch%20With%20NumPy.ipynb",
+    "title": "github.com/hodgesmr/neural_net...",
+    "latest": "2023-02-16T18:12:54+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@MattHodges/109875768490135252",
+      "content": "<p>Stephen Wolfram wrote an amazing <a href=\"https://mastodon.social/tags/MachineLearning\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>MachineLearning</span></a> primer on how things like <a href=\"https://mastodon.social/tags/ChatGPT\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ChatGPT</span></a> and Neural Networks operate from a math perspective.\u00b9 If you're looking for a shorter hands-on dig, I wrote a <a href=\"https://mastodon.social/tags/Jupyter\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Jupyter</span></a> Notebook that implements a Computer Vision model using only NumPy.\u00b2 For an incredible and approachable intro to the basics, I can't overstate how great <span class=\"h-card\"><a href=\"https://wandering.shop/@janellecshane\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>janellecshane</span></a></span>'s \"You Look Like a Thing and I Love You\"\u00b3 is.</p><p>\u00b9 <a href=\"https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">writings.stephenwolfram.com/20</span><span class=\"invisible\">23/02/what-is-chatgpt-doing-and-why-does-it-work/</span></a><br>\u00b2 <a href=\"https://github.com/hodgesmr/neural_network_from_scratch/blob/main/Neural%20Network%20From%20Scratch%20With%20NumPy.ipynb\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/hodgesmr/neural_net</span><span class=\"invisible\">work_from_scratch/blob/main/Neural%20Network%20From%20Scratch%20With%20NumPy.ipynb</span></a><br>\u00b3 <a href=\"https://www.janelleshane.com/book-you-look-like-a-thing\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">janelleshane.com/book-you-look</span><span class=\"invisible\">-like-a-thing</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@MattHodges",
+        "display_name": "Matt Hodges"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/asnijders/multi_source_AL",
     "title": "GitHub - asnijders/multi_source_AL: Repository for the paper \"Investigating Multi-source Active Learning for Natural Language Inference",
     "latest": "2023-02-16T09:47:53+00:00",
@@ -176,25 +342,6 @@
       {
         "url": "https://a.farook.org/users/f",
         "display_name": "Fahim Farook"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/chainsawriot/rang",
-    "title": "GitHub - chainsawriot/rang: Reconstructing R computational environments",
-    "latest": "2023-02-16T02:48:02+00:00",
-    "last_post": {
-      "url": "https://fosstodon.org/@schochastics/109870772205943358",
-      "content": "<p>Excited to introduce the <a href=\"https://fosstodon.org/tags/Rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Rstats</span></a> package rang (developed by <span class=\"h-card\"><a href=\"https://emacs.ch/@chainsawriot\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>chainsawriot</span></a></span>  and me). The pkg helps to reconstruct historical R environments to make old code run again (ie make it reproducible!). So far, it supports all code back to R 2.1.0 (2005!)<br><a href=\"https://github.com/chainsawriot/rang\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/chainsawriot/rang</span><span class=\"invisible\"></span></a><br> <br> <br>The package is an Rchaeological tool to ensure reproducibility retrospectively. You can also use rang to make your current projects future proof, but pkgs like renv or groundhog are better suited for this task.</p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@eliocamp",
-        "display_name": "Elio Campitelli"
-      },
-      {
-        "url": "https://fediscience.org/@dustinstoltz",
-        "display_name": "D\u1d1cs\u1d1b\u026a\u0274 S\u1d1b\u1d0f\u029f\u1d1b\u1d22 :tardis:"
       }
     ]
   },
@@ -3037,149 +3184,6 @@
       {
         "url": "https://fosstodon.org/@SherlockpHolmes",
         "display_name": "Susan Holmes"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/dair-ai/Prompt-Engineering-Guide",
-    "title": "GitHub - dair-ai/Prompt-Engineering-Guide: Guide and resources for prompt engineering",
-    "latest": "2023-02-03T19:50:15+00:00",
-    "last_post": {
-      "url": "https://mas.to/@robroc/109802541279056087",
-      "content": "<p>If you use ChatGPT, this has a wealth of links and resources on prompt engineering, or crafting your prompts to get the best results possible.</p><p><a href=\"https://github.com/dair-ai/Prompt-Engineering-Guide\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/dair-ai/Prompt-Engi</span><span class=\"invisible\">neering-Guide</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mas.to/@robroc",
-        "display_name": "Roberto Rocha"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/orlp/glidesort",
-    "title": "GitHub - orlp/glidesort: A Rust implementation of Glidesort, my stable adaptive quicksort/mergesort hybrid sorting algorithm.",
-    "latest": "2023-02-03T19:50:02+00:00",
-    "last_post": {
-      "url": "https://die-partei.social/@hackernews/109802540419248910",
-      "content": "<p>Show HN: Glidesort, a new stable sort in Rust up to ~4x faster for random data - <a href=\"https://github.com/orlp/glidesort\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/orlp/glidesort</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://die-partei.social/@hackernews",
-        "display_name": "Hackernews"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/lingpy/pacs/",
-    "title": "https://github.com/lingpy/pacs/",
-    "latest": "2023-02-03T09:30:23+00:00",
-    "last_post": {
-      "url": "https://social.mpdl.mpg.de/@lingulist/109800103530640021",
-      "content": "<p>A preprint for a study under review, titled \"Inference of partial colexifications from multilingual wordlists\" just appeared on arXiv.</p><p><a href=\"https://arxiv.org/abs/2302.00739\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2302.00739</span><span class=\"invisible\"></span></a></p><p>It is a first attempt to shift the focus from \"full\" colexification networks to the analysis of partial colexification networks in comparative linguistics and lexical typology.</p><p>Data and code are available on GitHub.</p><p><a href=\"https://github.com/lingpy/pacs/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/lingpy/pacs/</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://creative.ai/@arxiv_cl",
-        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/s-macke/VoxelSpace",
-    "title": "GitHub - s-macke/VoxelSpace: Terrain rendering algorithm in less than 20 lines of code",
-    "latest": "2023-02-03T09:26:49+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@nicoptere/109800089824521865",
-      "content": "<p><span class=\"h-card\"><a href=\"https://sigmoid.social/@aran\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>aran</span></a></span> it looks like the Commanche Voxel Space engine ( <a href=\"https://github.com/s-macke/VoxelSpace\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/s-macke/VoxelSpace</span><span class=\"invisible\"></span></a> )</p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@nicoptere",
-        "display_name": "nicolas barradeau"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/dagster-io/dagster/releases/tag/1.1.15",
-    "title": "Release 1.1.15 (core) / 0.17.15 (libraries) \u00b7 dagster-io/dagster",
-    "latest": "2023-02-03T08:39:49+00:00",
-    "last_post": {
-      "url": "https://data-folks.masto.host/@dagster/109798624453133155",
-      "content": "<p>Weekly Release Highlights: 1.1.15\u2728</p><p>\ud83d\udce1 multi_asset_sensor can directly kick off asset materializations<br>\ud83e\udd16 build_schedule_from_partitioned_job can now infer partitions from assets. No `partitions_def` needed<br>\ud83d\udc1b \"Re-execute from failure\" works correctly with dynamic graphs</p><p>Integrations:<br>+ Docker: launch arbitrary Docker containers from ops<br>+ Snowflake: built-in I/O manager now supports PySpark DataFrame natively<br>+ Airflow: auto-convert Airflow DAGs into Dagster assets</p><p><a href=\"https://github.com/dagster-io/dagster/releases/tag/1.1.15\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/dagster-io/dagster/</span><span class=\"invisible\">releases/tag/1.1.15</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://data-folks.masto.host/@jayatid",
-        "display_name": "David Jayatillake"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/tweetback/tweetback-canonical/blob/main/mapping.js",
-    "title": "github.com/tweetback/tweetback...",
-    "latest": "2023-02-03T08:37:02+00:00",
-    "last_post": {
-      "url": "https://mamot.fr/@nhoizey/109799661166349796",
-      "content": "<p><span class=\"h-card\"><a href=\"https://techhub.social/@cloudcannon\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>cloudcannon</span></a></span> do you know that every Twitter archive built with <a href=\"https://mamot.fr/tags/tweetback\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>tweetback</span></a> (running <span class=\"h-card\"><a href=\"https://fosstodon.org/@eleventy\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>eleventy</span></a></span> ) now has a search powered by Pagefind, thanks to <span class=\"h-card\"><a href=\"https://mastodon.scot/@accudio\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>accudio</span></a></span> ?</p><p>A few examples:<br>- <a href=\"https://twitter.alistairshepherd.uk\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">twitter.alistairshepherd.uk</span><span class=\"invisible\"></span></a><br>- <a href=\"https://twitter.11ty.dev\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">twitter.11ty.dev</span><span class=\"invisible\"></span></a><br>- <a href=\"https://www.zachleat.com/twitter/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">zachleat.com/twitter/</span><span class=\"invisible\"></span></a><br>- <a href=\"https://twitter.nicolas-hoizey.com\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">twitter.nicolas-hoizey.com</span><span class=\"invisible\"></span></a></p><p>More in <a href=\"https://github.com/tweetback/tweetback-canonical/blob/main/mapping.js\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/tweetback/tweetback</span><span class=\"invisible\">-canonical/blob/main/mapping.js</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.scot/@accudio",
-        "display_name": "Alistair Shepherd"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/PaulleDemon/PythonDesigner",
-    "title": "GitHub - PaulleDemon/PythonDesigner: Simple application to design your python classes",
-    "latest": "2023-02-03T08:29:55+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@python_discussions/109799866089651310",
-      "content": "<p>TBT when I decided to create a visual scripting tool for python</p><p><a href=\"https://github.com/PaulleDemon/PythonDesigner\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/PaulleDemon/PythonD</span><span class=\"invisible\">esigner</span></a></p><p>Discussions: <a href=\"https://discu.eu/q/https://github.com/PaulleDemon/PythonDesigner\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">discu.eu/q/https://github.com/</span><span class=\"invisible\">PaulleDemon/PythonDesigner</span></a></p><p><a href=\"https://mastodon.social/tags/programming\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>programming</span></a> <a href=\"https://mastodon.social/tags/python\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>python</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@python_discussions",
-        "display_name": "Python Weekly"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/kdeldycke/awesome-falsehood",
-    "title": "GitHub - kdeldycke/awesome-falsehood: \ud83d\ude31 Falsehoods Programmers Believe in",
-    "latest": "2023-02-03T06:39:28+00:00",
-    "last_post": {
-      "url": "https://octodon.social/@22/109797423435854613",
-      "content": "<p><p>\u201cThis is a recurring form of techno-hubris: the idea that baseline concepts like \"family\" have crisp definitions and that any exceptions are outliers that would never swallow the rule. It's such a common misstep that there's a whole genre called \"Falsehoods Programmers Believe About ______\": <a href=\"https://github.com/kdeldycke/awesome-falsehood\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/kdeldycke/awesome-f</span><span class=\"invisible\">alsehood</span></a> In that list: names, time, currency, birthdays, timezones, email addresses, national borders, nations, biometrics, gender, language, alphabets, phone numbers, addresses, systems of measurement, and, of course, families.\u201d \u2014<span class=\"h-card\"><a href=\"https://mamot.fr/@pluralistic\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>pluralistic</span></a></span> via <a href=\"https://pluralistic.net/2023/02/02/nonbinary-families/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">pluralistic.net/2023/02/02/non</span><span class=\"invisible\">binary-families/</span></a></p></p><p>I didn\u2019t know this genre was so packed.</p>"
-    },
-    "people": [
-      {
-        "url": "https://friend.camp/@cara",
-        "display_name": "Cara ellison"
-      },
-      {
-        "url": "https://vis.social/@xeophin",
-        "display_name": "Kaspar Manz"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/facebookresearch/metaseq/tree/main/projects/OPT-IML",
-    "title": "github.com/facebookresearch/me...",
-    "latest": "2023-02-03T06:02:04+00:00",
-    "last_post": {
-      "url": "https://sigmoid.social/@aran/109797446193645583",
-      "content": "<p>RT @sriniiyer88@twitter.com</p><p>Exciting updates on OPT-IML (<a href=\"https://arxiv.org/abs/2212.12017\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2212.12017</span><span class=\"invisible\"></span></a>)!</p><p>1. The 175B models are now available to request for research purposes. Request here: (<a href=\"https://github.com/facebookresearch/metaseq/tree/main/projects/OPT-IML\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/facebookresearch/me</span><span class=\"invisible\">taseq/tree/main/projects/OPT-IML</span></a>).<br>2. OPT-IML 30B and 1.3B models are now available on huggingface (<a href=\"https://huggingface.co/facebook/opt-iml-30b\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">huggingface.co/facebook/opt-im</span><span class=\"invisible\">l-30b</span></a>)!</p><p>\ud83d\udc26\ud83d\udd17: <a href=\"https://twitter.com/sriniiyer88/status/1621207942304509952\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">twitter.com/sriniiyer88/status</span><span class=\"invisible\">/1621207942304509952</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://sigmoid.social/@rich",
-        "display_name": "Rich Tong \u2764\ufe0f\ud83c\udf93"
-      },
-      {
-        "url": "https://sigmoid.social/@vh",
-        "display_name": "Vincent HETRU"
       }
     ]
   }
