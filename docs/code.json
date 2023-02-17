@@ -1,5 +1,182 @@
 [
   {
+    "link": "https://github.com/RConsortium/OOP-WG",
+    "title": "GitHub - RConsortium/OOP-WG: Collaboration space for the Object-oriented Programming Working Group",
+    "latest": "2023-02-17T21:56:29+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@hrbrmstr/109882309936185977",
+      "content": "<p>R's S7 (formerly R7) new object-oriented paradigm is coming.</p><p>It's goal is to replace the lightweight and easy S3, and presently functional but slightly more complex S4 OOP systems with yet-another R OOP system that is intended to be the one encouraged for default use using moving forward.</p><p>You can start to learn how to use S7 here: <a href=\"https://github.com/RConsortium/OOP-WG\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/RConsortium/OOP-WG</span><span class=\"invisible\"></span></a></p><p>The working group is asking R Core for language changes (&amp; providing patches) to enable better language integration.</p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@hrbrmstr",
+        "display_name": "boB Rudis \ud83c\uddfa\ud83c\udde6"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/vtraag/python-igraph/tree/feature/flpa",
+    "title": "GitHub - vtraag/python-igraph at feature/flpa",
+    "latest": "2023-02-17T21:14:56+00:00",
+    "last_post": {
+      "url": "https://social.cwts.nl/@vtraag/109882146571858561",
+      "content": "<p>Code is available from <a href=\"https://github.com/vtraag/python-igraph/tree/feature/flpa\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/vtraag/python-igrap</span><span class=\"invisible\">h/tree/feature/flpa</span></a>, and will hopefully be integrated in <span class=\"h-card\"><a href=\"https://fosstodon.org/@igraph\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>igraph</span></a></span> in due time.</p>"
+    },
+    "people": [
+      {
+        "url": "https://social.cwts.nl/@vtraag",
+        "display_name": "Vincent Traag"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/Pomax/msfs-simconnect-api-wrapper",
+    "title": "GitHub - Pomax/msfs-simconnect-api-wrapper: A JavaScripty wrapper around node-simconnect",
+    "latest": "2023-02-17T21:11:01+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@TheRealPomax/109882131195658414",
+      "content": "<p>Oh yeah: if you wish you could just write some JS to control @MSFSofficial, but the SimConnect SDK just seemed a bit too scary, I heard you: I'm releasing <a href=\"https://github.com/Pomax/msfs-simconnect-api-wrapper\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/Pomax/msfs-simconne</span><span class=\"invisible\">ct-api-wrapper</span></a> so you can go have fun with just a few lines of code. The sky's the limit, let me know what you make!</p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@TheRealPomax",
+        "display_name": "Pomax"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/wbolster/jsonlines/pull/81",
+    "title": "use \u2018orjson\u2019 or \u2018ujson\u2019 for reading if available by wbolster \u00b7 Pull Request #81 \u00b7 wbolster/jsonlines",
+    "latest": "2023-02-17T21:01:52+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@wbolster/109880939321882757",
+      "content": "<p><span class=\"h-card\"><a href=\"https://social.luca.run/@luca\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>luca</span></a></span> what do you think about this? review welcome \ud83d\ude4f</p><p>&gt; use \u2018orjson\u2019 or \u2018ujson\u2019 for reading if available<br>&gt; <a href=\"https://github.com/wbolster/jsonlines/pull/81\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/wbolster/jsonlines/</span><span class=\"invisible\">pull/81</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://social.luca.run/@luca",
+        "display_name": "Luca \ud83d\udd28"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/alan-turing-institute/the-turing-way/issues/2973",
+    "title": "[TO EDIT] Planning for Project Design  \u00b7 Issue #2973 \u00b7 alan-turing-institute/the-turing-way",
+    "latest": "2023-02-17T20:39:31+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@turingway/109882007329353298",
+      "content": "<p>RT @biotechchat<br>BTW if you have views on project design and what people involved with research might need to know, contribute to our review of the \"Planning for Project Design\" <span class=\"h-card\"><a href=\"https://fosstodon.org/@turingway\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>turingway</span></a></span> chapter here: </p><p><a href=\"https://github.com/alan-turing-institute/the-turing-way/issues/2973\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/alan-turing-institu</span><span class=\"invisible\">te/the-turing-way/issues/2973</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fosstodon.org/@turingway",
+        "display_name": "The Turing Way Project"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/thi-ng/umbrella/blob/develop/README.md#latest-updates",
+    "title": "github.com/thi-ng/umbrella/blo...",
+    "latest": "2023-02-17T20:31:01+00:00",
+    "last_post": {
+      "url": "https://mastodon.thi.ng/@toxi/109881973883498173",
+      "content": "<p><a href=\"https://mastodon.thi.ng/tags/ReleaseFriday\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ReleaseFriday</span></a> Only some maintenance releases this week, incl. minor bug fixes &amp; refactoring. Maybe the most feature-like aspect of this round is the aforementioned support[1] in <a href=\"https://thi.ng/wasm-api\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">thi.ng/wasm-api</span><span class=\"invisible\"></span></a> for the current Zig v0.11-dev version. This next version of Zig has breaking changes to the build system and the new script included with wasm-api minimizes the impact of those and simplifies using hybrid (Zig/JS/TS) modules which are distributed via NPM.</p><p>As usual, all recent update and links to changelogs can be found here:</p><p><a href=\"https://github.com/thi-ng/umbrella/blob/develop/README.md#latest-updates\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/thi-ng/umbrella/blo</span><span class=\"invisible\">b/develop/README.md#latest-updates</span></a></p><p>Happy coding! \ud83d\ude0d</p><p><a href=\"https://mastodon.thi.ng/tags/ThingUmbrella\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ThingUmbrella</span></a> <a href=\"https://mastodon.thi.ng/tags/TypeScript\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>TypeScript</span></a> <a href=\"https://mastodon.thi.ng/tags/Ziglang\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Ziglang</span></a> <a href=\"https://mastodon.thi.ng/tags/WebAssembly\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>WebAssembly</span></a></p><p>[1] <a href=\"https://mastodon.thi.ng/@toxi/109880746137642313\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">mastodon.thi.ng/@toxi/10988074</span><span class=\"invisible\">6137642313</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.thi.ng/@toxi",
+        "display_name": "Karsten Schmidt"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/ProarchwasTaken/tld_territory",
+    "title": "GitHub - ProarchwasTaken/tld_territory: A program that simulates expanding territory between to factions.",
+    "latest": "2023-02-17T20:29:47+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@python_discussions/109881969070547802",
+      "content": "<p>I've written a pygame program that simulates spreading territory.</p><p><a href=\"https://github.com/ProarchwasTaken/tld_territory\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/ProarchwasTaken/tld</span><span class=\"invisible\">_territory</span></a></p><p>Discussions: <a href=\"https://discu.eu/q/https://github.com/ProarchwasTaken/tld_territory\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">discu.eu/q/https://github.com/</span><span class=\"invisible\">ProarchwasTaken/tld_territory</span></a></p><p><a href=\"https://mastodon.social/tags/programming\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>programming</span></a> <a href=\"https://mastodon.social/tags/python\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>python</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@python_discussions",
+        "display_name": "Python Weekly"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/paezha/ideal-astronomies",
+    "title": "GitHub - paezha/ideal-astronomies",
+    "latest": "2023-02-17T18:54:12+00:00",
+    "last_post": {
+      "url": "https://mastodon.online/@paezha/109865581892807848",
+      "content": "<p>I love space photos and have for some time wanted to code a generative art system to capture the grandiosity and awe of images such as seen in <span class=\"h-card\"><a href=\"https://deepspace.social/@hourlycosmos\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>hourlycosmos</span></a></span>.</p><p>Then, this week I discovered that <span class=\"h-card\"><a href=\"https://fosstodon.org/@tylermorganwall\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>tylermorganwall</span></a></span> has a tutorial for rayrendering Saturn and its rings. </p><p>Raiding his code led to a system to simulate planets and their rings. I call it _Ideal Astronomies_. </p><p>Done in <a href=\"https://mastodon.online/tags/Rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Rstats</span></a> using <a href=\"https://mastodon.online/tags/rayrender\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rayrender</span></a>; see my repo:</p><p><a href=\"https://github.com/paezha/ideal-astronomies\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/paezha/ideal-astron</span><span class=\"invisible\">omies</span></a></p><p><a href=\"https://mastodon.online/tags/Rtistry\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Rtistry</span></a> <a href=\"https://mastodon.online/tags/CreativeCoding\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CreativeCoding</span></a> </p><p><span class=\"h-card\"><a href=\"https://fosstodon.org/@meghansharris\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>meghansharris</span></a></span> <span class=\"h-card\"><a href=\"https://mastodon.social/@jacquietran\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>jacquietran</span></a></span></p>"
+    },
+    "people": [
+      {
+        "url": "https://vis.social/@Justin_Lind",
+        "display_name": "Justin Lind"
+      },
+      {
+        "url": "https://mastodon.social/@Cmastication",
+        "display_name": "JD Long \u2705"
+      },
+      {
+        "url": "https://mathstodon.xyz/@noneuclideandreamer",
+        "display_name": "Non-Euclidean Dreamer"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/halftheopposite/dungeon/issues/2",
+    "title": "The global Math.random is is being Monkey Patched after calling dungeon.generate. \u00b7 Issue #2 \u00b7 halftheopposite/dungeon",
+    "latest": "2023-02-17T18:48:26+00:00",
+    "last_post": {
+      "url": "https://indieweb.social/@joelnet/109881570530544803",
+      "content": "<p>Ok since discovering the issue, which was a dependency monkey patching the global Math.random, I have submitted an issue and a pull request with the fix:</p><p><a href=\"https://github.com/halftheopposite/dungeon/issues/2\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/halftheopposite/dun</span><span class=\"invisible\">geon/issues/2</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://indieweb.social/@joelnet",
+        "display_name": "Joel Thoms"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/rmcelreath/stat_rethinking_2023",
+    "title": "GitHub - rmcelreath/stat_rethinking_2023: Statistical Rethinking Course for Jan-Mar 2023",
+    "latest": "2023-02-17T18:18:27+00:00",
+    "last_post": {
+      "url": "https://nerdculture.de/@rlmcelreath/109881157081821034",
+      "content": "<p>Week 7 of Statistical Rethinking 2023 has ended. This week focused on multilevel models and correlated varying effects. Next week: social networks &amp; Gaussian processes. Only 2 memes this week, but they are especially dank. Explanations in alt text. Lectures and all course materials here: <a href=\"https://github.com/rmcelreath/stat_rethinking_2023\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/rmcelreath/stat_ret</span><span class=\"invisible\">hinking_2023</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://nerdculture.de/@rlmcelreath",
+        "display_name": "Richard McElreath \ud83e\udd94"
+      },
+      {
+        "url": "https://fosstodon.org/@SherlockpHolmes",
+        "display_name": "Susan Holmes"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/gkaramanis/mappromptmonday/tree/master/2023/2023-week_07",
+    "title": "github.com/gkaramanis/mappromp...",
+    "latest": "2023-02-17T17:41:47+00:00",
+    "last_post": {
+      "url": "https://vis.social/@georgios/109874768905097273",
+      "content": "<p>Mean sunshine and precipitation between 1961 and 1990 for this week's <a href=\"https://vis.social/tags/MapPromptMonday\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>MapPromptMonday</span></a> (Bivariate map)</p><p>Idea and colors by <span class=\"h-card\"><a href=\"https://vis.social/@VictimOfMaths\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>VictimOfMaths</span></a></span> <a href=\"https://twitter.com/VictimOfMaths/status/1589552401324732416\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">twitter.com/VictimOfMaths/stat</span><span class=\"invisible\">us/1589552401324732416</span></a></p><p>Code: <a href=\"https://github.com/gkaramanis/mappromptmonday/tree/master/2023/2023-week_07\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/gkaramanis/mappromp</span><span class=\"invisible\">tmonday/tree/master/2023/2023-week_07</span></a></p><p><a href=\"https://vis.social/tags/Rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Rstats</span></a> <a href=\"https://vis.social/tags/dataviz\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>dataviz</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://vis.social/@jhilden",
+        "display_name": "Jonatan Hild\u00e9n"
+      }
+    ]
+  },
+  {
     "link": "https://gitlab.com/crossref/labs/preservation-data/-/blob/main/2023-02%20-%20Data%20Check.md",
     "title": "2023-02 - Data Check.md \u00b7 main \u00b7 crossref / labs / preservation-data \u00b7 GitLab",
     "latest": "2023-02-17T09:25:38+00:00",
@@ -971,25 +1148,6 @@
       {
         "url": "https://a.farook.org/users/f",
         "display_name": "Fahim Farook"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/paezha/ideal-astronomies",
-    "title": "GitHub - paezha/ideal-astronomies",
-    "latest": "2023-02-15T02:39:48+00:00",
-    "last_post": {
-      "url": "https://mastodon.online/@paezha/109865581892807848",
-      "content": "<p>I love space photos and have for some time wanted to code a generative art system to capture the grandiosity and awe of images such as seen in <span class=\"h-card\"><a href=\"https://deepspace.social/@hourlycosmos\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>hourlycosmos</span></a></span>.</p><p>Then, this week I discovered that <span class=\"h-card\"><a href=\"https://fosstodon.org/@tylermorganwall\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>tylermorganwall</span></a></span> has a tutorial for rayrendering Saturn and its rings. </p><p>Raiding his code led to a system to simulate planets and their rings. I call it _Ideal Astronomies_. </p><p>Done in <a href=\"https://mastodon.online/tags/Rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Rstats</span></a> using <a href=\"https://mastodon.online/tags/rayrender\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rayrender</span></a>; see my repo:</p><p><a href=\"https://github.com/paezha/ideal-astronomies\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/paezha/ideal-astron</span><span class=\"invisible\">omies</span></a></p><p><a href=\"https://mastodon.online/tags/Rtistry\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Rtistry</span></a> <a href=\"https://mastodon.online/tags/CreativeCoding\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CreativeCoding</span></a> </p><p><span class=\"h-card\"><a href=\"https://fosstodon.org/@meghansharris\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>meghansharris</span></a></span> <span class=\"h-card\"><a href=\"https://mastodon.social/@jacquietran\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>jacquietran</span></a></span></p>"
-    },
-    "people": [
-      {
-        "url": "https://vis.social/@Justin_Lind",
-        "display_name": "Justin Lind"
-      },
-      {
-        "url": "https://mastodon.social/@Cmastication",
-        "display_name": "JD Long \u2705"
       }
     ]
   },
@@ -3046,164 +3204,6 @@
       {
         "url": "https://mstdn.social/@arnicas",
         "display_name": "arnicas"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/koaning/cluestar",
-    "title": "GitHub - koaning/cluestar: Gain clues from clustering!",
-    "latest": "2023-02-06T07:23:16+00:00",
-    "last_post": {
-      "url": "https://tech.lgbt/@jesper/109816590893605114",
-      "content": "<p>Check it out here: <a href=\"https://github.com/koaning/cluestar\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/koaning/cluestar</span><span class=\"invisible\"></span></a></p><p>And show <span class=\"h-card\"><a href=\"https://fosstodon.org/@koaning\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>koaning</span></a></span>  some open-source love!</p>"
-    },
-    "people": [
-      {
-        "url": "https://tech.lgbt/@jesper",
-        "display_name": "Jesper Dr.amsch :v_enby:"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/tootsdk/tootsdk",
-    "title": "https://github.com/tootsdk/tootsdk",
-    "latest": "2023-02-06T07:16:16.382000+00:00",
-    "last_post": {
-      "url": "https://m.iamkonstantin.eu/objects/2361fd93-aad4-4037-8dae-386d3f40bc04",
-      "content": "Hey folks, TootSDK is now public! \ud83d\ude80<br><br>TootSDK is a Swift package for creating apps that interact with Mastodon, Pleroma and other Fediverse APIs.<br><br>It handles the data model and network calls, with lovely async/await based calls.<br><br>The SDK is still young. There are plenty of API calls still to add. The foundations are strong, and TootSDK is very useful already.<br><br>Contributions and PRs are more than welcome!<br><br>Check out the repo here: <a href=\"https://github.com/tootsdk/tootsdk\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">https://github.com/tootsdk/tootsdk</a> :mastodance: :apple:<br><br><a class=\"hashtag\" href=\"https://m.iamkonstantin.eu/tag/swift\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#swift</a> <a class=\"hashtag\" href=\"https://m.iamkonstantin.eu/tag/iosdev\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#iosdev</a> <a class=\"hashtag\" href=\"https://m.iamkonstantin.eu/tag/vapor\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#vapor</a> <a class=\"hashtag\" href=\"https://m.iamkonstantin.eu/tag/serversideswift\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#serversideswift</a> <a class=\"hashtag\" href=\"https://m.iamkonstantin.eu/tag/appkit\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#appkit</a> <a class=\"hashtag\" href=\"https://m.iamkonstantin.eu/tag/uikit\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#uikit</a> <a class=\"hashtag\" href=\"https://m.iamkonstantin.eu/tag/swiftui\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#swiftui</a>"
-    },
-    "people": [
-      {
-        "url": "https://me.dm/@anildash",
-        "display_name": "Anil Dash"
-      },
-      {
-        "url": "https://mstdn.social/@felwert",
-        "display_name": "Frederik Elwert"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/ossu/computer-science",
-    "title": "GitHub - ossu/computer-science: Path to a free self-taught education in Computer Science!",
-    "latest": "2023-02-06T06:20:01+00:00",
-    "last_post": {
-      "url": "https://die-partei.social/@hackernews/109816342246933722",
-      "content": "<p>Path to a free, self-taught education in Computer Science - <a href=\"https://github.com/ossu/computer-science\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/ossu/computer-scien</span><span class=\"invisible\">ce</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://die-partei.social/@hackernews",
-        "display_name": "Hackernews"
-      }
-    ]
-  },
-  {
-    "link": "https://observablehq.com/@triptych/the-oracle?collection=@triptych/solo-journaling-rpgs",
-    "title": "The Oracle",
-    "latest": "2023-02-05T21:40:03+00:00",
-    "last_post": {
-      "url": "https://social.yesterweb.org/@triptych/109814297600907150",
-      "content": "<p>I've made so much cool stuff I forget half of it. Remaking this into a stand alone site soon: The Oracle ( for <a href=\"https://social.yesterweb.org/tags/solo\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>solo</span></a> <a href=\"https://social.yesterweb.org/tags/journaling\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>journaling</span></a> <a href=\"https://social.yesterweb.org/tags/rpg\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rpg</span></a> ) <a href=\"https://observablehq.com/@triptych/the-oracle?collection=@triptych/solo-journaling-rpgs\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">observablehq.com/@triptych/the</span><span class=\"invisible\">-oracle?collection=@triptych/solo-journaling-rpgs</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://social.yesterweb.org/@triptych",
-        "display_name": "Andrew Wooldridge"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/mainframed/BREXXTODON",
-    "title": "GitHub - mainframed/BREXXTODON: A REXX based mastodon reader for MVS 3.8j",
-    "latest": "2023-02-05T20:14:34+00:00",
-    "last_post": {
-      "url": "https://infosec.exchange/@mainframed767/109811465156123000",
-      "content": "<p>Inspired by <span class=\"h-card\"><a href=\"https://oldbytes.space/@smallsco\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>smallsco</span></a></span> <a href=\"https://infosec.exchange/tags/macstodon\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>macstodon</span></a> I present to you BREXXtodon an MVS 3.8j mastodon viewer!</p><p><a href=\"https://github.com/mainframed/BREXXTODON\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/mainframed/BREXXTOD</span><span class=\"invisible\">ON</span></a></p><p><a href=\"https://infosec.exchange/tags/rexx\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rexx</span></a> <a href=\"https://infosec.exchange/tags/mainframe\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>mainframe</span></a> <a href=\"https://infosec.exchange/tags/mvs\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>mvs</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://macaw.social/@andypiper",
-        "display_name": "Andy Piper"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/brentyi/pips-jax",
-    "title": "GitHub - brentyi/pips-jax: JAX port of Persistent Independent Particles!",
-    "latest": "2023-02-05T08:08:04+00:00",
-    "last_post": {
-      "url": "https://creative.ai/@alexjc/109811104791741232",
-      "content": "<p>RT @AdamWHarley@twitter.com</p><p>Check out this JAX implementation of PIPs, created by @brenthyi@twitter.com! It is &gt;1.5x faster than the original, and can load pytorch-trained checkpoints!<br><a href=\"https://github.com/brentyi/pips-jax\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/brentyi/pips-jax</span><span class=\"invisible\"></span></a></p><p>\ud83d\udc26\ud83d\udd17: <a href=\"https://twitter.com/AdamWHarley/status/1621992759556198400\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">twitter.com/AdamWHarley/status</span><span class=\"invisible\">/1621992759556198400</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://creative.ai/@alexjc",
-        "display_name": "Alex J. Champandard \u2744\ufe0f"
-      }
-    ]
-  },
-  {
-    "link": "https://gist.github.com/simonw/9932c6f10e241cfa6b19a4e08b283ca9",
-    "title": "Extracting and summarizing text with youtube-dl and GPT-3",
-    "latest": "2023-02-05T06:52:09+00:00",
-    "last_post": {
-      "url": "https://fedi.simonwillison.net/@simon/109809403196342381",
-      "content": "<p>Here's the full process I went through to summarize a 35 minute YouTube video using Whisper plus GPT3</p><p>It had some manual steps, but automating it doesn't feel like it would be a particularly hard project using the tools we have right now</p><p><a href=\"https://gist.github.com/simonw/9932c6f10e241cfa6b19a4e08b283ca9\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gist.github.com/simonw/9932c6f</span><span class=\"invisible\">10e241cfa6b19a4e08b283ca9</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://fedi.simonwillison.net/@simon",
-        "display_name": "Simon Willison"
-      },
-      {
-        "url": "https://sigmoid.social/@vh",
-        "display_name": "Vincent HETRU"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/facebookresearch/fairseq",
-    "title": "GitHub - facebookresearch/fairseq: Facebook AI Research Sequence-to-Sequence Toolkit written in Python.",
-    "latest": "2023-02-05T04:44:54+00:00",
-    "last_post": {
-      "url": "https://creative.ai/@arxiv_cl/109810305892260486",
-      "content": "<p>\ud83d\udcdd Attention Link: An Efficient Attention-Based Low Resource Machine Translation Architecture \ud83d\udcda\ud83d\udc7e</p><p>\"A novel architecture named as attention link to help improve transformer models' performance, especially in low training resources, by providing more information in each transformer block for low training resources.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a> <a href=\"https://creative.ai/tags/AI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AI</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/facebookresearch/fairseq\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/facebookresearch/fa</span><span class=\"invisible\">irseq</span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2302.00340v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2302.00340v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://creative.ai/@arxiv_cl",
-        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/mikefarah/yq",
-    "title": "GitHub - mikefarah/yq: yq is a portable command-line YAML, JSON, XML, CSV and properties processor",
-    "latest": "2023-02-04T21:50:22+00:00",
-    "last_post": {
-      "url": "https://sunny.garden/@winnie/109808675862399874",
-      "content": "<p>well this decently simplified a lot of my dbt scripts <a href=\"https://github.com/mikefarah/yq\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/mikefarah/yq</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://sunny.garden/@winnie",
-        "display_name": "gwen windflower \ud83d\udcca\ud83e\udd37\ud83c\udffb\u200d\u2640\ud83d\udcc8"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/dev-sushi/sushi",
-    "title": "GitHub - dev-sushi/sushi: \ud83c\udf63 use functions from any language in your favourite language",
-    "latest": "2023-02-04T20:30:04+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@python_discussions/109808360140626606",
-      "content": "<p>opinions about my project - sushi</p><p><a href=\"https://github.com/dev-sushi/sushi\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/dev-sushi/sushi</span><span class=\"invisible\"></span></a></p><p>Discussions: <a href=\"https://discu.eu/q/https://github.com/dev-sushi/sushi\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">discu.eu/q/https://github.com/</span><span class=\"invisible\">dev-sushi/sushi</span></a></p><p><a href=\"https://mastodon.social/tags/programming\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>programming</span></a> <a href=\"https://mastodon.social/tags/python\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>python</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@python_discussions",
-        "display_name": "Python Weekly"
       }
     ]
   }
