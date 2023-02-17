@@ -1,5 +1,558 @@
 [
   {
+    "link": "https://arxiv.org/abs/2302.07778v1",
+    "title": "Measuring the Instability of Fine-Tuning",
+    "latest": "2023-02-17T09:59:13+00:00",
+    "last_post": {
+      "url": "https://creative.ai/@arxiv_cl/109879489590657632",
+      "content": "<p>\ud83d\udcdd Measuring the Instability of Fine-Tuning \ud83d\udcda</p><p>\"Analyzes the consistency and difference between different measures by reassessing existing instability mitigation methods with them to inform the development of better measurements of fine-tuning instability of PLMs.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a></p><p>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2302.07778v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2302.07778v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://creative.ai/@arxiv_cl",
+        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
+      }
+    ]
+  },
+  {
+    "link": "https://arxiv.org/abs/1805.11122",
+    "title": "Differentiable Particle Filters: End-to-End Learning with Algorithmic Priors",
+    "latest": "2023-02-17T09:52:51+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@mkal/109667997463262794",
+      "content": "<p>Differentiable Particle Filters: End-to-End Learning with Algorithmic Priors<br>with learnable motion and measurement models.<br><a href=\"https://arxiv.org/abs/1805.11122\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/1805.11122</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://creative.ai/@arxiv",
+        "display_name": "arXiv Highlights AI/ML \ud83d\udcdd\ud83e\udd16"
+      }
+    ]
+  },
+  {
+    "link": "https://arxiv.org/abs/2212.07476",
+    "title": "The Infinite Index: Information Retrieval on Generative Text-To-Image Models",
+    "latest": "2023-02-17T09:07:49+00:00",
+    "last_post": {
+      "url": "https://idf.social/@potthast/109536222869330337",
+      "content": "<p>For more details, check the preprint of our paper \"The Infinite Index: Information Retrieval on Generative Text-To-Image Models\" at <a href=\"https://arxiv.org/abs/2212.07476\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2212.07476</span><span class=\"invisible\"></span></a> co-authored by <br>@DeckersNiklas@twitter.com, <br><span class=\"h-card\"><a href=\"https://idf.social/@maik_froebe\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>maik_froebe</span></a></span>, <br>@KieselJohannes@twitter.com,<br>@giucapan@twitter.com, <br>@chschroed@twitter.com, <br>@bennostein@twitter.com, and <br><span class=\"h-card\"><a href=\"https://idf.social/@potthast\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>potthast</span></a></span>. (8/8)</p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@chengyjonathan",
+        "display_name": "Jonathan Cheng"
+      },
+      {
+        "url": "https://creative.ai/@arxiv",
+        "display_name": "arXiv Highlights AI/ML \ud83d\udcdd\ud83e\udd16"
+      }
+    ]
+  },
+  {
+    "link": "https://dl.acm.org/doi/10.1145/3442188.3445922",
+    "title": "On the Dangers of Stochastic Parrots | Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency",
+    "latest": "2023-02-17T09:05:55.202000+00:00",
+    "last_post": {
+      "url": "https://eigenmagic.net/@sundress/109877198655128976",
+      "content": "<p>\"Contrary to how it may seem when we observe its output, an LM is a system for haphazardly stitching together sequences of linguistic forms it has observed in its vast training data, according to probabilistic information about how they combine, but without any reference to meaning: a stochastic parrot.\"</p><p>They really did amazing work on the paper. You can read it *for free*. </p><p>It's here:</p><p><a href=\"https://dl.acm.org/doi/10.1145/3442188.3445922\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">dl.acm.org/doi/10.1145/3442188</span><span class=\"invisible\">.3445922</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mamot.fr/@pluralistic",
+        "display_name": "Cory Doctorow's linkblog"
+      },
+      {
+        "url": "https://mstdn.social/@emmatonkin",
+        "display_name": ""
+      }
+    ]
+  },
+  {
+    "link": "https://arxiv.org/abs/2302.07748v1",
+    "title": "Whats New? Identifying the Unfolding of New Events in Narratives",
+    "latest": "2023-02-17T08:44:13+00:00",
+    "last_post": {
+      "url": "https://creative.ai/@arxiv_cl/109879194663705642",
+      "content": "<p>\ud83d\udcdd Whats New? Identifying the Unfolding of New Events in Narratives \ud83d\udcda</p><p>\"Uses human annotators to annotate a corpus of narratives with new events at sentence level using a crowdsourcing platform, Amazon Mechanical Turk (AMT) and present a study aiming at validating the quality of the annotation and the task difficulty.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a></p><p>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2302.07748v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2302.07748v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://creative.ai/@arxiv_cl",
+        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
+      }
+    ]
+  },
+  {
+    "link": "https://arxiv.org/abs/2211.09085",
+    "title": "Galactica: A Large Language Model for Science",
+    "latest": "2023-02-17T08:22:48+00:00",
+    "last_post": {
+      "url": "https://aleph.land/@mtriclot/109386947799788349",
+      "content": "<p>Si on regarde l'article sur Galactica, les r\u00e9sultats \u00e9taient meilleurs que les mod\u00e8les pr\u00e9c\u00e9dents... qui \u00e9taient mauvais. Meilleur que mauvais, \u00e7a donne m\u00e9diocre.<br><a href=\"https://arxiv.org/abs/2211.09085\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2211.09085</span><span class=\"invisible\"></span></a><br>...<br>r\u00e8gle informelle en IA : quand \u00e7a marche \u00e0 80%, \u00e7a ne veut pas dire que les 20% seront faciles \u00e0 atteindre de mani\u00e8re incr\u00e9mentale (et l\u00e0, \u00e7a \"marchait\" entre 20 et 68% selon les tests)<br>...<br>pourquoi avoir rendu le mod\u00e8le accessible, sinon pour des raisons publicitaires ?</p>"
+    },
+    "people": [
+      {
+        "url": "https://creative.ai/@arxiv",
+        "display_name": "arXiv Highlights AI/ML \ud83d\udcdd\ud83e\udd16"
+      }
+    ]
+  },
+  {
+    "link": "http://arxiv.org/abs/2211.14163",
+    "title": "http://arxiv.org/abs/2211.14163",
+    "latest": "2023-02-17T07:37:45+00:00",
+    "last_post": {
+      "url": "https://hci.social/@aquigley/109420834299742672",
+      "content": "<p><a href=\"https://hci.social/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a> copy of paper <a href=\"http://arxiv.org/abs/2211.14163\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">http://</span><span class=\"\">arxiv.org/abs/2211.14163</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://creative.ai/@arxiv",
+        "display_name": "arXiv Highlights AI/ML \ud83d\udcdd\ud83e\udd16"
+      }
+    ]
+  },
+  {
+    "link": "https://arxiv.org/abs/2302.07740v1",
+    "title": "https://arxiv.org/abs/2302.07740v1",
+    "latest": "2023-02-17T07:29:13+00:00",
+    "last_post": {
+      "url": "https://creative.ai/@arxiv_cl/109878899707595563",
+      "content": "<p>\ud83d\udcdd Team Triple-Check at Factify 2: Parameter-Efficient Large Foundation Models with Feature Representations for Multi-Modal Fact Verification \ud83d\udcda\ud83d\udc7e\ud83d\udd2d\ud83e\udde0</p><p>\"Based on the Pre-CoFact framework and it includes (i) parameter-efficient pre-trained language models, (ii) multi-modal multi-type fusion, (iii) metadata for each sample, and (iv) unified ensemble to boost model performance.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a> <a href=\"https://creative.ai/tags/AI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AI</span></a> <a href=\"https://creative.ai/tags/CV\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CV</span></a> <a href=\"https://creative.ai/tags/LG\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>LG</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/wwweiwei/Pre-CoFactv2-AAAI-2023\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/wwweiwei/Pre-CoFact</span><span class=\"invisible\">v2-AAAI-2023</span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2302.07740v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2302.07740v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://creative.ai/@arxiv_cl",
+        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
+      }
+    ]
+  },
+  {
+    "link": "https://arxiv.org/abs/2002.05217",
+    "title": "Resolving Spurious Correlations in Causal Models of Environments via Interventions",
+    "latest": "2023-02-17T06:52:41+00:00",
+    "last_post": {
+      "url": "https://dair-community.social/@sergia/109670881150086986",
+      "content": "<p>I considered worldviews as models of the world which of course depend on actions. A person who reads books has a different worldview than one who watches movies, for example. A person living in a cold place thinks differently compared to a person living in a warm place. And things like that. <a href=\"https://arxiv.org/abs/2002.05217\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2002.05217</span><span class=\"invisible\"></span></a></p><p>I noticed that in my paper I did the thing that <span class=\"h-card\"><a href=\"https://mastodon.social/@andrei_chiffa\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>andrei_chiffa</span></a></span> was warning about: trying to declare the best worldview. Specifically, I focused on.. 2/</p>"
+    },
+    "people": [
+      {
+        "url": "https://creative.ai/@arxiv",
+        "display_name": "arXiv Highlights AI/ML \ud83d\udcdd\ud83e\udd16"
+      }
+    ]
+  },
+  {
+    "link": "https://arxiv.org/abs/2302.07733v1",
+    "title": "https://arxiv.org/abs/2302.07733v1",
+    "latest": "2023-02-17T06:14:12+00:00",
+    "last_post": {
+      "url": "https://creative.ai/@arxiv_cl/109878604763374649",
+      "content": "<p>\ud83d\udcdd Explaining Text Classifiers Through Progressive Neighborhood Approximation with Realistic Samples \ud83d\udcda\ud83e\udde0</p><p>\"Approximates the neighborhood of a decision with a progressive interpolation in the latent space guided by a counterfactual, which is then mapped back into the feature space to form a counterfactual.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a> <a href=\"https://creative.ai/tags/LG\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>LG</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/caiy0220/XPROA-B\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/caiy0220/XPROA-B</span><span class=\"invisible\"></span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2302.07733v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2302.07733v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://creative.ai/@arxiv_cl",
+        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
+      }
+    ]
+  },
+  {
+    "link": "https://arxiv.org/pdf/2209.07663.pdf",
+    "title": "https://arxiv.org/pdf/2209.07663.pdf",
+    "latest": "2023-02-17T06:07:39+00:00",
+    "last_post": {
+      "url": "https://noc.social/@napocornejo/109305026646219232",
+      "content": "<p><a href=\"https://noc.social/tags/TikTok\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>TikTok</span></a> has published a paper describing their recommendation engine architecture. It uses Kafka and <a href=\"https://noc.social/tags/Tensorflow\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Tensorflow</span></a> with and <a href=\"https://noc.social/tags/realtime\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>realtime</span></a> training. Cuckoo hashtables are used to optimize feature selection based on time and frequency.</p><p><a href=\"https://arxiv.org/pdf/2209.07663.pdf\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/pdf/2209.07663.pdf</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://creative.ai/@arxiv",
+        "display_name": "arXiv Highlights AI/ML \ud83d\udcdd\ud83e\udd16"
+      }
+    ]
+  },
+  {
+    "link": "https://journals.sagepub.com/doi/full/10.1177/05390184221142218",
+    "title": "journals.sagepub.com/doi/full/...",
+    "latest": "2023-02-17T05:55:11+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@jelena3121/109874081098692943",
+      "content": "<p>I wanted to write something like, \"oh you don't say\" but this is *actually* a brutal read</p><p><a href=\"https://mastodon.social/tags/science\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>science</span></a> <a href=\"https://mastodon.social/tags/metrics\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>metrics</span></a> <a href=\"https://mastodon.social/tags/evaluation\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>evaluation</span></a></p><p><a href=\"https://journals.sagepub.com/doi/full/10.1177/05390184221142218\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">journals.sagepub.com/doi/full/</span><span class=\"invisible\">10.1177/05390184221142218</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://aus.social/@AndyPerfors",
+        "display_name": "Andrew Perfors"
+      },
+      {
+        "url": "https://wandering.shop/@cstross",
+        "display_name": "Charlie Stross"
+      },
+      {
+        "url": "https://mastodon.art/@mtyka",
+        "display_name": "Mike Tyka"
+      },
+      {
+        "url": "https://mathstodon.xyz/@yrochat",
+        "display_name": "Yannick Rochat"
+      },
+      {
+        "url": "https://mstdn.social/@felwert",
+        "display_name": "Frederik Elwert"
+      },
+      {
+        "url": "https://dair-community.social/@DrVeronikaCH",
+        "display_name": "Veronika Cheplygina"
+      }
+    ]
+  },
+  {
+    "link": "https://arxiv.org/abs/2302.07730v1",
+    "title": "Transformer models: an introduction and catalog",
+    "latest": "2023-02-17T04:59:14+00:00",
+    "last_post": {
+      "url": "https://creative.ai/@arxiv_cl/109878310006322068",
+      "content": "<p>\ud83d\udcdd Transformer Models: An Introduction and Catalog \ud83d\udcda</p><p>\"The Transformer architecture is based on the encoder-decoder design of seq2seq models with attention (seq2seq models) and uses multiple layers of multi-head attention and fully connected neural networks with residual connections for both the encoder and decoder components.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a></p><p>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2302.07730v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2302.07730v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://creative.ai/@arxiv_cl",
+        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
+      }
+    ]
+  },
+  {
+    "link": "http://arxiv.org/abs/2206.07771",
+    "title": "http://arxiv.org/abs/2206.07771",
+    "latest": "2023-02-17T04:36:08.788000+00:00",
+    "last_post": {
+      "url": "https://a.farook.org/objects/f5e2c89e-a656-4bb2-9e15-3d257fda338e",
+      "content": "\"Discrete Contrastive Diffusion for Cross-Modal Music and Image Generation. (arXiv:2206.07771v2 [cs.CV] UPDATED)\" \u2014 Synthesis of multiple types of content such as dance-to-music or text-to-image using a new diffusion mechanism, at fewer steps.<br><br>Paper: <a href=\"http://arxiv.org/abs/2206.07771\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">http://arxiv.org/abs/2206.07771</a><br>Code: <a href=\"https://github.com/l-yezhu/cdcd\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">https://github.com/l-yezhu/cdcd</a><br><br><a class=\"hashtag\" href=\"https://a.farook.org/tag/ai\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#AI</a> <a class=\"hashtag\" href=\"https://a.farook.org/tag/cv\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#CV</a> <a class=\"hashtag\" href=\"https://a.farook.org/tag/newpaper\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#NewPaper</a> <a class=\"hashtag\" href=\"https://a.farook.org/tag/deeplearning\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#DeepLearning</a>  <a class=\"hashtag\" href=\"https://a.farook.org/tag/machinelearning\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#MachineLearning</a><br><br>&lt;&lt;Find this useful? Please boost so that others can benefit too \ud83d\ude42&gt;&gt;<br><a href=\"https://a.farook.org/media/6ffb75eaaaf643a900858d340cb84de81d1505f9d7ed79d0e7be3c7caac6044d.jpeg\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">Examples of the input (left col\u2026</a>"
+    },
+    "people": [
+      {
+        "url": "https://a.farook.org/users/f",
+        "display_name": "Fahim Farook"
+      }
+    ]
+  },
+  {
+    "link": "https://arxiv.org/abs/2104.12653",
+    "title": "I am Definitely Manipulated, Even When I am Aware of it. It s Ridiculous! -- Dark Patterns from the End-User Perspective",
+    "latest": "2023-02-17T04:34:50+00:00",
+    "last_post": {
+      "url": "https://fediscience.org/@davdittrich/109486211492889976",
+      "content": "<p><a href=\"https://fediscience.org/tags/DarkPatterns\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DarkPatterns</span></a> from the End-User Perspective <a href=\"https://arxiv.org/abs/2104.12653\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2104.12653</span><span class=\"invisible\"></span></a></p><p>People are generally aware of the influence that manipulative designs can exert on their online behaviour. However, being aware does not equip users with the ability to oppose such influence. <br>\u2026respondents, especially younger ones, often recognise the \"darkness\" of certain designs, but remain unsure of the actual harm they may suffer. </p><p><a href=\"https://fediscience.org/tags/BoundedRationality\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>BoundedRationality</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://creative.ai/@arxiv",
+        "display_name": "arXiv Highlights AI/ML \ud83d\udcdd\ud83e\udd16"
+      }
+    ]
+  },
+  {
+    "link": "http://arxiv.org/abs/2206.07699",
+    "title": "http://arxiv.org/abs/2206.07699",
+    "latest": "2023-02-17T04:18:49.039000+00:00",
+    "last_post": {
+      "url": "https://a.farook.org/objects/c87bf6f4-9807-4a79-9e06-8420b4f85c92",
+      "content": "\"Write and Paint: Generative Vision-Language Models are Unified Modal Learners. (arXiv:2206.07699v2 [cs.CV] UPDATED)\" \u2014 A unified model based on training a model to write and paint concurrently.<br><br>Paper: <a href=\"http://arxiv.org/abs/2206.07699\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">http://arxiv.org/abs/2206.07699</a><br><br><a class=\"hashtag\" href=\"https://a.farook.org/tag/ai\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#AI</a> <a class=\"hashtag\" href=\"https://a.farook.org/tag/cv\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#CV</a> <a class=\"hashtag\" href=\"https://a.farook.org/tag/newpaper\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#NewPaper</a> <a class=\"hashtag\" href=\"https://a.farook.org/tag/deeplearning\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#DeepLearning</a>  <a class=\"hashtag\" href=\"https://a.farook.org/tag/machinelearning\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#MachineLearning</a><br><br>&lt;&lt;Find this useful? Please boost so that others can benefit too \ud83d\ude42&gt;&gt;<br><a href=\"https://a.farook.org/media/52fac66246a0460cb12e7f45daa3343039421c80ca1d7f50a23ecb6df7b69256.jpeg\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">Illustration of the overall arc\u2026</a>"
+    },
+    "people": [
+      {
+        "url": "https://a.farook.org/users/f",
+        "display_name": "Fahim Farook"
+      }
+    ]
+  },
+  {
+    "link": "http://arxiv.org/abs/2204.05543",
+    "title": "http://arxiv.org/abs/2204.05543",
+    "latest": "2023-02-17T04:15:01.788000+00:00",
+    "last_post": {
+      "url": "https://a.farook.org/objects/9312f40e-1c18-417c-933b-fbe7b163b6a9",
+      "content": "\"Towards Reliable Image Outpainting: Learning Structure-Aware Multimodal Fusion with Depth Guidance. (arXiv:2204.05543v2 [cs.CV] UPDATED)\" \u2014 Reliable outpainting using depth-guidance.<br><br>Paper: <a href=\"http://arxiv.org/abs/2204.05543\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">http://arxiv.org/abs/2204.05543</a><br><br><a class=\"hashtag\" href=\"https://a.farook.org/tag/ai\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#AI</a> <a class=\"hashtag\" href=\"https://a.farook.org/tag/cv\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#CV</a> <a class=\"hashtag\" href=\"https://a.farook.org/tag/newpaper\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#NewPaper</a> <a class=\"hashtag\" href=\"https://a.farook.org/tag/deeplearning\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#DeepLearning</a>  <a class=\"hashtag\" href=\"https://a.farook.org/tag/machinelearning\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#MachineLearning</a><br><br>&lt;&lt;Find this useful? Please boost so that others can benefit too \ud83d\ude42&gt;&gt;<br><a href=\"https://a.farook.org/media/bee749575809bc38aa29be17b3b682d66accb1e82f48d6ad5aa35a4a54019524.jpeg\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">A comparison of image outpainti\u2026</a>"
+    },
+    "people": [
+      {
+        "url": "https://a.farook.org/users/f",
+        "display_name": "Fahim Farook"
+      }
+    ]
+  },
+  {
+    "link": "http://arxiv.org/abs/2302.08510",
+    "title": "http://arxiv.org/abs/2302.08510",
+    "latest": "2023-02-17T04:11:12.724000+00:00",
+    "last_post": {
+      "url": "https://a.farook.org/objects/2e75ae6c-36d7-411a-8b37-e421398c76ed",
+      "content": "\"Text-driven Visual Synthesis with Latent Diffusion Prior. (arXiv:2302.08510v1 [cs.CV])\" \u2014 Using diffusion models as the generic driver for diverse image generation tasks such as text-to3D, image editing, and StyleGAN adaptation.<br><br>Paper: <a href=\"http://arxiv.org/abs/2302.08510\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">http://arxiv.org/abs/2302.08510</a><br><br><a class=\"hashtag\" href=\"https://a.farook.org/tag/ai\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#AI</a> <a class=\"hashtag\" href=\"https://a.farook.org/tag/cv\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#CV</a> <a class=\"hashtag\" href=\"https://a.farook.org/tag/newpaper\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#NewPaper</a> <a class=\"hashtag\" href=\"https://a.farook.org/tag/deeplearning\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#DeepLearning</a>  <a class=\"hashtag\" href=\"https://a.farook.org/tag/machinelearning\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#MachineLearning</a><br><br>&lt;&lt;Find this useful? Please boost so that others can benefit too \ud83d\ude42&gt;&gt;<br><a href=\"https://a.farook.org/media/d805e740b6db44c18214a0dcbd4d8937c8a4b4e2762dab5563f6ab4fc2815a17.jpeg\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">Applications of the proposed la\u2026</a>"
+    },
+    "people": [
+      {
+        "url": "https://a.farook.org/users/f",
+        "display_name": "Fahim Farook"
+      }
+    ]
+  },
+  {
+    "link": "https://arxiv.org/abs/2302.07729v1",
+    "title": "Generation of Highlights from Research Papers Using Pointer-Generator Networks and SciBERT Embeddings",
+    "latest": "2023-02-17T03:59:16+00:00",
+    "last_post": {
+      "url": "https://creative.ai/@arxiv_cl/109878074193374394",
+      "content": "<p>\ud83d\udcdd Generation of Highlights From Research Papers Using Pointer-Generator Networks and SciBERT Embeddings \ud83d\udcda\ud83d\udc7e\ud83e\udde0</p><p>\"A pointer-generator network with coverage mechanism and a contextual embedding layer at the input that encodes the input tokens into SciBERT embeddings is trained on a benchmark dataset, CSPubSum and also presented MixSub, a new multi-disciplinary corpus of papers for automatic research highlight generation.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a> <a href=\"https://creative.ai/tags/AI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AI</span></a> <a href=\"https://creative.ai/tags/LG\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>LG</span></a></p><p>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2302.07729v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2302.07729v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://creative.ai/@arxiv_cl",
+        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
+      }
+    ]
+  },
+  {
+    "link": "https://arxiv.org/abs/2010.02803",
+    "title": "A Transformer-based Framework for Multivariate Time Series Representation Learning",
+    "latest": "2023-02-17T03:49:49+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@baclace/109672904222243854",
+      "content": "<p>Transformers have been applied to multivariate time series. It can take into account long contexts.   There is code too.  An earlier paper showed that a univariate TS transformer beats LSTM and ARIMA. </p><p>From 2020: <br><a href=\"https://arxiv.org/abs/2010.02803\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2010.02803</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://creative.ai/@arxiv",
+        "display_name": "arXiv Highlights AI/ML \ud83d\udcdd\ud83e\udd16"
+      }
+    ]
+  },
+  {
+    "link": "http://arxiv.org/abs/2302.08509",
+    "title": "http://arxiv.org/abs/2302.08509",
+    "latest": "2023-02-17T03:39:50.082000+00:00",
+    "last_post": {
+      "url": "https://a.farook.org/objects/def7da66-25d5-40d4-80ec-3120979696e1",
+      "content": "\"3D-aware Conditional Image Synthesis. (arXiv:2302.08509v1 [cs.CV])\" \u2014 Using a 2 input such as a segmentation or edge map to generate photo-realistic images from different perspectives/viewpoints.<br><br>Paper: <a href=\"http://arxiv.org/abs/2302.08509\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">http://arxiv.org/abs/2302.08509</a><br>Code: <a href=\"https://github.com/dunbar12138/pix2pix3D\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">https://github.com/dunbar12138/pix2pix3D</a><br><br><a class=\"hashtag\" href=\"https://a.farook.org/tag/ai\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#AI</a> <a class=\"hashtag\" href=\"https://a.farook.org/tag/cv\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#CV</a> <a class=\"hashtag\" href=\"https://a.farook.org/tag/newpaper\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#NewPaper</a> <a class=\"hashtag\" href=\"https://a.farook.org/tag/deeplearning\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#DeepLearning</a>  <a class=\"hashtag\" href=\"https://a.farook.org/tag/machinelearning\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#MachineLearning</a><br><br>&lt;&lt;Find this useful? Please boost so that others can benefit too \ud83d\ude42&gt;&gt;<br><a href=\"https://a.farook.org/media/6c0c04967bbaa914d10e58ab6f5b58b0077c6491b29c4b4429f101b9644907e6.jpeg\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">Given a 2D label map as input, \u2026</a>"
+    },
+    "people": [
+      {
+        "url": "https://a.farook.org/users/f",
+        "display_name": "Fahim Farook"
+      }
+    ]
+  },
+  {
+    "link": "http://arxiv.org/abs/2302.08453",
+    "title": "http://arxiv.org/abs/2302.08453",
+    "latest": "2023-02-17T03:32:29.305000+00:00",
+    "last_post": {
+      "url": "https://a.farook.org/objects/b4bcb10e-f720-42bb-96b6-6559ae34b0e0",
+      "content": "\"T2I-Adapter: Learning Adapters to Dig out More Controllable Ability for Text-to-Image Diffusion Models. (arXiv:2302.08453v1 [cs.CV])\" \u2014 Controlling text-to-image diffusion models in a more granular fashion by using special adapters to provide extra guidance.<br><br>Paper: <a href=\"http://arxiv.org/abs/2302.08453\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">http://arxiv.org/abs/2302.08453</a><br>Code: <a href=\"https://github.com/TencentARC/T2I-Adapter\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">https://github.com/TencentARC/T2I-Adapter</a><br><br><a class=\"hashtag\" href=\"https://a.farook.org/tag/ai\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#AI</a> <a class=\"hashtag\" href=\"https://a.farook.org/tag/cv\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#CV</a> <a class=\"hashtag\" href=\"https://a.farook.org/tag/newpaper\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#NewPaper</a> <a class=\"hashtag\" href=\"https://a.farook.org/tag/deeplearning\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#DeepLearning</a>  <a class=\"hashtag\" href=\"https://a.farook.org/tag/machinelearning\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#MachineLearning</a><br><br>&lt;&lt;Find this useful? Please boost so that others can benefit too \ud83d\ude42&gt;&gt;<br><a href=\"https://a.farook.org/media/3695563428b4e36b54b66f5f57ef916ebb325296a7d4198c7ee0399263ee3e47.jpeg\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">We propose T2I-Adapter, a simpl\u2026</a>"
+    },
+    "people": [
+      {
+        "url": "https://a.farook.org/users/f",
+        "display_name": "Fahim Farook"
+      }
+    ]
+  },
+  {
+    "link": "http://arxiv.org/abs/2302.07730",
+    "title": "http://arxiv.org/abs/2302.07730",
+    "latest": "2023-02-17T03:31:12+00:00",
+    "last_post": {
+      "url": "https://masto.ai/@xamat/109877963832789328",
+      "content": "<p>My Transformers Catalog has become one of my most popular posts ever. Some of you told me that you turned into a pdf for easier reading. I thought I should make it into an arXiv preprint. Here you go: 60 Transformers in 36 pages. <a href=\"http://arxiv.org/abs/2302.07730\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">http://</span><span class=\"\">arxiv.org/abs/2302.07730</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://masto.ai/@xamat",
+        "display_name": "Xavier Amatriain"
+      }
+    ]
+  },
+  {
+    "link": "http://arxiv.org/abs/2302.08113",
+    "title": "http://arxiv.org/abs/2302.08113",
+    "latest": "2023-02-17T03:24:29.533000+00:00",
+    "last_post": {
+      "url": "https://a.farook.org/objects/15e5fbeb-9736-4a88-9c0a-5d53a0992df1",
+      "content": "\"MultiDiffusion: Fusing Diffusion Paths for Controlled Image Generation. (arXiv:2302.08113v1 [cs.CV])\" \u2014 Controlling diffusion-based image generation so that you can specify image components, component placement etc. without any further fine-tuning.<br><br>Paper: <a href=\"http://arxiv.org/abs/2302.08113\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">http://arxiv.org/abs/2302.08113</a><br>Code: <a href=\"https://github.com/omerbt/MultiDiffusion\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">https://github.com/omerbt/MultiDiffusion</a><br><br><a class=\"hashtag\" href=\"https://a.farook.org/tag/ai\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#AI</a> <a class=\"hashtag\" href=\"https://a.farook.org/tag/cv\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#CV</a> <a class=\"hashtag\" href=\"https://a.farook.org/tag/newpaper\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#NewPaper</a> <a class=\"hashtag\" href=\"https://a.farook.org/tag/deeplearning\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#DeepLearning</a>  <a class=\"hashtag\" href=\"https://a.farook.org/tag/machinelearning\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#MachineLearning</a><br><br>&lt;&lt;Find this useful? Please boost so that others can benefit too \ud83d\ude42&gt;&gt;<br><a href=\"https://a.farook.org/media/e1793940cbfbcc91030b654c58bc88af759ac447e1091bca2d35824f4fa583e9.jpeg\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">MultiDiffusion enables flexible\u2026</a>"
+    },
+    "people": [
+      {
+        "url": "https://a.farook.org/users/f",
+        "display_name": "Fahim Farook"
+      }
+    ]
+  },
+  {
+    "link": "http://arxiv.org/abs/2302.07994",
+    "title": "http://arxiv.org/abs/2302.07994",
+    "latest": "2023-02-17T03:18:30.061000+00:00",
+    "last_post": {
+      "url": "https://a.farook.org/objects/66f86916-bb0d-429c-8322-695af54e7058",
+      "content": "\"\\`A-la-carte Prompt Tuning (APT): Combining Distinct Data Via Composable Prompting. (arXiv:2302.07994v1 [cs.LG])\" \u2014 Having multiple subsets of data trained on specific prompts and being able to compose the final model based on the prompts you select.<br><br>Paper: <a href=\"http://arxiv.org/abs/2302.07994\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">http://arxiv.org/abs/2302.07994</a><br><br><a class=\"hashtag\" href=\"https://a.farook.org/tag/ai\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#AI</a> <a class=\"hashtag\" href=\"https://a.farook.org/tag/cv\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#CV</a> <a class=\"hashtag\" href=\"https://a.farook.org/tag/newpaper\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#NewPaper</a> <a class=\"hashtag\" href=\"https://a.farook.org/tag/deeplearning\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#DeepLearning</a>  <a class=\"hashtag\" href=\"https://a.farook.org/tag/machinelearning\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#MachineLearning</a><br><br>&lt;&lt;Find this useful? Please boost so that others can benefit too \ud83d\ude42&gt;&gt;<br><a href=\"https://a.farook.org/media/1c609f5e0beb6e6d845e84cebaa64d06df0f2de9744825c0799893083bd7dca9.jpeg\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">A-la-carte Learning and APT. Gi\u2026</a>"
+    },
+    "people": [
+      {
+        "url": "https://a.farook.org/users/f",
+        "display_name": "Fahim Farook"
+      }
+    ]
+  },
+  {
+    "link": "http://arxiv.org/abs/2302.07979",
+    "title": "http://arxiv.org/abs/2302.07979",
+    "latest": "2023-02-17T03:13:52.152000+00:00",
+    "last_post": {
+      "url": "https://a.farook.org/objects/7c96bd40-b31b-4a59-b55e-3bc18e2f9def",
+      "content": "\"PRedItOR: Text Guided Image Editing with Diffusion Prior. (arXiv:2302.07979v1 [cs.CV])\" \u2014 Structure preserving, text guided image editing using diffusion models without needing a base prompt, fine-tuning of models etc.<br><br>Paper: <a href=\"http://arxiv.org/abs/2302.07979\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">http://arxiv.org/abs/2302.07979</a><br><br><a class=\"hashtag\" href=\"https://a.farook.org/tag/ai\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#AI</a> <a class=\"hashtag\" href=\"https://a.farook.org/tag/cv\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#CV</a> <a class=\"hashtag\" href=\"https://a.farook.org/tag/newpaper\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#NewPaper</a> <a class=\"hashtag\" href=\"https://a.farook.org/tag/deeplearning\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#DeepLearning</a>  <a class=\"hashtag\" href=\"https://a.farook.org/tag/machinelearning\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#MachineLearning</a><br><br>&lt;&lt;Find this useful? Please boost so that others can benefit too \ud83d\ude42&gt;&gt;<br><a href=\"https://a.farook.org/media/8381bd5259054a5a1b60b25b64f7d56c692f2e1a9736a0fbcf3d593bb2ab99de.jpeg\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">Examples of text guided image e\u2026</a>"
+    },
+    "people": [
+      {
+        "url": "https://a.farook.org/users/f",
+        "display_name": "Fahim Farook"
+      }
+    ]
+  },
+  {
+    "link": "http://arxiv.org/abs/2212.02726",
+    "title": "http://arxiv.org/abs/2212.02726",
+    "latest": "2023-02-17T03:04:46+00:00",
+    "last_post": {
+      "url": "https://recsys.social/@aixinsg/109472257978940082",
+      "content": "<p>Dataset vs Reality: Understanding Model Performance from the Perspective of Information Need. (arXiv:2212.02726v1 [cs.IR]) <a href=\"http://arxiv.org/abs/2212.02726\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">http://</span><span class=\"\">arxiv.org/abs/2212.02726</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://creative.ai/@arxiv",
+        "display_name": "arXiv Highlights AI/ML \ud83d\udcdd\ud83e\udd16"
+      }
+    ]
+  },
+  {
+    "link": "https://arxiv.org/abs/2302.07728v1",
+    "title": "https://arxiv.org/abs/2302.07728v1",
+    "latest": "2023-02-17T02:59:14+00:00",
+    "last_post": {
+      "url": "https://creative.ai/@arxiv_cl/109877838144850759",
+      "content": "<p>\ud83d\udcdd AIDA: Legal Judgment Predictions for Non-Professional Fact Descriptions via Partial-and-Imbalanced Domain Adaptation \ud83d\udcda\ud83d\udc7e</p><p>\"We embed the proposed technique in the deep learning model, which can joint borrow the sibling knowledge from non-shared classes to shared classes in the source domain and further transfer the shared classes knowledge from the source domain to the target domain.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a> <a href=\"https://creative.ai/tags/AI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AI</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/nishnik/QuoRecommender\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/nishnik/QuoRecommen</span><span class=\"invisible\">der</span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2302.07728v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2302.07728v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://creative.ai/@arxiv_cl",
+        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
+      }
+    ]
+  },
+  {
+    "link": "http://arxiv.org/",
+    "title": "http://arXiv.org",
+    "latest": "2023-02-17T02:50:25.468000+00:00",
+    "last_post": {
+      "url": "https://a.farook.org/objects/e8794f0a-4c2b-415c-a379-a159188fdd66",
+      "content": "A total of 93 papers in the cs.CV category on <a href=\"http://arXiv.org\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">arXiv.org</a> today \u2014 61 new, 32 updated going in to the weekend \u2026<br><br>So yesterday\u2019s low paper count was definitely not a slowdown \ud83d\ude1b<br><br><a class=\"hashtag\" href=\"https://a.farook.org/tag/ai\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#AI</a> <a class=\"hashtag\" href=\"https://a.farook.org/tag/cv\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#CV</a> <a class=\"hashtag\" href=\"https://a.farook.org/tag/newpapers\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#NewPapers</a> <a class=\"hashtag\" href=\"https://a.farook.org/tag/deeplearning\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#DeepLearning</a>  <a class=\"hashtag\" href=\"https://a.farook.org/tag/machinelearning\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#MachineLearning</a>"
+    },
+    "people": [
+      {
+        "url": "https://a.farook.org/users/f",
+        "display_name": "Fahim Farook"
+      }
+    ]
+  },
+  {
+    "link": "https://arxiv.org/abs/2302.07727v1",
+    "title": "Knowledge Enhanced Semantic Communication Receiver",
+    "latest": "2023-02-17T02:29:10+00:00",
+    "last_post": {
+      "url": "https://creative.ai/@arxiv_cl/109877719911076071",
+      "content": "<p>\ud83d\udcdd Knowledge Enhanced Semantic Communication Receiver \ud83d\udcda\ud83e\udde0</p><p>\"Works by adding a knowledge graph enhanced decoding module to the traditional semantic communication receiver, and using a transformer-based knowledge extractor to find relevant factual triples for the received noisy signal.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a> <a href=\"https://creative.ai/tags/LG\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>LG</span></a></p><p>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2302.07727v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2302.07727v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://creative.ai/@arxiv_cl",
+        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
+      }
+    ]
+  },
+  {
+    "link": "https://arxiv.org/abs/2302.08007",
+    "title": "Shared Microexponents: A Little Shifting Goes a Long Way",
+    "latest": "2023-02-17T01:58:11+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@aran/109877598089042256",
+      "content": "<p>Shared Microexponents: A Little Shifting Goes a Long Way</p><p>Presents Block Data Representations, a framework for exploring and evaluating a wide spectrum of narrow-precision formats for deep learning.</p><p><a href=\"https://arxiv.org/abs/2302.08007\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2302.08007</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@aran",
+        "display_name": "Aran Komatsuzaki"
+      }
+    ]
+  },
+  {
+    "link": "https://arxiv.org/abs/2302.08468",
+    "title": "LEVER: Learning to Verify Language-to-Code Generation with Execution",
+    "latest": "2023-02-17T01:52:10+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@aran/109877574392982920",
+      "content": "<p>LEVER: Learning to Verify Language-to-Code Generation with Execution</p><p>Consistently improves over the base CodeLMs (4.6% to 10.9% with code-davinci-002).</p><p><a href=\"https://arxiv.org/abs/2302.08468\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2302.08468</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@aran",
+        "display_name": "Aran Komatsuzaki"
+      }
+    ]
+  },
+  {
+    "link": "https://arxiv.org/abs/2302.08510",
+    "title": "https://arxiv.org/abs/2302.08510",
+    "latest": "2023-02-17T01:44:15+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@aran/109877543299745358",
+      "content": "<p>Text-driven Visual Synthesis with Latent Diffusion Prior</p><p>Presents a generic approach using latent diffusion modelsas powerful image priors for various visual synthesis tasks, including text-to-3D.</p><p>proj: <a href=\"https://latent-diffusion-prior.github.io/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">latent-diffusion-prior.github.</span><span class=\"invisible\">io/</span></a><br>abs: <a href=\"https://arxiv.org/abs/2302.08510\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2302.08510</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@aran",
+        "display_name": "Aran Komatsuzaki"
+      }
+    ]
+  },
+  {
+    "link": "https://arxiv.org/abs/2302.08374",
+    "title": "Efficiency 360: Efficient Vision Transformers",
+    "latest": "2023-02-17T01:41:09+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@aran/109877531072347904",
+      "content": "<p>Efficiency 360: Efficient Vision Transformers</p><p>Compares various vision transformer models based on their performance, the number of parameters, and the number of floating point operations (FLOPs) on multiple datasets.</p><p><a href=\"https://arxiv.org/abs/2302.08374\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2302.08374</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@aran",
+        "display_name": "Aran Komatsuzaki"
+      }
+    ]
+  },
+  {
+    "link": "https://arxiv.org/abs/2302.08509",
+    "title": "https://arxiv.org/abs/2302.08509",
+    "latest": "2023-02-17T01:36:11+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@aran/109877511542140646",
+      "content": "<p>3D-aware Conditional Image Synthesis</p><p>proj: <a href=\"https://www.cs.cmu.edu/~pix2pix3D/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">cs.cmu.edu/~pix2pix3D/</span><span class=\"invisible\"></span></a><br>repo: <a href=\"https://github.com/dunbar12138/pix2pix3D\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/dunbar12138/pix2pix</span><span class=\"invisible\">3D</span></a><br>abs: <a href=\"https://arxiv.org/abs/2302.08509\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2302.08509</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@aran",
+        "display_name": "Aran Komatsuzaki"
+      }
+    ]
+  },
+  {
     "link": "https://doi.org/10.21105/joss.04871",
     "title": "https://doi.org/10.21105/joss.04871",
     "latest": "2023-02-16T21:45:49+00:00",
@@ -110,21 +663,6 @@
     ]
   },
   {
-    "link": "https://dl.acm.org/doi/10.1145/3442188.3445922",
-    "title": "On the Dangers of Stochastic Parrots | Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency",
-    "latest": "2023-02-16T20:13:57+00:00",
-    "last_post": {
-      "url": "https://mamot.fr/@pluralistic/109876244476861686",
-      "content": "<p>It keeps getting better: </p><p>\"'This is truly an intolerable situation. If you both lie,' </p><p>\"-- 'And lie convincingly,' added Bingle-Dum -- </p><p>\"'Yes, thank you. If that is so, then how am I to ever trust either of you?' </p><p>\"Googl-E and Bingle-Dum turned to face each other and shrugged.\"</p><p>Chatbot search is a terrible idea, especially in an era in which the web is likely to fill up with vast mountains of AI <a href=\"https://mamot.fr/tags/bullshit\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>bullshit</span></a>, the frozen gabble of <a href=\"https://mamot.fr/tags/StochasticParrots\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>StochasticParrots</span></a>:</p><p><a href=\"https://dl.acm.org/doi/10.1145/3442188.3445922\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">dl.acm.org/doi/10.1145/3442188</span><span class=\"invisible\">.3445922</span></a></p><p>4/</p>"
-    },
-    "people": [
-      {
-        "url": "https://mamot.fr/@pluralistic",
-        "display_name": "Cory Doctorow's linkblog"
-      }
-    ]
-  },
-  {
     "link": "https://doi.org/10.1038/s41562-022-01508-2",
     "title": "doi.org/10.1038/s41562-022-015...",
     "latest": "2023-02-16T19:50:19+00:00",
@@ -159,29 +697,6 @@
       {
         "url": "https://creative.ai/@arxiv",
         "display_name": "arXiv Highlights AI/ML \ud83d\udcdd\ud83e\udd16"
-      }
-    ]
-  },
-  {
-    "link": "https://journals.sagepub.com/doi/full/10.1177/05390184221142218",
-    "title": "journals.sagepub.com/doi/full/...",
-    "latest": "2023-02-16T19:19:46+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@jelena3121/109874081098692943",
-      "content": "<p>I wanted to write something like, \"oh you don't say\" but this is *actually* a brutal read</p><p><a href=\"https://mastodon.social/tags/science\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>science</span></a> <a href=\"https://mastodon.social/tags/metrics\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>metrics</span></a> <a href=\"https://mastodon.social/tags/evaluation\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>evaluation</span></a></p><p><a href=\"https://journals.sagepub.com/doi/full/10.1177/05390184221142218\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">journals.sagepub.com/doi/full/</span><span class=\"invisible\">10.1177/05390184221142218</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://aus.social/@AndyPerfors",
-        "display_name": "Andrew Perfors"
-      },
-      {
-        "url": "https://wandering.shop/@cstross",
-        "display_name": "Charlie Stross"
-      },
-      {
-        "url": "https://mastodon.art/@mtyka",
-        "display_name": "Mike Tyka"
       }
     ]
   },
@@ -561,21 +1076,6 @@
       {
         "url": "https://mastodon.social/@ResourcefulSqrl",
         "display_name": "Katie Lee"
-      }
-    ]
-  },
-  {
-    "link": "http://arxiv.org/",
-    "title": "http://arXiv.org",
-    "latest": "2023-02-16T02:29:35.208000+00:00",
-    "last_post": {
-      "url": "https://a.farook.org/objects/bc5b2e88-9aa9-41f1-978f-9c415769a6b1",
-      "content": "A total of 54 papers in the cs.CV category on <a href=\"http://arXiv.org\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">arXiv.org</a> today \u2014 33 new, 21 updated.<br><br>Are we slowing down for the weekend? \ud83d\ude1b<br><br><a class=\"hashtag\" href=\"https://a.farook.org/tag/ai\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#AI</a> <a class=\"hashtag\" href=\"https://a.farook.org/tag/cv\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#CV</a> <a class=\"hashtag\" href=\"https://a.farook.org/tag/newpapers\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#NewPapers</a> <a class=\"hashtag\" href=\"https://a.farook.org/tag/deeplearning\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#DeepLearning</a>  <a class=\"hashtag\" href=\"https://a.farook.org/tag/machinelearning\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#MachineLearning</a>"
-    },
-    "people": [
-      {
-        "url": "https://a.farook.org/users/f",
-        "display_name": "Fahim Farook"
       }
     ]
   },
@@ -2664,526 +3164,6 @@
       {
         "url": "https://creative.ai/@arxiv_cl",
         "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
-      }
-    ]
-  },
-  {
-    "link": "https://arxiv.org/abs/2301.04584",
-    "title": "Continual Few-Shot Learning Using HyperTransformers",
-    "latest": "2023-02-11T20:29:56+00:00",
-    "last_post": {
-      "url": "https://sigmoid.social/@akhaliq/109673755324555916",
-      "content": "<p>Continual Few-Shot Learning Using HyperTransformers </p><p>abs: <a href=\"https://arxiv.org/abs/2301.04584\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2301.04584</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mstdn.social/@cwizprod1",
-        "display_name": "Cyberwizard"
-      },
-      {
-        "url": "https://sigmoid.social/@ceperez",
-        "display_name": "Carlos E. Perez @IntuitMachine"
-      },
-      {
-        "url": "https://creative.ai/@arxiv",
-        "display_name": "arXiv Highlights AI/ML \ud83d\udcdd\ud83e\udd16"
-      }
-    ]
-  },
-  {
-    "link": "https://arxiv.org/abs/2302.04834v1",
-    "title": "FrameBERT: Conceptual Metaphor Detection with Frame Embedding Learning",
-    "latest": "2023-02-11T20:26:04+00:00",
-    "last_post": {
-      "url": "https://creative.ai/@arxiv_cl/109847980576204983",
-      "content": "<p>\ud83d\udcdd FrameBERT: Conceptual Metaphor Detection with Frame Embedding Learning \ud83d\udcda</p><p>\"Proposes FrameBERT, an RoBERTa-based model that learns and incorporates FrameNet Embeddings to enhance the metaphor detection model\u2019s ability to capture the semantic meanings of the target words.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a></p><p>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2302.04834v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2302.04834v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://creative.ai/@arxiv_cl",
-        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
-      }
-    ]
-  },
-  {
-    "link": "https://arxiv.org/abs/2302.03011",
-    "title": "https://arxiv.org/abs/2302.03011",
-    "latest": "2023-02-11T09:53:33+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@hrbrmstr/109845493423583068",
-      "content": "<p>Some impressive new video AI/diffusion kit from Runway.</p><p><a href=\"https://research.runwayml.com/gen1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">research.runwayml.com/gen1</span><span class=\"invisible\"></span></a></p><p><a href=\"https://arxiv.org/abs/2302.03011\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2302.03011</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@hrbrmstr",
-        "display_name": "boB Rudis \ud83c\uddfa\ud83c\udde6"
-      }
-    ]
-  },
-  {
-    "link": "https://doi.org/10.7554/eLife.84991",
-    "title": "https://doi.org/10.7554/eLife.84991",
-    "latest": "2023-02-11T09:23:15+00:00",
-    "last_post": {
-      "url": "https://neuromatch.social/@anneurai/109836831950343245",
-      "content": "<p>How to be an academic in a world on fire?</p><p>As scientists concerned about the climate crisis, <span class=\"h-card\"><a href=\"https://mastodon.social/@clarekelly\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>clarekelly</span></a></span> and I set out to rethink the role and goals of the university in tackling the 21st century's challenges. Inspired by Raworth's Doughnut Economics, we propose seven new ways to thinking - not only to help us think, but also to act.</p><p>Read the paper: Urai AE, Kelly C (2023) Rethinking academia in a time of climate crisis. eLife 12:e84991. <a href=\"https://doi.org/10.7554/eLife.84991\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">doi.org/10.7554/eLife.84991</span><span class=\"invisible\"></span></a><br>Join us for a discussion at Growing Up in Science Global on 11 April: <a href=\"https://nyu.zoom.us/meeting/register/tJIoc-GsqT8uGNXniBIHPo9u4ibfDwxysLkI\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">nyu.zoom.us/meeting/register/t</span><span class=\"invisible\">JIoc-GsqT8uGNXniBIHPo9u4ibfDwxysLkI</span></a></p><p>... and let us know your thoughts!</p>"
-    },
-    "people": [
-      {
-        "url": "https://toot.aquilenet.fr/@rougier",
-        "display_name": "Nicolas P. Rougier"
-      },
-      {
-        "url": "https://scholar.social/@researchfairy",
-        "display_name": "The research fairy"
-      }
-    ]
-  },
-  {
-    "link": "https://arxiv.org/abs/2302.04089v1",
-    "title": "ZipLM: Hardware-Aware Structured Pruning of Language Models",
-    "latest": "2023-02-11T07:15:29+00:00",
-    "last_post": {
-      "url": "https://creative.ai/@arxiv_cl/109844871888441708",
-      "content": "<p>\ud83d\udcdd ZipLM: Hardware-Aware Structured Pruning of Language Models \ud83e\udde0\ud83d\udcda</p><p>\"Proposes a new structured compression method for LLMs, based on new structured pruning and knowledge distillation techniques, that can be applied in both, post-training as well as gradual compression setting.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/LG\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>LG</span></a> <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a></p><p>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2302.04089v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2302.04089v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://creative.ai/@arxiv_cl",
-        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
-      }
-    ]
-  },
-  {
-    "link": "https://arxiv.org/abs/2302.03988",
-    "title": "On Cosmological Low Entropy After the Big Bang: Universal Expansion and Nucleosynthesis",
-    "latest": "2023-02-11T06:35:16+00:00",
-    "last_post": {
-      "url": "https://mas.to/@stephenserjeant/109837178899745681",
-      "content": "<p>Absolutely the best Acknowledgments section of a paper I\u2019ve read. From <a href=\"https://arxiv.org/abs/2302.03988\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2302.03988</span><span class=\"invisible\"></span></a> <a href=\"https://mas.to/tags/astrodon\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>astrodon</span></a> / h/t <span class=\"h-card\"><a href=\"https://mstdn.social/@playingwithdust\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>playingwithdust</span></a></span></p>"
-    },
-    "people": [
-      {
-        "url": "https://data-folks.masto.host/@Leena",
-        "display_name": "Leena"
-      },
-      {
-        "url": "https://mstdn.social/@arnicas",
-        "display_name": "arnicas"
-      },
-      {
-        "url": "https://mstdn.social/@felwert",
-        "display_name": "Frederik Elwert"
-      },
-      {
-        "url": "https://fediscience.org/@NikaShilobod",
-        "display_name": "Nika Shilobod"
-      },
-      {
-        "url": "https://mastodon.cloud/@seatrout",
-        "display_name": "Andrew Brown"
-      }
-    ]
-  },
-  {
-    "link": "https://arxiv.org/abs/2302.04197v1",
-    "title": "https://arxiv.org/abs/2302.04197v1",
-    "latest": "2023-02-11T05:45:30+00:00",
-    "last_post": {
-      "url": "https://creative.ai/@arxiv_cl/109844518066487484",
-      "content": "<p>\ud83d\udcdd Hierarchical Event Grounding \ud83d\udcda</p><p>\"Leverages event hierarchy through an auxiliary hierarchical loss during retrieval of candidates to be re-ranked using cross-encoder model (BERT) (Devlin, Chang, and Lee 2019).\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/JefferyO/HierarchicalEvent-Grounding\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/JefferyO/Hierarchic</span><span class=\"invisible\">alEvent-Grounding</span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2302.04197v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2302.04197v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://creative.ai/@arxiv_cl",
-        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
-      }
-    ]
-  },
-  {
-    "link": "https://onlinelibrary.wiley.com/doi/full/10.1111/1745-9133.12558",
-    "title": "onlinelibrary.wiley.com/doi/fu...",
-    "latest": "2023-02-11T04:21:56+00:00",
-    "last_post": {
-      "url": "https://hachyderm.io/@mekkaokereke/109842660353796642",
-      "content": "<p>In Chicago, fewer than 4% of DUI checkpoints are in majority white neighborhoods, but 25% of drunk driving accidents are in white neighborhoods. \ud83d\ude42\ud83d\ude43</p><p>In California, fewer than 1% of drunk driving arrests come from checkpoints.\ud83e\udd26\ud83c\udfff\u200d\u2642\ufe0f</p><p>Cops are using DUI checkpoints as an excuse to stop Black drivers, then searching them and arresting them for other things. Because policing in America. Because racism.</p><p><a href=\"https://onlinelibrary.wiley.com/doi/full/10.1111/1745-9133.12558\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">onlinelibrary.wiley.com/doi/fu</span><span class=\"invisible\">ll/10.1111/1745-9133.12558</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://octodon.social/@craignicol",
-        "display_name": "Craig Nicol"
-      }
-    ]
-  },
-  {
-    "link": "http://arxiv.org/abs/2302.04761",
-    "title": "http://arxiv.org/abs/2302.04761",
-    "latest": "2023-02-10T22:02:42+00:00",
-    "last_post": {
-      "url": "https://sigmoid.social/@aran/109842698238665198",
-      "content": "<p>RT @timo_schick@twitter.com</p><p>\ud83c\udf89 New paper \ud83c\udf89 Introducing the Toolformer, a language model that teaches itself to use various tools in a self-supervised way. This significantly improves zero-shot performance and enables it to outperform much larger models. \ud83e\uddf0</p><p>\ud83d\udd17 Link: <a href=\"http://arxiv.org/abs/2302.04761\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">http://</span><span class=\"\">arxiv.org/abs/2302.04761</span><span class=\"invisible\"></span></a></p><p>\ud83d\udc26\ud83d\udd17: <a href=\"https://twitter.com/timo_schick/status/1624058382142345216\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">twitter.com/timo_schick/status</span><span class=\"invisible\">/1624058382142345216</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://sigmoid.social/@aran",
-        "display_name": "Aran Komatsuzaki"
-      }
-    ]
-  },
-  {
-    "link": "https://arxiv.org/abs/2302.03693v1",
-    "title": "https://arxiv.org/abs/2302.03693v1",
-    "latest": "2023-02-10T21:00:34+00:00",
-    "last_post": {
-      "url": "https://creative.ai/@arxiv_cl/109842453895671637",
-      "content": "<p>\ud83d\udcdd Concept Algebra for Text-Controlled Vision Models \ud83d\udcda\ud83e\udde0</p><p>\"Concept algebra is a way to directly manipulate concepts that the output depends on by using algebraic operations on a suitably defined representation of input prompts (the concept representation).\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a> <a href=\"https://creative.ai/tags/LG\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>LG</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/zihao12/concept-algebra\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/zihao12/concept-alg</span><span class=\"invisible\">ebra</span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2302.03693v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2302.03693v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://creative.ai/@arxiv_cl",
-        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
-      }
-    ]
-  },
-  {
-    "link": "https://doi.org/10.2307/3185496",
-    "title": "https://doi.org/10.2307/3185496",
-    "latest": "2023-02-10T20:12:07+00:00",
-    "last_post": {
-      "url": "https://post.lurk.org/@samplereality/109842263420300222",
-      "content": "<p>Okay! So not just a hunch, but confirmed! In this 2001 interview Butler refers to The Turner Diaries before talking about her motivations for Parable of the Sower: <a href=\"https://doi.org/10.2307/3185496\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">doi.org/10.2307/3185496</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://post.lurk.org/@samplereality",
-        "display_name": "Mark Sample"
-      }
-    ]
-  },
-  {
-    "link": "https://arxiv.org/abs/2302.01339",
-    "title": "Creating a Large Language Model of a Philosopher",
-    "latest": "2023-02-10T09:56:48+00:00",
-    "last_post": {
-      "url": "https://scholar.social/@davidschlangen/109839843589980839",
-      "content": "<p>DANIEL DENNETT MAY HAVE SPONTANEOUSLY EMERGED IN LARGE LANGUAGE MODELS</p><p><a href=\"https://arxiv.org/abs/2302.01339\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2302.01339</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://creative.ai/@arxiv_cl",
-        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
-      }
-    ]
-  },
-  {
-    "link": "https://arxiv.org/abs/2112.00183",
-    "title": "Descriptive vs. inferential community detection in networks: pitfalls, myths, and half-truths",
-    "latest": "2023-02-10T09:40:15+00:00",
-    "last_post": {
-      "url": "https://social.skewed.de/@tiago/107405344003726323",
-      "content": "<p>New blog post!</p><p>\"No free lunch in community detection?\"</p><p>NFL theorems are tricky to interpret, and are often misunderstood.</p><p>No, it does not mean that all community detection algorithms are equally good. 1/9</p><p>(Based on <a href=\"https://arxiv.org/abs/2112.00183\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2112.00183</span><span class=\"invisible\"></span></a>)</p><p><a href=\"https://skewed.de/tiago/blog/free-lunch\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">skewed.de/tiago/blog/free-lunc</span><span class=\"invisible\">h</span></a></p><p><span class=\"h-card\"><a href=\"https://a.gup.pe/u/networkscience\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>networkscience</span></a></span></p>"
-    },
-    "people": [
-      {
-        "url": "https://social.skewed.de/@tiago",
-        "display_name": "Tiago Peixoto"
-      }
-    ]
-  },
-  {
-    "link": "https://arxiv.org/abs/2302.03668v1",
-    "title": "https://arxiv.org/abs/2302.03668v1",
-    "latest": "2023-02-10T09:37:52+00:00",
-    "last_post": {
-      "url": "https://creative.ai/@arxiv_cl/109839769407887837",
-      "content": "<p>\ud83d\udcdd Hard Prompts Made Easy: Gradient-Based Discrete Optimization for Prompt Tuning and Discovery \ud83e\udde0\ud83d\udcda</p><p>\"An efficient, gradient-based optimization technique that optimizes a discrete prompt by relaxing it into a continuous embedding, which can be backpropagated through a discrete sequence to sequence (seq2seq) model such as a language model.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/LG\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>LG</span></a> <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/pharmapsychotic/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/pharmapsychotic/</span><span class=\"invisible\"></span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2302.03668v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2302.03668v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://creative.ai/@arxiv_cl",
-        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
-      }
-    ]
-  },
-  {
-    "link": "https://link.springer.com/article/10.1007/s10994-023-06301-4",
-    "title": "PAC-learning with approximate predictors - Machine Learning",
-    "latest": "2023-02-10T09:31:13+00:00",
-    "last_post": {
-      "url": "https://sigmoid.social/@mlj/109839743259907128",
-      "content": "<p>The days stay cold but you can huddle up with an <a href=\"https://sigmoid.social/tags/MLJ\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>MLJ</span></a> online-first <a href=\"https://sigmoid.social/tags/NewPaper\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>NewPaper</span></a>: \"PAC-learning with approximate predictors\" by Andrew J. Turner &amp; Ata Kab\u00e1n (<a href=\"https://link.springer.com/article/10.1007/s10994-023-06301-4\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">link.springer.com/article/10.1</span><span class=\"invisible\">007/s10994-023-06301-4</span></a>) (OA)</p>"
-    },
-    "people": [
-      {
-        "url": "https://sigmoid.social/@mlj",
-        "display_name": "Machine Learning Journal"
-      }
-    ]
-  },
-  {
-    "link": "https://link.springer.com/article/10.1007/s10994-022-06289-3",
-    "title": "Large scale multi-output multi-class classification using Gaussian processes - Machine Learning",
-    "latest": "2023-02-10T09:31:13+00:00",
-    "last_post": {
-      "url": "https://sigmoid.social/@mlj/109839743291058189",
-      "content": "<p>Or two: \"Large scale multi-output multi-class classification using Gaussian processes\" by Chunchao Ma &amp; Mauricio A. \u00c1lvarez (<a href=\"https://link.springer.com/article/10.1007/s10994-022-06289-3\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">link.springer.com/article/10.1</span><span class=\"invisible\">007/s10994-022-06289-3</span></a>) (OA)</p>"
-    },
-    "people": [
-      {
-        "url": "https://sigmoid.social/@mlj",
-        "display_name": "Machine Learning Journal"
-      }
-    ]
-  },
-  {
-    "link": "https://arxiv.org/abs/2302.03589v1",
-    "title": "CALaMo: a Constructionist Assessment of Language Models",
-    "latest": "2023-02-10T09:07:52+00:00",
-    "last_post": {
-      "url": "https://creative.ai/@arxiv_cl/109839651450335420",
-      "content": "<p>\ud83d\udcdd CALaMo: A Constructionist Assessment of Language Models \ud83d\udcda</p><p>\"Given a corpus of sentences, the linguist can choose a set of relevant constructions that capture the linguistic phenomena of interest for that corpus (e,g, relative clauses, prepositional phrases, idioms).\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a></p><p>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2302.03589v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2302.03589v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://creative.ai/@arxiv_cl",
-        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
-      }
-    ]
-  },
-  {
-    "link": "https://journals.sagepub.com/doi/full/10.1177/09567976221140828",
-    "title": "journals.sagepub.com/doi/full/...",
-    "latest": "2023-02-10T08:32:55+00:00",
-    "last_post": {
-      "url": "https://nerdculture.de/@cruwell/109818820343409305",
-      "content": "<p>Very happy to see our paper on the Open Data badge at Psych Science published *in* Psych Science! It even received the honour of an extended editor's note -- a first for the journal. Give it a read and let us know what you think!</p><p><a href=\"https://journals.sagepub.com/doi/full/10.1177/09567976221140828\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">journals.sagepub.com/doi/full/</span><span class=\"invisible\">10.1177/09567976221140828</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@lakens",
-        "display_name": "Daniel Lakens"
-      },
-      {
-        "url": "https://scholar.social/@researchfairy",
-        "display_name": "The research fairy"
-      }
-    ]
-  },
-  {
-    "link": "https://arxiv.org/abs/2302.03512v1",
-    "title": "A Survey on Arabic Named Entity Recognition: Past, Recent Advances, and Future Trends",
-    "latest": "2023-02-10T08:22:52+00:00",
-    "last_post": {
-      "url": "https://creative.ai/@arxiv_cl/109839474510903800",
-      "content": "<p>\ud83d\udcdd A Survey on Arabic Named Entity Recognition: Past, Recent Advances, and Future Trends \ud83d\udcda</p><p>\"Introduces the background of Arabic NER, including the characteristics of Arabic and existing resources for Arabic NER, and then systematically review the recent development of Arabic NER, including deep learning methods, pre-trained language model.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a></p><p>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2302.03512v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2302.03512v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://creative.ai/@arxiv_cl",
-        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
-      }
-    ]
-  },
-  {
-    "link": "https://arxiv.org/abs/2302.04273",
-    "title": "Debris Disk Color with the Hubble Space Telescope",
-    "latest": "2023-02-10T08:20:33+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@mattkenworthy/109839186469802765",
-      "content": "<p>A beautiful gallery of disks around nearby stars taken with the <a href=\"https://mastodon.social/tags/HST\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>HST</span></a> - these images are breathtaking to me - the structures are generated by asteroid collisions, sculpted by the dynamics of (unseen) exoplanets and scoured by the photon pressure from the star. The deep analysis and discussion about the resultant properties of the dust is by Ren, Rebodillo et al. \"Debris Disk Color with the Hubble Space Telescope\" <a href=\"https://arxiv.org/abs/2302.04273\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2302.04273</span><span class=\"invisible\"></span></a> <a href=\"https://mastodon.social/tags/astronomy\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>astronomy</span></a> <a href=\"https://mastodon.social/tags/astrodon\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>astrodon</span></a> <a href=\"https://mastodon.social/tags/exoplanets\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>exoplanets</span></a> <a href=\"https://mastodon.social/tags/HST\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>HST</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@jradavenport",
-        "display_name": "James Davenport \ud83d\udd2d\u2615\ufe0f"
-      }
-    ]
-  },
-  {
-    "link": "https://arxiv.org/abs/2302.03507v1",
-    "title": "https://arxiv.org/abs/2302.03507v1",
-    "latest": "2023-02-10T07:52:49+00:00",
-    "last_post": {
-      "url": "https://creative.ai/@arxiv_cl/109839356384754159",
-      "content": "<p>\ud83d\udcdd Meta-Learning Siamese Network for Few-Shot Text Classification \ud83d\udcda\ud83d\udc7e</p><p>\"Meta-SN learns the prototype vectors from external knowledge for class labels, and uses a novel sampling strategy for constructing meta-tasks, which assigns higher sampling probabilities to hard-to-classify samples.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a> <a href=\"https://creative.ai/tags/AI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AI</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/hccngu/Meta-SN\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/hccngu/Meta-SN</span><span class=\"invisible\"></span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2302.03507v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2302.03507v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://creative.ai/@arxiv_cl",
-        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
-      }
-    ]
-  },
-  {
-    "link": "https://www.tandfonline.com/doi/full/10.1080/25785648.2023.2168939",
-    "title": "Wikipedia\u2019s Intentional Distortion of the History of the Holocaust",
-    "latest": "2023-02-10T07:33:13+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@iramjohn/109836742784869642",
-      "content": "<p>\"Wikipedia\u2019s Intentional Distortion of the History of the Holocaust\" (OA)</p><p>This article is likely to create ripples, if not waves. It's one of the most detailed looks I've come across at misinformation on Wikipedia, and how community processes have failed to address a lot of concerns. And how that has impacted Holocaust history, a topic I'd hope we'd be especially careful to get right</p><p>(I provided feedback on a draft a few months ago, but just skimmed the final version.)</p><p><a href=\"https://www.tandfonline.com/doi/full/10.1080/25785648.2023.2168939\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">tandfonline.com/doi/full/10.10</span><span class=\"invisible\">80/25785648.2023.2168939</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://bbq.snoot.com/@ProgGrrl",
-        "display_name": "ProgGrrl"
-      }
-    ]
-  },
-  {
-    "link": "https://arxiv.org/abs/2302.03494v1",
-    "title": "A Categorical Archive of ChatGPT Failures",
-    "latest": "2023-02-10T07:22:54+00:00",
-    "last_post": {
-      "url": "https://creative.ai/@arxiv_cl/109839238713637082",
-      "content": "<p>\ud83d\udcdd A Categorical Archive of ChatGPT Failures \ud83d\udcda\ud83d\udc7e\ud83e\udde0</p><p>\"ChatGPT is trained on massive amounts of text from the internet and is able to answer a broad range of human inquiries, with fluent and comprehensive answers surpassing prior public chatbots in both security and usefulness.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a> <a href=\"https://creative.ai/tags/AI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AI</span></a> <a href=\"https://creative.ai/tags/LG\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>LG</span></a></p><p>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2302.03494v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2302.03494v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://creative.ai/@arxiv_cl",
-        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
-      }
-    ]
-  },
-  {
-    "link": "https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001967",
-    "title": "journals.plos.org/plosbiology/...",
-    "latest": "2023-02-10T06:47:16+00:00",
-    "last_post": {
-      "url": "https://zeroes.ca/@EricCarroll/109839011497075052",
-      "content": "<p>Scientists discover receptor that blocks <a href=\"https://zeroes.ca/tags/COVID19\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>COVID19</span></a> infection</p><p>The research opens up an entirely new area of immunology research around LRRC15 and offers a promising pathway to develop new drugs to prevent viral infection from coronaviruses like <a href=\"https://zeroes.ca/tags/COVID19\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>COVID19</span></a> or deal with fibrosis in the lungs.</p><p><a href=\"https://www.sydney.edu.au/news-opinion/news/2023/02/10/scientists-discover-receptor-that-blocks-covid-19-infection.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">sydney.edu.au/news-opinion/new</span><span class=\"invisible\">s/2023/02/10/scientists-discover-receptor-that-blocks-covid-19-infection.html</span></a></p><p><a href=\"https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001967\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">journals.plos.org/plosbiology/</span><span class=\"invisible\">article?id=10.1371/journal.pbio.3001967</span></a></p><p><a href=\"https://zeroes.ca/tags/sarscov2\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>sarscov2</span></a> <a href=\"https://zeroes.ca/tags/SARS2\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>SARS2</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://bbq.snoot.com/@ProgGrrl",
-        "display_name": "ProgGrrl"
-      },
-      {
-        "url": "https://mastodon.lol/@morgandawn",
-        "display_name": "Morgan Dawn"
-      }
-    ]
-  },
-  {
-    "link": "https://arxiv.org/abs/2302.03488v1",
-    "title": "APAM: Adaptive Pre-training and Adaptive Meta Learning in Language Model for Noisy Labels and Long-tailed Learning",
-    "latest": "2023-02-10T06:07:50+00:00",
-    "last_post": {
-      "url": "https://creative.ai/@arxiv_cl/109838943538163389",
-      "content": "<p>\ud83d\udcdd APAM: Adaptive Pre-Training and Adaptive Meta Learning in Language Model for Noisy Labels and Long-Tailed Learning \ud83d\udcda\ud83d\udc7e</p><p>\"A combination of a pre-training model, a re-weighting module, and a fine-tuning model for text classification tasks with long-tail and noisy labels.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a> <a href=\"https://creative.ai/tags/AI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AI</span></a></p><p>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2302.03488v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2302.03488v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://creative.ai/@arxiv_cl",
-        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
-      }
-    ]
-  },
-  {
-    "link": "https://arxiv.org/abs/2302.04752",
-    "title": "Benchmarks for Automated Commonsense Reasoning: A Survey",
-    "latest": "2023-02-10T06:00:10+00:00",
-    "last_post": {
-      "url": "https://sigmoid.social/@timfinin/109838371307536704",
-      "content": "<p>Prof. Ernest Davis (NYU) has a new survey paper on benchmarks for automated commonsense reasoning. It discusses the nature of common sense, its role in AI, desirable features of commonsense benchmarks, and makes recommendations for future development. <a href=\"https://sigmoid.social/tags/AI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AI</span></a> <a href=\"https://arxiv.org/abs/2302.04752\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2302.04752</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://sigmoid.social/@BenjaminHan",
-        "display_name": "Benjamin Han"
-      }
-    ]
-  },
-  {
-    "link": "https://journals.sagepub.com/doi/10.1177/23294965221105664",
-    "title": "journals.sagepub.com/doi/10.11...",
-    "latest": "2023-02-09T20:37:38+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@msomashe/109835701439793378",
-      "content": "<p>Did you know that, in the U.S., it is illegal to *employ* an undocumented immigrant but legal for undocumented immigrants to *own* businesses? I contend with this issue in my latest paper, just published in the latest issue of Social Currents <a href=\"https://journals.sagepub.com/doi/10.1177/23294965221105664\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">journals.sagepub.com/doi/10.11</span><span class=\"invisible\">77/23294965221105664</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://sciences.social/@bernardforgues",
-        "display_name": "Bernard Forgues"
-      }
-    ]
-  },
-  {
-    "link": "http://arxiv.org/abs/2302.03764",
-    "title": "http://arxiv.org/abs/2302.03764",
-    "latest": "2023-02-09T09:47:00+00:00",
-    "last_post": {
-      "url": "https://sigmoid.social/@aran/109834143022014446",
-      "content": "<p>RT @FeinbergVlad@twitter.com</p><p>New work is out! <a href=\"http://arxiv.org/abs/2302.03764\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">http://</span><span class=\"\">arxiv.org/abs/2302.03764</span><span class=\"invisible\"></span></a></p><p>Sketching for low-memory second-order optimization. w/ @XinyiChen2@twitter.com Jennifer Sun @_arohan_@twitter.com @HazanPrinceton@twitter.com </p><p>Most networks have &gt;99% of mass in the top 25% of (factored) gradient cov's eigenvalues. Let's exploit this. 1/n</p><p>\ud83d\udc26\ud83d\udd17: <a href=\"https://twitter.com/FeinbergVlad/status/1623540032832413696\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">twitter.com/FeinbergVlad/statu</span><span class=\"invisible\">s/1623540032832413696</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://sigmoid.social/@aran",
-        "display_name": "Aran Komatsuzaki"
-      }
-    ]
-  },
-  {
-    "link": "https://arxiv.org/abs/2302.03764",
-    "title": "Sketchy: Memory-efficient Adaptive Regularization with Frequent Directions",
-    "latest": "2023-02-09T09:46:59+00:00",
-    "last_post": {
-      "url": "https://sigmoid.social/@aran/109834142967628081",
-      "content": "<p>Sketchy: Memory-efficient Adaptive Regularization with Frequent Directions</p><p>Develops a practical, memory-efficient algorithm which approximately recovers Shampoo performance in three modern DL settings (ImageNet, Librispeech, etc).</p><p><a href=\"https://arxiv.org/abs/2302.03764\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2302.03764</span><span class=\"invisible\"></span></a> </p><p>RT @_arohan_@twitter.com</p><p>Adam is the past? <a href=\"https://arxiv.org/abs/2302.03764\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2302.03764</span><span class=\"invisible\"></span></a></p><p>\ud83d\udc26\ud83d\udd17: <a href=\"https://twitter.com/_arohan_/status/1623539709409640449\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">twitter.com/_arohan_/status/16</span><span class=\"invisible\">23539709409640449</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://sigmoid.social/@aran",
-        "display_name": "Aran Komatsuzaki"
-      }
-    ]
-  },
-  {
-    "link": "https://arxiv.org/abs/2302.04166",
-    "title": "GPTScore: Evaluate as You Desire",
-    "latest": "2023-02-09T09:46:52+00:00",
-    "last_post": {
-      "url": "https://sigmoid.social/@aran/109834142521603954",
-      "content": "<p>GPTScore: Evaluate as You Desire</p><p>Proposes a novel evaluation framework, GPTSCORE, which utilizes the emergent abilities (e.g., zero-shot instruction) from generative pre-trained models to score generated texts.</p><p><a href=\"https://arxiv.org/abs/2302.04166\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2302.04166</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://creative.ai/@arxiv_cl",
-        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
-      },
-      {
-        "url": "https://sigmoid.social/@aran",
-        "display_name": "Aran Komatsuzaki"
-      }
-    ]
-  },
-  {
-    "link": "https://arxiv.org/abs/2212.10559v2",
-    "title": "https://arxiv.org/abs/2212.10559v2",
-    "latest": "2023-02-09T09:46:46+00:00",
-    "last_post": {
-      "url": "https://sigmoid.social/@aran/109834142119731146",
-      "content": "<p>RT @AlphaSignalAI@twitter.com</p><p>Large Language Models are fascinating.</p><p>1. They can store and simulate other NNs inside their hidden layers and adapt to new tasks without new data.<br>\ud83d\udcc4<a href=\"https://news.mit.edu/2023/large-language-models-in-context-learning-0207\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">news.mit.edu/2023/large-langua</span><span class=\"invisible\">ge-models-in-context-learning-0207</span></a></p><p>2. They can secretly perform gradient descent as Meta-Optimizers.<br>\ud83d\udcc4 <a href=\"https://arxiv.org/abs/2212.10559v2\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2212.10559v2</span><span class=\"invisible\"></span></a></p><p>*jaw drop*</p><p>\ud83d\udc26\ud83d\udd17: <a href=\"https://twitter.com/AlphaSignalAI/status/1623391318415122441\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">twitter.com/AlphaSignalAI/stat</span><span class=\"invisible\">us/1623391318415122441</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://sigmoid.social/@aran",
-        "display_name": "Aran Komatsuzaki"
-      }
-    ]
-  },
-  {
-    "link": "https://arxiv.org/abs/2302.04264",
-    "title": "Nerfstudio: A Modular Framework for Neural Radiance Field Development",
-    "latest": "2023-02-09T09:30:47+00:00",
-    "last_post": {
-      "url": "https://sigmoid.social/@kornia_foss/109834078683727474",
-      "content": "<p>Nerfstudio: A Modular Framework for Neural Radiance Field Development</p><p>Matthew Tancik, Ethan Weber, Evonne Ng, Ruilong Li, Brent Yi, Justin Kerr, Terrance Wang, Alexander Kristoffersen, Jake Austin, Kamyar Salahi, Abhik Ahuja, David McAllister, Angjoo Kanazawa</p><p><a href=\"https://arxiv.org/abs/2302.04264\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2302.04264</span><span class=\"invisible\"></span></a></p><p>tl;dr: home to your NERFs. Pipeline, modular components, web-viewer</p><p><a href=\"https://sigmoid.social/tags/computervision\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>computervision</span></a> <a href=\"https://sigmoid.social/tags/opensource\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>opensource</span></a> <a href=\"https://sigmoid.social/tags/ai\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ai</span></a> <a href=\"https://sigmoid.social/tags/PyTorch\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>PyTorch</span></a> <a href=\"https://sigmoid.social/tags/deeplearning\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>deeplearning</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://sigmoid.social/@ducha_aiki",
-        "display_name": "Dmytro Mishkin \ud83c\uddfa\ud83c\udde6"
       }
     ]
   }
