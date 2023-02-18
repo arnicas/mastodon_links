@@ -1,5 +1,246 @@
 [
   {
+    "link": "https://github.com/ledell/phd-thesis",
+    "title": "GitHub - ledell/phd-thesis: My UC Berkeley Ph.D. dissertation.",
+    "latest": "2023-02-18T21:01:30+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@rladies_cologne/109885389859725355",
+      "content": "<p>We had a fantastic evening yesterday and learned so much from and with <span class=\"h-card\"><a href=\"https://mastodon.social/@ledell\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>ledell</span></a></span> \ud83e\udd13<br>We started with the fundamentals in autoML, went to the core principles of H2O\u2019s algorithm, and got insights into explainability and some newer kids on the block: {agua} and H2O Wave \ud83c\udf0a</p><p>If you missed the meeting and want to read upon it, here are some links on what we've learned:</p><p>\ud83d\ude80 Getting started with <a href=\"https://fosstodon.org/tags/autoML\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>autoML</span></a>: <a href=\"https://github.com/ledell/phd-thesis\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/ledell/phd-thesis</span><span class=\"invisible\"></span></a></p><p>\ud83d\ude80 More on <a href=\"https://fosstodon.org/tags/H2O\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>H2O</span></a>: <a href=\"https://www.automl.org/wp-content/uploads/2020/07/AutoML_2020_paper_61.pdf\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">automl.org/wp-content/uploads/</span><span class=\"invisible\">2020/07/AutoML_2020_paper_61.pdf</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@ledell",
+        "display_name": "Erin LeDell"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/amazon-research/",
+    "title": "amazon-research",
+    "latest": "2023-02-18T20:38:19+00:00",
+    "last_post": {
+      "url": "https://creative.ai/@arxiv_cl/109887664922943573",
+      "content": "<p>\ud83d\udcdd Conversation Style Transfer Using Few-Shot Learning \ud83d\udcda</p><p>\"Based on a sequence-to-sequence (S2S) model with multi-task training on two conversational style transfer tasks, where the input is a dialogue in the source style and the output is a dialogue in the target style.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/amazon-research/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/amazon-research/</span><span class=\"invisible\"></span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2302.08362v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2302.08362v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://creative.ai/@arxiv_cl",
+        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/RConsortium/OOP-WG",
+    "title": "GitHub - RConsortium/OOP-WG: Collaboration space for the Object-oriented Programming Working Group",
+    "latest": "2023-02-18T19:39:47+00:00",
+    "last_post": {
+      "url": "https://genomic.social/@multimeric/109885996251078324",
+      "content": "<p>This is exciting. The S7 aka R7 aka OOP-WG class system is submitting patches to R and is close to a release!</p><p>More info: <a href=\"https://stat.ethz.ch/pipermail/r-devel/2023-February/082352.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">stat.ethz.ch/pipermail/r-devel</span><span class=\"invisible\">/2023-February/082352.html</span></a> and <a href=\"https://github.com/RConsortium/OOP-WG\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/RConsortium/OOP-WG</span><span class=\"invisible\"></span></a></p><p><a href=\"https://genomic.social/tags/RStats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>RStats</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@hrbrmstr",
+        "display_name": "boB Rudis \ud83c\uddfa\ud83c\udde6"
+      },
+      {
+        "url": "https://fosstodon.org/@hadleywickham",
+        "display_name": "Hadley Wickham"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/xxxxxxxxy/memotion3-SEFusion",
+    "title": "GitHub - xxxxxxxxy/memotion3-SEFusion: The implementation of NUAA-QMUL-AIIT at Memotion 3: Multi-modal Fusion with Squeeze-and-Excitation for Internet Meme Emotion Analysis",
+    "latest": "2023-02-18T19:18:14+00:00",
+    "last_post": {
+      "url": "https://creative.ai/@arxiv_cl/109887350032990806",
+      "content": "<p>\ud83d\udcdd NUAA-QMUL-AIIT at Memotion 3: Multi-Modal Fusion with Squeeze-and-Excitation for Internet Meme Emotion Analysis \ud83d\udcda</p><p>\"Fuses the text, image, and emotion features using squeeze-and-excitation fusion (SEFusion), which learns a weight for each modality and then applies it to its own modality feature to perform multi-modal feature fusion for meme emotion analysis.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/xxxxxxxxy/memotion3-SEFusion\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/xxxxxxxxy/memotion3</span><span class=\"invisible\">-SEFusion</span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2302.08326v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2302.08326v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://creative.ai/@arxiv_cl",
+        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/manicmaniac/sips-js-api",
+    "title": "GitHub - manicmaniac/sips-js-api: An unofficial documentation of sips's JavaScript API.",
+    "latest": "2023-02-18T19:06:19+00:00",
+    "last_post": {
+      "url": "https://fedi.simonwillison.net/@simon/109887303164651601",
+      "content": "<p>As far as I can tell the only documentation on how to use the JavaScript API is this unofficial documentation here <a href=\"https://github.com/manicmaniac/sips-js-api\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/manicmaniac/sips-js</span><span class=\"invisible\">-api</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fedi.simonwillison.net/@simon",
+        "display_name": "Simon Willison"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/SURFnet/slurf",
+    "title": "GitHub - SURFnet/slurf: SimpleSAMLphp authproc for Mastodon/SAML integration",
+    "latest": "2023-02-18T18:40:22+00:00",
+    "last_post": {
+      "url": "https://social.edu.nl/@michielschok/109887099521249266",
+      "content": "<p><span class=\"h-card\"><a href=\"https://scholar.social/@SylviaFysica\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>SylviaFysica</span></a></span> <span class=\"h-card\"><a href=\"https://social.cwts.nl/@vtraag\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>vtraag</span></a></span> ICYMI We were so impressed with the SLURF-name we now use it at some places. We added SAML-login to Mastodon: <a href=\"https://github.com/SURFnet/slurf\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/SURFnet/slurf</span><span class=\"invisible\"></span></a> and our admins are at <span class=\"h-card\"><a href=\"https://social.edu.nl/@SLURF\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>SLURF</span></a></span> <a href=\"https://social.edu.nl/about\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">social.edu.nl/about</span><span class=\"invisible\"></span></a></p><p>Thanks!</p>"
+    },
+    "people": [
+      {
+        "url": "https://social.cwts.nl/@vtraag",
+        "display_name": "Vincent Traag"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/villares/Resources-for-teaching-programming",
+    "title": "github.com/villares/Resources-...",
+    "latest": "2023-02-18T18:30:46+00:00",
+    "last_post": {
+      "url": "https://ciberlandia.pt/@villares/109886362260088954",
+      "content": "<p><span class=\"h-card\"><a href=\"https://hci.social/@clatulip\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>clatulip</span></a></span> <span class=\"h-card\"><a href=\"https://hci.social/@jbigham\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>jbigham</span></a></span> cool!</p><p>For some reason (well because of my personal teaching history, from teaching Processing) I could never enjoy teaching turtle for adults.</p><p>See if you find other graphics vocabularies viable, my favorite currently is <a href=\"https://py5coding.org\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">py5coding.org</span><span class=\"invisible\"></span></a></p><p>And you could have a look at other stuff at <a href=\"https://github.com/villares/Resources-for-teaching-programming\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/villares/Resources-</span><span class=\"invisible\">for-teaching-programming</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://ciberlandia.pt/@villares",
+        "display_name": "Alexandre B A Villares \ud83d\udc0d"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/AdriMichelson/TidyCampaigns",
+    "title": "GitHub - AdriMichelson/TidyCampaigns: An Opinionated Quarto Book on being a Data Director in Democratic Politics",
+    "latest": "2023-02-18T18:19:09+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@adrienne/109887117686505238",
+      "content": "<p>If you want to watch my <a href=\"https://fosstodon.org/tags/tidycampaigns\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>tidycampaigns</span></a> book come to life with each set of chapters I write.<br> <a href=\"https://github.com/AdriMichelson/TidyCampaigns\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/AdriMichelson/TidyC</span><span class=\"invisible\">ampaigns</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://data-folks.masto.host/@healthstatsdude",
+        "display_name": "Tired Old Health Stats Dude"
+      },
+      {
+        "url": "https://fosstodon.org/@adrienne",
+        "display_name": "Adrienne  \ud83d\udcca"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/robinmoisson/staticrypt",
+    "title": "GitHub - robinmoisson/staticrypt: Password protect a static HTML page",
+    "latest": "2023-02-18T18:15:03+00:00",
+    "last_post": {
+      "url": "https://die-partei.social/@hackernews/109887101541913553",
+      "content": "<p>Password protect a static HTML page - <a href=\"https://github.com/robinmoisson/staticrypt\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/robinmoisson/static</span><span class=\"invisible\">rypt</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://die-partei.social/@hackernews",
+        "display_name": "Hackernews"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/chris-billingham/re-notion",
+    "title": "GitHub - chris-billingham/re-notion: A repo (and ultimately package) for interaction with the Notion API",
+    "latest": "2023-02-18T18:14:22+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@chrisbillingham/109887098886147206",
+      "content": "<p>I'm currently working on, what will probably end up, a package for interacting with, and extracting/creating data into Notion from R.</p><p>Follow along if you're curious: <a href=\"https://github.com/chris-billingham/re-notion\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/chris-billingham/re</span><span class=\"invisible\">-notion</span></a></p><p>An opportunity to learn `httr2` as well as the Notion API. The repo is currently a shit show but it's only a few hours old.<br><a href=\"https://fosstodon.org/tags/rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rstats</span></a> <a href=\"https://fosstodon.org/tags/notion\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>notion</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fosstodon.org/@nrennie",
+        "display_name": "Nicola Rennie"
+      },
+      {
+        "url": "https://mastodon.social/@hrbrmstr",
+        "display_name": "boB Rudis \ud83c\uddfa\ud83c\udde6"
+      },
+      {
+        "url": "https://fosstodon.org/@chrisbillingham",
+        "display_name": "Chris Billingham"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/roryrjb/node-gpt-repl",
+    "title": "GitHub - roryrjb/node-gpt-repl: A Node.js REPL with built-in GPT3 completion",
+    "latest": "2023-02-18T17:45:04+00:00",
+    "last_post": {
+      "url": "https://die-partei.social/@hackernews/109886983635242574",
+      "content": "<p>Show HN: Node.js REPL with GPT3 Completion - <a href=\"https://github.com/roryrjb/node-gpt-repl\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/roryrjb/node-gpt-re</span><span class=\"invisible\">pl</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://die-partei.social/@hackernews",
+        "display_name": "Hackernews"
+      }
+    ]
+  },
+  {
+    "link": "https://gist.github.com/gwenwindflower/0e563eb231954ea21b8a05b084130484",
+    "title": "Save and install VSCode extensions in dotfiles",
+    "latest": "2023-02-18T17:19:56+00:00",
+    "last_post": {
+      "url": "https://sunny.garden/@winnie/109886884844422168",
+      "content": "<p>since i mentioned some weirdness using Settings Sync with VSCode \u2014 wrote a Gist this morning to capture how I\u2019m saving and installing my extensions in my dotfiles repo \u2014 using an extensions.txt file. lmk if you see anything you\u2019d change! i\u2019m no expert with bash scripts.</p><p><a href=\"https://gist.github.com/gwenwindflower/0e563eb231954ea21b8a05b084130484\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gist.github.com/gwenwindflower</span><span class=\"invisible\">/0e563eb231954ea21b8a05b084130484</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sunny.garden/@winnie",
+        "display_name": "gwen windflower \ud83d\udcca\ud83e\udd37\ud83c\udffb\u200d\u2640\ud83d\udcc8"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/nrennie/PrettyCols",
+    "title": "GitHub - nrennie/PrettyCols: R package containing pretty colour palettes.",
+    "latest": "2023-02-18T17:16:39+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@nrennie/109886871910305904",
+      "content": "<p>A couple of sketchy generative art pieces today \ud83c\udfa8 </p><p>The {roughsf} package by <span class=\"h-card\"><a href=\"https://fosstodon.org/@schochastics\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>schochastics</span></a></span> is quickly becoming one of my favourite packages for generative art!</p><p>Colour palettes from {PrettyCols}: <a href=\"https://github.com/nrennie/PrettyCols\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/nrennie/PrettyCols</span><span class=\"invisible\"></span></a></p><p><a href=\"https://fosstodon.org/tags/RStats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>RStats</span></a> <a href=\"https://fosstodon.org/tags/GenArtClub\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>GenArtClub</span></a> <a href=\"https://fosstodon.org/tags/GenerativeArt\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>GenerativeArt</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fosstodon.org/@nrennie",
+        "display_name": "Nicola Rennie"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/thi-ng/umbrella/tree/develop/packages/zipper",
+    "title": "umbrella/packages/zipper at develop \u00b7 thi-ng/umbrella",
+    "latest": "2023-02-18T17:13:02+00:00",
+    "last_post": {
+      "url": "https://mastodon.thi.ng/@toxi/109886857676116596",
+      "content": "<p>Question for right-to-left language speakers/coders: I'm currently working on a parser and using a Zipper[1] to navigate the abstract syntax tree. In Zipper parlance \"left\" &amp; \"right\" are used to navigate to sibling nodes in the tree, with the latter (\"right\") referring to the logical \"next\" sibling (if the tree is traversed from beginning to end). It just occurred to me that this model is pretty much based on a western LTR language understanding and I'm wondering if that is actually very confusing to native RTL speakers. Is it?</p><p>[1] <a href=\"https://github.com/thi-ng/umbrella/tree/develop/packages/zipper\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/thi-ng/umbrella/tre</span><span class=\"invisible\">e/develop/packages/zipper</span></a></p><p>cc/ <span class=\"h-card\"><a href=\"https://merveilles.town/@nasser\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>nasser</span></a></span></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.thi.ng/@toxi",
+        "display_name": "Karsten Schmidt"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/paezha/genuary2023/tree/master/2022-01-31_Break-a-previous-image",
+    "title": "github.com/paezha/genuary2023/...",
+    "latest": "2023-02-18T17:12:35+00:00",
+    "last_post": {
+      "url": "https://mastodon.online/@paezha/109880425853872337",
+      "content": "<p>Still revisiting some of my <a href=\"https://mastodon.online/tags/genuary2023\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>genuary2023</span></a> creations, here are four tessellations with color palettes from package {PrettyCols} by <span class=\"h-card\"><a href=\"https://fosstodon.org/@nrennie\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>nrennie</span></a></span> </p><p><a href=\"https://nrennie.github.io/PrettyCols/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">nrennie.github.io/PrettyCols/</span><span class=\"invisible\"></span></a></p><p>Two \"Autumn\" mosaics, and two \"Winter\" are inspired by the Origami series of <span class=\"h-card\"><a href=\"https://fosstodon.org/@terence\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>terence</span></a></span> </p><p>Coded in <a href=\"https://mastodon.online/tags/Rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Rstats</span></a> using <a href=\"https://mastodon.online/tags/ggplot2\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ggplot2</span></a> and <a href=\"https://mastodon.online/tags/rayshader\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rayshader</span></a>. All code and more examples of outputs can be found in my repo:</p><p><a href=\"https://github.com/paezha/genuary2023/tree/master/2022-01-31_Break-a-previous-image\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/paezha/genuary2023/</span><span class=\"invisible\">tree/master/2022-01-31_Break-a-previous-image</span></a></p><p><a href=\"https://mastodon.online/tags/Rtistry\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Rtistry</span></a> <a href=\"https://mastodon.online/tags/CreativeCoding\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CreativeCoding</span></a> <a href=\"https://mastodon.online/tags/GenerativeArt\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>GenerativeArt</span></a> <a href=\"https://mastodon.online/tags/MastoArt\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>MastoArt</span></a> </p><p><span class=\"h-card\"><a href=\"https://fosstodon.org/@meghansharris\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>meghansharris</span></a></span> <span class=\"h-card\"><a href=\"https://mastodon.social/@jacquietran\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>jacquietran</span></a></span></p>"
+    },
+    "people": [
+      {
+        "url": "https://fosstodon.org/@nrennie",
+        "display_name": "Nicola Rennie"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/webmaster-exit-1/emulated-quantum-computing",
     "title": "GitHub - webmaster-exit-1/emulated-quantum-computing: emulated quantum computing",
     "latest": "2023-02-18T08:30:45+00:00",
@@ -71,21 +312,6 @@
       {
         "url": "https://sigmoid.social/@aran",
         "display_name": "Aran Komatsuzaki"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/RConsortium/OOP-WG",
-    "title": "GitHub - RConsortium/OOP-WG: Collaboration space for the Object-oriented Programming Working Group",
-    "latest": "2023-02-17T21:56:29+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@hrbrmstr/109882309936185977",
-      "content": "<p>R's S7 (formerly R7) new object-oriented paradigm is coming.</p><p>It's goal is to replace the lightweight and easy S3, and presently functional but slightly more complex S4 OOP systems with yet-another R OOP system that is intended to be the one encouraged for default use using moving forward.</p><p>You can start to learn how to use S7 here: <a href=\"https://github.com/RConsortium/OOP-WG\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/RConsortium/OOP-WG</span><span class=\"invisible\"></span></a></p><p>The working group is asking R Core for language changes (&amp; providing patches) to enable better language integration.</p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@hrbrmstr",
-        "display_name": "boB Rudis \ud83c\uddfa\ud83c\udde6"
       }
     ]
   },
@@ -2986,220 +3212,6 @@
       {
         "url": "https://mastodon.social/@dougholton",
         "display_name": "Doug Holton"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/jongwooko/CR-ILD",
-    "title": "GitHub - jongwooko/CR-ILD: Code for the paper \"Revisiting Intermediate Layer Distillation for Compressing Language Models: An Overfitting Perspective\" (Findings of EACL 2023)",
-    "latest": "2023-02-08T06:35:23+00:00",
-    "last_post": {
-      "url": "https://creative.ai/@arxiv_cl/109827727250589521",
-      "content": "<p>\ud83d\udcdd Revisiting Intermediate Layer Distillation for Compressing Language Models: An Overfitting Perspective \ud83d\udcda\ud83d\udc7e\ud83e\udde0</p><p>\"Consistency-regularized ILD prevents the student model from overfitting to the training dataset, and it transfers more information than the original KD while maintaining high performance efficiency compared to other KD approaches.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a> <a href=\"https://creative.ai/tags/AI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AI</span></a> <a href=\"https://creative.ai/tags/LG\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>LG</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/jongwooko/CR-ILD\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/jongwooko/CR-ILD</span><span class=\"invisible\"></span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2302.01530v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2302.01530v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://creative.ai/@arxiv_cl",
-        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/rkusa/sqlite-vfs",
-    "title": "GitHub - rkusa/sqlite-vfs: Build SQLite virtual file systems (VFS) by implementing a simple Rust trait.",
-    "latest": "2023-02-08T06:20:50+00:00",
-    "last_post": {
-      "url": "https://hacky.town/@rtyler/109827670036028142",
-      "content": "<p>help what am i doing stop</p><p><a href=\"https://github.com/rkusa/sqlite-vfs\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/rkusa/sqlite-vfs</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://hacky.town/@rtyler",
-        "display_name": "R Tyler Croy \ud83e\udd80"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/uktrade/sqlite-s3vfs",
-    "title": "GitHub - uktrade/sqlite-s3vfs: Python writable virtual filesystem for SQLite on S3",
-    "latest": "2023-02-08T06:11:43+00:00",
-    "last_post": {
-      "url": "https://hacky.town/@rtyler/109827634214335892",
-      "content": "<p>I took a wrong turn somewhere today and now I'm pondering ways to use SQLite on S3 for bad ideas.</p><p><a href=\"https://github.com/uktrade/sqlite-s3vfs\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/uktrade/sqlite-s3vf</span><span class=\"invisible\">s</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://hacky.town/@rtyler",
-        "display_name": "R Tyler Croy \ud83e\udd80"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/yonicd/covr",
-    "title": "https://github.com/yonicd/covr",
-    "latest": "2023-02-08T05:53:11+00:00",
-    "last_post": {
-      "url": "https://aus.social/@njtierney/109827341244301636",
-      "content": "<p>Alrighty I feel like I've run into this <a href=\"https://aus.social/tags/rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rstats</span></a> <a href=\"https://aus.social/tags/unittesting\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>unittesting</span></a> issue many times, and each time I get confused.</p><p>In testthat - I want to be able to keep a log of the tests somewhere so I can look at date/timestamped tests.</p><p>I remember that there's something about special \"Reporter\" classes or something, but I don't really know what that means, and I can't seem to find examples on the testthat documentation. I could definitely be missing something here - if anyone knows were to look, I'm all ears.</p><p>My question is:</p><p>How do I save the text output from `testthat::test()`?</p><p>I seem to recall that there's some testthat option, but I can't seem to find it here: <a href=\"https://testthat.r-lib.org/reference/index.html#reporters\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">testthat.r-lib.org/reference/i</span><span class=\"invisible\">ndex.html#reporters</span></a> </p><p>I also can't seem to find much info about Reporters here? <a href=\"https://testthat.r-lib.org/reference/MinimalReporter.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">testthat.r-lib.org/reference/M</span><span class=\"invisible\">inimalReporter.html</span></a> I see that they are mentioned in NEWS: <a href=\"https://testthat.r-lib.org/news/index.html?q=reporter#reporters-1-0-0\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">testthat.r-lib.org/news/index.</span><span class=\"invisible\">html?q=reporter#reporters-1-0-0</span></a></p><p>Anywho, my usecase is this:</p><p>My tests sometimes 15-20 minutes. I want to check that I'm getting consistent testing behaviour, but after tinkering and fixing, I can't see what the original test failures were. So I need to run them again, and that takes time.</p><p>Yes, I can check GH actions tests, but sometimes those aren't accurate for GH related reasons.</p><p>Has anyone got some thoughts on this?</p><p>I should also note that <span class=\"h-card\"><a href=\"https://fosstodon.org/@yoni_cd\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>yoni_cd</span></a></span> 's <a href=\"https://github.com/yonicd/covr\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/yonicd/covr</span><span class=\"invisible\"></span></a> package does nearly everything I want, however I have run into some minor issues to do with my pkg that break things.</p>"
-    },
-    "people": [
-      {
-        "url": "https://fosstodon.org/@brodriguesco",
-        "display_name": "brodriguesco :rstats: :tux:"
-      },
-      {
-        "url": "https://mas.to/@dpprdan",
-        "display_name": "Daniel Possenriede"
-      }
-    ]
-  },
-  {
-    "link": "https://gist.github.com/jvns/8aad14b043c5339053887ede87de9d23",
-    "title": "print_meanings.py",
-    "latest": "2023-02-07T21:20:50+00:00",
-    "last_post": {
-      "url": "https://social.jvns.ca/@b0rk/109825111788424676",
-      "content": "<p>Here's the Python script I used to generate most of the decoded versions of \"computer\" in the previous post! </p><p>Python is my favourite way to decode binary data.</p><p><a href=\"https://gist.github.com/jvns/8aad14b043c5339053887ede87de9d23\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gist.github.com/jvns/8aad14b04</span><span class=\"invisible\">3c5339053887ede87de9d23</span></a></p><p>Also I used this online x86 disassembler: <a href=\"https://defuse.ca/online-x86-assembler.htm\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">defuse.ca/online-x86-assembler</span><span class=\"invisible\">.htm</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://ciberlandia.pt/@villares",
-        "display_name": "Alexandre B A Villares \ud83d\udc0d"
-      }
-    ]
-  },
-  {
-    "link": "https://gitlab.com/Eidonko/veemadge",
-    "title": "https://gitlab.com/Eidonko/veemadge",
-    "latest": "2023-02-07T20:16:40+00:00",
-    "last_post": {
-      "url": "https://raru.re/@Eidon/109825232941327022",
-      "content": "<p>What is the greatest unknown, if not the universe itself? It seemed natural, therefore, to chose an image of the universe as the source for the new video of \"Unknow\", a piece for piano, bass, contrabass, electronic drums, and oud, dedicated to the homonym character by Magnus (Roberto Raviola). You can freely download the song in lossless format from <a href=\"https://eidon.bandcamp.com/track/unknow\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">eidon.bandcamp.com/track/unkno</span><span class=\"invisible\">w</span></a></p><p>\"Unknow\" is one of my \"imaginary soundtracks\" -- soundtracks for movies, or cartoons, which actually... do not exist (yet). Here I try to represent the strain of a life in perennial flight from the perils of the present and the horror of the past. The \"fugato\" in the piece corresponds to this flight -- this fugue state, if you allow me the pun.</p><p>If you like this piece, follow me on Bandcamp: <a href=\"https://eidon.bandcamp.com/follow_me\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">eidon.bandcamp.com/follow_me</span><span class=\"invisible\"></span></a> on youtube: <a href=\"https://www.youtube.com/channel/UCZ0UIBDZEYlvn8thxv3aOxw\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">youtube.com/channel/UCZ0UIBDZE</span><span class=\"invisible\">Ylvn8thxv3aOxw</span></a>, and FB, <a href=\"https://www.facebook.com/EidonVeda\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">facebook.com/EidonVeda</span><span class=\"invisible\"></span></a>.</p><p>Video is a zoom out of \"Tapestry of Blazing Starbirth\" (<a href=\"https://esahubble.org/images/heic2007a/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">esahubble.org/images/heic2007a</span><span class=\"invisible\">/</span></a>), a NASA/ESA/Hubble picture. Credit: NASA, ESA, and STScI. License: <a href=\"https://creativecommons.org/licenses/by/4.0/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">creativecommons.org/licenses/b</span><span class=\"invisible\">y/4.0/</span></a><br>The video consists of portions of the original image, scaled down to a frame size of 900x618 pixels.</p><p>The video was created with veemadge (<a href=\"https://gitlab.com/Eidonko/veemadge\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">gitlab.com/Eidonko/veemadge</span><span class=\"invisible\"></span></a>). It can be watche also on <a href=\"https://raru.re/tags/youtube\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>youtube</span></a>: <a href=\"https://youtu.be/Bq0nEhlJoME\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">youtu.be/Bq0nEhlJoME</span><span class=\"invisible\"></span></a>.</p><p>The music is by and (c) Eidon (Eidon at tutanota.com, Eidon.Songs at gmail.com). All rights reserved.</p>"
-    },
-    "people": [
-      {
-        "url": "https://eldritch.cafe/@enkiv2",
-        "display_name": "\ud808\udc2d\ud808\udc97\ud808\udda0"
-      }
-    ]
-  },
-  {
-    "link": "https://gist.github.com/cararthompson/d539190ee62a2bd102039c045125af0b",
-    "title": "Turning #rstats tweetorials into quarto blog posts",
-    "latest": "2023-02-07T09:53:54+00:00",
-    "last_post": {
-      "url": "https://fosstodon.org/@cararthompson/109822711677214480",
-      "content": "<p>Written a bunch of tweetorials and threads and never took the time to turn them into blog posts? \ud83d\udcdd </p><p>Here's the <a href=\"https://fosstodon.org/tags/rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rstats</span></a> code I wrote to turn all of mine into <a href=\"https://fosstodon.org/tags/quartoPub\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>quartoPub</span></a> blog posts - images, alt text, code snippets, mentions and all.</p><p>Feel free to reuse! This may only work for the next few days, depending on what happens to API access on Twitter this week! \ud83d\udc26 </p><p><a href=\"https://gist.github.com/cararthompson/d539190ee62a2bd102039c045125af0b\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gist.github.com/cararthompson/</span><span class=\"invisible\">d539190ee62a2bd102039c045125af0b</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@maelle",
-        "display_name": "Ma\u00eblle Salmon"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/riatelab/maptiles",
-    "title": "https://github.com/riatelab/maptiles",
-    "latest": "2023-02-07T09:39:36+00:00",
-    "last_post": {
-      "url": "https://fosstodon.org/@rcarto/109721667943496081",
-      "content": "<p>New version of {cartography} :rstats: package. </p><p>Blog post here:<br><a href=\"https://rcarto.github.io/posts/cartography_v3.1.3/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">rcarto.github.io/posts/cartogr</span><span class=\"invisible\">aphy_v3.1.3/</span></a></p><p>This release has been triggered by the upcoming retirement of {rgeos} and {rgdal} (see <a href=\"https://r-spatial.org/r/2022/04/12/evolution.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">r-spatial.org/r/2022/04/12/evo</span><span class=\"invisible\">lution.html</span></a>). </p><p>Key message for {cartography} users:<br>1. Switch from {cartography} to {mapsf} if possible =&gt; <a href=\"https://riatelab.github.io/mapsf\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">riatelab.github.io/mapsf</span><span class=\"invisible\"></span></a><br>2. Use {maptiles} instead of getTiles() =&gt; <a href=\"https://github.com/riatelab/maptiles\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/riatelab/maptiles</span><span class=\"invisible\"></span></a><br>3. Use {potential} instead of smoothLayer() =&gt; <a href=\"https://riatelab.github.io/potential\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">riatelab.github.io/potential</span><span class=\"invisible\"></span></a></p><p><a href=\"https://fosstodon.org/tags/rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rstats</span></a> <a href=\"https://fosstodon.org/tags/rspatial\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rspatial</span></a> <a href=\"https://fosstodon.org/tags/gischat\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>gischat</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://fosstodon.org/@mdsumner",
-        "display_name": "mdsumner"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/ianjonsen/foieGras.paper/tree/main/SI",
-    "title": "github.com/ianjonsen/foieGras....",
-    "latest": "2023-02-07T09:37:21+00:00",
-    "last_post": {
-      "url": "https://mastodon.online/@ijonsen/109784120771995462",
-      "content": "<p>For those using {aniMotum} - the R \ud83d\udce6formerly known as {foieGras} - here's a new paper where we outline its main features and provide example applications. </p><p><a href=\"https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.14060\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">besjournals.onlinelibrary.wile</span><span class=\"invisible\">y.com/doi/10.1111/2041-210X.14060</span></a></p><p>Full R code for the applications is available in supplementary files and on GitHub - </p><p><a href=\"https://github.com/ianjonsen/foieGras.paper/tree/main/SI\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/ianjonsen/foieGras.</span><span class=\"invisible\">paper/tree/main/SI</span></a></p><p>Data are available on Dryad - </p><p><a href=\"https://doi.org/10.5061/dryad.qz612jmjw\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">doi.org/10.5061/dryad.qz612jmj</span><span class=\"invisible\">w</span></a></p><p><a href=\"https://mastodon.online/tags/rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rstats</span></a> <a href=\"https://mastodon.online/tags/rspatial\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rspatial</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://fosstodon.org/@mdsumner",
-        "display_name": "mdsumner"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/r-spatial/discuss/issues/56#issuecomment-1416780597",
-    "title": "Remote sensing in R \u00b7 Issue #56 \u00b7 r-spatial/discuss",
-    "latest": "2023-02-07T09:33:27+00:00",
-    "last_post": {
-      "url": "https://fosstodon.org/@krzysztof_dyba/109807775572864658",
-      "content": "<p>Interesting and comprehensive comment from Gilberto Camara about the current state of remote sensing in R and the comparison with Python:<br><a href=\"https://github.com/r-spatial/discuss/issues/56#issuecomment-1416780597\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/r-spatial/discuss/i</span><span class=\"invisible\">ssues/56#issuecomment-1416780597</span></a></p><p><a href=\"https://fosstodon.org/tags/rspatial\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rspatial</span></a> <a href=\"https://fosstodon.org/tags/gischat\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>gischat</span></a> <a href=\"https://fosstodon.org/tags/remotesensing\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>remotesensing</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://fosstodon.org/@mdsumner",
-        "display_name": "mdsumner"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/indeedeng/iwf",
-    "title": "GitHub - indeedeng/iwf: iWF is a platform providing all-in-one tooling for building long-running business application. It provides an  abstraction for persistence(database, elasticSearch) and more, with clean, simple and easy to use interface.",
-    "latest": "2023-02-07T08:45:02+00:00",
-    "last_post": {
-      "url": "https://die-partei.social/@hackernews/109822574776465997",
-      "content": "<p>Show HN: iWF \u2013 A new \u201cworkflow as code\u201d execution engine - <a href=\"https://github.com/indeedeng/iwf\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/indeedeng/iwf</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://die-partei.social/@hackernews",
-        "display_name": "Hackernews"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/ONSvisual/svelte-charts",
-    "title": "GitHub - ONSvisual/svelte-charts: Reusable chart templates for Svelte projects.",
-    "latest": "2023-02-07T08:38:10+00:00",
-    "last_post": {
-      "url": "https://vis.social/@mikebrondbjerg/109822547746183570",
-      "content": "<p><span class=\"h-card\"><a href=\"https://vis.social/@bothness\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>bothness</span></a></span> hey Ahmad! Just come across your svelte charts repo: <a href=\"https://github.com/ONSvisual/svelte-charts\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/ONSvisual/svelte-ch</span><span class=\"invisible\">arts</span></a> . I thihnk we might be going down a similar route here. Do you have a repo somewhere, where you are importing and implementing the charts... Interested to see the entire lifecylce from writing, to compiling, to implementation in an application! Cheers!</p>"
-    },
-    "people": [
-      {
-        "url": "https://vis.social/@mikebrondbjerg",
-        "display_name": "Mike Brondbjerg"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/agusdmb/autofake",
-    "title": "GitHub - agusdmb/autofake",
-    "latest": "2023-02-07T08:30:06+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@python_discussions/109822515995903751",
-      "content": "<p>AutoFake for Python</p><p><a href=\"https://github.com/agusdmb/autofake\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/agusdmb/autofake</span><span class=\"invisible\"></span></a></p><p>Discussions: <a href=\"https://discu.eu/q/https://github.com/agusdmb/autofake\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">discu.eu/q/https://github.com/</span><span class=\"invisible\">agusdmb/autofake</span></a></p><p><a href=\"https://mastodon.social/tags/programming\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>programming</span></a> <a href=\"https://mastodon.social/tags/python\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>python</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@python_discussions",
-        "display_name": "Python Weekly"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/deepmind/pycolab",
-    "title": "GitHub - deepmind/pycolab: A highly-customisable gridworld game engine with some batteries included. Make your own gridworld games to test reinforcement learning agents!",
-    "latest": "2023-02-07T06:24:06+00:00",
-    "last_post": {
-      "url": "https://creative.ai/@arxiv_cl/109822020610667529",
-      "content": "<p>\ud83d\udcdd Collaborating with Language Models for Embodied Reasoning \ud83e\udde0\ud83d\udc7e\ud83d\udcda</p><p>\"The planner is a large-scale language model (e,g, GPT-3) that can issue commands to an embodied agent (e,g, a TurtleBot) that is placed in the environment, which then performs the actions in the command.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/LG\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>LG</span></a> <a href=\"https://creative.ai/tags/AI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AI</span></a> <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/deepmind/pycolab\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/deepmind/pycolab</span><span class=\"invisible\"></span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2302.00763v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2302.00763v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://creative.ai/@arxiv_cl",
-        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
       }
     ]
   }
