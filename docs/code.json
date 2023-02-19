@@ -1,5 +1,201 @@
 [
   {
+    "link": "https://github.com/robinmoisson/staticrypt",
+    "title": "GitHub - robinmoisson/staticrypt: Password protect a static HTML page",
+    "latest": "2023-02-19T09:21:34+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@Edent/109890602671189314",
+      "content": "<p>I recently saw a way to password protect a statically served page - <a href=\"https://github.com/robinmoisson/staticrypt\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/robinmoisson/static</span><span class=\"invisible\">rypt</span></a></p><p>It's quite neat! But it does rely on Javascript. So I wondered if there was a way to encrypt a static page only using CSS.</p><p>And... I think I've done it!</p><p>A small thread follows....</p>"
+    },
+    "people": [
+      {
+        "url": "https://die-partei.social/@hackernews",
+        "display_name": "Hackernews"
+      },
+      {
+        "url": "https://mastodon.scot/@accudio",
+        "display_name": "Alistair Shepherd"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/kud/soap",
+    "title": "GitHub - kud/soap: An app cleaner cli for macOS",
+    "latest": "2023-02-19T08:08:55+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@kud/109607884966976540",
+      "content": "<p>Because I don't like GUI to uninstall completely my apps on macOS, and I also want it open source, I've created a command to remove apps or casks on your computer.</p><p><a href=\"https://github.com/kud/soap\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/kud/soap</span><span class=\"invisible\"></span></a></p><p>Feel free to give me some feedbacks.</p><p><a href=\"https://fosstodon.org/tags/cli\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>cli</span></a> <a href=\"https://fosstodon.org/tags/macos\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>macos</span></a> <a href=\"https://fosstodon.org/tags/appcleaner\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>appcleaner</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://hachyderm.io/@bobylito",
+        "display_name": "Alex is bobylito"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/Overv/vramfs",
+    "title": "GitHub - Overv/vramfs: VRAM based file system for Linux",
+    "latest": "2023-02-19T07:35:02+00:00",
+    "last_post": {
+      "url": "https://die-partei.social/@hackernews/109890247247541701",
+      "content": "<p>vramfs \u2013 GPU VRAM based file system for Linux - <a href=\"https://github.com/Overv/vramfs\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/Overv/vramfs</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://die-partei.social/@hackernews",
+        "display_name": "Hackernews"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/niansong1996/lever",
+    "title": "GitHub - niansong1996/lever: Code for paper \"LEVER: Learning to Verifiy Language-to-Code Generation with Execution\" (To Sync)",
+    "latest": "2023-02-19T07:18:17+00:00",
+    "last_post": {
+      "url": "https://creative.ai/@arxiv_cl/109890181394514710",
+      "content": "<p>\ud83d\udcdd LEVER: Learning to Verify Language-to-Code Generation with Execution \ud83e\udde0\ud83d\udcda</p><p>\"Trains verifiers to determine whether a program sampled from the CodeLM is correct or not based on the natural language input, the program itself and its execution results.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/LG\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>LG</span></a> <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a> <a href=\"https://creative.ai/tags/PL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>PL</span></a> <a href=\"https://creative.ai/tags/SE\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>SE</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/niansong1996/lever\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/niansong1996/lever</span><span class=\"invisible\"></span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2302.08468v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2302.08468v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://creative.ai/@arxiv_cl",
+        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/fmrico/mh_amcl",
+    "title": "https://github.com/fmrico/mh_amcl",
+    "latest": "2023-02-19T05:27:56+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@fmrico/109703702313564482",
+      "content": "<p>Our paper has been accepted at <a href=\"https://mastodon.social/tags/ICRA2023\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ICRA2023</span></a> \ud83e\udd73\ud83c\udf7e</p><p>London, here we go!! @jm__guerrero<br><a href=\"https://mastodon.social/tags/AlbertoGarcia\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AlbertoGarcia</span></a> @FranciscoLera @vmatellan </p><p>@IntellRobotLabs<br>@RoboticaUnileon @URJCcientifica</p><p>Paper: <a href=\"https://arxiv.org/abs/2209.07586\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2209.07586</span><span class=\"invisible\"></span></a><br>Code (<a href=\"https://mastodon.social/tags/ROS2\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ROS2</span></a>/#Nav2): <a href=\"https://github.com/fmrico/mh_amcl\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/fmrico/mh_amcl</span><span class=\"invisible\"></span></a><br>Video: <a href=\"https://youtu.be/LnmQ11Ew01g\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">youtu.be/LnmQ11Ew01g</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://creative.ai/@arxiv",
+        "display_name": "arXiv Highlights AI/ML \ud83d\udcdd\ud83e\udd16"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/skit-ai/Map-Mix",
+    "title": "GitHub - skit-ai/Map-Mix: The official implementation of the method discussed in the paper Improving Spoken Language Identification with Map-Mix(work submitted at ICASSP-2023)",
+    "latest": "2023-02-19T04:58:18+00:00",
+    "last_post": {
+      "url": "https://creative.ai/@arxiv_cl/109889630895038053",
+      "content": "<p>\ud83d\udcdd Improving Spoken Language Identification with Map-Mix \ud83e\udde0\ud83d\udcda</p><p>\"Presents Map-Mix, a datamaps-based mixup technique, which improves weighted F1 scores by 2% compared to the random mixup baseline, and results in a significantly well-calibrated model.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/LG\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>LG</span></a> <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/skit-ai/Map-Mix\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/skit-ai/Map-Mix</span><span class=\"invisible\"></span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2302.08229v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2302.08229v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://creative.ai/@arxiv_cl",
+        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/sts10/qr-forge",
+    "title": "GitHub - sts10/qr-forge: Safely transform between 32-character TOTP secret keys and their QR codes",
+    "latest": "2023-02-19T04:03:00+00:00",
+    "last_post": {
+      "url": "https://hachyderm.io/@schlink/109889413475700051",
+      "content": "<p>Also speaking of 2-factor authentication and TOTP apps/codes...</p><p>If, in the 2-factor process, you've got a QR code and want to convert to the 32-character **text** of the secret key, you might try my command line tool QR Forge </p><p><a href=\"https://github.com/sts10/qr-forge\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/sts10/qr-forge</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://hachyderm.io/@schlink",
+        "display_name": "Sam Schlinkert"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/curl/curl/issues/10551",
+    "title": "Unable to use curl 7.87 for SSL connections on Windows 10 Pro \u00b7 Issue #10551 \u00b7 curl/curl",
+    "latest": "2023-02-19T04:00:21+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@bagder/109880784239388087",
+      "content": "<p>user reports curl doesn't work on his system, gets annoying cert error</p><p>turns out user is indeed getting MITMed so the check worked exactly as intended</p><p><a href=\"https://github.com/curl/curl/issues/10551\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/curl/curl/issues/10</span><span class=\"invisible\">551</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://infosec.exchange/@micahflee",
+        "display_name": "Micah Lee"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/soywod/himalaya/releases/tag/v0.7.0",
+    "title": "Release v0.7.0 \u00b7 soywod/himalaya",
+    "latest": "2023-02-19T03:50:31+00:00",
+    "last_post": {
+      "url": "https://hachyderm.io/@schlink/109889364408542924",
+      "content": "<p>Does anyone use Himalaya, a command-line interface for email management written in Rust? </p><p>New release out now: <a href=\"https://github.com/soywod/himalaya/releases/tag/v0.7.0\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/soywod/himalaya/rel</span><span class=\"invisible\">eases/tag/v0.7.0</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://hachyderm.io/@schlink",
+        "display_name": "Sam Schlinkert"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/duckdb/duckdb/issues/2836#issuecomment-1432226962",
+    "title": "Add basic support for GeoSpatial type \u00b7 Issue #2836 \u00b7 duckdb/duckdb",
+    "latest": "2023-02-19T02:15:24+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@EvenRouault/109887062081111154",
+      "content": "<p>Looks like a GDAL based DuckDB extension is in the works: <a href=\"https://github.com/duckdb/duckdb/issues/2836#issuecomment-1432226962\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/duckdb/duckdb/issue</span><span class=\"invisible\">s/2836#issuecomment-1432226962</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fosstodon.org/@mdsumner",
+        "display_name": "mdsumner"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/heartcombo/devise/issues/5527",
+    "title": "Passkeys support \u00b7 Issue #5527 \u00b7 heartcombo/devise",
+    "latest": "2023-02-19T00:44:29+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@mglenn/109878260492899658",
+      "content": "<p><span class=\"h-card\"><a href=\"https://hachyderm.io/@rmondello\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>rmondello</span></a></span> Mastodon has the Devise gem listed in its Gemfile so without diving into Mastodon auth code I assume that's how they're doing authentication since it's fairly standard for Rails apps. A quick search and I found a Devise discussion on the implementation of passkeys. </p><p>There was an update from the developer trying to build in this feature 4 days ago. They're looking for someone with more knowledge of passkeys to take a look at the code so far. </p><p><a href=\"https://github.com/heartcombo/devise/issues/5527\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/heartcombo/devise/i</span><span class=\"invisible\">ssues/5527</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://indieweb.social/@tchambers",
+        "display_name": "Tim Chambers"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/RConsortium/OOP-WG",
+    "title": "GitHub - RConsortium/OOP-WG: Collaboration space for the Object-oriented Programming Working Group",
+    "latest": "2023-02-19T00:39:05+00:00",
+    "last_post": {
+      "url": "https://genomic.social/@multimeric/109885996251078324",
+      "content": "<p>This is exciting. The S7 aka R7 aka OOP-WG class system is submitting patches to R and is close to a release!</p><p>More info: <a href=\"https://stat.ethz.ch/pipermail/r-devel/2023-February/082352.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">stat.ethz.ch/pipermail/r-devel</span><span class=\"invisible\">/2023-February/082352.html</span></a> and <a href=\"https://github.com/RConsortium/OOP-WG\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/RConsortium/OOP-WG</span><span class=\"invisible\"></span></a></p><p><a href=\"https://genomic.social/tags/RStats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>RStats</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@hrbrmstr",
+        "display_name": "boB Rudis \ud83c\uddfa\ud83c\udde6"
+      },
+      {
+        "url": "https://fosstodon.org/@hadleywickham",
+        "display_name": "Hadley Wickham"
+      },
+      {
+        "url": "https://mastodon.tjpalanca.com/@tjpalanca",
+        "display_name": "TJ Palanca"
+      },
+      {
+        "url": "https://fosstodon.org/@andyteucher",
+        "display_name": "Andy Teucher"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/ledell/phd-thesis",
     "title": "GitHub - ledell/phd-thesis: My UC Berkeley Ph.D. dissertation.",
     "latest": "2023-02-18T21:01:30+00:00",
@@ -26,25 +222,6 @@
       {
         "url": "https://creative.ai/@arxiv_cl",
         "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/RConsortium/OOP-WG",
-    "title": "GitHub - RConsortium/OOP-WG: Collaboration space for the Object-oriented Programming Working Group",
-    "latest": "2023-02-18T19:39:47+00:00",
-    "last_post": {
-      "url": "https://genomic.social/@multimeric/109885996251078324",
-      "content": "<p>This is exciting. The S7 aka R7 aka OOP-WG class system is submitting patches to R and is close to a release!</p><p>More info: <a href=\"https://stat.ethz.ch/pipermail/r-devel/2023-February/082352.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">stat.ethz.ch/pipermail/r-devel</span><span class=\"invisible\">/2023-February/082352.html</span></a> and <a href=\"https://github.com/RConsortium/OOP-WG\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/RConsortium/OOP-WG</span><span class=\"invisible\"></span></a></p><p><a href=\"https://genomic.social/tags/RStats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>RStats</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@hrbrmstr",
-        "display_name": "boB Rudis \ud83c\uddfa\ud83c\udde6"
-      },
-      {
-        "url": "https://fosstodon.org/@hadleywickham",
-        "display_name": "Hadley Wickham"
       }
     ]
   },
@@ -124,21 +301,6 @@
       {
         "url": "https://fosstodon.org/@adrienne",
         "display_name": "Adrienne  \ud83d\udcca"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/robinmoisson/staticrypt",
-    "title": "GitHub - robinmoisson/staticrypt: Password protect a static HTML page",
-    "latest": "2023-02-18T18:15:03+00:00",
-    "last_post": {
-      "url": "https://die-partei.social/@hackernews/109887101541913553",
-      "content": "<p>Password protect a static HTML page - <a href=\"https://github.com/robinmoisson/staticrypt\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/robinmoisson/static</span><span class=\"invisible\">rypt</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://die-partei.social/@hackernews",
-        "display_name": "Hackernews"
       }
     ]
   },
@@ -3046,172 +3208,6 @@
       {
         "url": "https://creative.ai/@arxiv_cl",
         "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/OpenRefine/OpenRefine/wiki/GSoC-Outreachy-2023-Ideas",
-    "title": "github.com/OpenRefine/OpenRefi...",
-    "latest": "2023-02-09T07:16:45+00:00",
-    "last_post": {
-      "url": "https://mamot.fr/@pintoch/109833552241290466",
-      "content": "<p><a href=\"https://mamot.fr/tags/OpenRefine\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>OpenRefine</span></a> will offer paid 3 month internship(s) via <a href=\"https://mamot.fr/tags/Outreachy\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Outreachy</span></a> this summer again. Sign up to the programme on <a href=\"https://outreachy.org\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">outreachy.org</span><span class=\"invisible\"></span></a> to work with us on exciting new features! Examples of projects you could work on:&nbsp;<a href=\"https://github.com/OpenRefine/OpenRefine/wiki/GSoC-Outreachy-2023-Ideas\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/OpenRefine/OpenRefi</span><span class=\"invisible\">ne/wiki/GSoC-Outreachy-2023-Ideas</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mamot.fr/@pintoch",
-        "display_name": "Antonin Delpeuch"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/benmarwick/rrtools",
-    "title": "GitHub - benmarwick/rrtools: rrtools: Tools for Writing Reproducible Research in R",
-    "latest": "2023-02-09T07:12:55+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@benmarwick/109833185305609093",
-      "content": "<p>I further recommend organsing your research into a compendium, with a Quarto document at the heart of it. </p><p>The rrtools package makes it very easy to create a research compendium, with lots of sensible defaults and best practices built-in: <a href=\"https://github.com/benmarwick/rrtools\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/benmarwick/rrtools</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://scicomm.xyz/@leouieda",
-        "display_name": "Dr Leonardo Uieda"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/sethaxen/StanLogDensityProblems.jl",
-    "title": "GitHub - sethaxen/StanLogDensityProblems.jl: LogDensityProblems implementation for Stan models",
-    "latest": "2023-02-09T06:45:06+00:00",
-    "last_post": {
-      "url": "https://bayes.club/@sethaxen/109825048371182897",
-      "content": "<p>\ud83d\udea8 New <a href=\"https://bayes.club/tags/JuliaLang\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>JuliaLang</span></a> package! StanLogDensityProblems.jl is a really basic package that implements the LogDensityProblems.jl interface for <span class=\"h-card\"><a href=\"https://bayes.club/@mcmc_stan\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>mcmc_stan</span></a></span> models, built on BridgeStan.jl. It also integrates with PosteriorDB.jl, which makes it really easy to benchmark a new inference method against a large number of models. <a href=\"https://bayes.club/tags/ProbProg\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ProbProg</span></a> <a href=\"https://bayes.club/tags/MCMCStan\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>MCMCStan</span></a></p><p><a href=\"https://github.com/sethaxen/StanLogDensityProblems.jl\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/sethaxen/StanLogDen</span><span class=\"invisible\">sityProblems.jl</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@JoranJongerling",
-        "display_name": "Joran"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/smallsco/macstodon",
-    "title": "GitHub - smallsco/macstodon: A basic Mastodon client for Classic Mac OS",
-    "latest": "2023-02-08T21:54:33+00:00",
-    "last_post": {
-      "url": "https://techhub.social/@provuejim/109804154776708717",
-      "content": "<p>If your dreams involve using Mastodon on MacOS 7.1 thru 9.2, your ship has come in! <a href=\"https://github.com/smallsco/macstodon\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/smallsco/macstodon</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://wandering.shop/@cstross",
-        "display_name": "Charlie Stross"
-      },
-      {
-        "url": "https://ottawa.place/@leigh",
-        "display_name": "Leigh Honeywell"
-      },
-      {
-        "url": "https://tenforward.social/@huertanix",
-        "display_name": "huertanix"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/ecielyang/Smallest_set",
-    "title": "GitHub - ecielyang/Smallest_set: Official implementation for the paper \" How Many and Which Training Points Would Need to be Removed to Flip this Prediction?\"",
-    "latest": "2023-02-08T21:31:10+00:00",
-    "last_post": {
-      "url": "https://creative.ai/@arxiv_cl/109831249621006594",
-      "content": "<p>\ud83d\udcdd How Many and Which Training Points Would Need to Be Removed to Flip This Prediction? \ud83e\udde0\ud83d\udc7e\ud83d\udcda</p><p>\"Considers the problem of identifying a minimal subset of training data such that if these instances had been removed prior to training, the categorization of a given test point would have been different.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/LG\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>LG</span></a> <a href=\"https://creative.ai/tags/AI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AI</span></a> <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/ecielyang/Smallest_set\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/ecielyang/Smallest_</span><span class=\"invisible\">set</span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2302.02169v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2302.02169v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://creative.ai/@arxiv_cl",
-        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/samim23/polymath",
-    "title": "GitHub - samim23/polymath: Convert any music library into a music production sample-library with ML",
-    "latest": "2023-02-08T21:12:38+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@samim/109823908002985709",
-      "content": "<p>Introducing Polymath: The open-source tool that converts any music-library into a sample-library with machine learning. It separates songs into stems, quantizes to same BPM, detects key and much more. A game-changing workflow for music producers &amp; DJs: <a href=\"https://github.com/samim23/polymath\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/samim23/polymath</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@samim",
-        "display_name": "samim"
-      },
-      {
-        "url": "https://vis.social/@mgiraldo",
-        "display_name": "@mgiraldo"
-      }
-    ]
-  },
-  {
-    "link": "https://gitlab.com/fdroid/fdroiddata/-/issues/2893",
-    "title": "Aves Libre is not actually Open Source (#2893) \u00b7 Issues \u00b7 F-Droid / Data \u00b7 GitLab",
-    "latest": "2023-02-08T19:55:02+00:00",
-    "last_post": {
-      "url": "https://die-partei.social/@hackernews/109830871590973779",
-      "content": "<p>FDroid debating Aves Libre app TOS as reason for removal - <a href=\"https://gitlab.com/fdroid/fdroiddata/-/issues/2893\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gitlab.com/fdroid/fdroiddata/-</span><span class=\"invisible\">/issues/2893</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://die-partei.social/@hackernews",
-        "display_name": "Hackernews"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/vanatteveldt/cssbook",
-    "title": "github.com/vanatteveldt/cssboo...",
-    "latest": "2023-02-08T09:32:12+00:00",
-    "last_post": {
-      "url": "https://sciences.social/@vanatteveldt/109828152717938330",
-      "content": "<p>\ud83d\udcd6New and improved packaging!\ud83d\udcd6 Our open access computational textbook <a href=\"https://cssbook.net\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">cssbook.net</span><span class=\"invisible\"></span></a> is now on quarto! Easier to read &amp; especially easier to update. The goal is to keep this webpage updated and as useful as possible for computational social science teaching -- and hopefully work towards a second published edition. Feel free to post issues/PRs for anything that can be improved! <a href=\"https://github.com/vanatteveldt/cssbook\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/vanatteveldt/cssboo</span><span class=\"invisible\">k</span></a> w/ <span class=\"h-card\"><a href=\"https://akademienl.social/@damiantrilling\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>damiantrilling</span></a></span> &amp; Carlos Arcila</p>"
-    },
-    "people": [
-      {
-        "url": "https://social.cwts.nl/@vtraag",
-        "display_name": "Vincent Traag"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/nrennie/tidytuesday/tree/main/2023/2023-02-07",
-    "title": "tidytuesday/2023/2023-02-07 at main \u00b7 nrennie/tidytuesday",
-    "latest": "2023-02-08T08:39:04+00:00",
-    "last_post": {
-      "url": "https://fosstodon.org/@nrennie/109822776086528084",
-      "content": "<p>It's time for <a href=\"https://fosstodon.org/tags/TidyTuesday\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>TidyTuesday</span></a> again! Thanks to Evan Gower for sharing the data this week!</p><p>We're looking at stock prices of tech companies, and I used geom_sankey_bump() from {ggsankey} to look at the rank of Adobe over time!</p><p>Code: <a href=\"https://github.com/nrennie/tidytuesday/tree/main/2023/2023-02-07\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/nrennie/tidytuesday</span><span class=\"invisible\">/tree/main/2023/2023-02-07</span></a></p><p><a href=\"https://fosstodon.org/tags/RStats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>RStats</span></a> <a href=\"https://fosstodon.org/tags/DataViz\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DataViz</span></a> <a href=\"https://fosstodon.org/tags/R4DS\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>R4DS</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://fosstodon.org/@nrennie",
-        "display_name": "Nicola Rennie"
-      },
-      {
-        "url": "https://fosstodon.org/@leeolney",
-        "display_name": "Lee Olney"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/giuven95/chatgpt-failures",
-    "title": "github.com/giuven95/chatgpt-fa...",
-    "latest": "2023-02-08T07:11:22+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@dougholton/109827868772183197",
-      "content": "<p>A comprehensive listing of the types of things <a href=\"https://mastodon.social/tags/ChatGPT\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ChatGPT</span></a> can't do well (or fails at), including reasoning, factual errors, math, coding, and bias <a href=\"https://arxiv.org/abs/2302.03494\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2302.03494</span><span class=\"invisible\"></span></a><br>See also this GitHub repository: <a href=\"https://github.com/giuven95/chatgpt-failures\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/giuven95/chatgpt-fa</span><span class=\"invisible\">ilures</span></a><br>And this other paper analyzing the Mathematical Capabilities of ChatGPT <a href=\"https://arxiv.org/abs/2301.13867\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2301.13867</span><span class=\"invisible\"></span></a><br><a href=\"https://mastodon.social/tags/EdTech\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>EdTech</span></a> <a href=\"https://mastodon.social/tags/LLM\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>LLM</span></a> <a href=\"https://mastodon.social/tags/AI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AI</span></a> <a href=\"https://mastodon.social/tags/MathEd\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>MathEd</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@dougholton",
-        "display_name": "Doug Holton"
       }
     ]
   }
