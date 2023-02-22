@@ -1,5 +1,208 @@
 [
   {
+    "link": "https://github.com/stanford-oval/",
+    "title": "Stanford Open Virtual Assistant Lab",
+    "latest": "2023-02-22T09:03:54+00:00",
+    "last_post": {
+      "url": "https://creative.ai/@arxiv_cl/109907583567522202",
+      "content": "<p>\ud83d\udcdd Zero and Few-Shot Localization of Task-Oriented Dialogue Agents with a Distilled Representation \ud83d\udcda</p><p>\"Uses a combination of 1) improved dialogue data representation, 2) entity-aware machine translation, and 3) automatic filtering of noisy translations to close the accuracy gap between few-shot and full-shot transfer learning for ToD.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/stanford-oval/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/stanford-oval/</span><span class=\"invisible\"></span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2302.09424v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2302.09424v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://creative.ai/@arxiv_cl",
+        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/fancyd98/cs50-final-project/tree/testing",
+    "title": "GitHub - fancyd98/cs50-final-project at testing",
+    "latest": "2023-02-22T08:29:49+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@python_discussions/109907449562123041",
+      "content": "<p>Flask Email Error: smtplib.SMTPServerDisconnected: Connection unexpectedly closed</p><p><a href=\"https://github.com/fancyd98/cs50-final-project/tree/testing\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/fancyd98/cs50-final</span><span class=\"invisible\">-project/tree/testing</span></a></p><p>Discussions: <a href=\"https://discu.eu/q/https://github.com/fancyd98/cs50-final-project/tree/testing\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">discu.eu/q/https://github.com/</span><span class=\"invisible\">fancyd98/cs50-final-project/tree/testing</span></a></p><p><a href=\"https://mastodon.social/tags/flask\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>flask</span></a> <a href=\"https://mastodon.social/tags/programming\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>programming</span></a> <a href=\"https://mastodon.social/tags/python\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>python</span></a> <a href=\"https://mastodon.social/tags/webdev\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>webdev</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@python_discussions",
+        "display_name": "Python Weekly"
+      }
+    ]
+  },
+  {
+    "link": "https://observablehq.com/@visionscarto/world-atlas-topojson",
+    "title": "Visionscarto\u2019s \u201cWorld Atlas\u201d",
+    "latest": "2023-02-22T08:05:00+00:00",
+    "last_post": {
+      "url": "https://vis.social/@moritz/109907351991769269",
+      "content": "<p>This is a good read and especially a valuable patch to the ubiquitous Natural Earth base maps.  </p><p><a href=\"https://observablehq.com/@visionscarto/world-atlas-topojson\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">observablehq.com/@visionscarto</span><span class=\"invisible\">/world-atlas-topojson</span></a></p><p>Thank you <span class=\"h-card\"><a href=\"https://vis.social/@fil\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>fil</span></a></span>!</p>"
+    },
+    "people": [
+      {
+        "url": "https://vis.social/@moritz",
+        "display_name": "moritz"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/dair-ai/Prompt-Engineering-Guide",
+    "title": "GitHub - dair-ai/Prompt-Engineering-Guide: Guide and resources for prompt engineering",
+    "latest": "2023-02-22T08:02:39+00:00",
+    "last_post": {
+      "url": "https://aleph.land/@mtriclot/109907342774645849",
+      "content": "<p>Guides, papers, lecture, and resources for prompt engineering<br><a href=\"https://github.com/dair-ai/Prompt-Engineering-Guide\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/dair-ai/Prompt-Engi</span><span class=\"invisible\">neering-Guide</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mas.to/@robroc",
+        "display_name": "Roberto Rocha"
+      },
+      {
+        "url": "https://die-partei.social/@hackernews",
+        "display_name": "Hackernews"
+      },
+      {
+        "url": "https://aleph.land/@mtriclot",
+        "display_name": "Mathieu Triclot"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/cjhutto/vaderSentiment",
+    "title": "GitHub - cjhutto/vaderSentiment: VADER Sentiment Analysis. VADER (Valence Aware Dictionary and sEntiment Reasoner) is a lexicon and rule-based sentiment analysis tool that is specifically attuned to sentiments expressed in social media, and works well on texts from other domains.",
+    "latest": "2023-02-22T07:43:57+00:00",
+    "last_post": {
+      "url": "https://creative.ai/@arxiv_cl/109907269195468677",
+      "content": "<p>\ud83d\udcdd M-Sense: Modeling Narrative Structure in Short Personal Narratives Using Protagonist's Mental Representations \ud83d\udcda\ud83d\udc7e</p><p>\"The protagonist's mental state information obtained from a pre-trained model trained on social commonsense knowledge and integrates their representations with contextual semantic embeddings using a multi feature fusion approach.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a> <a href=\"https://creative.ai/tags/AI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AI</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/cjhutto/vaderSentiment\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/cjhutto/vaderSentim</span><span class=\"invisible\">ent</span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2302.09418v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2302.09418v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://creative.ai/@arxiv_cl",
+        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/ClickHouse/ClickHouse/pull/45384",
+    "title": "Add StorageIceberg and table function iceberg by ucasfl \u00b7 Pull Request #45384 \u00b7 ClickHouse/ClickHouse",
+    "latest": "2023-02-22T07:26:46+00:00",
+    "last_post": {
+      "url": "https://data-folks.masto.host/@tabular/109904056888252638",
+      "content": "<p>ClickHouse adding <a href=\"https://data-folks.masto.host/tags/ApacheIceberg\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ApacheIceberg</span></a> support is a very exciting development.<br><a href=\"https://github.com/ClickHouse/ClickHouse/pull/45384\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/ClickHouse/ClickHou</span><span class=\"invisible\">se/pull/45384</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://data-folks.masto.host/@jayatid",
+        "display_name": "David Jayatillake"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/rebecca0011/UAVStereo",
+    "title": "github.com/rebecca0011/UAVSter...",
+    "latest": "2023-02-22T07:19:59+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@ducha_aiki/109907174967493731",
+      "content": "<p>UAVStereo: A Multiple Resolution Dataset for Stereo Matching in UAV Scenarios</p><p>Zhang Xiaoyi, Cao Xuefeng, Yu Anzhu, Yu Wenshuai, Li Zhenqi, Quan Yujun</p><p>tl;dr: big synthetic+real dataset for stereo from UAV. Repo is empty now </p><p><a href=\"https://arxiv.org/abs/2302.10082\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2302.10082</span><span class=\"invisible\"></span></a><br><a href=\"https://github.com/rebecca0011/UAVStereo\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/rebecca0011/UAVSter</span><span class=\"invisible\">eo</span></a></p><p><a href=\"https://sigmoid.social/tags/computervision\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>computervision</span></a> <a href=\"https://sigmoid.social/tags/deeplearning\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>deeplearning</span></a> <br><a href=\"https://sigmoid.social/tags/dmytrotweetsaboutDL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>dmytrotweetsaboutDL</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@ducha_aiki",
+        "display_name": "Dmytro Mishkin \ud83c\uddfa\ud83c\udde6"
+      }
+    ]
+  },
+  {
+    "link": "https://observablehq.com/@ljegou/acp-des-pains",
+    "title": "Illustration de la m\u00e9thode ACP : un exemple avec des pains",
+    "latest": "2023-02-22T06:58:30+00:00",
+    "last_post": {
+      "url": "https://vis.social/@ljegou/109907090534236838",
+      "content": "<p>Qu'est-ce que l'Analyse en Composantes Principales ? Un exemple illustr\u00e9 avec <a href=\"https://vis.social/tags/Observable\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Observable</span></a> sur un jeu de donn\u00e9es rigolo : les types de pain !</p><p>EN : What is the Principal Components Analysis (PCA) ? I wrote an illustrated example using Observable with an amusing dataset about breads (in french).</p><p><a href=\"https://observablehq.com/@ljegou/acp-des-pains\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">observablehq.com/@ljegou/acp-d</span><span class=\"invisible\">es-pains</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://vis.social/@ljegou",
+        "display_name": "Laurent J\u00e9gou"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/thameera/vimv",
+    "title": "GitHub - thameera/vimv: Batch-rename files using Vim",
+    "latest": "2023-02-22T05:47:32+00:00",
+    "last_post": {
+      "url": "https://hachyderm.io/@schlink/109906811476428461",
+      "content": "<p>ah, think I was thinking of this: vimv <a href=\"https://github.com/thameera/vimv\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/thameera/vimv</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://hachyderm.io/@schlink",
+        "display_name": "Sam Schlinkert"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/thudzj/Calibrated-DPMs",
+    "title": "https://github.com/thudzj/Calibrated-DPMs",
+    "latest": "2023-02-22T04:04:31.189000+00:00",
+    "last_post": {
+      "url": "https://a.farook.org/objects/8ae2de27-0430-4d94-91bc-3ee82ac5f103",
+      "content": "\"On Calibrating Diffusion Probabilistic Models. (arXiv:2302.10688v1 [cs.LG])\" \u2014 Calibrating Diffusion Probabilistic Models (DPM) to reduce the score matching loss.<br><br>Paper: <a href=\"http://arxiv.org/abs/2302.10688\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">http://arxiv.org/abs/2302.10688</a><br>Code: <a href=\"https://github.com/thudzj/Calibrated-DPMs\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">https://github.com/thudzj/Calibrated-DPMs</a><br><br><a class=\"hashtag\" href=\"https://a.farook.org/tag/ai\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#AI</a> <a class=\"hashtag\" href=\"https://a.farook.org/tag/cv\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#CV</a> <a class=\"hashtag\" href=\"https://a.farook.org/tag/newpaper\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#NewPaper</a> <a class=\"hashtag\" href=\"https://a.farook.org/tag/deeplearning\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#DeepLearning</a>  <a class=\"hashtag\" href=\"https://a.farook.org/tag/machinelearning\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#MachineLearning</a><br><br>&lt;&lt;Find this useful? Please boost so that others can benefit too \ud83d\ude42&gt;&gt;"
+    },
+    "people": [
+      {
+        "url": "https://a.farook.org/users/f",
+        "display_name": "Fahim Farook"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/hamelsmu/oauth-tutorial",
+    "title": "GitHub - hamelsmu/oauth-tutorial: Like GitHub Pages, but you choose who can see it without usernames & passwords.",
+    "latest": "2023-02-22T03:59:53+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@rahuldave/109906388136388363",
+      "content": "<p>RT @HamelHusain<br>Want to know how to easily serve private @quarto_pub or <a href=\"https://sigmoid.social/tags/nbdev\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>nbdev</span></a> sites (or any static site) for </p><p>\ud83d\udcc4 internal documentation <br>\ud83d\udc69\u200d\ud83c\udf93paid courses<br>\ud83d\udedd for fun<br>...etc </p><p>\ud83e\ude84 Without managing user names+passwords\ud83e\ude84 but with tons of flexibility?</p><p> Here is the solution:</p><p><a href=\"https://github.com/hamelsmu/oauth-tutorial\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/hamelsmu/oauth-tuto</span><span class=\"invisible\">rial</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@rahuldave",
+        "display_name": "Rahul Dave"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/manlius/muxViz",
+    "title": "GitHub - manlius/muxViz: Analysis and Visualization of Interconnected Multilayer Networks",
+    "latest": "2023-02-22T03:07:30+00:00",
+    "last_post": {
+      "url": "https://mathstodon.xyz/@manlius/109902624183454473",
+      "content": "<p>It's incredible (to me, at least) that the community around <a href=\"https://mathstodon.xyz/tags/muxViz\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>muxViz</span></a> reached 700+ members. </p><p>MuxViz is our R-based package for the analysis of complex <a href=\"https://mathstodon.xyz/tags/multilayer\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>multilayer</span></a> <a href=\"https://mathstodon.xyz/tags/networks\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>networks</span></a> </p><p><a href=\"https://github.com/manlius/muxViz\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/manlius/muxViz</span><span class=\"invisible\"></span></a></p><p><a href=\"https://link.springer.com/book/10.1007/978-3-030-75718-2\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">link.springer.com/book/10.1007</span><span class=\"invisible\">/978-3-030-75718-2</span></a></p><p><a href=\"https://mathstodon.xyz/tags/NetworkScience\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>NetworkScience</span></a> of interest for <a href=\"https://mathstodon.xyz/tags/ComputationalBiology\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ComputationalBiology</span></a> <a href=\"https://mathstodon.xyz/tags/NetworkNeuroscience\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>NetworkNeuroscience</span></a> <a href=\"https://mathstodon.xyz/tags/ComputationalSocialScience\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ComputationalSocialScience</span></a> <span class=\"h-card\"><a href=\"https://a.gup.pe/u/networkscience\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>networkscience</span></a></span> <span class=\"h-card\"><a href=\"https://a.gup.pe/u/complexsystems\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>complexsystems</span></a></span> <span class=\"h-card\"><a href=\"https://a.gup.pe/u/neuroscience\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>neuroscience</span></a></span></p>"
+    },
+    "people": [
+      {
+        "url": "https://hci.social/@bkeegan",
+        "display_name": "Brian C. Keegan"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/kylemcdonald/arxiv-visual-summary/blob/master/remove-oldest.sh",
+    "title": "arxiv-visual-summary/remove-oldest.sh at master \u00b7 kylemcdonald/arxiv-visual-summary",
+    "latest": "2023-02-22T02:07:28+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@kcimc/109905946124110135",
+      "content": "<p>in 2015 i wrote this bash script to remove old files. i forgot how it worked, so i just ran it. and it turns out the default behavior is to just.. delete everything in the home directory \ud83d\ude29 <a href=\"https://github.com/kylemcdonald/arxiv-visual-summary/blob/master/remove-oldest.sh\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/kylemcdonald/arxiv-</span><span class=\"invisible\">visual-summary/blob/master/remove-oldest.sh</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@kcimc",
+        "display_name": "Kyle McDonald"
+      }
+    ]
+  },
+  {
     "link": "https://gist.github.com/zhiyun-deng/b8c019ea5fd02f1465d1fcaadd58aeb0",
     "title": "if you less this file your terminal plays a sound",
     "latest": "2023-02-21T21:35:03+00:00",
@@ -90,25 +293,6 @@
       {
         "url": "https://mastodon.social/@JoranJongerling",
         "display_name": "Joran"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/dair-ai/Prompt-Engineering-Guide",
-    "title": "GitHub - dair-ai/Prompt-Engineering-Guide: Guide and resources for prompt engineering",
-    "latest": "2023-02-21T17:30:04+00:00",
-    "last_post": {
-      "url": "https://die-partei.social/@hackernews/109903911625895241",
-      "content": "<p>Prompt Engineering Guide: Guides, papers, and resources for prompt engineering - <a href=\"https://github.com/dair-ai/Prompt-Engineering-Guide\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/dair-ai/Prompt-Engi</span><span class=\"invisible\">neering-Guide</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mas.to/@robroc",
-        "display_name": "Roberto Rocha"
-      },
-      {
-        "url": "https://die-partei.social/@hackernews",
-        "display_name": "Hackernews"
       }
     ]
   },
@@ -3036,198 +3220,6 @@
       {
         "url": "https://mastodon.social/@python_discussions",
         "display_name": "Python Weekly"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/google/belief-localization",
-    "title": "github.com/google/belief-local...",
-    "latest": "2023-02-12T21:16:06+00:00",
-    "last_post": {
-      "url": "https://sigmoid.social/@akhaliq/109673693172406930",
-      "content": "<p>Does Localization Inform Editing? Surprising Differences in Causality-Based Localization vs. Knowledge Editing in Language Models <br>abs: <a href=\"https://arxiv.org/abs/2301.04213\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2301.04213</span><span class=\"invisible\"></span></a> <br>github: <a href=\"https://github.com/google/belief-localization\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/google/belief-local</span><span class=\"invisible\">ization</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://creative.ai/@arxiv",
-        "display_name": "arXiv Highlights AI/ML \ud83d\udcdd\ud83e\udd16"
-      }
-    ]
-  },
-  {
-    "link": "https://observablehq.com/@sxywu/02-noc-vectors",
-    "title": "02 | vectors & inks",
-    "latest": "2023-02-12T21:12:53+00:00",
-    "last_post": {
-      "url": "https://vis.social/@shirley/109830344695775504",
-      "content": "<p>for my last semester at ITP I'm taking <span class=\"h-card\"><a href=\"https://mastodon.social/@shiffman\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>shiffman</span></a></span>'s Nature of Code! but as a personal challenge I'm trying to do it all in <a href=\"https://vis.social/tags/webgl\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>webgl</span></a> \u2728</p><p>so as a webGL newbie I'm trying to seek advice for this week's assignment: I'm trying to recreate dry brush strokes w/ ~30 \"dots\" (transformed in vertex shader) per brush stroke but that doesn't feel optimal/performant? should I draw direct to fragment shader instead?</p><p>here's the <span class=\"h-card\"><a href=\"https://vis.social/@observablehq\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>observablehq</span></a></span>: <a href=\"https://observablehq.com/@sxywu/02-noc-vectors\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">observablehq.com/@sxywu/02-noc</span><span class=\"invisible\">-vectors</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://vis.social/@mikebrondbjerg",
-        "display_name": "Mike Brondbjerg"
-      },
-      {
-        "url": "https://vis.social/@miskaknapek",
-        "display_name": "miska knapek"
-      }
-    ]
-  },
-  {
-    "link": "https://codeberg.org/openEngiadina/cpub",
-    "title": "cpub",
-    "latest": "2023-02-12T21:07:24+00:00",
-    "last_post": {
-      "url": "https://social.coop/@smallcircles/109850656974517807",
-      "content": "<p><span class=\"h-card\"><a href=\"https://mastodon.social/@mcc\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>mcc</span></a></span> interesting talk, thank you!</p><p>There's existing work on content addressing re:Fediverse worth mentioning.</p><p>The <a href=\"https://social.coop/tags/openEngiadina\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>openEngiadina</span></a> project by <span class=\"h-card\"><a href=\"https://chaos.social/@pukkamustard\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>pukkamustard</span></a></span> who wrote <a href=\"https://social.coop/tags/ERIS\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ERIS</span></a> implemented in <a href=\"https://social.coop/tags/CPub\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CPub</span></a>:</p><p><a href=\"https://codeberg.org/openEngiadina/cpub\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">codeberg.org/openEngiadina/cpu</span><span class=\"invisible\">b</span></a></p><p>Here is Encoding for Robust Immutable Storage: <a href=\"https://eris.codeberg.page/spec/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">eris.codeberg.page/spec/</span><span class=\"invisible\"></span></a></p><p>At one time this was part of DREAM at <a href=\"https://dream.public.cat\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">dream.public.cat</span><span class=\"invisible\"></span></a> (unsure of status of this research community)</p><p>See also <a href=\"https://openengiadina.net\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">openengiadina.net</span><span class=\"invisible\"></span></a> and <a href=\"https://socialhub.activitypub.rocks/c/software/openengiadina/50\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">socialhub.activitypub.rocks/c/</span><span class=\"invisible\">software/openengiadina/50</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://eldritch.cafe/@enkiv2",
-        "display_name": "\ud808\udc2d\ud808\udc97\ud808\udda0"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/r-lib/rig",
-    "title": "GitHub - r-lib/rig: The R Installation Manager",
-    "latest": "2023-02-12T20:57:49+00:00",
-    "last_post": {
-      "url": "https://fosstodon.org/@gaborcsardi/109851622884521932",
-      "content": "<p>Nice post on using R on Raspberry Pi by <span class=\"h-card\"><a href=\"https://mastodon.social/@andresrcs\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>andresrcs</span></a></span>: <a href=\"https://andresrcs.rbind.io/2023/02/11/r_on_arm/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">andresrcs.rbind.io/2023/02/11/</span><span class=\"invisible\">r_on_arm/</span></a></p><p>Thanks for the shoutout to <a href=\"https://github.com/r-lib/rig\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/r-lib/rig</span><span class=\"invisible\"></span></a></p><p><a href=\"https://fosstodon.org/tags/rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rstats</span></a> <a href=\"https://fosstodon.org/tags/raspberrypi\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>raspberrypi</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mas.to/@dpprdan",
-        "display_name": "Daniel Possenriede"
-      },
-      {
-        "url": "https://fosstodon.org/@mdsumner",
-        "display_name": "mdsumner"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/TheR1D/shell_gpt",
-    "title": "GitHub - TheR1D/shell_gpt: A command-line interface (CLI) productivity tool powered by OpenAI's text-davinci-003 model, will help you accomplish your tasks faster and more efficiently.",
-    "latest": "2023-02-12T20:50:03+00:00",
-    "last_post": {
-      "url": "https://die-partei.social/@hackernews/109853737162387899",
-      "content": "<p>Call GPT-3 from Terminal - <a href=\"https://github.com/TheR1D/shell_gpt\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/TheR1D/shell_gpt</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://die-partei.social/@hackernews",
-        "display_name": "Hackernews"
-      }
-    ]
-  },
-  {
-    "link": "https://gist.github.com/gtallen1187/e83ed02eac6cc8d7e185",
-    "title": "A little bit of slope makes up for a lot of y-intercept",
-    "latest": "2023-02-12T20:35:02+00:00",
-    "last_post": {
-      "url": "https://die-partei.social/@hackernews/109853678162789482",
-      "content": "<p>\u201cA little bit of slope makes up for a lot of y-intercept\u201d - <a href=\"https://gist.github.com/gtallen1187/e83ed02eac6cc8d7e185\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gist.github.com/gtallen1187/e8</span><span class=\"invisible\">3ed02eac6cc8d7e185</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://die-partei.social/@hackernews",
-        "display_name": "Hackernews"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/mudulo/hnpopup",
-    "title": "GitHub - mudulo/hnpopup: HN Pop-up lets you quickly glance at a user's profile without leaving the page you're on. You can quickly see a user's bio, karma and account age",
-    "latest": "2023-02-12T20:20:02+00:00",
-    "last_post": {
-      "url": "https://die-partei.social/@hackernews/109853619150759442",
-      "content": "<p>Show HN: HN Pop-Up \u2013 Hover on HN Username to See Their Profile - <a href=\"https://github.com/mudulo/hnpopup\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/mudulo/hnpopup</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://die-partei.social/@hackernews",
-        "display_name": "Hackernews"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/qgis/QGIS/wiki/QOD-February-2023",
-    "title": "QOD February 2023",
-    "latest": "2023-02-12T20:09:02+00:00",
-    "last_post": {
-      "url": "https://fosstodon.org/@qgis/109829422607243831",
-      "content": "<p>Hello, QGIS community the next <a href=\"https://fosstodon.org/tags/QGISOpenDay\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>QGISOpenDay</span></a> will be on the 24th of February 2022. We need speakers! If you want to show off a cool workflow, plugin, or aspect of QGIS contact <br>@amzenviro<br> or see the event page: <a href=\"https://github.com/qgis/QGIS/wiki/QOD-February-2023\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/qgis/QGIS/wiki/QOD-</span><span class=\"invisible\">February-2023</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://scholar.social/@telliott",
-        "display_name": "Tom Elliott"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/yuzulabo/Mastodon-Archive-Viewer",
-    "title": "GitHub - yuzulabo/Mastodon-Archive-Viewer: Mastodon\u304b\u3089\u51fa\u529b\u3057\u305f\u30a2\u30fc\u30ab\u30a4\u30d6\u306e\u7d71\u8a08\u3001\u30c8\u30a5\u30fc\u30c8\u4e00\u89a7\u3092\u8868\u793a\u3057\u307e\u3059\u3002",
-    "latest": "2023-02-12T09:58:16+00:00",
-    "last_post": {
-      "url": "https://masto.ai/@nbax/109844143987439392",
-      "content": "<p>For what its worth, I used a modified version of Mastodon Archive Viewer <a href=\"https://github.com/yuzulabo/Mastodon-Archive-Viewer\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/yuzulabo/Mastodon-A</span><span class=\"invisible\">rchive-Viewer</span></a> to go through my toots to find ones I wanted to boost over here from <a href=\"https://masto.ai/tags/MastodonLOL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>MastodonLOL</span></a>, I then just copied the URLs and searched for them on masto.ai</p>"
-    },
-    "people": [
-      {
-        "url": "https://sfba.social/@morgandawn",
-        "display_name": "morgandawn"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/orgs/community/discussions/46691",
-    "title": "Why does the raw file still show previous data? \u00b7 Discussion #46691 \u00b7 community",
-    "latest": "2023-02-12T09:50:02+00:00",
-    "last_post": {
-      "url": "https://die-partei.social/@hackernews/109851141928362803",
-      "content": "<p>GitHub is aggressively caching raw.github, breaking many use cases - <a href=\"https://github.com/orgs/community/discussions/46691\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/orgs/community/disc</span><span class=\"invisible\">ussions/46691</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://die-partei.social/@hackernews",
-        "display_name": "Hackernews"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/mikedewar/streamscope",
-    "title": "GitHub - mikedewar/streamscope: visualise streams of data through a websocket",
-    "latest": "2023-02-12T09:08:43+00:00",
-    "last_post": {
-      "url": "https://mastodon.online/@mikedewar/109850979427661241",
-      "content": "<p>Today's <a href=\"https://mastodon.online/tags/streamscope\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>streamscope</span></a> update: got text to render FINALLY. Was tricky! Nowhere near to being useful, but have at least started. Half term this week coupled with a timely re-org at work means I might be able to make some good headway this week! Failing that: more naps!<br><a href=\"https://github.com/mikedewar/streamscope\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/mikedewar/streamsco</span><span class=\"invisible\">pe</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.online/@mikedewar",
-        "display_name": "mikedewar"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/bmschmidt/bare-bones-blog",
-    "title": "github.com/bmschmidt/bare-bone...",
-    "latest": "2023-02-12T06:31:21+00:00",
-    "last_post": {
-      "url": "https://vis.social/@benmschmidt/109844039024052736",
-      "content": "<p>As an exercise in minimalism, I stripped my blogging template down to a bare-bones repo, generating a static-site blog with RSS that publishes to github pages (or wherever) using pandoc and svelte-kit. Audience is maybe beginners, people who love pandoc and are thinking of moving on from Jekyll/Hugo, or people just curious to see how a svelte-kit site works. The whole filesystem-based router has been really eye-opening for me, personally. <a href=\"https://bmschmidt.github.io/bare-bones-blog/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">bmschmidt.github.io/bare-bones</span><span class=\"invisible\">-blog/</span></a> <a href=\"https://github.com/bmschmidt/bare-bones-blog\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/bmschmidt/bare-bone</span><span class=\"invisible\">s-blog</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mstdn.social/@felwert",
-        "display_name": "Frederik Elwert"
-      },
-      {
-        "url": "https://vis.social/@seblammers",
-        "display_name": "Sebastian Lammers"
       }
     ]
   }
