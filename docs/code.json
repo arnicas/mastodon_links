@@ -1,8 +1,84 @@
 [
   {
+    "link": "https://github.com/a11yedge/overlays/issues/1",
+    "title": "Review what existing overlays actually do \u00b7 Issue #1 \u00b7 a11yedge/overlays",
+    "latest": "2023-02-24T21:10:47+00:00",
+    "last_post": {
+      "url": "https://toot.cafe/@yatil/109921548517252793",
+      "content": "<p>Accessibly overlay vendors (remember: overlays do not work) have produced a handy list of such tools for blocking and to quickly know if it is a scam: <a href=\"https://github.com/a11yedge/overlays/issues/1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/a11yedge/overlays/i</span><span class=\"invisible\">ssues/1</span></a></p><p>The GitHub issue is titled \u201cReview what existing overlays actually do\u201c and from my point of view, it\u2019s somewhere between \u201cnothing\u201d and \u201charm\u201d, with a sprinkle of normalizing ableism. Cool, cool. Cool.</p><p>(Via <span class=\"h-card\"><a href=\"https://toot.cafe/@aardrian\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>aardrian</span></a></span>)</p>"
+    },
+    "people": [
+      {
+        "url": "https://indieweb.social/@clhenrick",
+        "display_name": "Chris Henrick"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/joyeusenoelle/GuideToMastodon",
+    "title": "GitHub - joyeusenoelle/GuideToMastodon: An increasingly less-brief guide to Mastodon",
+    "latest": "2023-02-24T20:23:04+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@ryanschultz/109540476079019517",
+      "content": "<p>Two excellent, in-depth guides to Mastodon, which should answer many of your questions, are here:</p><p>1. An Increasingly Less-Brief Guide to Mastodon by joyeusenoelle: <a href=\"https://github.com/joyeusenoelle/GuideToMastodon\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/joyeusenoelle/Guide</span><span class=\"invisible\">ToMastodon</span></a></p><p>2. Nikodemus' Guide to Mastodon: <a href=\"https://docs.google.com/document/d/1D9gfeKg_-hlsU66R-dLEvUeyMsqEfyIx2pnfUeX0t_E/edit#heading=h.j95atvlbfrn5\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">docs.google.com/document/d/1D9</span><span class=\"invisible\">gfeKg_-hlsU66R-dLEvUeyMsqEfyIx2pnfUeX0t_E/edit#heading=h.j95atvlbfrn5</span></a></p><p>*PLEASE BOOST THIS POST* so more people can see this information in their timelines, thank you so much! \u2764\ufe0f </p><p>To boost, just click on the boost button below this post, as indicated by the red arrow in the attached image (the icon may vary a bit, by app):</p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@ericalba",
+        "display_name": "Eric Alba"
+      },
+      {
+        "url": "https://mastodon.social/@ryanschultz",
+        "display_name": "Ryan Schultz"
+      },
+      {
+        "url": "https://mapstodon.space/@Amber",
+        "display_name": "Amber Manfree"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/raspberrypi/picoprobe",
+    "title": "GitHub - raspberrypi/picoprobe",
+    "latest": "2023-02-24T19:58:02+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@todbot/109921391329560485",
+      "content": "<p>Oh and for anyone else who runs into this, <span class=\"h-card\"><a href=\"https://mastodon.social/@aallan\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>aallan</span></a></span> pointed me to the fact that the <span class=\"h-card\"><a href=\"https://raspberrypi.social/@Raspberry_Pi\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>Raspberry_Pi</span></a></span>'s \"picoprobe\" repo has a \"debugprobe\" branch that looks to be the source for the Debug Probe firmware. It's just another Pico-SDK project and builds with:<br>```<br>git clone <a href=\"https://github.com/raspberrypi/picoprobe\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/raspberrypi/picopro</span><span class=\"invisible\">be</span></a><br>git fetch --all &amp;&amp; git checkout debugprobe<br>git submodule update --init<br>mkdir build &amp;&amp; cd build <br>cmake .. &amp;&amp; make<br>cp picoprobe.uf2 /Volumes/RPI-RP2<br>```</p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@aallan",
+        "display_name": "Alasdair Allan"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/tidycampaigns",
+    "title": "tidycampaigns",
+    "latest": "2023-02-24T19:51:50+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@adrienne/109918405445330396",
+      "content": "<p>Exciting <a href=\"https://fosstodon.org/tags/tidycampaigns\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>tidycampaigns</span></a> development.</p><p>TidyCampaigns not only will be a book but a suite of new packages: aka <a href=\"https://fosstodon.org/tags/rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rstats</span></a> data connector packages as well as an insights package.</p><p>My friend and fellow Buckeye Clay and new friend Sade both work in political tech and agree, we want to bring a stronger R community to the democratic &amp; progressive tech space.</p><p>Follow the GIt org here &gt; <br><a href=\"https://github.com/tidycampaigns\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/tidycampaigns</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fosstodon.org/@adrienne",
+        "display_name": "Adrienne  \ud83d\udcca"
+      },
+      {
+        "url": "https://mstdn.social/@felwert",
+        "display_name": "Frederik Elwert"
+      },
+      {
+        "url": "https://hci.social/@bkeegan",
+        "display_name": "Brian C. Keegan"
+      }
+    ]
+  },
+  {
     "link": "https://observablehq.com/@visionscarto/world-atlas-topojson",
     "title": "Visionscarto\u2019s \u201cWorld Atlas\u201d",
-    "latest": "2023-02-24T09:11:09+00:00",
+    "latest": "2023-02-24T19:30:06+00:00",
     "last_post": {
       "url": "https://vis.social/@neocarto/109918936747540720",
       "content": "<p>World basemaps coming from Natural Earth, corrected to respect the UN positions on the borders (by <span class=\"h-card\"><a href=\"https://vis.social/@fil\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>fil</span></a></span>) <a href=\"https://observablehq.com/@visionscarto/world-atlas-topojson\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">observablehq.com/@visionscarto</span><span class=\"invisible\">/world-atlas-topojson</span></a></p>"
@@ -15,6 +91,59 @@
       {
         "url": "https://vis.social/@neocarto",
         "display_name": "Nicolas Lambert \ud83c\udf0f"
+      },
+      {
+        "url": "https://vis.social/@ljegou",
+        "display_name": "Laurent J\u00e9gou"
+      },
+      {
+        "url": "https://fosstodon.org/@underdarkGIS",
+        "display_name": "Anita Graser \ud83c\uddea\ud83c\uddfa\ud83c\uddfa\ud83c\udde6"
+      }
+    ]
+  },
+  {
+    "link": "https://gist.github.com/TimTeaFan/8f89fd127c1b38368d6dba3c2cafea46",
+    "title": "Add rows with total and group means in dplyr ",
+    "latest": "2023-02-24T19:05:51.514000+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@TimTeaFan/109921271270566356",
+      "content": "<p>Although there are some <a href=\"https://fosstodon.org/tags/RStats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>RStats</span></a> packages which help to add group and total means to a `data.frame`, {dplyr} itself has quite some tricks up its sleeves. Some time ago (posted on the bird site) I played around with `group_map()`, `add_row()` and `across()`: </p><p><a href=\"https://gist.github.com/TimTeaFan/8f89fd127c1b38368d6dba3c2cafea46\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gist.github.com/TimTeaFan/8f89</span><span class=\"invisible\">fd127c1b38368d6dba3c2cafea46</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mstdn.social/@ERDonnachie",
+        "display_name": "Ewan Donnachie"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/FMInference/FlexGen",
+    "title": "GitHub - FMInference/FlexGen: Running large language models like OPT-175B/GPT-3 on a single GPU. Up to 100x faster than other offloading systems.",
+    "latest": "2023-02-24T18:10:49+00:00",
+    "last_post": {
+      "url": "https://fedi.simonwillison.net/@simon/109921058798532407",
+      "content": "<p><span class=\"h-card\"><a href=\"https://fosstodon.org/@jamesravey\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>jamesravey</span></a></span> <a href=\"https://github.com/FMInference/FlexGen\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/FMInference/FlexGen</span><span class=\"invisible\"></span></a> is a really interesting development in that space too!</p>"
+    },
+    "people": [
+      {
+        "url": "https://fedi.simonwillison.net/@simon",
+        "display_name": "Simon Willison"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/facebookresearch/llama",
+    "title": "github.com/facebookresearch/ll...",
+    "latest": "2023-02-24T17:44:29+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@gdm/109920611493325930",
+      "content": "<p>We now have a really powerful <a href=\"https://mastodon.social/tags/open\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>open</span></a> alternative to <a href=\"https://mastodon.social/tags/GPT3\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>GPT3</span></a>!</p><p><a href=\"https://mastodon.social/tags/LLaMA\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>LLaMA</span></a> by Meta AI</p><p><a href=\"https://research.facebook.com/publications/llama-open-and-efficient-foundation-language-models/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">research.facebook.com/publicat</span><span class=\"invisible\">ions/llama-open-and-efficient-foundation-language-models/</span></a></p><p><a href=\"https://github.com/facebookresearch/llama\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/facebookresearch/ll</span><span class=\"invisible\">ama</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@nsaphra",
+        "display_name": "Naomi Saphra"
       }
     ]
   },
@@ -34,36 +163,6 @@
       {
         "url": "https://creative.ai/@arxiv",
         "display_name": "arXiv Highlights AI/ML \ud83d\udcdd\ud83e\udd16"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/tidycampaigns",
-    "title": "tidycampaigns",
-    "latest": "2023-02-24T06:56:02+00:00",
-    "last_post": {
-      "url": "https://fosstodon.org/@adrienne/109918405445330396",
-      "content": "<p>Exciting <a href=\"https://fosstodon.org/tags/tidycampaigns\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>tidycampaigns</span></a> development.</p><p>TidyCampaigns not only will be a book but a suite of new packages: aka <a href=\"https://fosstodon.org/tags/rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rstats</span></a> data connector packages as well as an insights package.</p><p>My friend and fellow Buckeye Clay and new friend Sade both work in political tech and agree, we want to bring a stronger R community to the democratic &amp; progressive tech space.</p><p>Follow the GIt org here &gt; <br><a href=\"https://github.com/tidycampaigns\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/tidycampaigns</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://fosstodon.org/@adrienne",
-        "display_name": "Adrienne  \ud83d\udcca"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/joyeusenoelle/GuideToMastodon",
-    "title": "GitHub - joyeusenoelle/GuideToMastodon: An increasingly less-brief guide to Mastodon",
-    "latest": "2023-02-24T06:41:16+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@ryanschultz/109540476079019517",
-      "content": "<p>Two excellent, in-depth guides to Mastodon, which should answer many of your questions, are here:</p><p>1. An Increasingly Less-Brief Guide to Mastodon by joyeusenoelle: <a href=\"https://github.com/joyeusenoelle/GuideToMastodon\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/joyeusenoelle/Guide</span><span class=\"invisible\">ToMastodon</span></a></p><p>2. Nikodemus' Guide to Mastodon: <a href=\"https://docs.google.com/document/d/1D9gfeKg_-hlsU66R-dLEvUeyMsqEfyIx2pnfUeX0t_E/edit#heading=h.j95atvlbfrn5\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">docs.google.com/document/d/1D9</span><span class=\"invisible\">gfeKg_-hlsU66R-dLEvUeyMsqEfyIx2pnfUeX0t_E/edit#heading=h.j95atvlbfrn5</span></a></p><p>*PLEASE BOOST THIS POST* so more people can see this information in their timelines, thank you so much! \u2764\ufe0f </p><p>To boost, just click on the boost button below this post, as indicated by the red arrow in the attached image (the icon may vary a bit, by app):</p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@ericalba",
-        "display_name": "Eric Alba"
       }
     ]
   },
@@ -3109,85 +3208,6 @@
       {
         "url": "https://die-partei.social/@hackernews",
         "display_name": "Hackernews"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/openai/whisper",
-    "title": "GitHub - openai/whisper: Robust Speech Recognition via Large-Scale Weak Supervision",
-    "latest": "2023-02-15T04:07:41+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@judell/109866782661407404",
-      "content": "<p>Hey <span class=\"h-card\"><a href=\"https://mastodon.social/@BillSeitz\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>BillSeitz</span></a></span>, the first thing I'm trying with the Whisper speech-to-text tool is an MP3 of your most recent talk. It is taking a crazy long time but the results look pretty good to me. They're your words, though, what do you think?</p><p><a href=\"https://github.com/openai/whisper\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/openai/whisper</span><span class=\"invisible\"></span></a></p><p><a href=\"https://mastodon.social/tags/Whisper\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Whisper</span></a> <a href=\"https://mastodon.social/tags/SpeechRecognition\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>SpeechRecognition</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@judell",
-        "display_name": "Jon Udell"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/MajiBear000/RoPPT",
-    "title": "GitHub - MajiBear000/RoPPT",
-    "latest": "2023-02-15T03:24:02+00:00",
-    "last_post": {
-      "url": "https://creative.ai/@arxiv_cl/109866611033413063",
-      "content": "<p>\ud83d\udcdd Metaphor Detection with Effective Context Denoising \ud83d\udcda</p><p>\"A novel RoBERTa-based model, RoPPT, introduces a target-oriented parse tree structure in metaphor detection, and focuses on semantically relevant information by a context denoising process.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/MajiBear000/RoPPT\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/MajiBear000/RoPPT</span><span class=\"invisible\"></span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2302.05611v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2302.05611v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://creative.ai/@arxiv_cl",
-        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/arpitbansal297/Universal-Guided-Diffusion",
-    "title": "github.com/arpitbansal297/Univ...",
-    "latest": "2023-02-15T03:17:54.535000+00:00",
-    "last_post": {
-      "url": "https://a.farook.org/objects/e939befd-1e95-4c68-9bcb-fcbffe865894",
-      "content": "\"Universal Guidance for Diffusion Models. (arXiv:2302.07121v1 [cs.CV])\" \u2014 a universal guidance algorithm that enables diffusion models to be controlled by arbitrary guidance methods such as segmentation, face recognition, object detection, and classifier signals, without the need to retrain for that specific method.<br><br>Paper: <a href=\"http://arxiv.org/abs/2302.07121\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">http://arxiv.org/abs/2302.07121</a><br>Code: <a href=\"https://github.com/arpitbansal297/Universal-Guided-Diffusion\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">https://github.com/arpitbansal297/Universal-Guided-Diffusion</a><br><br><a class=\"hashtag\" href=\"https://a.farook.org/tag/ai\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#AI</a> <a class=\"hashtag\" href=\"https://a.farook.org/tag/cv\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#CV</a> <a class=\"hashtag\" href=\"https://a.farook.org/tag/newpaper\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#NewPaper</a> <a class=\"hashtag\" href=\"https://a.farook.org/tag/deeplearning\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#DeepLearning</a>  <a class=\"hashtag\" href=\"https://a.farook.org/tag/machinelearning\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#MachineLearning</a><br><br>&lt;&lt;Find this useful? Please boost so that others can benefit too \ud83d\ude42&gt;&gt;<br><a href=\"https://a.farook.org/media/6911de755c97591466de40721af14d574fb6e8f36bda462fefcb1cefbf8d7243.jpeg\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">Examples of diffusion being gui\u2026</a>"
-    },
-    "people": [
-      {
-        "url": "https://sigmoid.social/@aran",
-        "display_name": "Aran Komatsuzaki"
-      },
-      {
-        "url": "https://a.farook.org/users/f",
-        "display_name": "Fahim Farook"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/huggingface/diffusers/tree/main/scripts",
-    "title": "https://github.com/huggingface/diffusers/tree/main/scripts",
-    "latest": "2023-02-15T02:51:52.099000+00:00",
-    "last_post": {
-      "url": "https://a.farook.org/objects/46666c35-f526-4a56-aedf-da30b5351c7b",
-      "content": "Since yesterday evening, when I finally perfected the process for converting existing <a class=\"hashtag\" href=\"https://a.farook.org/tag/stablediffusion\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#StableDiffusion</a> models (in either CKPT or SAFETENSOR format) to CoreML format, I\u2019ve converted six models. Of them, all except for one work fine \ud83d\ude42<br><br>So, in case this helps anybody else, here are the important things to remember:<br><br>1. You *must* use Python 3.8. If you any other Python version, you will end up with errors. (Not that I\u2019ve tested all Python versions, but I did have errors with Python 3.9 and have read reports of others \u2026)<br><br>2. You should be on Ventura 13.1 or higher.<br><br>3. You need the models to be in Diffusers format to run the conversion, but the easiest way that has worked for me is to download a CKPT file, convert it to Diffusers and point the script at the local folder with the Diffusers format model.<br><br>4. HuggingFace folks have a bunch of conversion scripts here: <a href=\"https://github.com/huggingface/diffusers/tree/main/scripts\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">https://github.com/huggingface/diffusers/tree/main/scripts</a><br><br>5. The above scripts don\u2019t mention SAFETENSOR format in the file names but SAFETENSOR is just CKPT with some changes. The CKPT conversion file has an extra argument named \u201c--from_safetensors\u201d so you can use the same script for CKPT to convert SAFETENSOR files with that extra argument.<br><br>6. You can use the Apple conversion script to convert one element at at a time using the different arguments such as \u201c--convert-unet\u201d, \u201c--convert-text-encoder\u201d etc. You don\u2019t have to run all of them together. In fact, it turned out when I ran them all together, sometimes a component might be left out \u2014 generally the text encoder.<br><br>7. Once you\u2019ve converted all the components and have them in one folder, you have to run the Apple conversion script once more with the \u201c--bundle-resources-for-swift-cli\u201d argument (pointing at your output folder) to create the final compiled CoreML model files (.mlmodelc) from your .mlpackage files.<br><br>That\u2019s it \ud83d\ude42 If you do all of the above, it should be fairly straightforward to create new CoreML models from existing StableDiffusion models.<br><br>Feel free to hit me up should you run into issues. Since I\u2019ve gone through all this, I\u2019d be happy to help anybody else facing the same issues \u2026.<br><br><a class=\"hashtag\" href=\"https://a.farook.org/tag/coreml\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#CoreML</a> <a class=\"hashtag\" href=\"https://a.farook.org/tag/stablediffusion\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#StableDiffusion</a> <a class=\"hashtag\" href=\"https://a.farook.org/tag/machinelearning\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#MachineLearning</a> <a class=\"hashtag\" href=\"https://a.farook.org/tag/deeplearning\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#DeepLearning</a> <a class=\"hashtag\" href=\"https://a.farook.org/tag/modelconversion\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#ModelConversion</a>"
-    },
-    "people": [
-      {
-        "url": "https://a.farook.org/users/f",
-        "display_name": "Fahim Farook"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/getkirby/eleventylab",
-    "title": "GitHub - getkirby/eleventylab: Experimental 11ty setup that reads from Kirby's content folder",
-    "latest": "2023-02-14T21:09:01+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@getkirby/109862127694506224",
-      "content": "<p>Kirby and <span class=\"h-card\"><a href=\"https://fosstodon.org/@eleventy\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>eleventy</span></a></span> are a great match. There are currently a few places to get you started:  </p><p>Using 11ty to read directly from Kirby's content folder (see my last post): \ud83e\uddd1\u200d\ud83d\udd2c <a href=\"https://github.com/getkirby/eleventylab\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/getkirby/eleventyla</span><span class=\"invisible\">b</span></a>  </p><p>Using Kirby as a Headless CMS for 11ty:   <br>\ud83d\ude80 <a href=\"https://github.com/getkirby/eleventykit\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/getkirby/eleventyki</span><span class=\"invisible\">t</span></a> <br>\ud83d\udcd6 <a href=\"https://getkirby.com/docs/cookbook/setup/headless-getting-started\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">getkirby.com/docs/cookbook/set</span><span class=\"invisible\">up/headless-getting-started</span></a>  </p><p>\u2026 and this amazing new guide by James Steel to create a Kiosk app: <br>\ud83c\udfea <a href=\"https://getkirby.com/docs/cookbook/setup/headless-kiosk-application\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">getkirby.com/docs/cookbook/set</span><span class=\"invisible\">up/headless-kiosk-application</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.scot/@accudio",
-        "display_name": "Alistair Shepherd"
       }
     ]
   }
