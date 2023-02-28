@@ -1,5 +1,234 @@
 [
   {
+    "link": "https://github.com/nrennie/tidytuesday/tree/main/2023/2023-02-28",
+    "title": "tidytuesday/2023/2023-02-28 at main \u00b7 nrennie/tidytuesday",
+    "latest": "2023-02-28T09:59:44+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@nrennie/109941777018121891",
+      "content": "<p>It's <a href=\"https://fosstodon.org/tags/TidyTuesday\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>TidyTuesday</span></a> again! Thanks to Shamsuddeen Hassan Muhammad for sharing the data this week on African language sentiments \ud83c\udf0d</p><p>I made use of {ggtext} again this week to try some alternative approaches to labelling bar charts! \ud83d\udcca</p><p>Code: <a href=\"https://github.com/nrennie/tidytuesday/tree/main/2023/2023-02-28\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/nrennie/tidytuesday</span><span class=\"invisible\">/tree/main/2023/2023-02-28</span></a></p><p><a href=\"https://fosstodon.org/tags/RStats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>RStats</span></a> <a href=\"https://fosstodon.org/tags/R4DS\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>R4DS</span></a> <a href=\"https://fosstodon.org/tags/DataViz\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DataViz</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fosstodon.org/@nrennie",
+        "display_name": "Nicola Rennie"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/Wandmalfarbe/pandoc-latex-template",
+    "title": "GitHub - Wandmalfarbe/pandoc-latex-template: A pandoc LaTeX template to convert markdown files to PDF or LaTeX.",
+    "latest": "2023-02-28T09:36:00+00:00",
+    "last_post": {
+      "url": "https://social.linux.pizza/@lalle/109941683669990984",
+      "content": "<p><span class=\"h-card\"><a href=\"https://mastodon.social/@ted_dunning\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>ted_dunning</span></a></span> I am trying to generate reports (not so technical, mostly text + tables). Most of my googling paths starting from markdown led me to <a href=\"https://github.com/Wandmalfarbe/pandoc-latex-template\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/Wandmalfarbe/pandoc</span><span class=\"invisible\">-latex-template</span></a></p><p>I struggle to get decent tables, so let me know if you have other pointers.</p>"
+    },
+    "people": [
+      {
+        "url": "https://social.linux.pizza/@lalle",
+        "display_name": "Lars Albertsson"
+      }
+    ]
+  },
+  {
+    "link": "https://gist.github.com/hrbrmstr/a24ab4d29ad78e5d388a28c89e44f72a",
+    "title": "gist:a24ab4d29ad78e5d388a28c89e44f72a",
+    "latest": "2023-02-28T09:34:26+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@hrbrmstr/109941677549889965",
+      "content": "<p><span class=\"h-card\"><a href=\"https://fosstodon.org/@jonocarroll\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>jonocarroll</span></a></span> Some \ud83d\udc18 clients don't display that well so this is a gist for it <a href=\"https://gist.github.com/hrbrmstr/a24ab4d29ad78e5d388a28c89e44f72a\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gist.github.com/hrbrmstr/a24ab</span><span class=\"invisible\">4d29ad78e5d388a28c89e44f72a</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@hrbrmstr",
+        "display_name": "boB Rudis \ud83c\uddfa\ud83c\udde6"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/Abiskar-Timsina/spinloader",
+    "title": "GitHub - Abiskar-Timsina/spinloader: A CLI animator that does a little more than just render animations",
+    "latest": "2023-02-28T08:29:57+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@python_discussions/109941423932708967",
+      "content": "<p>Released my first pypi project!</p><p><a href=\"https://github.com/Abiskar-Timsina/spinloader\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/Abiskar-Timsina/spi</span><span class=\"invisible\">nloader</span></a></p><p>Discussions: <a href=\"https://discu.eu/q/https://github.com/Abiskar-Timsina/spinloader\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">discu.eu/q/https://github.com/</span><span class=\"invisible\">Abiskar-Timsina/spinloader</span></a></p><p><a href=\"https://mastodon.social/tags/programming\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>programming</span></a> <a href=\"https://mastodon.social/tags/python\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>python</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@python_discussions",
+        "display_name": "Python Weekly"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/pgvector/pgvector",
+    "title": "GitHub - pgvector/pgvector: Open-source vector similarity search for Postgres",
+    "latest": "2023-02-28T06:40:02+00:00",
+    "last_post": {
+      "url": "https://die-partei.social/@hackernews/109940991724016840",
+      "content": "<p>pgvector: Open-source vector similarity search for Postgres - <a href=\"https://github.com/pgvector/pgvector\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/pgvector/pgvector</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://die-partei.social/@hackernews",
+        "display_name": "Hackernews"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/pudnax/startino-measurino",
+    "title": "GitHub - pudnax/startino-measurino",
+    "latest": "2023-02-28T05:46:37+00:00",
+    "last_post": {
+      "url": "https://mastodon.gamedev.place/@panna_pudi/109940781694864587",
+      "content": "<p><a href=\"https://github.com/pudnax/startino-measurino\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/pudnax/startino-mea</span><span class=\"invisible\">surino</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.gamedev.place/@panna_pudi",
+        "display_name": "Pudi \ud83c\udf6e"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/slowy07/luna",
+    "title": "https://github.com/slowy07/luna",
+    "latest": "2023-02-28T04:56:59.968000+00:00",
+    "last_post": {
+      "url": "https://a.farook.org/objects/da52abb6-fcea-4c34-a42a-7dde984307c0",
+      "content": "\"Accuracy and Fidelity Comparison of Luna and DALL-E 2 Diffusion-Based Image Generation Systems. (arXiv:2301.01914v2 [cs.CV] UPDATED)\" \u2014 Comparing the accuracy and fidelity of images generated by DALL-E 2 and Luna, which is Stable Diffusion-based.<br><br>Paper: <a href=\"http://arxiv.org/abs/2301.01914\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">http://arxiv.org/abs/2301.01914</a><br>Luna code: <a href=\"https://github.com/slowy07/luna\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">https://github.com/slowy07/luna</a><br><br><a class=\"hashtag\" href=\"https://a.farook.org/tag/ai\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#AI</a> <a class=\"hashtag\" href=\"https://a.farook.org/tag/cv\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#CV</a> <a class=\"hashtag\" href=\"https://a.farook.org/tag/newpaper\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#NewPaper</a> <a class=\"hashtag\" href=\"https://a.farook.org/tag/deeplearning\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#DeepLearning</a>  <a class=\"hashtag\" href=\"https://a.farook.org/tag/machinelearning\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#MachineLearning</a><br><br>&lt;&lt;Find this useful? Please boost so that others can benefit too \ud83d\ude42&gt;&gt;<br><a href=\"https://a.farook.org/media/ac52b8f58fed02a344bbb7c080a0d2fb9d8aac227db6a0bc7a5fe1a4af08777c.jpeg\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">Selected image samples from the\u2026</a>"
+    },
+    "people": [
+      {
+        "url": "https://a.farook.org/users/f",
+        "display_name": "Fahim Farook"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/nyukat/3d_gmic",
+    "title": "https://github.com/nyukat/3d_gmic",
+    "latest": "2023-02-28T04:49:28.515000+00:00",
+    "last_post": {
+      "url": "https://a.farook.org/objects/a21d7d00-0bc5-4b47-a06e-70f7134d9354",
+      "content": "\"An efficient deep neural network to find small objects in large 3D images. (arXiv:2210.08645v2 [cs.CV] UPDATED)\" \u2014 What it says in the title \ud83d\ude42<br><br>Paper: <a href=\"http://arxiv.org/abs/2210.08645\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">http://arxiv.org/abs/2210.08645</a><br>Code: <a href=\"https://github.com/nyukat/3d_gmic\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">https://github.com/nyukat/3d_gmic</a><br><br><a class=\"hashtag\" href=\"https://a.farook.org/tag/ai\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#AI</a> <a class=\"hashtag\" href=\"https://a.farook.org/tag/cv\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#CV</a> <a class=\"hashtag\" href=\"https://a.farook.org/tag/newpaper\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#NewPaper</a> <a class=\"hashtag\" href=\"https://a.farook.org/tag/deeplearning\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#DeepLearning</a>  <a class=\"hashtag\" href=\"https://a.farook.org/tag/machinelearning\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#MachineLearning</a><br><br>&lt;&lt;Find this useful? Please boost so that others can benefit too \ud83d\ude42&gt;&gt;"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@rich",
+        "display_name": "Rich Tong \u2764\ufe0f\ud83c\udf93"
+      },
+      {
+        "url": "https://a.farook.org/users/f",
+        "display_name": "Fahim Farook"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/dps2022/diffusion-posterior-sampling",
+    "title": "https://github.com/dps2022/diffusion-posterior-sampling",
+    "latest": "2023-02-28T04:34:47.745000+00:00",
+    "last_post": {
+      "url": "https://a.farook.org/objects/7087a815-fcab-4d07-a2de-aadcf8f60982",
+      "content": "\"Diffusion Posterior Sampling for General Noisy Inverse Problems. (arXiv:2209.14687v3 [stat.ML] UPDATED)\" \u2014 Extending diffusion solvers to efficiently handle general noisy (non)linear inverse problems via approximation of the posterior sampling.<br><br>Paper: <a href=\"http://arxiv.org/abs/2209.14687\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">http://arxiv.org/abs/2209.14687</a><br>Code: <a href=\"https://github.com/dps2022/diffusion-posterior-sampling\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">https://github.com/dps2022/diffusion-posterior-sampling</a><br><br><a class=\"hashtag\" href=\"https://a.farook.org/tag/ai\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#AI</a> <a class=\"hashtag\" href=\"https://a.farook.org/tag/cv\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#CV</a> <a class=\"hashtag\" href=\"https://a.farook.org/tag/newpaper\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#NewPaper</a> <a class=\"hashtag\" href=\"https://a.farook.org/tag/deeplearning\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#DeepLearning</a>  <a class=\"hashtag\" href=\"https://a.farook.org/tag/machinelearning\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#MachineLearning</a><br><br>&lt;&lt;Find this useful? Please boost so that others can benefit too \ud83d\ude42&gt;&gt;<br><a href=\"https://a.farook.org/media/d796df8a112067b598c7fa0f647be01fbab33d61110587b3b62a08aa20f585a6.jpeg\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">Solving noisy linear, and nonli\u2026</a>"
+    },
+    "people": [
+      {
+        "url": "https://a.farook.org/users/f",
+        "display_name": "Fahim Farook"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/Janko-dev/autodiff",
+    "title": "GitHub - Janko-dev/autodiff: Scalar-valued Automatic Differentiation library in C",
+    "latest": "2023-02-28T04:32:08+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@c_discussions/109940483777544854",
+      "content": "<p>Autodiff in C (need help fixing memory leak)</p><p><a href=\"https://github.com/Janko-dev/autodiff\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/Janko-dev/autodiff</span><span class=\"invisible\"></span></a></p><p>Discussions: <a href=\"https://discu.eu/q/https://github.com/Janko-dev/autodiff\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">discu.eu/q/https://github.com/</span><span class=\"invisible\">Janko-dev/autodiff</span></a></p><p><a href=\"https://mastodon.social/tags/compsci\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>compsci</span></a> <a href=\"https://mastodon.social/tags/cprogramming\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>cprogramming</span></a> <a href=\"https://mastodon.social/tags/machinelearning\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>machinelearning</span></a> <a href=\"https://mastodon.social/tags/programming\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>programming</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@compsci_discussions",
+        "display_name": "Compsci Weekly"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/bjing2016/subspace-diffusion",
+    "title": "https://github.com/bjing2016/subspace-diffusion",
+    "latest": "2023-02-28T04:08:17.153000+00:00",
+    "last_post": {
+      "url": "https://a.farook.org/objects/7c6ef082-b531-42b6-b158-c403da185977",
+      "content": "\"Subspace Diffusion Generative Models. (arXiv:2205.01490v2 [cs.LG] UPDATED)\" \u2014 Restricting diffusion via projections onto subspaces to reduce computational time and cost without affecting the overall quality of the generated image.<br><br>Paper: <a href=\"http://arxiv.org/abs/2205.01490\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">http://arxiv.org/abs/2205.01490</a><br>Code: <a href=\"https://github.com/bjing2016/subspace-diffusion\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">https://github.com/bjing2016/subspace-diffusion</a><br><br><a class=\"hashtag\" href=\"https://a.farook.org/tag/ai\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#AI</a> <a class=\"hashtag\" href=\"https://a.farook.org/tag/cv\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#CV</a> <a class=\"hashtag\" href=\"https://a.farook.org/tag/newpaper\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#NewPaper</a> <a class=\"hashtag\" href=\"https://a.farook.org/tag/deeplearning\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#DeepLearning</a>  <a class=\"hashtag\" href=\"https://a.farook.org/tag/machinelearning\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#MachineLearning</a><br><br>&lt;&lt;Find this useful? Please boost so that others can benefit too \ud83d\ude42&gt;&gt;<br><a href=\"https://a.farook.org/media/0d1160900c1083d4c834c8f8baaf1e66a09e8ed3b6a29c108316862b724ccd84.jpeg\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">Random high resolution samples \u2026</a>"
+    },
+    "people": [
+      {
+        "url": "https://a.farook.org/users/f",
+        "display_name": "Fahim Farook"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/Liuyuxinict/prenet/",
+    "title": "https://github.com/Liuyuxinict/prenet/",
+    "latest": "2023-02-28T04:00:11.436000+00:00",
+    "last_post": {
+      "url": "https://a.farook.org/objects/6fdad2b0-48aa-4c7e-b8ff-4583bdbeb0f5",
+      "content": "\"Large Scale Visual Food Recognition. (arXiv:2103.16107v3 [cs.CV] UPDATED)\" \u2014 A food dataset with 2,000 categories and over 1 million images that can be used for food recognition.<br><br>Paper: <a href=\"http://arxiv.org/abs/2103.16107\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">http://arxiv.org/abs/2103.16107</a><br>Code: <a href=\"https://github.com/Liuyuxinict/prenet/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">https://github.com/Liuyuxinict/prenet/</a><br><br><a class=\"hashtag\" href=\"https://a.farook.org/tag/ai\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#AI</a> <a class=\"hashtag\" href=\"https://a.farook.org/tag/cv\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#CV</a> <a class=\"hashtag\" href=\"https://a.farook.org/tag/newpaper\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#NewPaper</a> <a class=\"hashtag\" href=\"https://a.farook.org/tag/deeplearning\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#DeepLearning</a>  <a class=\"hashtag\" href=\"https://a.farook.org/tag/machinelearning\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#MachineLearning</a><br><br>&lt;&lt;Find this useful? Please boost so that others can benefit too \ud83d\ude42&gt;&gt;<br><a href=\"https://a.farook.org/media/3b34e720694d39cf726b51d218c9ed1d52d18bc3b7c670b2e72f7129c6b844d2.jpeg\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">The distributions over each cat\u2026</a>"
+    },
+    "people": [
+      {
+        "url": "https://a.farook.org/users/f",
+        "display_name": "Fahim Farook"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/ridgerchu/SpikeGPT",
+    "title": "GitHub - ridgerchu/SpikeGPT: Implementation of \"SpikeGPT: Generative Pre-trained Language Model with Spiking Neural Networks\"",
+    "latest": "2023-02-28T02:13:13+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@aran/109939942587340912",
+      "content": "<p>SpikeGPT: Generative Pre-trained Language Model<br>with Spiking Neural Networks</p><p>Competitive with non-spiking models on tested benchmarks, while maintaining 5x less energy consumption on neuromorphic hardware.</p><p>repo: <a href=\"https://github.com/ridgerchu/SpikeGPT\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/ridgerchu/SpikeGPT</span><span class=\"invisible\"></span></a><br>abs: <a href=\"https://arxiv.org/abs/2302.13939\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2302.13939</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@aran",
+        "display_name": "Aran Komatsuzaki"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/NVlabs/ffhq-dataset",
+    "title": "GitHub - NVlabs/ffhq-dataset: Flickr-Faces-HQ Dataset (FFHQ)",
+    "latest": "2023-02-28T02:00:35+00:00",
+    "last_post": {
+      "url": "https://creative.ai/@alexjc/109939892914585391",
+      "content": "<p>With the criticism of web-scale datasets, it's legitimate to ask the question:<br>\"What models are trained with best-in-class Copyright practices?\"</p><p>Answer: StyleGAN and FFHQ<br><a href=\"https://github.com/NVlabs/ffhq-dataset\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/NVlabs/ffhq-dataset</span><span class=\"invisible\"></span></a></p><p>100% transparent dataset, clear copyright, opt-in licensing, model respects terms.</p>"
+    },
+    "people": [
+      {
+        "url": "https://creative.ai/@alexjc",
+        "display_name": "Alex J. Champandard \u2744\ufe0f"
+      }
+    ]
+  },
+  {
+    "link": "https://gist.github.com/GreenFootballs/ad1ed63883683b4c4455ec6ea5a95d35",
+    "title": "Revised Mastodon embed script, handles dynamically added oembed iframes",
+    "latest": "2023-02-28T01:06:20+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@Green_Footballs/109917066789971650",
+      "content": "<p>I\u2019ve been building a much better way to embed Mastodon posts in a blog or wiki or whatever, simply by pasting in a post\u2019s URL.</p><p>It uses a revamped version of the Mastodon embed.js script, that can be used to correctly size dynamically embedded posts. It's just one piece of the puzzle, but that code is here if you\u2019d like to give it a try: <a href=\"https://gist.github.com/GreenFootballs/ad1ed63883683b4c4455ec6ea5a95d35\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gist.github.com/GreenFootballs</span><span class=\"invisible\">/ad1ed63883683b4c4455ec6ea5a95d35</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://opinuendo.com/@matthew",
+        "display_name": "Matthew Reinbold"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/reggi/",
     "title": "https://github.com/reggi/",
     "latest": "2023-02-27T21:49:05+00:00",
@@ -2983,251 +3212,6 @@
       {
         "url": "https://hachyderm.io/@schlink",
         "display_name": "Sam Schlinkert"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/duckdb/duckdb/issues/2836#issuecomment-1432226962",
-    "title": "Add basic support for GeoSpatial type \u00b7 Issue #2836 \u00b7 duckdb/duckdb",
-    "latest": "2023-02-19T02:15:24+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@EvenRouault/109887062081111154",
-      "content": "<p>Looks like a GDAL based DuckDB extension is in the works: <a href=\"https://github.com/duckdb/duckdb/issues/2836#issuecomment-1432226962\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/duckdb/duckdb/issue</span><span class=\"invisible\">s/2836#issuecomment-1432226962</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://fosstodon.org/@mdsumner",
-        "display_name": "mdsumner"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/heartcombo/devise/issues/5527",
-    "title": "Passkeys support \u00b7 Issue #5527 \u00b7 heartcombo/devise",
-    "latest": "2023-02-19T00:44:29+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@mglenn/109878260492899658",
-      "content": "<p><span class=\"h-card\"><a href=\"https://hachyderm.io/@rmondello\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>rmondello</span></a></span> Mastodon has the Devise gem listed in its Gemfile so without diving into Mastodon auth code I assume that's how they're doing authentication since it's fairly standard for Rails apps. A quick search and I found a Devise discussion on the implementation of passkeys. </p><p>There was an update from the developer trying to build in this feature 4 days ago. They're looking for someone with more knowledge of passkeys to take a look at the code so far. </p><p><a href=\"https://github.com/heartcombo/devise/issues/5527\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/heartcombo/devise/i</span><span class=\"invisible\">ssues/5527</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://indieweb.social/@tchambers",
-        "display_name": "Tim Chambers"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/RConsortium/OOP-WG",
-    "title": "GitHub - RConsortium/OOP-WG: Collaboration space for the Object-oriented Programming Working Group",
-    "latest": "2023-02-19T00:39:05+00:00",
-    "last_post": {
-      "url": "https://genomic.social/@multimeric/109885996251078324",
-      "content": "<p>This is exciting. The S7 aka R7 aka OOP-WG class system is submitting patches to R and is close to a release!</p><p>More info: <a href=\"https://stat.ethz.ch/pipermail/r-devel/2023-February/082352.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">stat.ethz.ch/pipermail/r-devel</span><span class=\"invisible\">/2023-February/082352.html</span></a> and <a href=\"https://github.com/RConsortium/OOP-WG\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/RConsortium/OOP-WG</span><span class=\"invisible\"></span></a></p><p><a href=\"https://genomic.social/tags/RStats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>RStats</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@hrbrmstr",
-        "display_name": "boB Rudis \ud83c\uddfa\ud83c\udde6"
-      },
-      {
-        "url": "https://fosstodon.org/@hadleywickham",
-        "display_name": "Hadley Wickham"
-      },
-      {
-        "url": "https://mastodon.tjpalanca.com/@tjpalanca",
-        "display_name": "TJ Palanca"
-      },
-      {
-        "url": "https://fosstodon.org/@andyteucher",
-        "display_name": "Andy Teucher"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/ledell/phd-thesis",
-    "title": "GitHub - ledell/phd-thesis: My UC Berkeley Ph.D. dissertation.",
-    "latest": "2023-02-18T21:01:30+00:00",
-    "last_post": {
-      "url": "https://fosstodon.org/@rladies_cologne/109885389859725355",
-      "content": "<p>We had a fantastic evening yesterday and learned so much from and with <span class=\"h-card\"><a href=\"https://mastodon.social/@ledell\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>ledell</span></a></span> \ud83e\udd13<br>We started with the fundamentals in autoML, went to the core principles of H2O\u2019s algorithm, and got insights into explainability and some newer kids on the block: {agua} and H2O Wave \ud83c\udf0a</p><p>If you missed the meeting and want to read upon it, here are some links on what we've learned:</p><p>\ud83d\ude80 Getting started with <a href=\"https://fosstodon.org/tags/autoML\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>autoML</span></a>: <a href=\"https://github.com/ledell/phd-thesis\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/ledell/phd-thesis</span><span class=\"invisible\"></span></a></p><p>\ud83d\ude80 More on <a href=\"https://fosstodon.org/tags/H2O\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>H2O</span></a>: <a href=\"https://www.automl.org/wp-content/uploads/2020/07/AutoML_2020_paper_61.pdf\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">automl.org/wp-content/uploads/</span><span class=\"invisible\">2020/07/AutoML_2020_paper_61.pdf</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@ledell",
-        "display_name": "Erin LeDell"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/amazon-research/",
-    "title": "amazon-research",
-    "latest": "2023-02-18T20:38:19+00:00",
-    "last_post": {
-      "url": "https://creative.ai/@arxiv_cl/109887664922943573",
-      "content": "<p>\ud83d\udcdd Conversation Style Transfer Using Few-Shot Learning \ud83d\udcda</p><p>\"Based on a sequence-to-sequence (S2S) model with multi-task training on two conversational style transfer tasks, where the input is a dialogue in the source style and the output is a dialogue in the target style.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/amazon-research/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/amazon-research/</span><span class=\"invisible\"></span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2302.08362v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2302.08362v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://creative.ai/@arxiv_cl",
-        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/xxxxxxxxy/memotion3-SEFusion",
-    "title": "GitHub - xxxxxxxxy/memotion3-SEFusion: The implementation of NUAA-QMUL-AIIT at Memotion 3: Multi-modal Fusion with Squeeze-and-Excitation for Internet Meme Emotion Analysis",
-    "latest": "2023-02-18T19:18:14+00:00",
-    "last_post": {
-      "url": "https://creative.ai/@arxiv_cl/109887350032990806",
-      "content": "<p>\ud83d\udcdd NUAA-QMUL-AIIT at Memotion 3: Multi-Modal Fusion with Squeeze-and-Excitation for Internet Meme Emotion Analysis \ud83d\udcda</p><p>\"Fuses the text, image, and emotion features using squeeze-and-excitation fusion (SEFusion), which learns a weight for each modality and then applies it to its own modality feature to perform multi-modal feature fusion for meme emotion analysis.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/xxxxxxxxy/memotion3-SEFusion\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/xxxxxxxxy/memotion3</span><span class=\"invisible\">-SEFusion</span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2302.08326v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2302.08326v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://creative.ai/@arxiv_cl",
-        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/manicmaniac/sips-js-api",
-    "title": "GitHub - manicmaniac/sips-js-api: An unofficial documentation of sips's JavaScript API.",
-    "latest": "2023-02-18T19:06:19+00:00",
-    "last_post": {
-      "url": "https://fedi.simonwillison.net/@simon/109887303164651601",
-      "content": "<p>As far as I can tell the only documentation on how to use the JavaScript API is this unofficial documentation here <a href=\"https://github.com/manicmaniac/sips-js-api\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/manicmaniac/sips-js</span><span class=\"invisible\">-api</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://fedi.simonwillison.net/@simon",
-        "display_name": "Simon Willison"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/SURFnet/slurf",
-    "title": "GitHub - SURFnet/slurf: SimpleSAMLphp authproc for Mastodon/SAML integration",
-    "latest": "2023-02-18T18:40:22+00:00",
-    "last_post": {
-      "url": "https://social.edu.nl/@michielschok/109887099521249266",
-      "content": "<p><span class=\"h-card\"><a href=\"https://scholar.social/@SylviaFysica\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>SylviaFysica</span></a></span> <span class=\"h-card\"><a href=\"https://social.cwts.nl/@vtraag\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>vtraag</span></a></span> ICYMI We were so impressed with the SLURF-name we now use it at some places. We added SAML-login to Mastodon: <a href=\"https://github.com/SURFnet/slurf\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/SURFnet/slurf</span><span class=\"invisible\"></span></a> and our admins are at <span class=\"h-card\"><a href=\"https://social.edu.nl/@SLURF\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>SLURF</span></a></span> <a href=\"https://social.edu.nl/about\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">social.edu.nl/about</span><span class=\"invisible\"></span></a></p><p>Thanks!</p>"
-    },
-    "people": [
-      {
-        "url": "https://social.cwts.nl/@vtraag",
-        "display_name": "Vincent Traag"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/villares/Resources-for-teaching-programming",
-    "title": "github.com/villares/Resources-...",
-    "latest": "2023-02-18T18:30:46+00:00",
-    "last_post": {
-      "url": "https://ciberlandia.pt/@villares/109886362260088954",
-      "content": "<p><span class=\"h-card\"><a href=\"https://hci.social/@clatulip\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>clatulip</span></a></span> <span class=\"h-card\"><a href=\"https://hci.social/@jbigham\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>jbigham</span></a></span> cool!</p><p>For some reason (well because of my personal teaching history, from teaching Processing) I could never enjoy teaching turtle for adults.</p><p>See if you find other graphics vocabularies viable, my favorite currently is <a href=\"https://py5coding.org\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">py5coding.org</span><span class=\"invisible\"></span></a></p><p>And you could have a look at other stuff at <a href=\"https://github.com/villares/Resources-for-teaching-programming\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/villares/Resources-</span><span class=\"invisible\">for-teaching-programming</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://ciberlandia.pt/@villares",
-        "display_name": "Alexandre B A Villares \ud83d\udc0d"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/chris-billingham/re-notion",
-    "title": "GitHub - chris-billingham/re-notion: A repo (and ultimately package) for interaction with the Notion API",
-    "latest": "2023-02-18T18:14:22+00:00",
-    "last_post": {
-      "url": "https://fosstodon.org/@chrisbillingham/109887098886147206",
-      "content": "<p>I'm currently working on, what will probably end up, a package for interacting with, and extracting/creating data into Notion from R.</p><p>Follow along if you're curious: <a href=\"https://github.com/chris-billingham/re-notion\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/chris-billingham/re</span><span class=\"invisible\">-notion</span></a></p><p>An opportunity to learn `httr2` as well as the Notion API. The repo is currently a shit show but it's only a few hours old.<br><a href=\"https://fosstodon.org/tags/rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rstats</span></a> <a href=\"https://fosstodon.org/tags/notion\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>notion</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://fosstodon.org/@nrennie",
-        "display_name": "Nicola Rennie"
-      },
-      {
-        "url": "https://mastodon.social/@hrbrmstr",
-        "display_name": "boB Rudis \ud83c\uddfa\ud83c\udde6"
-      },
-      {
-        "url": "https://fosstodon.org/@chrisbillingham",
-        "display_name": "Chris Billingham"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/roryrjb/node-gpt-repl",
-    "title": "GitHub - roryrjb/node-gpt-repl: A Node.js REPL with built-in GPT3 completion",
-    "latest": "2023-02-18T17:45:04+00:00",
-    "last_post": {
-      "url": "https://die-partei.social/@hackernews/109886983635242574",
-      "content": "<p>Show HN: Node.js REPL with GPT3 Completion - <a href=\"https://github.com/roryrjb/node-gpt-repl\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/roryrjb/node-gpt-re</span><span class=\"invisible\">pl</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://die-partei.social/@hackernews",
-        "display_name": "Hackernews"
-      }
-    ]
-  },
-  {
-    "link": "https://gist.github.com/gwenwindflower/0e563eb231954ea21b8a05b084130484",
-    "title": "Save and install VSCode extensions in dotfiles",
-    "latest": "2023-02-18T17:19:56+00:00",
-    "last_post": {
-      "url": "https://sunny.garden/@winnie/109886884844422168",
-      "content": "<p>since i mentioned some weirdness using Settings Sync with VSCode \u2014 wrote a Gist this morning to capture how I\u2019m saving and installing my extensions in my dotfiles repo \u2014 using an extensions.txt file. lmk if you see anything you\u2019d change! i\u2019m no expert with bash scripts.</p><p><a href=\"https://gist.github.com/gwenwindflower/0e563eb231954ea21b8a05b084130484\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gist.github.com/gwenwindflower</span><span class=\"invisible\">/0e563eb231954ea21b8a05b084130484</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://sunny.garden/@winnie",
-        "display_name": "gwen windflower \ud83d\udcca\ud83e\udd37\ud83c\udffb\u200d\u2640\ud83d\udcc8"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/nrennie/PrettyCols",
-    "title": "GitHub - nrennie/PrettyCols: R package containing pretty colour palettes.",
-    "latest": "2023-02-18T17:16:39+00:00",
-    "last_post": {
-      "url": "https://fosstodon.org/@nrennie/109886871910305904",
-      "content": "<p>A couple of sketchy generative art pieces today \ud83c\udfa8 </p><p>The {roughsf} package by <span class=\"h-card\"><a href=\"https://fosstodon.org/@schochastics\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>schochastics</span></a></span> is quickly becoming one of my favourite packages for generative art!</p><p>Colour palettes from {PrettyCols}: <a href=\"https://github.com/nrennie/PrettyCols\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/nrennie/PrettyCols</span><span class=\"invisible\"></span></a></p><p><a href=\"https://fosstodon.org/tags/RStats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>RStats</span></a> <a href=\"https://fosstodon.org/tags/GenArtClub\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>GenArtClub</span></a> <a href=\"https://fosstodon.org/tags/GenerativeArt\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>GenerativeArt</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://fosstodon.org/@nrennie",
-        "display_name": "Nicola Rennie"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/thi-ng/umbrella/tree/develop/packages/zipper",
-    "title": "umbrella/packages/zipper at develop \u00b7 thi-ng/umbrella",
-    "latest": "2023-02-18T17:13:02+00:00",
-    "last_post": {
-      "url": "https://mastodon.thi.ng/@toxi/109886857676116596",
-      "content": "<p>Question for right-to-left language speakers/coders: I'm currently working on a parser and using a Zipper[1] to navigate the abstract syntax tree. In Zipper parlance \"left\" &amp; \"right\" are used to navigate to sibling nodes in the tree, with the latter (\"right\") referring to the logical \"next\" sibling (if the tree is traversed from beginning to end). It just occurred to me that this model is pretty much based on a western LTR language understanding and I'm wondering if that is actually very confusing to native RTL speakers. Is it?</p><p>[1] <a href=\"https://github.com/thi-ng/umbrella/tree/develop/packages/zipper\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/thi-ng/umbrella/tre</span><span class=\"invisible\">e/develop/packages/zipper</span></a></p><p>cc/ <span class=\"h-card\"><a href=\"https://merveilles.town/@nasser\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>nasser</span></a></span></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.thi.ng/@toxi",
-        "display_name": "Karsten Schmidt"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/paezha/genuary2023/tree/master/2022-01-31_Break-a-previous-image",
-    "title": "github.com/paezha/genuary2023/...",
-    "latest": "2023-02-18T17:12:35+00:00",
-    "last_post": {
-      "url": "https://mastodon.online/@paezha/109880425853872337",
-      "content": "<p>Still revisiting some of my <a href=\"https://mastodon.online/tags/genuary2023\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>genuary2023</span></a> creations, here are four tessellations with color palettes from package {PrettyCols} by <span class=\"h-card\"><a href=\"https://fosstodon.org/@nrennie\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>nrennie</span></a></span> </p><p><a href=\"https://nrennie.github.io/PrettyCols/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">nrennie.github.io/PrettyCols/</span><span class=\"invisible\"></span></a></p><p>Two \"Autumn\" mosaics, and two \"Winter\" are inspired by the Origami series of <span class=\"h-card\"><a href=\"https://fosstodon.org/@terence\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>terence</span></a></span> </p><p>Coded in <a href=\"https://mastodon.online/tags/Rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Rstats</span></a> using <a href=\"https://mastodon.online/tags/ggplot2\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ggplot2</span></a> and <a href=\"https://mastodon.online/tags/rayshader\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rayshader</span></a>. All code and more examples of outputs can be found in my repo:</p><p><a href=\"https://github.com/paezha/genuary2023/tree/master/2022-01-31_Break-a-previous-image\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/paezha/genuary2023/</span><span class=\"invisible\">tree/master/2022-01-31_Break-a-previous-image</span></a></p><p><a href=\"https://mastodon.online/tags/Rtistry\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Rtistry</span></a> <a href=\"https://mastodon.online/tags/CreativeCoding\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CreativeCoding</span></a> <a href=\"https://mastodon.online/tags/GenerativeArt\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>GenerativeArt</span></a> <a href=\"https://mastodon.online/tags/MastoArt\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>MastoArt</span></a> </p><p><span class=\"h-card\"><a href=\"https://fosstodon.org/@meghansharris\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>meghansharris</span></a></span> <span class=\"h-card\"><a href=\"https://mastodon.social/@jacquietran\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>jacquietran</span></a></span></p>"
-    },
-    "people": [
-      {
-        "url": "https://fosstodon.org/@nrennie",
-        "display_name": "Nicola Rennie"
       }
     ]
   }
