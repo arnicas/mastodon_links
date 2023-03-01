@@ -1,5 +1,133 @@
 [
   {
+    "link": "https://github.com/nrennie/tidytuesday/tree/main/2023/2023-02-28",
+    "title": "tidytuesday/2023/2023-02-28 at main \u00b7 nrennie/tidytuesday",
+    "latest": "2023-03-01T09:43:57+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@nrennie/109941777018121891",
+      "content": "<p>It's <a href=\"https://fosstodon.org/tags/TidyTuesday\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>TidyTuesday</span></a> again! Thanks to Shamsuddeen Hassan Muhammad for sharing the data this week on African language sentiments \ud83c\udf0d</p><p>I made use of {ggtext} again this week to try some alternative approaches to labelling bar charts! \ud83d\udcca</p><p>Code: <a href=\"https://github.com/nrennie/tidytuesday/tree/main/2023/2023-02-28\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/nrennie/tidytuesday</span><span class=\"invisible\">/tree/main/2023/2023-02-28</span></a></p><p><a href=\"https://fosstodon.org/tags/RStats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>RStats</span></a> <a href=\"https://fosstodon.org/tags/R4DS\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>R4DS</span></a> <a href=\"https://fosstodon.org/tags/DataViz\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DataViz</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fosstodon.org/@nrennie",
+        "display_name": "Nicola Rennie"
+      },
+      {
+        "url": "https://fosstodon.org/@leeolney",
+        "display_name": "Lee Olney"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/hypertidy/ggdal",
+    "title": "GitHub - hypertidy/ggdal: GDAL Rendering for 'ggplot2', get imagery from diverse sources for any plot with extent, and projection",
+    "latest": "2023-03-01T08:56:41+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@mdsumner/109947191368050020",
+      "content": "<p>{ggdal} taking shape, after a few months of using better image plotting helper om <a href=\"https://fosstodon.org/tags/rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rstats</span></a> was time to apply the lessons to ggplot2 backgrounds</p><p><a href=\"https://github.com/hypertidy/ggdal\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/hypertidy/ggdal</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fosstodon.org/@mdsumner",
+        "display_name": "mdsumner"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/BjnNowak/TidyTuesday/blob/main/SC_language.R",
+    "title": "TidyTuesday/SC_language.R at main \u00b7 BjnNowak/TidyTuesday",
+    "latest": "2023-03-01T08:20:33+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@bjnnowak/109942793882861179",
+      "content": "<p>Ethiopian Language Sentiment analysis for <a href=\"https://fosstodon.org/tags/TidyTuesday\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>TidyTuesday</span></a> : religious terms are mostly tweeted in a positive way, whereas the opinion of others is poorly considered... </p><p><a href=\"https://fosstodon.org/tags/RStats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>RStats</span></a> code at <a href=\"https://github.com/BjnNowak/TidyTuesday/blob/main/SC_language.R\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/BjnNowak/TidyTuesda</span><span class=\"invisible\">y/blob/main/SC_language.R</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fosstodon.org/@leeolney",
+        "display_name": "Lee Olney"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/leeolney3/TidyTuesday/blob/main/2023/week_09/2023_09.qmd",
+    "title": "TidyTuesday/2023_09.qmd at main \u00b7 leeolney3/TidyTuesday",
+    "latest": "2023-03-01T08:20:27+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@leeolney/109947048890777477",
+      "content": "<p><a href=\"https://fosstodon.org/tags/TidyTuesday\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>TidyTuesday</span></a> week 9 African Language Sentiment. This week I tried out facet_col() from the {ggforce} package.</p><p><a href=\"https://fosstodon.org/tags/rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rstats</span></a> code: <a href=\"https://github.com/leeolney3/TidyTuesday/blob/main/2023/week_09/2023_09.qmd\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/leeolney3/TidyTuesd</span><span class=\"invisible\">ay/blob/main/2023/week_09/2023_09.qmd</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fosstodon.org/@leeolney",
+        "display_name": "Lee Olney"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/marcoppasini/musika",
+    "title": "GitHub - marcoppasini/musika: Fast Infinite Waveform Music Generation",
+    "latest": "2023-03-01T06:13:36+00:00",
+    "last_post": {
+      "url": "https://creative.ai/@alexjc/109946550108920103",
+      "content": "<p>An audio project that went out of the way to train with best-in-class Copyright practices: Musika.<br><a href=\"https://github.com/marcoppasini/musika\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/marcoppasini/musika</span><span class=\"invisible\"></span></a></p><p>It's based on 17,000 songs from SXSW.  I'm not exactly sure about the license though:<br><a href=\"http://www.sxswtorrent.org/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">http://www.</span><span class=\"\">sxswtorrent.org/</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://creative.ai/@alexjc",
+        "display_name": "Alex J. Champandard \u2744\ufe0f"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/ror-community/ror-updates/releases/tag/v1.19",
+    "title": "Release v1.19 \u00b7 ror-community/ror-updates",
+    "latest": "2023-03-01T05:49:24+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@ResearchOrgs/109898635232997809",
+      "content": "<p>ROR release v1.19 is now available \ud83c\udf89 This registry update adds 37 organizations and modifies 510, bringing the total number of registry records to 104,594. Release notes: <a href=\"https://github.com/ror-community/ror-updates/releases/tag/v1.19\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/ror-community/ror-u</span><span class=\"invisible\">pdates/releases/tag/v1.19</span></a>. Data dump: <a href=\"https://doi.org/10.5281/zenodo.7644942\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">doi.org/10.5281/zenodo.7644942</span><span class=\"invisible\"></span></a> \ud83e\udd81 <a href=\"https://mastodon.social/tags/LetsRORtogether\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>LetsRORtogether</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://social.cwts.nl/@vtraag",
+        "display_name": "Vincent Traag"
+      },
+      {
+        "url": "https://fedihum.org/@christof",
+        "display_name": "Christof Sch\u00f6ch (moderator)"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/Almenon/AREPL-vscode",
+    "title": "GitHub - Almenon/AREPL-vscode: Program python in real-time",
+    "latest": "2023-03-01T04:29:54+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@python_discussions/109946142333096737",
+      "content": "<p>An Emacs REPL for Python that auto-evaluates as you type?</p><p><a href=\"https://github.com/Almenon/AREPL-vscode\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/Almenon/AREPL-vscod</span><span class=\"invisible\">e</span></a></p><p>Discussions: <a href=\"https://discu.eu/q/https://github.com/Almenon/AREPL-vscode\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">discu.eu/q/https://github.com/</span><span class=\"invisible\">Almenon/AREPL-vscode</span></a></p><p><a href=\"https://mastodon.social/tags/emacs\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>emacs</span></a> <a href=\"https://mastodon.social/tags/programming\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>programming</span></a> <a href=\"https://mastodon.social/tags/python\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>python</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@python_discussions",
+        "display_name": "Python Weekly"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/i7/extensions/blob/9.3/Brady%20Garvin/Object%20Kinds.i7x",
+    "title": "extensions/Object Kinds.i7x at 9.3 \u00b7 i7/extensions",
+    "latest": "2023-03-01T02:36:10+00:00",
+    "last_post": {
+      "url": "https://mastodon.gamedev.place/@inform7tips/109945695169607197",
+      "content": "<p>An issue here is that while `name of kind of value` is okay in phrase definitions to describe an argument, kind names are *not* a kind of value.</p><p>Object Kinds by Brady Garvin (hasn't been updated for 10.1) creates a kind of value called object kind and through various I6-level hacks provides a pretty good facsimile of a kind name kind of value.</p><p><a href=\"https://github.com/i7/extensions/blob/9.3/Brady%20Garvin/Object%20Kinds.i7x\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/i7/extensions/blob/</span><span class=\"invisible\">9.3/Brady%20Garvin/Object%20Kinds.i7x</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.gamedev.place/@inform7tips",
+        "display_name": "Inform 7 Tips"
+      }
+    ]
+  },
+  {
     "link": "https://gist.github.com/surma/3198e30a71582981c99f4929c2d40540",
     "title": "async-computed.ts",
     "latest": "2023-02-28T20:59:05+00:00",
@@ -211,21 +339,6 @@
       {
         "url": "https://die-partei.social/@hackernews",
         "display_name": "Hackernews"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/nrennie/tidytuesday/tree/main/2023/2023-02-28",
-    "title": "tidytuesday/2023/2023-02-28 at main \u00b7 nrennie/tidytuesday",
-    "latest": "2023-02-28T09:59:44+00:00",
-    "last_post": {
-      "url": "https://fosstodon.org/@nrennie/109941777018121891",
-      "content": "<p>It's <a href=\"https://fosstodon.org/tags/TidyTuesday\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>TidyTuesday</span></a> again! Thanks to Shamsuddeen Hassan Muhammad for sharing the data this week on African language sentiments \ud83c\udf0d</p><p>I made use of {ggtext} again this week to try some alternative approaches to labelling bar charts! \ud83d\udcca</p><p>Code: <a href=\"https://github.com/nrennie/tidytuesday/tree/main/2023/2023-02-28\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/nrennie/tidytuesday</span><span class=\"invisible\">/tree/main/2023/2023-02-28</span></a></p><p><a href=\"https://fosstodon.org/tags/RStats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>RStats</span></a> <a href=\"https://fosstodon.org/tags/R4DS\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>R4DS</span></a> <a href=\"https://fosstodon.org/tags/DataViz\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DataViz</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://fosstodon.org/@nrennie",
-        "display_name": "Nicola Rennie"
       }
     ]
   },
@@ -2855,21 +2968,6 @@
     ]
   },
   {
-    "link": "https://github.com/ror-community/ror-updates/releases/tag/v1.19",
-    "title": "Release v1.19 \u00b7 ror-community/ror-updates",
-    "latest": "2023-02-20T19:44:52+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@ResearchOrgs/109898635232997809",
-      "content": "<p>ROR release v1.19 is now available \ud83c\udf89 This registry update adds 37 organizations and modifies 510, bringing the total number of registry records to 104,594. Release notes: <a href=\"https://github.com/ror-community/ror-updates/releases/tag/v1.19\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/ror-community/ror-u</span><span class=\"invisible\">pdates/releases/tag/v1.19</span></a>. Data dump: <a href=\"https://doi.org/10.5281/zenodo.7644942\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">doi.org/10.5281/zenodo.7644942</span><span class=\"invisible\"></span></a> \ud83e\udd81 <a href=\"https://mastodon.social/tags/LetsRORtogether\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>LetsRORtogether</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://social.cwts.nl/@vtraag",
-        "display_name": "Vincent Traag"
-      }
-    ]
-  },
-  {
     "link": "https://github.com/simonw/bing-November-2023/blob/a99b6f56af361f274a9e63d6948adb36aff0f44c/shot.png",
     "title": "github.com/simonw/bing-Novembe...",
     "latest": "2023-02-20T19:39:46+00:00",
@@ -3118,116 +3216,6 @@
       {
         "url": "https://fosstodon.org/@adrienne",
         "display_name": "Adrienne  \ud83d\udcca"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/ryanfb/bl-dl",
-    "title": "GitHub - ryanfb/bl-dl: Script, Dockerfile, and Instructions for Downloading Manuscript Images from the British Library",
-    "latest": "2023-02-19T19:37:12+00:00",
-    "last_post": {
-      "url": "https://mastodon.online/@litteracarolina/109892292206860885",
-      "content": "<p>Can I just say that <span class=\"h-card\"><a href=\"https://botsin.space/@ryanfb\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>ryanfb</span></a></span> and his tool to pull BL MS images direct from the link (<a href=\"https://github.com/ryanfb/bl-dl\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/ryanfb/bl-dl</span><span class=\"invisible\"></span></a>) is genius. If you aren't using it yet, you absolutely should be.</p>"
-    },
-    "people": [
-      {
-        "url": "https://scholar.social/@telliott",
-        "display_name": "Tom Elliott"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/mh-salari/arXivSquirrel",
-    "title": "GitHub - mh-salari/arXivSquirrel: a Go program that generates personalized RSS feed from arXiv.org papers",
-    "latest": "2023-02-19T18:26:43+00:00",
-    "last_post": {
-      "url": "https://sigmoid.social/@hue/109892809774220404",
-      "content": "<p>Github repo of :arxiv: \ud83d\udc3f:<br><a href=\"https://github.com/mh-salari/arXivSquirrel\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/mh-salari/arXivSqui</span><span class=\"invisible\">rrel</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://sigmoid.social/@hue",
-        "display_name": "Hue :notverified:"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/C-Nedelcu/talk-to-chatgpt",
-    "title": "GitHub - C-Nedelcu/talk-to-chatgpt: Talk to ChatGPT AI using your voice and listen to its answers through a voice",
-    "latest": "2023-02-19T18:20:02+00:00",
-    "last_post": {
-      "url": "https://die-partei.social/@hackernews/109892783485328301",
-      "content": "<p>Talk-to-ChatGPT - <a href=\"https://github.com/C-Nedelcu/talk-to-chatgpt\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/C-Nedelcu/talk-to-c</span><span class=\"invisible\">hatgpt</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://die-partei.social/@hackernews",
-        "display_name": "Hackernews"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/AdriMichelson/TidyCampaigns",
-    "title": "GitHub - AdriMichelson/TidyCampaigns: An Opinionated Quarto Book on being a Data Director in Democratic Politics",
-    "latest": "2023-02-19T18:08:59+00:00",
-    "last_post": {
-      "url": "https://fosstodon.org/@adrienne/109887117686505238",
-      "content": "<p>If you want to watch my <a href=\"https://fosstodon.org/tags/tidycampaigns\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>tidycampaigns</span></a> book come to life with each set of chapters I write.<br> <a href=\"https://github.com/AdriMichelson/TidyCampaigns\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/AdriMichelson/TidyC</span><span class=\"invisible\">ampaigns</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://data-folks.masto.host/@healthstatsdude",
-        "display_name": "Tired Old Health Stats Dude"
-      },
-      {
-        "url": "https://fosstodon.org/@adrienne",
-        "display_name": "Adrienne  \ud83d\udcca"
-      },
-      {
-        "url": "https://fosstodon.org/@grrrck",
-        "display_name": "Garrick Aden-Buie"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/rmcelreath/stat_rethinking_2023",
-    "title": "GitHub - rmcelreath/stat_rethinking_2023: Statistical Rethinking Course for Jan-Mar 2023",
-    "latest": "2023-02-19T17:56:28+00:00",
-    "last_post": {
-      "url": "https://nerdculture.de/@rlmcelreath/109881157081821034",
-      "content": "<p>Week 7 of Statistical Rethinking 2023 has ended. This week focused on multilevel models and correlated varying effects. Next week: social networks &amp; Gaussian processes. Only 2 memes this week, but they are especially dank. Explanations in alt text. Lectures and all course materials here: <a href=\"https://github.com/rmcelreath/stat_rethinking_2023\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/rmcelreath/stat_ret</span><span class=\"invisible\">hinking_2023</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://nerdculture.de/@rlmcelreath",
-        "display_name": "Richard McElreath \ud83e\udd94"
-      },
-      {
-        "url": "https://fosstodon.org/@SherlockpHolmes",
-        "display_name": "Susan Holmes"
-      },
-      {
-        "url": "https://mastodon.energy/@Devonyates",
-        "display_name": "Devon Yates"
-      },
-      {
-        "url": "https://bayes.club/@akhilrao",
-        "display_name": "edgeworth boxlord"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/nerf2nerf/nerf2nerf",
-    "title": "https://github.com/nerf2nerf/nerf2nerf",
-    "latest": "2023-02-19T17:28:28+00:00",
-    "last_post": {
-      "url": "https://mastodon.cloud/@olivier_stasse/109708572731503311",
-      "content": "<p>Looks very interesting:</p><p>\u2192 PDF: <a href=\"https://arxiv.org/abs/2211.01600\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2211.01600</span><span class=\"invisible\"></span></a><br>\u2192 Homepage: <a href=\"https://nerf2nerf.github.io\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">nerf2nerf.github.io</span><span class=\"invisible\"></span></a><br>\u2192 Code: <a href=\"https://github.com/nerf2nerf/nerf2nerf\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/nerf2nerf/nerf2nerf</span><span class=\"invisible\"></span></a><br>\u2192 Video: <a href=\"https://youtu.be/S071rGezdNM\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">youtu.be/S071rGezdNM</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://creative.ai/@arxiv",
-        "display_name": "arXiv Highlights AI/ML \ud83d\udcdd\ud83e\udd16"
       }
     ]
   }
