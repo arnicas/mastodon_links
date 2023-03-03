@@ -1,5 +1,254 @@
 [
   {
+    "link": "https://github.com/rmcelreath/stat_rethinking_2023",
+    "title": "GitHub - rmcelreath/stat_rethinking_2023: Statistical Rethinking Course for Jan-Mar 2023",
+    "latest": "2023-03-03T21:32:38+00:00",
+    "last_post": {
+      "url": "https://nerdculture.de/@rlmcelreath/109960226778070259",
+      "content": "<p>Week 9 of Statistical Rethinking 2023 has ended. This week focused on measurement error and missing data. You know, the real world. Memes of the week, explanations in alt text. Lectures and everything else free (as in beer) here: <a href=\"https://github.com/rmcelreath/stat_rethinking_2023\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/rmcelreath/stat_ret</span><span class=\"invisible\">hinking_2023</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://nerdculture.de/@rlmcelreath",
+        "display_name": "Richard McElreath \ud83e\udd94"
+      },
+      {
+        "url": "https://fosstodon.org/@SherlockpHolmes",
+        "display_name": "Susan Holmes"
+      },
+      {
+        "url": "https://mastodon.energy/@Devonyates",
+        "display_name": "Devon Yates"
+      },
+      {
+        "url": "https://bayes.club/@akhilrao",
+        "display_name": "edgeworth boxlord"
+      },
+      {
+        "url": "https://hci.social/@bkeegan",
+        "display_name": "Brian C. Keegan"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/doomemacs/doomemacs",
+    "title": "GitHub - doomemacs/doomemacs: An Emacs framework for the stubborn martian hacker",
+    "latest": "2023-03-03T20:51:05+00:00",
+    "last_post": {
+      "url": "https://social.skewed.de/@tiago/109961325125828344",
+      "content": "<p>I just ditched my decades-old init.el and installed doom emacs:</p><p><a href=\"https://github.com/doomemacs/doomemacs\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/doomemacs/doomemacs</span><span class=\"invisible\"></span></a></p><p>Once you disable evil mode (\ud83e\udd2e) it's quite neat!</p>"
+    },
+    "people": [
+      {
+        "url": "https://social.skewed.de/@tiago",
+        "display_name": "Tiago Peixoto"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/kir-gadjello/zipslicer",
+    "title": "GitHub - kir-gadjello/zipslicer: A library for incremental loading of large PyTorch checkpoints",
+    "latest": "2023-03-03T20:05:02+00:00",
+    "last_post": {
+      "url": "https://die-partei.social/@hackernews/109961144070716573",
+      "content": "<p>Show HN: Zipslicer, a library for loading LLM checkpoints on consumer hardware - <a href=\"https://github.com/kir-gadjello/zipslicer\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/kir-gadjello/zipsli</span><span class=\"invisible\">cer</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://die-partei.social/@hackernews",
+        "display_name": "Hackernews"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/fullthom/chat-gpt-quine",
+    "title": "GitHub - fullthom/chat-gpt-quine",
+    "latest": "2023-03-03T19:50:02+00:00",
+    "last_post": {
+      "url": "https://die-partei.social/@hackernews/109961085067827787",
+      "content": "<p>Self-replicating Python using ChatGPT - <a href=\"https://github.com/fullthom/chat-gpt-quine\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/fullthom/chat-gpt-q</span><span class=\"invisible\">uine</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://die-partei.social/@hackernews",
+        "display_name": "Hackernews"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/r-lib/httr2/issues/210",
+    "title": "Expand on caching in Wrapping APIs \u00b7 Issue #210 \u00b7 r-lib/httr2",
+    "latest": "2023-03-03T19:19:58+00:00",
+    "last_post": {
+      "url": "https://mapstodon.space/@josiah/109960966872218358",
+      "content": "<p>:rstat:  \ud83d\udce6 <br>\u2757\ufe0f\u26a0\ufe0f calling <a href=\"https://mapstodon.space/tags/rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rstats</span></a> fam / {httr2} gurus! Re Cached OAuth2 tokens</p><p>I know that tokens are cached. I don't know how to access or used the cached tokens. Any tips? </p><p>Related <br><a href=\"https://github.com/r-lib/httr2/issues/210\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/r-lib/httr2/issues/</span><span class=\"invisible\">210</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mapstodon.space/@josiah",
+        "display_name": "Josiah :rstat:"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/koaning/embetter",
+    "title": "GitHub - koaning/embetter: just a bunch of useful embeddings",
+    "latest": "2023-03-03T19:14:32+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@koaning/109960945502841474",
+      "content": "<p>You may notice that it's designed to play nice with embetter, making it easy to use a whole suite of word/phrase/sentence/image embeddings! </p><p><a href=\"https://github.com/koaning/embetter\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/koaning/embetter</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fosstodon.org/@koaning",
+        "display_name": "Vincent D. Warmerdam"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/koaning/simsity",
+    "title": "GitHub - koaning/simsity: Super Simple Similarities Service",
+    "latest": "2023-03-03T19:13:23+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@koaning/109960940967856464",
+      "content": "<p>I've found a lot of ANN databases pretty unintuitive to set up for quick experiments. </p><p>So I wrote a little helper... reintroducing ... simsity! </p><p>It's all about building a neighborhood. Literally! </p><p><a href=\"https://github.com/koaning/simsity\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/koaning/simsity</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://recsys.social/@karlhigley",
+        "display_name": "Karl Higley"
+      },
+      {
+        "url": "https://fosstodon.org/@koaning",
+        "display_name": "Vincent D. Warmerdam"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/joshcho/ChatGPT.el",
+    "title": "GitHub - joshcho/ChatGPT.el: ChatGPT in Emacs",
+    "latest": "2023-03-03T18:44:47+00:00",
+    "last_post": {
+      "url": "https://social.coop/@MichaelTBacon/109960828506370582",
+      "content": "<p>I am oddly comforted by the fact that someone has produced a ChatGPT client mode for Emacs.</p><p><a href=\"https://github.com/joshcho/ChatGPT.el\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/joshcho/ChatGPT.el</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://social.coop/@MichaelTBacon",
+        "display_name": "Michael T. Bacon, Ph.D."
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/facebookresearch/llama/pull/73",
+    "title": "Save bandwidth by using a torrent to distribute more efficiently by ChristopherKing42 \u00b7 Pull Request #73 \u00b7 facebookresearch/llama",
+    "latest": "2023-03-03T18:43:22+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@igor/109960822952322644",
+      "content": "<p>Someone already leaked the LLaMA weights (brand new LLM from Facebook) in a torrent, and added the magnet link as a Pull Request into the Official Repository: <a href=\"https://github.com/facebookresearch/llama/pull/73\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/facebookresearch/ll</span><span class=\"invisible\">ama/pull/73</span></a> \ud83d\ude02</p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@igor",
+        "display_name": "Igor Brigadir"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/yu-takagi/StableDiffusionReconstruction",
+    "title": "GitHub - yu-takagi/StableDiffusionReconstruction: Takagi and Nishimoto, CVPR 2023",
+    "latest": "2023-03-03T18:35:02+00:00",
+    "last_post": {
+      "url": "https://die-partei.social/@hackernews/109960790192756339",
+      "content": "<p>High-res image reconstruction with latent diffusion models from human brain - <a href=\"https://github.com/yu-takagi/StableDiffusionReconstruction\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/yu-takagi/StableDif</span><span class=\"invisible\">fusionReconstruction</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://dan.mastohon.com/@danhon",
+        "display_name": "Dan Hon"
+      },
+      {
+        "url": "https://die-partei.social/@hackernews",
+        "display_name": "Hackernews"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/nshiab/simple-data-analysis.js",
+    "title": "github.com/nshiab/simple-data-...",
+    "latest": "2023-03-03T18:16:39+00:00",
+    "last_post": {
+      "url": "https://vis.social/@naelshiab/109960028296619233",
+      "content": "<p>Are you attending my session on data analysis with JavaScript at <a href=\"https://vis.social/tags/nicar23\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>nicar23</span></a>  Here are the links!</p><p>Slides =&gt; <a href=\"https://tinyurl.com/4p5v57kp\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">tinyurl.com/4p5v57kp</span><span class=\"invisible\"></span></a></p><p>Simple-data-analysis repo: <a href=\"https://github.com/nshiab/simple-data-analysis.js\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/nshiab/simple-data-</span><span class=\"invisible\">analysis.js</span></a></p><p>Reference notebook =&gt; <a href=\"https://observablehq.com/@nshiab/climate-change-in-us-cities-example\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">observablehq.com/@nshiab/clima</span><span class=\"invisible\">te-change-in-us-cities-example</span></a></p><p>Live-coding notebook =&gt; <a href=\"https://observablehq.com/@nshiab/climate-change-in-us-cities-example-live\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">observablehq.com/@nshiab/clima</span><span class=\"invisible\">te-change-in-us-cities-example-live</span></a></p><p>Node.js repo =&gt; <a href=\"https://github.com/nshiab/cities-temperature-example\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/nshiab/cities-tempe</span><span class=\"invisible\">rature-example</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@hrbrmstr",
+        "display_name": "boB Rudis \ud83c\uddfa\ud83c\udde6"
+      }
+    ]
+  },
+  {
+    "link": "https://observablehq.com/@nshiab/climate-change-in-us-cities-example",
+    "title": "observablehq.com/@nshiab/clima...",
+    "latest": "2023-03-03T18:16:39+00:00",
+    "last_post": {
+      "url": "https://vis.social/@naelshiab/109960028296619233",
+      "content": "<p>Are you attending my session on data analysis with JavaScript at <a href=\"https://vis.social/tags/nicar23\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>nicar23</span></a>  Here are the links!</p><p>Slides =&gt; <a href=\"https://tinyurl.com/4p5v57kp\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">tinyurl.com/4p5v57kp</span><span class=\"invisible\"></span></a></p><p>Simple-data-analysis repo: <a href=\"https://github.com/nshiab/simple-data-analysis.js\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/nshiab/simple-data-</span><span class=\"invisible\">analysis.js</span></a></p><p>Reference notebook =&gt; <a href=\"https://observablehq.com/@nshiab/climate-change-in-us-cities-example\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">observablehq.com/@nshiab/clima</span><span class=\"invisible\">te-change-in-us-cities-example</span></a></p><p>Live-coding notebook =&gt; <a href=\"https://observablehq.com/@nshiab/climate-change-in-us-cities-example-live\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">observablehq.com/@nshiab/clima</span><span class=\"invisible\">te-change-in-us-cities-example-live</span></a></p><p>Node.js repo =&gt; <a href=\"https://github.com/nshiab/cities-temperature-example\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/nshiab/cities-tempe</span><span class=\"invisible\">rature-example</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@hrbrmstr",
+        "display_name": "boB Rudis \ud83c\uddfa\ud83c\udde6"
+      }
+    ]
+  },
+  {
+    "link": "https://observablehq.com/@nshiab/climate-change-in-us-cities-example-live",
+    "title": "observablehq.com/@nshiab/clima...",
+    "latest": "2023-03-03T18:16:39+00:00",
+    "last_post": {
+      "url": "https://vis.social/@naelshiab/109960028296619233",
+      "content": "<p>Are you attending my session on data analysis with JavaScript at <a href=\"https://vis.social/tags/nicar23\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>nicar23</span></a>  Here are the links!</p><p>Slides =&gt; <a href=\"https://tinyurl.com/4p5v57kp\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">tinyurl.com/4p5v57kp</span><span class=\"invisible\"></span></a></p><p>Simple-data-analysis repo: <a href=\"https://github.com/nshiab/simple-data-analysis.js\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/nshiab/simple-data-</span><span class=\"invisible\">analysis.js</span></a></p><p>Reference notebook =&gt; <a href=\"https://observablehq.com/@nshiab/climate-change-in-us-cities-example\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">observablehq.com/@nshiab/clima</span><span class=\"invisible\">te-change-in-us-cities-example</span></a></p><p>Live-coding notebook =&gt; <a href=\"https://observablehq.com/@nshiab/climate-change-in-us-cities-example-live\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">observablehq.com/@nshiab/clima</span><span class=\"invisible\">te-change-in-us-cities-example-live</span></a></p><p>Node.js repo =&gt; <a href=\"https://github.com/nshiab/cities-temperature-example\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/nshiab/cities-tempe</span><span class=\"invisible\">rature-example</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@hrbrmstr",
+        "display_name": "boB Rudis \ud83c\uddfa\ud83c\udde6"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/nshiab/cities-temperature-example",
+    "title": "github.com/nshiab/cities-tempe...",
+    "latest": "2023-03-03T18:16:39+00:00",
+    "last_post": {
+      "url": "https://vis.social/@naelshiab/109960028296619233",
+      "content": "<p>Are you attending my session on data analysis with JavaScript at <a href=\"https://vis.social/tags/nicar23\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>nicar23</span></a>  Here are the links!</p><p>Slides =&gt; <a href=\"https://tinyurl.com/4p5v57kp\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">tinyurl.com/4p5v57kp</span><span class=\"invisible\"></span></a></p><p>Simple-data-analysis repo: <a href=\"https://github.com/nshiab/simple-data-analysis.js\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/nshiab/simple-data-</span><span class=\"invisible\">analysis.js</span></a></p><p>Reference notebook =&gt; <a href=\"https://observablehq.com/@nshiab/climate-change-in-us-cities-example\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">observablehq.com/@nshiab/clima</span><span class=\"invisible\">te-change-in-us-cities-example</span></a></p><p>Live-coding notebook =&gt; <a href=\"https://observablehq.com/@nshiab/climate-change-in-us-cities-example-live\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">observablehq.com/@nshiab/clima</span><span class=\"invisible\">te-change-in-us-cities-example-live</span></a></p><p>Node.js repo =&gt; <a href=\"https://github.com/nshiab/cities-temperature-example\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/nshiab/cities-tempe</span><span class=\"invisible\">rature-example</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@hrbrmstr",
+        "display_name": "boB Rudis \ud83c\uddfa\ud83c\udde6"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/jeffbinder/promptarray",
+    "title": "GitHub - jeffbinder/promptarray: Text generator prompting with Boolean operators",
+    "latest": "2023-03-03T17:58:47+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@jmbinder/109960647639949644",
+      "content": "<p>This week I released a new version of PromptArray, a system for controlling language models through a combination of natural language and Boolean logic. I refactored the code to improve compatibility with different library versions. <a href=\"https://mastodon.social/tags/LLM\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>LLM</span></a> <a href=\"https://mastodon.social/tags/ML\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ML</span></a> <a href=\"https://mastodon.social/tags/AI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AI</span></a></p><p><a href=\"https://github.com/jeffbinder/promptarray\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/jeffbinder/promptar</span><span class=\"invisible\">ray</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@jmbinder",
+        "display_name": "Jeffrey M. Binder"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/tldraw/signia",
     "title": "https://github.com/tldraw/signia",
     "latest": "2023-03-03T09:32:00+00:00",
@@ -2995,235 +3244,6 @@
       {
         "url": "https://aleph.land/@mtriclot",
         "display_name": "Mathieu Triclot"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/cjhutto/vaderSentiment",
-    "title": "GitHub - cjhutto/vaderSentiment: VADER Sentiment Analysis. VADER (Valence Aware Dictionary and sEntiment Reasoner) is a lexicon and rule-based sentiment analysis tool that is specifically attuned to sentiments expressed in social media, and works well on texts from other domains.",
-    "latest": "2023-02-22T07:43:57+00:00",
-    "last_post": {
-      "url": "https://creative.ai/@arxiv_cl/109907269195468677",
-      "content": "<p>\ud83d\udcdd M-Sense: Modeling Narrative Structure in Short Personal Narratives Using Protagonist's Mental Representations \ud83d\udcda\ud83d\udc7e</p><p>\"The protagonist's mental state information obtained from a pre-trained model trained on social commonsense knowledge and integrates their representations with contextual semantic embeddings using a multi feature fusion approach.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a> <a href=\"https://creative.ai/tags/AI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AI</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/cjhutto/vaderSentiment\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/cjhutto/vaderSentim</span><span class=\"invisible\">ent</span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2302.09418v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2302.09418v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://creative.ai/@arxiv_cl",
-        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/ClickHouse/ClickHouse/pull/45384",
-    "title": "Add StorageIceberg and table function iceberg by ucasfl \u00b7 Pull Request #45384 \u00b7 ClickHouse/ClickHouse",
-    "latest": "2023-02-22T07:26:46+00:00",
-    "last_post": {
-      "url": "https://data-folks.masto.host/@tabular/109904056888252638",
-      "content": "<p>ClickHouse adding <a href=\"https://data-folks.masto.host/tags/ApacheIceberg\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ApacheIceberg</span></a> support is a very exciting development.<br><a href=\"https://github.com/ClickHouse/ClickHouse/pull/45384\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/ClickHouse/ClickHou</span><span class=\"invisible\">se/pull/45384</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://data-folks.masto.host/@jayatid",
-        "display_name": "David Jayatillake"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/rebecca0011/UAVStereo",
-    "title": "github.com/rebecca0011/UAVSter...",
-    "latest": "2023-02-22T07:19:59+00:00",
-    "last_post": {
-      "url": "https://sigmoid.social/@ducha_aiki/109907174967493731",
-      "content": "<p>UAVStereo: A Multiple Resolution Dataset for Stereo Matching in UAV Scenarios</p><p>Zhang Xiaoyi, Cao Xuefeng, Yu Anzhu, Yu Wenshuai, Li Zhenqi, Quan Yujun</p><p>tl;dr: big synthetic+real dataset for stereo from UAV. Repo is empty now </p><p><a href=\"https://arxiv.org/abs/2302.10082\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2302.10082</span><span class=\"invisible\"></span></a><br><a href=\"https://github.com/rebecca0011/UAVStereo\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/rebecca0011/UAVSter</span><span class=\"invisible\">eo</span></a></p><p><a href=\"https://sigmoid.social/tags/computervision\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>computervision</span></a> <a href=\"https://sigmoid.social/tags/deeplearning\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>deeplearning</span></a> <br><a href=\"https://sigmoid.social/tags/dmytrotweetsaboutDL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>dmytrotweetsaboutDL</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://sigmoid.social/@ducha_aiki",
-        "display_name": "Dmytro Mishkin \ud83c\uddfa\ud83c\udde6"
-      }
-    ]
-  },
-  {
-    "link": "https://observablehq.com/@ljegou/acp-des-pains",
-    "title": "Illustration de la m\u00e9thode ACP : un exemple avec des pains",
-    "latest": "2023-02-22T06:58:30+00:00",
-    "last_post": {
-      "url": "https://vis.social/@ljegou/109907090534236838",
-      "content": "<p>Qu'est-ce que l'Analyse en Composantes Principales ? Un exemple illustr\u00e9 avec <a href=\"https://vis.social/tags/Observable\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Observable</span></a> sur un jeu de donn\u00e9es rigolo : les types de pain !</p><p>EN : What is the Principal Components Analysis (PCA) ? I wrote an illustrated example using Observable with an amusing dataset about breads (in french).</p><p><a href=\"https://observablehq.com/@ljegou/acp-des-pains\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">observablehq.com/@ljegou/acp-d</span><span class=\"invisible\">es-pains</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://vis.social/@ljegou",
-        "display_name": "Laurent J\u00e9gou"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/thudzj/Calibrated-DPMs",
-    "title": "https://github.com/thudzj/Calibrated-DPMs",
-    "latest": "2023-02-22T04:04:31.189000+00:00",
-    "last_post": {
-      "url": "https://a.farook.org/objects/8ae2de27-0430-4d94-91bc-3ee82ac5f103",
-      "content": "\"On Calibrating Diffusion Probabilistic Models. (arXiv:2302.10688v1 [cs.LG])\" \u2014 Calibrating Diffusion Probabilistic Models (DPM) to reduce the score matching loss.<br><br>Paper: <a href=\"http://arxiv.org/abs/2302.10688\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">http://arxiv.org/abs/2302.10688</a><br>Code: <a href=\"https://github.com/thudzj/Calibrated-DPMs\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">https://github.com/thudzj/Calibrated-DPMs</a><br><br><a class=\"hashtag\" href=\"https://a.farook.org/tag/ai\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#AI</a> <a class=\"hashtag\" href=\"https://a.farook.org/tag/cv\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#CV</a> <a class=\"hashtag\" href=\"https://a.farook.org/tag/newpaper\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#NewPaper</a> <a class=\"hashtag\" href=\"https://a.farook.org/tag/deeplearning\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#DeepLearning</a>  <a class=\"hashtag\" href=\"https://a.farook.org/tag/machinelearning\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#MachineLearning</a><br><br>&lt;&lt;Find this useful? Please boost so that others can benefit too \ud83d\ude42&gt;&gt;"
-    },
-    "people": [
-      {
-        "url": "https://a.farook.org/users/f",
-        "display_name": "Fahim Farook"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/hamelsmu/oauth-tutorial",
-    "title": "GitHub - hamelsmu/oauth-tutorial: Like GitHub Pages, but you choose who can see it without usernames & passwords.",
-    "latest": "2023-02-22T03:59:53+00:00",
-    "last_post": {
-      "url": "https://sigmoid.social/@rahuldave/109906388136388363",
-      "content": "<p>RT @HamelHusain<br>Want to know how to easily serve private @quarto_pub or <a href=\"https://sigmoid.social/tags/nbdev\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>nbdev</span></a> sites (or any static site) for </p><p>\ud83d\udcc4 internal documentation <br>\ud83d\udc69\u200d\ud83c\udf93paid courses<br>\ud83d\udedd for fun<br>...etc </p><p>\ud83e\ude84 Without managing user names+passwords\ud83e\ude84 but with tons of flexibility?</p><p> Here is the solution:</p><p><a href=\"https://github.com/hamelsmu/oauth-tutorial\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/hamelsmu/oauth-tuto</span><span class=\"invisible\">rial</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://sigmoid.social/@rahuldave",
-        "display_name": "Rahul Dave"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/manlius/muxViz",
-    "title": "GitHub - manlius/muxViz: Analysis and Visualization of Interconnected Multilayer Networks",
-    "latest": "2023-02-22T03:07:30+00:00",
-    "last_post": {
-      "url": "https://mathstodon.xyz/@manlius/109902624183454473",
-      "content": "<p>It's incredible (to me, at least) that the community around <a href=\"https://mathstodon.xyz/tags/muxViz\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>muxViz</span></a> reached 700+ members. </p><p>MuxViz is our R-based package for the analysis of complex <a href=\"https://mathstodon.xyz/tags/multilayer\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>multilayer</span></a> <a href=\"https://mathstodon.xyz/tags/networks\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>networks</span></a> </p><p><a href=\"https://github.com/manlius/muxViz\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/manlius/muxViz</span><span class=\"invisible\"></span></a></p><p><a href=\"https://link.springer.com/book/10.1007/978-3-030-75718-2\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">link.springer.com/book/10.1007</span><span class=\"invisible\">/978-3-030-75718-2</span></a></p><p><a href=\"https://mathstodon.xyz/tags/NetworkScience\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>NetworkScience</span></a> of interest for <a href=\"https://mathstodon.xyz/tags/ComputationalBiology\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ComputationalBiology</span></a> <a href=\"https://mathstodon.xyz/tags/NetworkNeuroscience\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>NetworkNeuroscience</span></a> <a href=\"https://mathstodon.xyz/tags/ComputationalSocialScience\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ComputationalSocialScience</span></a> <span class=\"h-card\"><a href=\"https://a.gup.pe/u/networkscience\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>networkscience</span></a></span> <span class=\"h-card\"><a href=\"https://a.gup.pe/u/complexsystems\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>complexsystems</span></a></span> <span class=\"h-card\"><a href=\"https://a.gup.pe/u/neuroscience\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>neuroscience</span></a></span></p>"
-    },
-    "people": [
-      {
-        "url": "https://hci.social/@bkeegan",
-        "display_name": "Brian C. Keegan"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/kylemcdonald/arxiv-visual-summary/blob/master/remove-oldest.sh",
-    "title": "arxiv-visual-summary/remove-oldest.sh at master \u00b7 kylemcdonald/arxiv-visual-summary",
-    "latest": "2023-02-22T02:07:28+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@kcimc/109905946124110135",
-      "content": "<p>in 2015 i wrote this bash script to remove old files. i forgot how it worked, so i just ran it. and it turns out the default behavior is to just.. delete everything in the home directory \ud83d\ude29 <a href=\"https://github.com/kylemcdonald/arxiv-visual-summary/blob/master/remove-oldest.sh\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/kylemcdonald/arxiv-</span><span class=\"invisible\">visual-summary/blob/master/remove-oldest.sh</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@kcimc",
-        "display_name": "Kyle McDonald"
-      }
-    ]
-  },
-  {
-    "link": "https://gist.github.com/zhiyun-deng/b8c019ea5fd02f1465d1fcaadd58aeb0",
-    "title": "if you less this file your terminal plays a sound",
-    "latest": "2023-02-21T21:35:03+00:00",
-    "last_post": {
-      "url": "https://die-partei.social/@hackernews/109904874929711260",
-      "content": "<p>If you less this txt file, your terminal plays a sound - <a href=\"https://gist.github.com/zhiyun-deng/b8c019ea5fd02f1465d1fcaadd58aeb0\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gist.github.com/zhiyun-deng/b8</span><span class=\"invisible\">c019ea5fd02f1465d1fcaadd58aeb0</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://die-partei.social/@hackernews",
-        "display_name": "Hackernews"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/Hello-SimpleAI/chatgpt-comparison-detection",
-    "title": "github.com/Hello-SimpleAI/chat...",
-    "latest": "2023-02-21T21:27:05+00:00",
-    "last_post": {
-      "url": "https://idf.social/@arjen/109714647613133772",
-      "content": "<p>How Close is <a href=\"https://idf.social/tags/ChatGPT\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ChatGPT</span></a> to Human Experts? Comparison Corpus, Evaluation, and Detection</p><p>Guo et al.: <a href=\"https://arxiv.org/abs/2301.07597\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2301.07597</span><span class=\"invisible\"></span></a></p><p>\"We collected tens of thousands of comparison responses from both human experts and ChatGPT, with questions ranging from open-domain, financial, medical, legal, and psychological areas. We call the collected dataset the Human ChatGPT Comparison Corpus (HC3).\"</p><p>The authors have used these datasets to evaluate various detection approaches: <a href=\"https://github.com/Hello-SimpleAI/chatgpt-comparison-detection\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/Hello-SimpleAI/chat</span><span class=\"invisible\">gpt-comparison-detection</span></a></p><p><a href=\"https://idf.social/tags/ChatGPT\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ChatGPT</span></a> <a href=\"https://idf.social/tags/AI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AI</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://idf.social/@arjen",
-        "display_name": "Arjen P. de Vries Timmers \ud83d\udd4a\ufe0f"
-      },
-      {
-        "url": "https://creative.ai/@arxiv",
-        "display_name": "arXiv Highlights AI/ML \ud83d\udcdd\ud83e\udd16"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/thunlp/",
-    "title": "THUNLP",
-    "latest": "2023-02-21T20:43:54+00:00",
-    "last_post": {
-      "url": "https://creative.ai/@arxiv_cl/109904673818422234",
-      "content": "<p>\ud83d\udcdd Scalable Prompt Generation for Semi-Supervised Learning with Language Models \ud83d\udcda\ud83d\udc7e</p><p>\"Uses various demonstration examples with learnable continuous prompt tokens to create diverse prompt models, using a varying number of soft prompt tokens to encourage language models to learn different prompts, and using the prototypical verbalizer to automatically design the verbalizer.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a> <a href=\"https://creative.ai/tags/AI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AI</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/thunlp/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/thunlp/</span><span class=\"invisible\"></span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2302.09236v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2302.09236v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://creative.ai/@arxiv_cl",
-        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/ProarchwasTaken/topdown_shooter",
-    "title": "GitHub - ProarchwasTaken/topdown_shooter",
-    "latest": "2023-02-21T20:29:55+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@python_discussions/109904618784574713",
-      "content": "<p>I wrote a top-down shooter engine with Vector2. I don't know if I should consider myself a beginner anymore.</p><p><a href=\"https://github.com/ProarchwasTaken/topdown_shooter\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/ProarchwasTaken/top</span><span class=\"invisible\">down_shooter</span></a></p><p>Discussions: <a href=\"https://discu.eu/q/https://github.com/ProarchwasTaken/topdown_shooter\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">discu.eu/q/https://github.com/</span><span class=\"invisible\">ProarchwasTaken/topdown_shooter</span></a></p><p><a href=\"https://mastodon.social/tags/programming\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>programming</span></a> <a href=\"https://mastodon.social/tags/python\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>python</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@python_discussions",
-        "display_name": "Python Weekly"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/leoncowle/mastodon-misc/tree/master/pipedream",
-    "title": "mastodon-misc/pipedream at master \u00b7 leoncowle/mastodon-misc",
-    "latest": "2023-02-21T19:34:41+00:00",
-    "last_post": {
-      "url": "https://hachyderm.io/@leoncowle/109904336591015510",
-      "content": "<p><span class=\"h-card\"><a href=\"https://stefanbohacek.online/@stefan\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>stefan</span></a></span> Your Mastodon profile PipeDream tutorial (which I think I found via <span class=\"h-card\"><a href=\"https://mastodon.social/@matthewcassinelli\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>matthewcassinelli</span></a></span>) is awesome! Seeing as I already had a little opensource solution out which runs locally on macOS/Linux, I figured it was the ideal candidate to convert to PipeDream!</p><p>It monitors your Mastodon Lists &amp; warns you when someone silently drops out (which sadly happens when people move instances).</p><p>Check it out! <a href=\"https://github.com/leoncowle/mastodon-misc/tree/master/pipedream\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/leoncowle/mastodon-</span><span class=\"invisible\">misc/tree/master/pipedream</span></a> -- with a hat-tip to your blog post in the middle of the README, Stefan.</p>"
-    },
-    "people": [
-      {
-        "url": "https://stefanbohacek.online/@stefan",
-        "display_name": "Stefan Bohacek"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/ropensci/software-review/issues/534",
-    "title": "github.com/ropensci/software-r...",
-    "latest": "2023-02-21T18:46:12+00:00",
-    "last_post": {
-      "url": "https://hachyderm.io/@rOpenSci/109903809706784804",
-      "content": "<p>rOpenSci is proud to welcome a new package to our software suite!\ud83c\udf89</p><p>rb3: Download and Parse Public Data Released by B3 Exchange by @__wilsonfreitas@twitter.com and Marcelo S. Perlin</p><p>Docs: <a href=\"https://docs.ropensci.org/rb3\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">docs.ropensci.org/rb3</span><span class=\"invisible\"></span></a><br>Peer review: <a href=\"https://github.com/ropensci/software-review/issues/534\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/ropensci/software-r</span><span class=\"invisible\">eview/issues/534</span></a></p><p>\ud83d\ude4f Thank you to reviewers <span class=\"h-card\"><a href=\"https://mastodonsocial.ca/@pacha\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>pacha</span></a></span> and Mario Gavidia Calder\u00f3n!</p><p><a href=\"https://hachyderm.io/tags/RStats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>RStats</span></a>  <br><span class=\"h-card\"><a href=\"https://a.gup.pe/u/rstats\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>rstats</span></a></span></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@JoranJongerling",
-        "display_name": "Joran"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/sims1253/bayesfam/pull/14",
-    "title": "github.com/sims1253/bayesfam/p...",
-    "latest": "2023-02-21T09:47:35+00:00",
-    "last_post": {
-      "url": "https://fediscience.org/@scholzmx/109902085738449446",
-      "content": "<p>We have experimental Support for the symlog-normal distribution in bayesfam. A continuous unbounded transformed normal distribution using the symlog link from <a href=\"https://arxiv.org/abs/2301.04104\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2301.04104</span><span class=\"invisible\"></span></a> .<br>Seems to be able to fit skewed- as well as pointy assymetric-laplace style data.<br><a href=\"https://github.com/sims1253/bayesfam/pull/14\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/sims1253/bayesfam/p</span><span class=\"invisible\">ull/14</span></a></p><p><span class=\"h-card\"><a href=\"https://a.gup.pe/u/rstats\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>rstats</span></a></span> <a href=\"https://fediscience.org/tags/brms\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>brms</span></a> <a href=\"https://fediscience.org/tags/stan\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>stan</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@JoranJongerling",
-        "display_name": "Joran"
       }
     ]
   }
