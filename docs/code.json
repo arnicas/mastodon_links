@@ -1,5 +1,172 @@
 [
   {
+    "link": "https://gist.github.com/willmcgugan/3ade56598beec8d8ce820ee216d68eaa",
+    "title": "A Textual app to edit a byte with 8 switches",
+    "latest": "2023-03-05T21:26:12+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@willmcgugan/109972787827645375",
+      "content": "<p>What blows me away about this example, is that <a href=\"https://mastodon.social/tags/Textual\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Textual</span></a> is an async framework. Scratch the surface and there is async and await to the core. </p><p>But look at this code. It's a fully working Textual app, but can you see an await anywhere?</p><p><a href=\"https://mastodon.social/tags/Python\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Python</span></a></p><p><a href=\"https://gist.github.com/willmcgugan/3ade56598beec8d8ce820ee216d68eaa\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gist.github.com/willmcgugan/3a</span><span class=\"invisible\">de56598beec8d8ce820ee216d68eaa</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@willmcgugan",
+        "display_name": "Will McGugan"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/mmastrac/keepcalm/",
+    "title": "GitHub - mmastrac/keepcalm: Simple shared types for multi-threaded Rust programs",
+    "latest": "2023-03-05T19:13:45+00:00",
+    "last_post": {
+      "url": "https://hachyderm.io/@mmastrac/109971354742305951",
+      "content": "<p>I\u2019ve long felt like the default Rust synchronization primitives have been full of little papercuts and make high-level async code far more complicated than it needs to be.</p><p>I decided to create an abstraction that would allow a developer to improve development speed and gain flexibility in exchange for a small amount of runtime overhead and a small loss of visibility into exactly what\u2019s happening under the hood.</p><p><a href=\"https://github.com/mmastrac/keepcalm/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/mmastrac/keepcalm/</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://hachyderm.io/@schlink",
+        "display_name": "Sam Schlinkert"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/jellyfin/jellyfin/issues/9406",
+    "title": "[Issue]: Ogg Vorbis music files make Jellyfin show pictures of the Dutch keyboardist Jacques Ogg(?) \u00b7 Issue #9406 \u00b7 jellyfin/jellyfin",
+    "latest": "2023-03-05T18:59:59+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@ebarrett/109936515480914948",
+      "content": "<p>Most absurd bug I've reported in some time:<br><a href=\"https://github.com/jellyfin/jellyfin/issues/9406\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/jellyfin/jellyfin/i</span><span class=\"invisible\">ssues/9406</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://vis.social/@jhilden",
+        "display_name": "Jonatan Hild\u00e9n"
+      },
+      {
+        "url": "https://mastodon.social/@autiomaa",
+        "display_name": "Daniel Schildt"
+      },
+      {
+        "url": "https://social.coop/@nicol",
+        "display_name": "Nicol Wistreich"
+      },
+      {
+        "url": "https://fosstodon.org/@mdsumner",
+        "display_name": "mdsumner"
+      },
+      {
+        "url": "https://icosahedron.website/@greg",
+        "display_name": "Greg"
+      },
+      {
+        "url": "https://mastodon.xyz/@tealtan",
+        "display_name": "Allen Tan"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/timhutton/twitter-archive-parser",
+    "title": "GitHub - timhutton/twitter-archive-parser: Python code to parse a Twitter archive and output in various ways",
+    "latest": "2023-03-05T18:13:05+00:00",
+    "last_post": {
+      "url": "https://weatherishappening.network/@kat/109904407291670789",
+      "content": "<p>btw, if you downloaded your twitter data, all links are shortened with t dot co, meaning they can't be expanded without visiting twitter. i used this tool to go through and fix them all so i know what was originally linked: <a href=\"https://github.com/timhutton/twitter-archive-parser\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/timhutton/twitter-a</span><span class=\"invisible\">rchive-parser</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sfba.social/@morgandawn",
+        "display_name": "morgandawn"
+      },
+      {
+        "url": "https://vis.social/@mgiraldo",
+        "display_name": "@mgiraldo"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/bellenuit/Tootfinder",
+    "title": "GitHub - bellenuit/Tootfinder: Opt-in search engine for Mastodon posts",
+    "latest": "2023-03-05T17:45:21+00:00",
+    "last_post": {
+      "url": "https://tooting.ch/@buercher/109971756382445215",
+      "content": "<p>Tootfinder 1.7 is on Github</p><p>* the crawler detects deleted posts (rule: newer than oldest post and not in list.)<br>* card descriptions and media descriptions are limited to 500 characters<br>* hashtag queries are now possible (if the search term is a hashtag and a single word)<br>* REST API adds a activitypub/search/ path to accommodate Mastodon format<br>* pretty URL for search and hashtag search</p><p><a href=\"https://github.com/bellenuit/Tootfinder\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/bellenuit/Tootfinde</span><span class=\"invisible\">r</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://social.cwts.nl/@vtraag",
+        "display_name": "Vincent Traag"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/0beqz/realism-effects",
+    "title": "GitHub - 0beqz/realism-effects: SSGI, Motion Blur, TRAA - effects to enhance your three.js scene's realism",
+    "latest": "2023-03-05T17:45:07+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@donmccurdy/109971918490526279",
+      "content": "<p>Screen Space Global Illumination, by 0beqz \u2014 beautiful improvements for lighting in <a href=\"https://fosstodon.org/tags/threejs\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>threejs</span></a> and <a href=\"https://fosstodon.org/tags/webgl\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>webgl</span></a>!</p><p><a href=\"https://github.com/0beqz/realism-effects\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/0beqz/realism-effec</span><span class=\"invisible\">ts</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fosstodon.org/@donmccurdy",
+        "display_name": "Don McCurdy"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/mastodon/mastodon/pull/23913",
+    "title": "Add support for incoming rich text by ClearlyClaire \u00b7 Pull Request #23913 \u00b7 mastodon/mastodon",
+    "latest": "2023-03-05T17:17:04+00:00",
+    "last_post": {
+      "url": "https://www.manton.org/2023/03/05/looks-like-mastodon.html",
+      "content": "<p>Looks like Mastodon will be getting <a href=\"https://github.com/mastodon/mastodon/pull/23913\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">expanded support for showing styles in posts</a>. Micro.blog already sends bold, italics, and other basics to Mastodon, so this will be a nice improvement for folks reading in Mastodon.</p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@davew",
+        "display_name": "Dave Winer \u2615\ufe0f"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/Ranchero-Software/NetNewsWire/issues/3896",
+    "title": "Support source:markdown \u00b7 Issue #3896 \u00b7 Ranchero-Software/NetNewsWire",
+    "latest": "2023-03-05T16:21:22+00:00",
+    "last_post": {
+      "url": "https://social.masto.land/@dave/109971410437107812",
+      "content": "<p>NetNewsWire will support Markdown in the 6.2 release.</p><p><a href=\"https://github.com/Ranchero-Software/NetNewsWire/issues/3896\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/Ranchero-Software/N</span><span class=\"invisible\">etNewsWire/issues/3896</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://indieweb.social/@tchambers",
+        "display_name": "Tim Chambers"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/noorkhokhar99/Banana-Ripeness-Detection",
+    "title": "GitHub - noorkhokhar99/Banana-Ripeness-Detection",
+    "latest": "2023-03-05T16:12:29+00:00",
+    "last_post": {
+      "url": "https://dan.mastohon.com/@danhon/109955938833034693",
+      "content": "<p>ok so essentially this already exists and I just need to hook up a camera, which is awesome</p><p><a href=\"https://github.com/noorkhokhar99/Banana-Ripeness-Detection\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/noorkhokhar99/Banan</span><span class=\"invisible\">a-Ripeness-Detection</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://dan.mastohon.com/@danhon",
+        "display_name": "Dan Hon"
+      },
+      {
+        "url": "https://mastodon.art/@royscholten",
+        "display_name": "Roy Scholten"
+      },
+      {
+        "url": "https://mastodon.social/@MattHodges",
+        "display_name": "Matt Hodges"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/purvaten/FLEX",
     "title": "https://github.com/purvaten/FLEX",
     "latest": "2023-03-05T09:50:15+00:00",
@@ -170,33 +337,6 @@
     ]
   },
   {
-    "link": "https://github.com/jellyfin/jellyfin/issues/9406",
-    "title": "[Issue]: Ogg Vorbis music files make Jellyfin show pictures of the Dutch keyboardist Jacques Ogg(?) \u00b7 Issue #9406 \u00b7 jellyfin/jellyfin",
-    "latest": "2023-03-05T05:11:39+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@ebarrett/109936515480914948",
-      "content": "<p>Most absurd bug I've reported in some time:<br><a href=\"https://github.com/jellyfin/jellyfin/issues/9406\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/jellyfin/jellyfin/i</span><span class=\"invisible\">ssues/9406</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://vis.social/@jhilden",
-        "display_name": "Jonatan Hild\u00e9n"
-      },
-      {
-        "url": "https://mastodon.social/@autiomaa",
-        "display_name": "Daniel Schildt"
-      },
-      {
-        "url": "https://social.coop/@nicol",
-        "display_name": "Nicol Wistreich"
-      },
-      {
-        "url": "https://fosstodon.org/@mdsumner",
-        "display_name": "mdsumner"
-      }
-    ]
-  },
-  {
     "link": "https://github.com/alvations/sacremoses",
     "title": "GitHub - alvations/sacremoses: Python port of Moses tokenizer, truecaser and normalizer",
     "latest": "2023-03-05T05:09:21+00:00",
@@ -253,21 +393,6 @@
       {
         "url": "https://creative.ai/@arxiv_cl",
         "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/timhutton/twitter-archive-parser",
-    "title": "GitHub - timhutton/twitter-archive-parser: Python code to parse a Twitter archive and output in various ways",
-    "latest": "2023-03-05T00:26:01+00:00",
-    "last_post": {
-      "url": "https://weatherishappening.network/@kat/109904407291670789",
-      "content": "<p>btw, if you downloaded your twitter data, all links are shortened with t dot co, meaning they can't be expanded without visiting twitter. i used this tool to go through and fix them all so i know what was originally linked: <a href=\"https://github.com/timhutton/twitter-archive-parser\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/timhutton/twitter-a</span><span class=\"invisible\">rchive-parser</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://sfba.social/@morgandawn",
-        "display_name": "morgandawn"
       }
     ]
   },
@@ -786,25 +911,6 @@
       {
         "url": "https://creative.ai/@arxiv_cl",
         "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/noorkhokhar99/Banana-Ripeness-Detection",
-    "title": "GitHub - noorkhokhar99/Banana-Ripeness-Detection",
-    "latest": "2023-03-03T07:59:24+00:00",
-    "last_post": {
-      "url": "https://dan.mastohon.com/@danhon/109955938833034693",
-      "content": "<p>ok so essentially this already exists and I just need to hook up a camera, which is awesome</p><p><a href=\"https://github.com/noorkhokhar99/Banana-Ripeness-Detection\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/noorkhokhar99/Banan</span><span class=\"invisible\">a-Ripeness-Detection</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://dan.mastohon.com/@danhon",
-        "display_name": "Dan Hon"
-      },
-      {
-        "url": "https://mastodon.art/@royscholten",
-        "display_name": "Roy Scholten"
       }
     ]
   },
@@ -3190,104 +3296,6 @@
       {
         "url": "https://fosstodon.org/@underdarkGIS",
         "display_name": "Anita Graser \ud83c\uddea\ud83c\uddfa\ud83c\uddfa\ud83c\udde6"
-      }
-    ]
-  },
-  {
-    "link": "https://gist.github.com/TimTeaFan/8f89fd127c1b38368d6dba3c2cafea46",
-    "title": "Add rows with total and group means in dplyr ",
-    "latest": "2023-02-24T19:05:51.514000+00:00",
-    "last_post": {
-      "url": "https://fosstodon.org/@TimTeaFan/109921271270566356",
-      "content": "<p>Although there are some <a href=\"https://fosstodon.org/tags/RStats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>RStats</span></a> packages which help to add group and total means to a `data.frame`, {dplyr} itself has quite some tricks up its sleeves. Some time ago (posted on the bird site) I played around with `group_map()`, `add_row()` and `across()`: </p><p><a href=\"https://gist.github.com/TimTeaFan/8f89fd127c1b38368d6dba3c2cafea46\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gist.github.com/TimTeaFan/8f89</span><span class=\"invisible\">fd127c1b38368d6dba3c2cafea46</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mstdn.social/@ERDonnachie",
-        "display_name": "Ewan Donnachie"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/FMInference/FlexGen",
-    "title": "GitHub - FMInference/FlexGen: Running large language models like OPT-175B/GPT-3 on a single GPU. Up to 100x faster than other offloading systems.",
-    "latest": "2023-02-24T18:10:49+00:00",
-    "last_post": {
-      "url": "https://fedi.simonwillison.net/@simon/109921058798532407",
-      "content": "<p><span class=\"h-card\"><a href=\"https://fosstodon.org/@jamesravey\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>jamesravey</span></a></span> <a href=\"https://github.com/FMInference/FlexGen\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/FMInference/FlexGen</span><span class=\"invisible\"></span></a> is a really interesting development in that space too!</p>"
-    },
-    "people": [
-      {
-        "url": "https://fedi.simonwillison.net/@simon",
-        "display_name": "Simon Willison"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/google-research/se3ds",
-    "title": "github.com/google-research/se3...",
-    "latest": "2023-02-24T08:11:52+00:00",
-    "last_post": {
-      "url": "https://sigmoid.social/@jy/109831457764110915",
-      "content": "<p>I will be presenting our paper tomorrow (7-9pm EST) at <a href=\"https://sigmoid.social/tags/AAAI2023\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AAAI2023</span></a>: \"Simple and Effective Synthesis of Indoor 3D Scenes\" (work done at Google Research , and co-led with Harsh Agrawal)</p><p>Paper: <a href=\"https://arxiv.org/abs/2204.02960\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2204.02960</span><span class=\"invisible\"></span></a><br>Code: <a href=\"https://github.com/google-research/se3ds\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/google-research/se3</span><span class=\"invisible\">ds</span></a><br>Video: <a href=\"https://www.youtube.com/watch?v=O4W8y4aNemk\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">youtube.com/watch?v=O4W8y4aNem</span><span class=\"invisible\">k</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mstdn.social/@arnicas",
-        "display_name": "arnicas"
-      },
-      {
-        "url": "https://creative.ai/@arxiv",
-        "display_name": "arXiv Highlights AI/ML \ud83d\udcdd\ud83e\udd16"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/PlaintextGroup/oss-virtual-incubator/blob/main/proposals/flathub-linux-app-store.md",
-    "title": "oss-virtual-incubator/flathub-linux-app-store.md at main \u00b7 PlaintextGroup/oss-virtual-incubator",
-    "latest": "2023-02-24T06:34:23+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@aruiz/109917219573821006",
-      "content": "<p>This is the most trandescental, ambitious, rich and promising collaboration effort that the GNOME Foundation and the KDE e.V. had ever done.</p><p>Congrats to everyone involved in pushing this.</p><p><a href=\"https://github.com/PlaintextGroup/oss-virtual-incubator/blob/main/proposals/flathub-linux-app-store.md\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/PlaintextGroup/oss-</span><span class=\"invisible\">virtual-incubator/blob/main/proposals/flathub-linux-app-store.md</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://die-partei.social/@hackernews",
-        "display_name": "Hackernews"
-      },
-      {
-        "url": "https://me.dm/@anildash",
-        "display_name": "Anil Dash"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/shenwzh3/ReDE",
-    "title": "GitHub - shenwzh3/ReDE",
-    "latest": "2023-02-24T05:07:19+00:00",
-    "last_post": {
-      "url": "https://creative.ai/@arxiv_cl/109917977956731720",
-      "content": "<p>\ud83d\udcdd Generic Dependency Modeling for Multi-Party Conversation \ud83d\udcda</p><p>\"Uses a dependency parser to analyze the dependencies between utterances in multi-party conversations and present an approach to encoding the dependencies in the form of relative dependency encoding (ReDE).\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/shenwzh3/ReDE\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/shenwzh3/ReDE</span><span class=\"invisible\"></span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2302.10680v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2302.10680v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://creative.ai/@arxiv_cl",
-        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/soojunghong/image_inpainting_model_for_lane_geomery_discovery",
-    "title": "https://github.com/soojunghong/image_inpainting_model_for_lane_geomery_discovery",
-    "latest": "2023-02-24T04:13:11.706000+00:00",
-    "last_post": {
-      "url": "https://a.farook.org/objects/7ee74d4b-47be-46cd-b2ea-122604c914fc",
-      "content": "\"Data-driven Approach for Automatically Correcting Faulty Road Maps. (arXiv:2211.06544v2 [cs.CV] UPDATED)\" \u2014 A method to fix faulty road maps (specifically roads displayed on maps) using machine learning.<br><br>Paper: <a href=\"http://arxiv.org/abs/2211.06544\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">http://arxiv.org/abs/2211.06544</a><br>Code: <a href=\"https://github.com/soojunghong/image_inpainting_model_for_lane_geomery_discovery\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">https://github.com/soojunghong/image_inpainting_model_for_lane_geomery_discovery</a><br><br><a class=\"hashtag\" href=\"https://a.farook.org/tag/ai\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#AI</a> <a class=\"hashtag\" href=\"https://a.farook.org/tag/cv\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#CV</a> <a class=\"hashtag\" href=\"https://a.farook.org/tag/newpaper\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#NewPaper</a> <a class=\"hashtag\" href=\"https://a.farook.org/tag/deeplearning\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#DeepLearning</a>  <a class=\"hashtag\" href=\"https://a.farook.org/tag/machinelearning\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#MachineLearning</a><br><br>&lt;&lt;Find this useful? Please boost so that others can benefit too \ud83d\ude42&gt;&gt;<br><a href=\"https://a.farook.org/media/1140d29605d03d9c0c7b3dc50664b494260f1d619607af56f3078b4931f6c36b.jpeg\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">GT, Input, and Output denotes t\u2026</a>"
-    },
-    "people": [
-      {
-        "url": "https://a.farook.org/users/f",
-        "display_name": "Fahim Farook"
       }
     ]
   }
