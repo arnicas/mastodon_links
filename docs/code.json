@@ -1,5 +1,330 @@
 [
   {
+    "link": "https://github.com/BrunoLevy/GraphiteThree",
+    "title": "GitHub - BrunoLevy/GraphiteThree: Experimental 3D modeler",
+    "latest": "2023-03-06T21:25:48+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@BrunoLevy01/109978424681585136",
+      "content": "<p><span class=\"h-card\"><a href=\"https://ciberlandia.pt/@villares\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>villares</span></a></span> it already exists in Graphite, here:<br><a href=\"https://github.com/BrunoLevy/GraphiteThree\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/BrunoLevy/GraphiteT</span><span class=\"invisible\">hree</span></a><br>Graphite can be scripted in Lua and/or in Python, and can be embedded in a Python or Jupyter notebook.<br>My plan is to export it to Pypi, one day ...</p>"
+    },
+    "people": [
+      {
+        "url": "https://ciberlandia.pt/@villares",
+        "display_name": "Alexandre B A Villares \ud83d\udc0d"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/edsu/diary#362023",
+    "title": "GitHub - edsu/diary: Silly GPT-3 experiment",
+    "latest": "2023-03-06T20:52:51+00:00",
+    "last_post": {
+      "url": "https://social.coop/@edsu/109978319010711859",
+      "content": "<p><span class=\"h-card\"><a href=\"https://mastodon.online/@dchud\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>dchud</span></a></span> I swapped out text-davinci-003 for gpt-3.5-turbo:</p><p><a href=\"https://github.com/edsu/diary#362023\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/edsu/diary#362023</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://social.coop/@edsu",
+        "display_name": "Ed Summers"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/mastodon/mastodon/pull/23913",
+    "title": "Add support for incoming rich text by ClearlyClaire \u00b7 Pull Request #23913 \u00b7 mastodon/mastodon",
+    "latest": "2023-03-06T20:44:39+00:00",
+    "last_post": {
+      "url": "https://beach.city/@vantablack/109973794184562873",
+      "content": "<p>OMG OMG OMG OMG OMG</p><p>MARKDOWN IS COMING TO MASTODON </p><p><a href=\"https://github.com/mastodon/mastodon/pull/23913\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/mastodon/mastodon/p</span><span class=\"invisible\">ull/23913</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@davew",
+        "display_name": "Dave Winer \u2615\ufe0f"
+      },
+      {
+        "url": "https://mastodon.social/@mmasnick",
+        "display_name": "Mike Masnick \u2705"
+      },
+      {
+        "url": "https://indieweb.social/@tchambers",
+        "display_name": "Tim Chambers"
+      },
+      {
+        "url": "https://mstdn.io/@nclslbrn",
+        "display_name": "Nicolas Lebrun"
+      },
+      {
+        "url": "https://hci.social/@bkeegan",
+        "display_name": "Brian C. Keegan"
+      }
+    ]
+  },
+  {
+    "link": "https://gitlab.com/markstos/walk-potential/-/releases/v3.0.0",
+    "title": "v3.0.0 \u00b7 Mark Stosberg / walk-potential \u00b7 GitLab",
+    "latest": "2023-03-06T20:11:46+00:00",
+    "last_post": {
+      "url": "https://urbanists.social/@markstos/109977320989920949",
+      "content": "<p>v3.0 of my \"Walk Potential\" software has been released. This an <a href=\"https://urbanists.social/tags/UrbanPlanning\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>UrbanPlanning</span></a> <a href=\"https://urbanists.social/tags/mapping\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>mapping</span></a> tool used in planning to quantify the number of \"interesting\" places nearby to walk. Useful metric for demand to fix sidewalk network gaps.</p><p>Release notes: <a href=\"https://gitlab.com/markstos/walk-potential/-/releases/v3.0.0\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gitlab.com/markstos/walk-poten</span><span class=\"invisible\">tial/-/releases/v3.0.0</span></a></p><p>Docs: <a href=\"https://gitlab.com/markstos/walk-potential/-/blob/main/README.md\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gitlab.com/markstos/walk-poten</span><span class=\"invisible\">tial/-/blob/main/README.md</span></a></p><p>First reply with a boundary polygon for their city wins free Walk Potential analysis for that city.</p><p><a href=\"https://urbanists.social/tags/gis\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>gis</span></a> <a href=\"https://urbanists.social/tags/BloomingtonIN\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>BloomingtonIN</span></a> <a href=\"https://urbanists.social/tags/OpenStreetMap\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>OpenStreetMap</span></a> <a href=\"https://urbanists.social/tags/OpenTripPlanner\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>OpenTripPlanner</span></a> <a href=\"https://urbanists.social/tags/TurfJS\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>TurfJS</span></a> </p><p>Example Walk Potential Heatmap:</p>"
+    },
+    "people": [
+      {
+        "url": "https://datasci.social/@yy",
+        "display_name": "YY Ahn"
+      }
+    ]
+  },
+  {
+    "link": "https://gitlab.com/markstos/walk-potential/-/blob/main/README.md",
+    "title": "gitlab.com/markstos/walk-poten...",
+    "latest": "2023-03-06T20:11:46+00:00",
+    "last_post": {
+      "url": "https://urbanists.social/@markstos/109977320989920949",
+      "content": "<p>v3.0 of my \"Walk Potential\" software has been released. This an <a href=\"https://urbanists.social/tags/UrbanPlanning\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>UrbanPlanning</span></a> <a href=\"https://urbanists.social/tags/mapping\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>mapping</span></a> tool used in planning to quantify the number of \"interesting\" places nearby to walk. Useful metric for demand to fix sidewalk network gaps.</p><p>Release notes: <a href=\"https://gitlab.com/markstos/walk-potential/-/releases/v3.0.0\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gitlab.com/markstos/walk-poten</span><span class=\"invisible\">tial/-/releases/v3.0.0</span></a></p><p>Docs: <a href=\"https://gitlab.com/markstos/walk-potential/-/blob/main/README.md\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gitlab.com/markstos/walk-poten</span><span class=\"invisible\">tial/-/blob/main/README.md</span></a></p><p>First reply with a boundary polygon for their city wins free Walk Potential analysis for that city.</p><p><a href=\"https://urbanists.social/tags/gis\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>gis</span></a> <a href=\"https://urbanists.social/tags/BloomingtonIN\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>BloomingtonIN</span></a> <a href=\"https://urbanists.social/tags/OpenStreetMap\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>OpenStreetMap</span></a> <a href=\"https://urbanists.social/tags/OpenTripPlanner\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>OpenTripPlanner</span></a> <a href=\"https://urbanists.social/tags/TurfJS\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>TurfJS</span></a> </p><p>Example Walk Potential Heatmap:</p>"
+    },
+    "people": [
+      {
+        "url": "https://datasci.social/@yy",
+        "display_name": "YY Ahn"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/palewire/moneyinpolitics.wtf/issues/new?assignees=palewire&amp;labels=enhancement&amp;template=request-a-word.yaml&amp;title=Request+a+word",
+    "title": "github.com/palewire/moneyinpol...",
+    "latest": "2023-03-06T19:45:07+00:00",
+    "last_post": {
+      "url": "https://mastodon.palewi.re/@palewire/109973266874276033",
+      "content": "<p>Say hello to <a href=\"https://moneyinpolitics.wtf\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">moneyinpolitics.wtf</span><span class=\"invisible\"></span></a></p><p>Launched this weekend at <a href=\"https://mastodon.palewi.re/tags/nicar23\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>nicar23</span></a>, it aims to be the biggest dictionary of campaign-finance jargon.</p><p>It's also open source. Check it out. Then join the cause!</p><p>Request a word: <a href=\"https://github.com/palewire/moneyinpolitics.wtf/issues/new?assignees=palewire&amp;labels=enhancement&amp;template=request-a-word.yaml&amp;title=Request+a+word\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/palewire/moneyinpol</span><span class=\"invisible\">itics.wtf/issues/new?assignees=palewire&amp;labels=enhancement&amp;template=request-a-word.yaml&amp;title=Request+a+word</span></a></p><p>Add a word: <a href=\"https://github.com/palewire/moneyinpolitics.wtf/issues/new?assignees=palewire&amp;labels=enhancement&amp;template=add-a-word.yaml&amp;title=Add+a+word\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/palewire/moneyinpol</span><span class=\"invisible\">itics.wtf/issues/new?assignees=palewire&amp;labels=enhancement&amp;template=add-a-word.yaml&amp;title=Add+a+word</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@jonkeegan",
+        "display_name": "Jon Keegan"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/palewire/moneyinpolitics.wtf/issues/new?assignees=palewire&amp;labels=enhancement&amp;template=add-a-word.yaml&amp;title=Add+a+word",
+    "title": "github.com/palewire/moneyinpol...",
+    "latest": "2023-03-06T19:45:07+00:00",
+    "last_post": {
+      "url": "https://mastodon.palewi.re/@palewire/109973266874276033",
+      "content": "<p>Say hello to <a href=\"https://moneyinpolitics.wtf\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">moneyinpolitics.wtf</span><span class=\"invisible\"></span></a></p><p>Launched this weekend at <a href=\"https://mastodon.palewi.re/tags/nicar23\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>nicar23</span></a>, it aims to be the biggest dictionary of campaign-finance jargon.</p><p>It's also open source. Check it out. Then join the cause!</p><p>Request a word: <a href=\"https://github.com/palewire/moneyinpolitics.wtf/issues/new?assignees=palewire&amp;labels=enhancement&amp;template=request-a-word.yaml&amp;title=Request+a+word\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/palewire/moneyinpol</span><span class=\"invisible\">itics.wtf/issues/new?assignees=palewire&amp;labels=enhancement&amp;template=request-a-word.yaml&amp;title=Request+a+word</span></a></p><p>Add a word: <a href=\"https://github.com/palewire/moneyinpolitics.wtf/issues/new?assignees=palewire&amp;labels=enhancement&amp;template=add-a-word.yaml&amp;title=Add+a+word\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/palewire/moneyinpol</span><span class=\"invisible\">itics.wtf/issues/new?assignees=palewire&amp;labels=enhancement&amp;template=add-a-word.yaml&amp;title=Add+a+word</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@jonkeegan",
+        "display_name": "Jon Keegan"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/alan-turing-institute/the-turing-way/issues/2988",
+    "title": "github.com/alan-turing-institu...",
+    "latest": "2023-03-06T19:37:42+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@turingway/109978023500325520",
+      "content": "<p>Who can apply to Book Dash? \ud83d\udcda \ud83c\udf2c\ufe0f </p><p>Everyone and all skills are welcome! However, we do recommend that you know a bit more about us and what we\u2019re all about before applying. Join a Collaboration Cafe (we are running an open Q&amp;A about Book Dash at the 15 March cafe!), get started with ongoing discussions on Github, and/or join us on slack! </p><p>Collab Cafe: <a href=\"https://hackmd.io/@turingway/collaboration-cafe\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">hackmd.io/@turingway/collabora</span><span class=\"invisible\">tion-cafe</span></a><br>Github: <a href=\"https://github.com/alan-turing-institute/the-turing-way/issues/2988\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/alan-turing-institu</span><span class=\"invisible\">te/the-turing-way/issues/2988</span></a><br>Slack: <a href=\"https://tinyurl.com/jointuringwayslack\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">tinyurl.com/jointuringwayslack</span><span class=\"invisible\"></span></a></p><p><a href=\"https://fosstodon.org/tags/nomoa\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>nomoa</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fosstodon.org/@turingway",
+        "display_name": "The Turing Way Project"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/dagster-io/dagster/discussions/12510",
+    "title": "[RFC] Ergonomic improvements coming to the config and resources systems \u00b7 Discussion #12510 \u00b7 dagster-io/dagster",
+    "latest": "2023-03-06T19:33:35+00:00",
+    "last_post": {
+      "url": "https://social.coop/@ZaneSelvans/109926049827902627",
+      "content": "<p>Nice to see <span class=\"h-card\"><a href=\"https://data-folks.masto.host/@dagster\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>dagster</span></a></span> moving toward using <span class=\"h-card\"><a href=\"https://fosstodon.org/@samuelcolvin\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>samuelcolvin</span></a></span>'s <span class=\"h-card\"><a href=\"https://fosstodon.org/@pydantic\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>pydantic</span></a></span> for typing resources and config. Will definitely reduce the number of bespoke new structures that we have to learn, and let us re-use more of our existing settings &amp; configurations:</p><p><a href=\"https://github.com/dagster-io/dagster/discussions/12510\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/dagster-io/dagster/</span><span class=\"invisible\">discussions/12510</span></a></p><p><a href=\"https://social.coop/tags/DataEngineering\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DataEngineering</span></a> <a href=\"https://social.coop/tags/Python\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Python</span></a> <a href=\"https://social.coop/tags/PyData\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>PyData</span></a> <a href=\"https://social.coop/tags/Pydantic\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Pydantic</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://data-folks.masto.host/@dagster",
+        "display_name": "Dagster"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/camertron/rux",
+    "title": "GitHub - camertron/rux: A jsx-inspired way to render view components in Ruby.",
+    "latest": "2023-03-06T18:55:02+00:00",
+    "last_post": {
+      "url": "https://die-partei.social/@hackernews/109977855767868770",
+      "content": "<p>Rux: A JSX-inspired way to render view components in Ruby - <a href=\"https://github.com/camertron/rux\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/camertron/rux</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://die-partei.social/@hackernews",
+        "display_name": "Hackernews"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/bprusinowski/plotteus",
+    "title": "GitHub - bprusinowski/plotteus: \ud83e\udd8b Plotteus is a JavaScript data visualization library designed to help you tell better stories.",
+    "latest": "2023-03-06T18:41:12+00:00",
+    "last_post": {
+      "url": "https://vis.social/@neocarto/109947477759220779",
+      "content": "<p>Plotteus, a new JS library to design chart transitions.<br>See <a href=\"https://github.com/bprusinowski/plotteus\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/bprusinowski/plotte</span><span class=\"invisible\">us</span></a>, <a href=\"https://www.plotteus.dev/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">plotteus.dev/</span><span class=\"invisible\"></span></a> &amp; <a href=\"https://observablehq.com/@bartok32/hello-plotteus\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">observablehq.com/@bartok32/hel</span><span class=\"invisible\">lo-plotteus</span></a>.<br>By Bartosz Prusinowski</p>"
+    },
+    "people": [
+      {
+        "url": "https://vis.social/@seblammers",
+        "display_name": "Sebastian Lammers"
+      }
+    ]
+  },
+  {
+    "link": "https://observablehq.com/@bartok32/hello-plotteus",
+    "title": "observablehq.com/@bartok32/hel...",
+    "latest": "2023-03-06T18:41:12+00:00",
+    "last_post": {
+      "url": "https://vis.social/@neocarto/109947477759220779",
+      "content": "<p>Plotteus, a new JS library to design chart transitions.<br>See <a href=\"https://github.com/bprusinowski/plotteus\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/bprusinowski/plotte</span><span class=\"invisible\">us</span></a>, <a href=\"https://www.plotteus.dev/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">plotteus.dev/</span><span class=\"invisible\"></span></a> &amp; <a href=\"https://observablehq.com/@bartok32/hello-plotteus\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">observablehq.com/@bartok32/hel</span><span class=\"invisible\">lo-plotteus</span></a>.<br>By Bartosz Prusinowski</p>"
+    },
+    "people": [
+      {
+        "url": "https://vis.social/@seblammers",
+        "display_name": "Sebastian Lammers"
+      }
+    ]
+  },
+  {
+    "link": "https://observablehq.com/@frankelavsky/chartability-contrast-series",
+    "title": "Introduction to Accessible Contrast and Color for Data Visualization",
+    "latest": "2023-03-06T18:40:16+00:00",
+    "last_post": {
+      "url": "https://vis.social/@frankelavsky/109977797672858605",
+      "content": "<p>Every now and then I go back to this series on accessible color because someone brings it up (or mentions it was helpful).</p><p>It means so much to me to hear from members of the community that came across these notebooks and it had an impact in their work.</p><p><a href=\"https://observablehq.com/@frankelavsky/chartability-contrast-series\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">observablehq.com/@frankelavsky</span><span class=\"invisible\">/chartability-contrast-series</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://vis.social/@frankelavsky",
+        "display_name": "Frank \u2301"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/apache/arrow/issues/",
+    "title": "Issues \u00b7 apache/arrow",
+    "latest": "2023-03-06T18:09:30+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@jonkeane/109977676698141873",
+      "content": "<p><span class=\"h-card\"><a href=\"https://bayes.club/@akhilrao\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>akhilrao</span></a></span> aaah yeah, that sounds  about right. The comparisons _should_ work, but you might need to line up the types just right to get it to work (and even then it\u2019s possible it might not yet be implemented).</p><p>Would you be willing to send a small repro to <a href=\"https://github.com/apache/arrow/issues/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/apache/arrow/issues</span><span class=\"invisible\">/</span></a> ?</p>"
+    },
+    "people": [
+      {
+        "url": "https://fosstodon.org/@jonkeane",
+        "display_name": "jonkeane"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/quarto-dev/quarto/issues/4",
+    "title": "Ctrl+Enter executes R and Python code but not bash \u00b7 Issue #4 \u00b7 quarto-dev/quarto",
+    "latest": "2023-03-06T17:52:05+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@robinlovelace/109839745706205613",
+      "content": "<p>Exciting update for anyone using <a href=\"https://fosstodon.org/tags/quarto\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>quarto</span></a>: The VSCode plugin by @posit_pbc now allows you to execute code written in any language with the same simple shortcut: Ctrl+Enter. So nice. So multi-lingual! Details: <a href=\"https://github.com/quarto-dev/quarto/issues/4\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/quarto-dev/quarto/i</span><span class=\"invisible\">ssues/4</span></a> <a href=\"https://fosstodon.org/tags/datascience\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>datascience</span></a> <a href=\"https://fosstodon.org/tags/rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rstats</span></a> <a href=\"https://fosstodon.org/tags/python\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>python</span></a> <a href=\"https://fosstodon.org/tags/opensource\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>opensource</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@JoranJongerling",
+        "display_name": "Joran"
+      },
+      {
+        "url": "https://fosstodon.org/@underdarkGIS",
+        "display_name": "Anita Graser \ud83c\uddea\ud83c\uddfa\ud83c\uddfa\ud83c\udde6"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/gautamkrishnar/keepalive-workflow",
+    "title": "GitHub - gautamkrishnar/keepalive-workflow: GitHub action to prevent GitHub from suspending your cronjob based triggers due to repository inactivity",
+    "latest": "2023-03-06T17:49:41+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@fgregg/109977342126287128",
+      "content": "<p><span class=\"h-card\"><a href=\"https://toots.schwanksta.com/@ken\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>ken</span></a></span> i use this guy. <a href=\"https://github.com/gautamkrishnar/keepalive-workflow\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/gautamkrishnar/keep</span><span class=\"invisible\">alive-workflow</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://toots.schwanksta.com/@ken",
+        "display_name": "Ken Schwencke"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/hrbrmstr/hello-plotteus",
+    "title": "GitHub - hrbrmstr/hello-plotteus: \ud83d\udcc9 A Quarto R + OJS notebook to show how to wrangle data in R to pass to the Plotteus library.",
+    "latest": "2023-03-06T17:43:05+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@hrbrmstr/109977572808213061",
+      "content": "<p><span class=\"h-card\"><a href=\"https://vis.social/@observablehq\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>observablehq</span></a></span> <span class=\"h-card\"><a href=\"https://fosstodon.org/@smach\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>smach</span></a></span> This is now also on GH \u2014&nbsp;which, unlike the bird site \u2014 is not tossing API errors for its own services. Well, at least not _today_.</p><p><a href=\"https://github.com/hrbrmstr/hello-plotteus\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/hrbrmstr/hello-plot</span><span class=\"invisible\">teus</span></a></p><p>Drop issues with q's how to do things re: R/OJS/Plotteus if you run into issues.</p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@hrbrmstr",
+        "display_name": "boB Rudis \ud83c\uddfa\ud83c\udde6"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/mauforonda/mastodon_digest",
+    "title": "github.com/mauforonda/mastodon...",
+    "latest": "2023-03-06T17:33:40+00:00",
+    "last_post": {
+      "url": "https://stefanbohacek.online/@stefan/109977535781651407",
+      "content": "<p>Do you use any third party content discovery tools for Mastodon/fediverse?</p><p>A few examples:</p><p>- <a href=\"https://fediview.com\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">fediview.com</span><span class=\"invisible\"></span></a><br>- <a href=\"https://fo.llow.social/trending\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">fo.llow.social/trending</span><span class=\"invisible\"></span></a><br>- <a href=\"https://github.com/mauforonda/mastodon_digest\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/mauforonda/mastodon</span><span class=\"invisible\">_digest</span></a><br>- <a href=\"https://github.com/mauforonda/mastodon_email_digest\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/mauforonda/mastodon</span><span class=\"invisible\">_email_digest</span></a><br>- <a href=\"https://followgraph.vercel.app\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">followgraph.vercel.app</span><span class=\"invisible\"></span></a></p><p>Feel free to share more in the comments!</p><p><a href=\"https://stefanbohacek.online/tags/mastodon\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>mastodon</span></a> <a href=\"https://stefanbohacek.online/tags/fediverse\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>fediverse</span></a>  <a href=\"https://stefanbohacek.online/tags/poll\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>poll</span></a> <a href=\"https://stefanbohacek.online/tags/ContentDiscovery\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ContentDiscovery</span></a> <a href=\"https://stefanbohacek.online/tags/digest\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>digest</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@MattHodges",
+        "display_name": "Matt Hodges"
+      },
+      {
+        "url": "https://sigmoid.social/@maria_antoniak",
+        "display_name": "Maria Antoniak"
+      },
+      {
+        "url": "https://mastodon.social/@botwiki",
+        "display_name": "Botwiki.org"
+      },
+      {
+        "url": "https://stefanbohacek.online/@stefan",
+        "display_name": "Stefan Bohacek"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/mauforonda/mastodon_email_digest",
+    "title": "github.com/mauforonda/mastodon...",
+    "latest": "2023-03-06T17:33:40+00:00",
+    "last_post": {
+      "url": "https://stefanbohacek.online/@stefan/109977535781651407",
+      "content": "<p>Do you use any third party content discovery tools for Mastodon/fediverse?</p><p>A few examples:</p><p>- <a href=\"https://fediview.com\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">fediview.com</span><span class=\"invisible\"></span></a><br>- <a href=\"https://fo.llow.social/trending\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">fo.llow.social/trending</span><span class=\"invisible\"></span></a><br>- <a href=\"https://github.com/mauforonda/mastodon_digest\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/mauforonda/mastodon</span><span class=\"invisible\">_digest</span></a><br>- <a href=\"https://github.com/mauforonda/mastodon_email_digest\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/mauforonda/mastodon</span><span class=\"invisible\">_email_digest</span></a><br>- <a href=\"https://followgraph.vercel.app\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">followgraph.vercel.app</span><span class=\"invisible\"></span></a></p><p>Feel free to share more in the comments!</p><p><a href=\"https://stefanbohacek.online/tags/mastodon\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>mastodon</span></a> <a href=\"https://stefanbohacek.online/tags/fediverse\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>fediverse</span></a>  <a href=\"https://stefanbohacek.online/tags/poll\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>poll</span></a> <a href=\"https://stefanbohacek.online/tags/ContentDiscovery\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ContentDiscovery</span></a> <a href=\"https://stefanbohacek.online/tags/digest\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>digest</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@MattHodges",
+        "display_name": "Matt Hodges"
+      },
+      {
+        "url": "https://mastodon.social/@botwiki",
+        "display_name": "Botwiki.org"
+      },
+      {
+        "url": "https://stefanbohacek.online/@stefan",
+        "display_name": "Stefan Bohacek"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/lionel-/codegrip",
     "title": "GitHub - lionel-/codegrip: Reshaping and navigation commands for R code",
     "latest": "2023-03-06T09:25:17+00:00",
@@ -177,29 +502,6 @@
       "content": "<p>I\u2019m going through NetNewsWire issues \u2014 closing some things, adding labels, asking for clarification, etc. Just a thing to be done from time to time.</p><p>At any rate, I ran across this one, which is my new favorite \u2014&nbsp;it\u2019s so honest and such a common thing in all software:</p><p><a href=\"https://github.com/Ranchero-Software/NetNewsWire/issues/1143\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/Ranchero-Software/N</span><span class=\"invisible\">etNewsWire/issues/1143</span></a></p>"
     },
     "people": [
-      {
-        "url": "https://indieweb.social/@tchambers",
-        "display_name": "Tim Chambers"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/mastodon/mastodon/pull/23913",
-    "title": "Add support for incoming rich text by ClearlyClaire \u00b7 Pull Request #23913 \u00b7 mastodon/mastodon",
-    "latest": "2023-03-06T03:26:47+00:00",
-    "last_post": {
-      "url": "https://beach.city/@vantablack/109973794184562873",
-      "content": "<p>OMG OMG OMG OMG OMG</p><p>MARKDOWN IS COMING TO MASTODON </p><p><a href=\"https://github.com/mastodon/mastodon/pull/23913\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/mastodon/mastodon/p</span><span class=\"invisible\">ull/23913</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@davew",
-        "display_name": "Dave Winer \u2615\ufe0f"
-      },
-      {
-        "url": "https://mastodon.social/@mmasnick",
-        "display_name": "Mike Masnick \u2705"
-      },
       {
         "url": "https://indieweb.social/@tchambers",
         "display_name": "Tim Chambers"
@@ -2966,296 +3268,6 @@
       {
         "url": "https://sigmoid.social/@rich",
         "display_name": "Rich Tong \u2764\ufe0f\ud83c\udf93"
-      }
-    ]
-  },
-  {
-    "link": "https://gitlab.com/TheZoq2/spade-v/-/blob/rust/hwtest/bare-metal-rust-on-riscv/src/main.rs",
-    "title": "gitlab.com/TheZoq2/spade-v/-/b...",
-    "latest": "2023-02-26T06:51:49+00:00",
-    "last_post": {
-      "url": "https://mastodon.online/@goran_mahovlic/109913484133212132",
-      "content": "<p>RT @TheZoq2<br>I have largely moved onto the elephant site, but this warrants a cross post</p><p>The <a href=\"https://spade-lang.org/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">spade-lang.org/</span><span class=\"invisible\"></span></a> <a href=\"https://mastodon.online/tags/riscv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>riscv</span></a> now passes all ISA tests, and can run a rust program to blink an LED.</p><p>HDL source <a href=\"https://gitlab.com/TheZoq2/spade-v\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">gitlab.com/TheZoq2/spade-v</span><span class=\"invisible\"></span></a><br>Rust program: <a href=\"https://gitlab.com/TheZoq2/spade-v/-/blob/rust/hwtest/bare-metal-rust-on-riscv/src/main.rs\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gitlab.com/TheZoq2/spade-v/-/b</span><span class=\"invisible\">lob/rust/hwtest/bare-metal-rust-on-riscv/src/main.rs</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://sigmoid.social/@rich",
-        "display_name": "Rich Tong \u2764\ufe0f\ud83c\udf93"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/vinkla/wordplate",
-    "title": "GitHub - vinkla/wordplate: WordPlate is a boilerplate. It's like building any other WordPress website with themes and plugins. Just with sprinkles on top.",
-    "latest": "2023-02-26T05:15:01+00:00",
-    "last_post": {
-      "url": "https://die-partei.social/@hackernews/109929332862876815",
-      "content": "<p>WordPlate: WordPress on Composer with sensible defaults - <a href=\"https://github.com/vinkla/wordplate\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/vinkla/wordplate</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://die-partei.social/@hackernews",
-        "display_name": "Hackernews"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/benbrown/shuttlecraft",
-    "title": "github.com/benbrown/shuttlecra...",
-    "latest": "2023-02-26T02:36:23+00:00",
-    "last_post": {
-      "url": "https://social.yesterweb.org/@triptych/109928709049417085",
-      "content": "<p>Create your own personal blog / fediverse app using Shuttlecraft <a href=\"https://github.com/benbrown/shuttlecraft\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/benbrown/shuttlecra</span><span class=\"invisible\">ft</span></a> <a href=\"https://social.yesterweb.org/tags/fediverse\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>fediverse</span></a> <a href=\"https://social.yesterweb.org/tags/blog\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>blog</span></a> <a href=\"https://social.yesterweb.org/tags/rss\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rss</span></a> <a href=\"https://social.yesterweb.org/tags/activitypub\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>activitypub</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://neuromatch.social/@jonny",
-        "display_name": "Jonny"
-      },
-      {
-        "url": "https://toolsforthought.rocks/@billseitz",
-        "display_name": "Bill Seitz"
-      },
-      {
-        "url": "https://social.coop/@bmann",
-        "display_name": "Boris Mann"
-      },
-      {
-        "url": "https://merveilles.town/@lrhodes",
-        "display_name": "L. Rhodes"
-      },
-      {
-        "url": "https://social.yesterweb.org/@triptych",
-        "display_name": "Andrew Wooldridge"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/Haxxnet/Compose-Examples",
-    "title": "GitHub - Haxxnet/Compose-Examples: Various Docker Compose examples of selfhosted projects",
-    "latest": "2023-02-25T21:30:03+00:00",
-    "last_post": {
-      "url": "https://die-partei.social/@hackernews/109927504525128408",
-      "content": "<p>Awesome Docker Compose Examples - <a href=\"https://github.com/Haxxnet/Compose-Examples\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/Haxxnet/Compose-Exa</span><span class=\"invisible\">mples</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://die-partei.social/@hackernews",
-        "display_name": "Hackernews"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/greshake/lm-safety",
-    "title": "GitHub - greshake/lm-safety: New ways of breaking app-integrated LLMs",
-    "latest": "2023-02-25T21:04:44+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@compsci_discussions/109927404950555355",
-      "content": "<p>[R] [P] New ways of breaking app-integrated LLMs with prompt injection</p><p><a href=\"https://github.com/greshake/lm-safety\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/greshake/lm-safety</span><span class=\"invisible\"></span></a></p><p>Discussions: <a href=\"https://discu.eu/q/https://github.com/greshake/lm-safety\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">discu.eu/q/https://github.com/</span><span class=\"invisible\">greshake/lm-safety</span></a></p><p><a href=\"https://mastodon.social/tags/compsci\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>compsci</span></a> <a href=\"https://mastodon.social/tags/machinelearning\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>machinelearning</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@compsci_discussions",
-        "display_name": "Compsci Weekly"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/Aaris-Kazi",
-    "title": "Aaris-Kazi - Overview",
-    "latest": "2023-02-25T20:41:01+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@python_discussions/109927311728561410",
-      "content": "<p>Ecommerce Website Part 2</p><p><a href=\"https://github.com/Aaris-Kazi\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/Aaris-Kazi</span><span class=\"invisible\"></span></a></p><p>Discussions: <a href=\"https://discu.eu/q/https://github.com/Aaris-Kazi\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">discu.eu/q/https://github.com/</span><span class=\"invisible\">Aaris-Kazi</span></a></p><p><a href=\"https://mastodon.social/tags/django\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>django</span></a> <a href=\"https://mastodon.social/tags/programming\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>programming</span></a> <a href=\"https://mastodon.social/tags/python\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>python</span></a> <a href=\"https://mastodon.social/tags/webdev\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>webdev</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@python_discussions",
-        "display_name": "Python Weekly"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/Paradoxdruid/mamba-how-to",
-    "title": "GitHub - Paradoxdruid/mamba-how-to: Using Mamba-forge for Python environment management",
-    "latest": "2023-02-25T20:04:54+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@python_discussions/109927169680218310",
-      "content": "<p>A quick guide to using mamba-forge for python virtual environment management</p><p><a href=\"https://github.com/Paradoxdruid/mamba-how-to\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/Paradoxdruid/mamba-</span><span class=\"invisible\">how-to</span></a></p><p>Discussions: <a href=\"https://discu.eu/q/https://github.com/Paradoxdruid/mamba-how-to\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">discu.eu/q/https://github.com/</span><span class=\"invisible\">Paradoxdruid/mamba-how-to</span></a></p><p><a href=\"https://mastodon.social/tags/programming\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>programming</span></a> <a href=\"https://mastodon.social/tags/python\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>python</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@python_discussions",
-        "display_name": "Python Weekly"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/TodePond/Habitat/releases/tag/v1.2.1",
-    "title": "Release v1.2.1 \u00b7 TodePond/Habitat",
-    "latest": "2023-02-25T19:55:11+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@TodePond/109927131510815615",
-      "content": "<p>Habitat patch! Stage tweaks! and SVG layer! \ud83c\udf31</p><p>*Developer comment:*<br>*We noticed that we nerfed single-layer stages too harshly in the recent balance changes. The layers rework should give them a slight boost. *</p><p>*We're still rolling out the SVG layer buff as planned - will be closely monitoring.*</p><p><a href=\"https://github.com/TodePond/Habitat/releases/tag/v1.2.1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/TodePond/Habitat/re</span><span class=\"invisible\">leases/tag/v1.2.1</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@TodePond",
-        "display_name": "Lu Wilson"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/Trainraider/doggy64",
-    "title": "GitHub - Trainraider/doggy64: This program can encode arbitrary text or data into a series of doggy sounds",
-    "latest": "2023-02-25T19:48:20+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@python_discussions/109927104545434794",
-      "content": "<p>Doggy64, Encode arbitrary data into dog sounds, instead of boring Base64</p><p><a href=\"https://github.com/Trainraider/doggy64\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/Trainraider/doggy64</span><span class=\"invisible\"></span></a></p><p>Discussions: <a href=\"https://discu.eu/q/https://github.com/Trainraider/doggy64\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">discu.eu/q/https://github.com/</span><span class=\"invisible\">Trainraider/doggy64</span></a></p><p><a href=\"https://mastodon.social/tags/programming\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>programming</span></a> <a href=\"https://mastodon.social/tags/python\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>python</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@python_discussions",
-        "display_name": "Python Weekly"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/apple/ml-stable-diffusion",
-    "title": "GitHub - apple/ml-stable-diffusion: Stable Diffusion with Core ML on Apple Silicon",
-    "latest": "2023-02-25T19:35:14+00:00",
-    "last_post": {
-      "url": "https://indieweb.social/@jsonbecker/109927053006471186",
-      "content": "<p><span class=\"h-card\"><a href=\"https://mastodon.social/@hrbrmstr\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>hrbrmstr</span></a></span> yeah I was thinking of something like this <a href=\"https://github.com/apple/ml-stable-diffusion\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/apple/ml-stable-dif</span><span class=\"invisible\">fusion</span></a> which would be useful I think.</p>"
-    },
-    "people": [
-      {
-        "url": "https://indieweb.social/@jsonbecker",
-        "display_name": "Jason Becker"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/mouse-reeve/recipes/tree/main/markdown",
-    "title": "recipes/markdown at main \u00b7 mouse-reeve/recipes",
-    "latest": "2023-02-25T19:32:43+00:00",
-    "last_post": {
-      "url": "https://friend.camp/@tripofmice/109927043169407056",
-      "content": "<p>I'm probably not going to make this a website that is online but you can see all the recipes in markdown here: <a href=\"https://github.com/mouse-reeve/recipes/tree/main/markdown\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/mouse-reeve/recipes</span><span class=\"invisible\">/tree/main/markdown</span></a> (or generate the html files yourself from the same repo)</p>"
-    },
-    "people": [
-      {
-        "url": "https://friend.camp/@tripofmice",
-        "display_name": "mouse reeve"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/Himtome1/Fall-Time",
-    "title": "GitHub - Himtome1/Fall-Time: A fun 2-D projectile motion simulator made with Tkinter",
-    "latest": "2023-02-25T19:31:24+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@python_discussions/109927037966851400",
-      "content": "<p>I made a projectile motion simulator with Tkinter</p><p><a href=\"https://github.com/Himtome1/Fall-Time\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/Himtome1/Fall-Time</span><span class=\"invisible\"></span></a></p><p>Discussions: <a href=\"https://discu.eu/q/https://github.com/Himtome1/Fall-Time\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">discu.eu/q/https://github.com/</span><span class=\"invisible\">Himtome1/Fall-Time</span></a></p><p><a href=\"https://mastodon.social/tags/programming\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>programming</span></a> <a href=\"https://mastodon.social/tags/python\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>python</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@python_discussions",
-        "display_name": "Python Weekly"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/openelections/openelections-data-ut/issues/74",
-    "title": "github.com/openelections/opene...",
-    "latest": "2023-02-25T19:21:44+00:00",
-    "last_post": {
-      "url": "https://newsie.social/@derekwillis/109926999939416511",
-      "content": "<p>OpenElections 2022 general election official precinct-level results conversion update:</p><p>PA - 24 of 67 counties completed (<a href=\"https://github.com/openelections/openelections-data-pa/issues/148\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/openelections/opene</span><span class=\"invisible\">lections-data-pa/issues/148</span></a>)</p><p>NY - 17 of 62 counties completed (<a href=\"https://github.com/openelections/openelections-data-ny/issues/127\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/openelections/opene</span><span class=\"invisible\">lections-data-ny/issues/127</span></a>)</p><p>UT - 5 of 29 counties completed (<a href=\"https://github.com/openelections/openelections-data-ut/issues/74\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/openelections/opene</span><span class=\"invisible\">lections-data-ut/issues/74</span></a>)</p><p>TX - 100 of 254 counties completed (<a href=\"https://github.com/openelections/openelections-data-tx/issues/442\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/openelections/opene</span><span class=\"invisible\">lections-data-tx/issues/442</span></a>)<br>   <br>AZ - 2 of 15 counties completed (<a href=\"https://github.com/openelections/openelections-data-az/issues/59\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/openelections/opene</span><span class=\"invisible\">lections-data-az/issues/59</span></a>)</p><p>You can help us! Email openelections@gmail.com for details.</p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@MattHodges",
-        "display_name": "Matt Hodges"
-      },
-      {
-        "url": "https://newsie.social/@derekwillis",
-        "display_name": "Derek Willis"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/openelections/openelections-data-pa/issues/148",
-    "title": "2022 General Election Official Precinct Results \u00b7 Issue #148 \u00b7 openelections/openelections-data-pa",
-    "latest": "2023-02-25T19:21:44+00:00",
-    "last_post": {
-      "url": "https://newsie.social/@derekwillis/109926999939416511",
-      "content": "<p>OpenElections 2022 general election official precinct-level results conversion update:</p><p>PA - 24 of 67 counties completed (<a href=\"https://github.com/openelections/openelections-data-pa/issues/148\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/openelections/opene</span><span class=\"invisible\">lections-data-pa/issues/148</span></a>)</p><p>NY - 17 of 62 counties completed (<a href=\"https://github.com/openelections/openelections-data-ny/issues/127\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/openelections/opene</span><span class=\"invisible\">lections-data-ny/issues/127</span></a>)</p><p>UT - 5 of 29 counties completed (<a href=\"https://github.com/openelections/openelections-data-ut/issues/74\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/openelections/opene</span><span class=\"invisible\">lections-data-ut/issues/74</span></a>)</p><p>TX - 100 of 254 counties completed (<a href=\"https://github.com/openelections/openelections-data-tx/issues/442\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/openelections/opene</span><span class=\"invisible\">lections-data-tx/issues/442</span></a>)<br>   <br>AZ - 2 of 15 counties completed (<a href=\"https://github.com/openelections/openelections-data-az/issues/59\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/openelections/opene</span><span class=\"invisible\">lections-data-az/issues/59</span></a>)</p><p>You can help us! Email openelections@gmail.com for details.</p>"
-    },
-    "people": [
-      {
-        "url": "https://newsie.social/@derekwillis",
-        "display_name": "Derek Willis"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/openelections/openelections-data-ny/issues/127",
-    "title": "github.com/openelections/opene...",
-    "latest": "2023-02-25T19:21:44+00:00",
-    "last_post": {
-      "url": "https://newsie.social/@derekwillis/109926999939416511",
-      "content": "<p>OpenElections 2022 general election official precinct-level results conversion update:</p><p>PA - 24 of 67 counties completed (<a href=\"https://github.com/openelections/openelections-data-pa/issues/148\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/openelections/opene</span><span class=\"invisible\">lections-data-pa/issues/148</span></a>)</p><p>NY - 17 of 62 counties completed (<a href=\"https://github.com/openelections/openelections-data-ny/issues/127\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/openelections/opene</span><span class=\"invisible\">lections-data-ny/issues/127</span></a>)</p><p>UT - 5 of 29 counties completed (<a href=\"https://github.com/openelections/openelections-data-ut/issues/74\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/openelections/opene</span><span class=\"invisible\">lections-data-ut/issues/74</span></a>)</p><p>TX - 100 of 254 counties completed (<a href=\"https://github.com/openelections/openelections-data-tx/issues/442\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/openelections/opene</span><span class=\"invisible\">lections-data-tx/issues/442</span></a>)<br>   <br>AZ - 2 of 15 counties completed (<a href=\"https://github.com/openelections/openelections-data-az/issues/59\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/openelections/opene</span><span class=\"invisible\">lections-data-az/issues/59</span></a>)</p><p>You can help us! Email openelections@gmail.com for details.</p>"
-    },
-    "people": [
-      {
-        "url": "https://newsie.social/@derekwillis",
-        "display_name": "Derek Willis"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/openelections/openelections-data-tx/issues/442",
-    "title": "github.com/openelections/opene...",
-    "latest": "2023-02-25T19:21:44+00:00",
-    "last_post": {
-      "url": "https://newsie.social/@derekwillis/109926999939416511",
-      "content": "<p>OpenElections 2022 general election official precinct-level results conversion update:</p><p>PA - 24 of 67 counties completed (<a href=\"https://github.com/openelections/openelections-data-pa/issues/148\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/openelections/opene</span><span class=\"invisible\">lections-data-pa/issues/148</span></a>)</p><p>NY - 17 of 62 counties completed (<a href=\"https://github.com/openelections/openelections-data-ny/issues/127\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/openelections/opene</span><span class=\"invisible\">lections-data-ny/issues/127</span></a>)</p><p>UT - 5 of 29 counties completed (<a href=\"https://github.com/openelections/openelections-data-ut/issues/74\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/openelections/opene</span><span class=\"invisible\">lections-data-ut/issues/74</span></a>)</p><p>TX - 100 of 254 counties completed (<a href=\"https://github.com/openelections/openelections-data-tx/issues/442\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/openelections/opene</span><span class=\"invisible\">lections-data-tx/issues/442</span></a>)<br>   <br>AZ - 2 of 15 counties completed (<a href=\"https://github.com/openelections/openelections-data-az/issues/59\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/openelections/opene</span><span class=\"invisible\">lections-data-az/issues/59</span></a>)</p><p>You can help us! Email openelections@gmail.com for details.</p>"
-    },
-    "people": [
-      {
-        "url": "https://newsie.social/@derekwillis",
-        "display_name": "Derek Willis"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/openelections/openelections-data-az/issues/59",
-    "title": "github.com/openelections/opene...",
-    "latest": "2023-02-25T19:21:44+00:00",
-    "last_post": {
-      "url": "https://newsie.social/@derekwillis/109926999939416511",
-      "content": "<p>OpenElections 2022 general election official precinct-level results conversion update:</p><p>PA - 24 of 67 counties completed (<a href=\"https://github.com/openelections/openelections-data-pa/issues/148\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/openelections/opene</span><span class=\"invisible\">lections-data-pa/issues/148</span></a>)</p><p>NY - 17 of 62 counties completed (<a href=\"https://github.com/openelections/openelections-data-ny/issues/127\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/openelections/opene</span><span class=\"invisible\">lections-data-ny/issues/127</span></a>)</p><p>UT - 5 of 29 counties completed (<a href=\"https://github.com/openelections/openelections-data-ut/issues/74\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/openelections/opene</span><span class=\"invisible\">lections-data-ut/issues/74</span></a>)</p><p>TX - 100 of 254 counties completed (<a href=\"https://github.com/openelections/openelections-data-tx/issues/442\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/openelections/opene</span><span class=\"invisible\">lections-data-tx/issues/442</span></a>)<br>   <br>AZ - 2 of 15 counties completed (<a href=\"https://github.com/openelections/openelections-data-az/issues/59\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/openelections/opene</span><span class=\"invisible\">lections-data-az/issues/59</span></a>)</p><p>You can help us! Email openelections@gmail.com for details.</p>"
-    },
-    "people": [
-      {
-        "url": "https://newsie.social/@derekwillis",
-        "display_name": "Derek Willis"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/openelections/openelections-data-ar/issues/24",
-    "title": "Phillips County missing precinct results from 2022 general \u00b7 Issue #24 \u00b7 openelections/openelections-data-ar",
-    "latest": "2023-02-25T19:20:53+00:00",
-    "last_post": {
-      "url": "https://newsie.social/@derekwillis/109926996598328411",
-      "content": "<p>An update on OpenElections' progress in converting official precinct-level results from the 2022 general election:</p><p>States Completed: WV, MN, SC, IA, TN, GA, NV, CT</p><p>States in Progress: AR, MI, FL, PA, NY, UT, TX, AZ</p><p>AR - Have requested precinct results from Phillips County (<a href=\"https://github.com/openelections/openelections-data-ar/issues/24\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/openelections/opene</span><span class=\"invisible\">lections-data-ar/issues/24</span></a>)</p><p>MI - 80 of 83 counties completed (<a href=\"https://github.com/openelections/openelections-data-mi/issues/56\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/openelections/opene</span><span class=\"invisible\">lections-data-mi/issues/56</span></a>) - have finished Wayne &amp; Macomb<br>  <br>FL - 39 of 67 counties completed (<a href=\"https://github.com/openelections/openelections-data-fl/issues/17\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/openelections/opene</span><span class=\"invisible\">lections-data-fl/issues/17</span></a>)</p>"
-    },
-    "people": [
-      {
-        "url": "https://newsie.social/@derekwillis",
-        "display_name": "Derek Willis"
       }
     ]
   }
