@@ -1,5 +1,307 @@
 [
   {
+    "link": "https://github.com/BjnNowak/TidyTuesday/blob/main/SC_numbats.R",
+    "title": "TidyTuesday/SC_numbats.R at main \u00b7 BjnNowak/TidyTuesday",
+    "latest": "2023-03-07T09:58:53+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@bjnnowak/109980708207270386",
+      "content": "<p>Mixing <a href=\"https://fosstodon.org/tags/TidyTuesday\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>TidyTuesday</span></a> with vegetation index from multispectral images (the kind of data I use most frequently at work!) to test if numbats distribution is related to vegetation, at national and local scale. Answer in plot below...</p><p><a href=\"https://fosstodon.org/tags/RStats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>RStats</span></a> code <a href=\"https://github.com/BjnNowak/TidyTuesday/blob/main/SC_numbats.R\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/BjnNowak/TidyTuesda</span><span class=\"invisible\">y/blob/main/SC_numbats.R</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fosstodon.org/@leeolney",
+        "display_name": "Lee Olney"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/mrklingon/StarTraveler",
+    "title": "GitHub - mrklingon/StarTraveler: Micropython \"game\" for micro:bit",
+    "latest": "2023-03-07T09:19:00+00:00",
+    "last_post": {
+      "url": "https://mastodon.sdf.org/@Mrklingo/109978919774767939",
+      "content": "<p>Playing around with the terrific python.microbit.org IDE.</p><p>\"Star Traveler\" for the micro:bit<br>Sort of a \"fidget spinner\" - to travel around a simulated cosmos.</p><p>tilt left, up, down, right to make starfield scroll in different directions. ...</p><p><a href=\"https://github.com/mrklingon/StarTraveler\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/mrklingon/StarTrave</span><span class=\"invisible\">ler</span></a></p><p><a href=\"https://mastodon.sdf.org/tags/microbit\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>microbit</span></a> <a href=\"https://mastodon.sdf.org/tags/micropython\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>micropython</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://ciberlandia.pt/@villares",
+        "display_name": "Alexandre B A Villares \ud83d\udc0d"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/farlit/ACDS",
+    "title": "GitHub - farlit/ACDS: Code for ICASSP2023: Ancient Chinese Word Segmentation and Part-of-Speech Tagging Using Distant Supervision",
+    "latest": "2023-03-07T08:52:39+00:00",
+    "last_post": {
+      "url": "https://creative.ai/@arxiv_cl/109981149380294452",
+      "content": "<p>\ud83d\udcdd Ancient Chinese Word Segmentation and Part-of-Speech Tagging Using Distant Supervision \ud83d\udcda</p><p>\"Uses distant supervision over parallel corpus to augment ancient Chinese word segmentation and part-of-speech tagging data and then uses the small amount of annotated data to relabel the data generated from distant supervision.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/farlit/ACDS\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/farlit/ACDS</span><span class=\"invisible\"></span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2303.01912v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2303.01912v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://creative.ai/@arxiv_cl",
+        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/rstudio/rstudio/issues/12494",
+    "title": "Previewing rendered html_document causes URLs to open in browser \u00b7 Issue #12494 \u00b7 rstudio/rstudio",
+    "latest": "2023-03-07T08:42:32+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@maelle/109981109627140150",
+      "content": "<p>Thanks to pair debugging \ud83d\udcaa <span class=\"h-card\"><a href=\"https://fosstodon.org/@Drmowinckels\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>Drmowinckels</span></a></span> &amp; I discovered the source of </p><p>\ud83d\ude40  \"sooo many new tabs open when building a Hugo website in RStudio IDE and put the browser in focus all the time\" \ud83d\ude40 </p><p> was not our layouts, not Hugo, but RStudio IDE that we simply need to update on our machines! \ud83d\ude0c <a href=\"https://github.com/rstudio/rstudio/issues/12494\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/rstudio/rstudio/iss</span><span class=\"invisible\">ues/12494</span></a></p><p><a href=\"https://mastodon.social/tags/RStats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>RStats</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@maelle",
+        "display_name": "Ma\u00eblle Salmon"
+      }
+    ]
+  },
+  {
+    "link": "https://observablehq.com/@frankelavsky/chartability-contrast-series",
+    "title": "Introduction to Accessible Contrast and Color for Data Visualization",
+    "latest": "2023-03-07T08:17:57+00:00",
+    "last_post": {
+      "url": "https://vis.social/@frankelavsky/109977797672858605",
+      "content": "<p>Every now and then I go back to this series on accessible color because someone brings it up (or mentions it was helpful).</p><p>It means so much to me to hear from members of the community that came across these notebooks and it had an impact in their work.</p><p><a href=\"https://observablehq.com/@frankelavsky/chartability-contrast-series\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">observablehq.com/@frankelavsky</span><span class=\"invisible\">/chartability-contrast-series</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://vis.social/@frankelavsky",
+        "display_name": "Frank \u2301"
+      },
+      {
+        "url": "https://hcommons.social/@librarifran",
+        "display_name": "franny gaede"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/TZW1998/Taming-Stable-Diffusion-with-Human-Ranking-Feedback",
+    "title": "GitHub - TZW1998/Taming-Stable-Diffusion-with-Human-Ranking-Feedback: This is the official repo for the paper \"Zeroth-Order Optimization Meets Human Feedback: Provable Learning via  Ranking Oracles\", Tang et al.",
+    "latest": "2023-03-07T07:39:02+00:00",
+    "last_post": {
+      "url": "https://creative.ai/@alexjc/109980859916164409",
+      "content": "<p>RT @_akhaliq@twitter.com</p><p>Taming Stable Diffusion with Human Ranking Feedback</p><p>method do not require any training or finetuning at all!. From experience, usually it takses around 10-20 rounds of ranking feedback before obtaining image with satisfying details</p><p>github: <a href=\"https://github.com/TZW1998/Taming-Stable-Diffusion-with-Human-Ranking-Feedback\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/TZW1998/Taming-Stab</span><span class=\"invisible\">le-Diffusion-with-Human-Ranking-Feedback</span></a></p><p>\ud83d\udc26\ud83d\udd17: <a href=\"https://twitter.com/_akhaliq/status/1632985863297671171\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">twitter.com/_akhaliq/status/16</span><span class=\"invisible\">32985863297671171</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://creative.ai/@alexjc",
+        "display_name": "Alex J. Champandard \u2744\ufe0f"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/suxuann/ddib",
+    "title": "GitHub - suxuann/ddib: Dual Diffusion Implicit Bridges for Image-to-Image Translation. ICLR 2023.",
+    "latest": "2023-03-07T07:38:56+00:00",
+    "last_post": {
+      "url": "https://creative.ai/@alexjc/109980859559163118",
+      "content": "<p>RT @chenlin_meng@twitter.com</p><p>Excited to share our <a href=\"https://creative.ai/tags/ICLR2023\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ICLR2023</span></a> paper \"Dual Diffusion Implicit Bridges for Image-to-Image Translation\" (DDIB), an image-to-image translation approach with diffusion models  \ud83d\udc31 -&gt; \ud83d\udc2f </p><p><a href=\"https://github.com/suxuann/ddib\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/suxuann/ddib</span><span class=\"invisible\"></span></a></p><p>\ud83d\udc26\ud83d\udd17: <a href=\"https://twitter.com/chenlin_meng/status/1632989952207376384\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">twitter.com/chenlin_meng/statu</span><span class=\"invisible\">s/1632989952207376384</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://creative.ai/@alexjc",
+        "display_name": "Alex J. Champandard \u2744\ufe0f"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/BurntMonkey/hello-graal",
+    "title": "GitHub - BurntMonkey/hello-graal: A simple project calling c from java",
+    "latest": "2023-03-07T07:30:02+00:00",
+    "last_post": {
+      "url": "https://die-partei.social/@hackernews/109980824557678801",
+      "content": "<p>Show HN: Hello World Java Polyglot - <a href=\"https://github.com/BurntMonkey/hello-graal\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/BurntMonkey/hello-g</span><span class=\"invisible\">raal</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://die-partei.social/@hackernews",
+        "display_name": "Hackernews"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/rbawden/mtbigscience",
+    "title": "github.com/rbawden/mtbigscienc...",
+    "latest": "2023-03-07T06:37:40+00:00",
+    "last_post": {
+      "url": "https://creative.ai/@arxiv_cl/109980618595791087",
+      "content": "<p>\ud83d\udcdd Investigating the Translation Performance of a Large Multilingual Language Model: The Case of BLOOM \ud83d\udcda</p><p>\"BLOOM is a 200 billion parameter language model trained in a multi-task learning paradigm over 46 typologically diverse languages on 720GB of filtered CommonCrawl data.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/rbawden/mtbigscience\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/rbawden/mtbigscienc</span><span class=\"invisible\">e</span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2303.01911v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2303.01911v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://creative.ai/@arxiv_cl",
+        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/mastodon/mastodon/blob/main/app/models/tag.rb#L37",
+    "title": "mastodon/tag.rb at main \u00b7 mastodon/mastodon",
+    "latest": "2023-03-07T06:28:02+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@texttheater/109980551350363014",
+      "content": "<p><span class=\"h-card\"><a href=\"https://fediscience.org/@tschfflr\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>tschfflr</span></a></span> <span class=\"h-card\"><a href=\"https://fosstodon.org/@minimalparts\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>minimalparts</span></a></span> Roughly speaking, all characters in the Unicode categories Letter, Mark, Number, and Connector Punctuation can be part of Mastodon hashtags. \"Letter\" includes, among many others, Cyrillic letters, Korean letters, Korean syllable blocks, and even Chinese characters. Sources: <a href=\"https://github.com/mastodon/mastodon/blob/main/app/models/tag.rb#L37\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/mastodon/mastodon/b</span><span class=\"invisible\">lob/main/app/models/tag.rb#L37</span></a>, <a href=\"https://ruby-doc.org/3.2.1/Regexp.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">ruby-doc.org/3.2.1/Regexp.html</span><span class=\"invisible\"></span></a>, <a href=\"https://www.compart.com/de/unicode/category\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">compart.com/de/unicode/categor</span><span class=\"invisible\">y</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fediscience.org/@tschfflr",
+        "display_name": "Tatjana Scheffler"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/jonkeegan/behind-this-website",
+    "title": "github.com/jonkeegan/behind-th...",
+    "latest": "2023-03-07T05:29:29+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@jonkeegan/109967302642306903",
+      "content": "<p>For anyone who missed our \"Who's behind this website?\" <a href=\"https://mastodon.social/tags/NICAR23\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>NICAR23</span></a> session (with <span class=\"h-card\"><a href=\"https://indieweb.social/@acookiecrumbles\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>acookiecrumbles</span></a></span> ) here are the slides: <a href=\"https://bit.ly/nicar23-who-website\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">bit.ly/nicar23-who-website</span><span class=\"invisible\"></span></a></p><p>And the handy checklist: <a href=\"https://github.com/jonkeegan/behind-this-website\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/jonkeegan/behind-th</span><span class=\"invisible\">is-website</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@mtigas",
+        "display_name": "mike tigas"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/dabeaz/blog/blob/main/2023/three-problems.md",
+    "title": "blog/three-problems.md at main \u00b7 dabeaz/blog",
+    "latest": "2023-03-07T03:46:17+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@dabeaz/109976407069852434",
+      "content": "<p>While walking the dog, a Python coder wanders off into the bushes   only to find a piece of Haskell.  He reemerges only to regurgitate this inspired bit of Python in all of its dynamic lambda-fueled walrus glory.  BAD CODER!</p><p><a href=\"https://github.com/dabeaz/blog/blob/main/2023/three-problems.md\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/dabeaz/blog/blob/ma</span><span class=\"invisible\">in/2023/three-problems.md</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@sgillies",
+        "display_name": "Sean Gillies"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/EionRobb/purple-teams",
+    "title": "GitHub - EionRobb/purple-teams: A MS Teams plugin for libpurple/Pidgin",
+    "latest": "2023-03-07T03:25:03+00:00",
+    "last_post": {
+      "url": "https://die-partei.social/@hackernews/109979861196864251",
+      "content": "<p>Purple-Teams: MS Teams Plugin for Pidgin (2022) - <a href=\"https://github.com/EionRobb/purple-teams\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/EionRobb/purple-tea</span><span class=\"invisible\">ms</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://die-partei.social/@hackernews",
+        "display_name": "Hackernews"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/hugocaillard/tweets-cleaner",
+    "title": "GitHub - hugocaillard/tweets-cleaner: Delete old tweets!",
+    "latest": "2023-03-07T02:47:22+00:00",
+    "last_post": {
+      "url": "https://phpc.social/@litzinger/109795456223113244",
+      "content": "<p>I used this tool to scrub my Twitter timeline. Of the 9000+ tweets it deleted all but 44. Don't know why. Hardest part was navigating Twitter's dev portal to get the proper API permissions.</p><p><a href=\"https://github.com/hugocaillard/tweets-cleaner\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/hugocaillard/tweets</span><span class=\"invisible\">-cleaner</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://indieweb.social/@tchambers",
+        "display_name": "Tim Chambers"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/Sophiestication/CoverSutra.git",
+    "title": "GitHub - Sophiestication/CoverSutra",
+    "latest": "2023-03-07T02:11:12+00:00",
+    "last_post": {
+      "url": "https://ganesha.social/@sophia/109938302177364021",
+      "content": "<p>The source code for CoverSutra is now available on GitHub.</p><p>\u2192 <a href=\"https://github.com/Sophiestication/CoverSutra.git\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/Sophiestication/Cov</span><span class=\"invisible\">erSutra.git</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@gruber",
+        "display_name": "John Gruber"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/mastodon/mastodon/pull/23913",
+    "title": "Add support for incoming rich text by ClearlyClaire \u00b7 Pull Request #23913 \u00b7 mastodon/mastodon",
+    "latest": "2023-03-07T02:09:46+00:00",
+    "last_post": {
+      "url": "https://beach.city/@vantablack/109973794184562873",
+      "content": "<p>OMG OMG OMG OMG OMG</p><p>MARKDOWN IS COMING TO MASTODON </p><p><a href=\"https://github.com/mastodon/mastodon/pull/23913\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/mastodon/mastodon/p</span><span class=\"invisible\">ull/23913</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@davew",
+        "display_name": "Dave Winer \u2615\ufe0f"
+      },
+      {
+        "url": "https://mastodon.social/@mmasnick",
+        "display_name": "Mike Masnick \u2705"
+      },
+      {
+        "url": "https://indieweb.social/@tchambers",
+        "display_name": "Tim Chambers"
+      },
+      {
+        "url": "https://mstdn.io/@nclslbrn",
+        "display_name": "Nicolas Lebrun"
+      },
+      {
+        "url": "https://hci.social/@bkeegan",
+        "display_name": "Brian C. Keegan"
+      },
+      {
+        "url": "https://hcommons.social/@librarifran",
+        "display_name": "franny gaede"
+      },
+      {
+        "url": "https://mastodon.social/@Cmastication",
+        "display_name": "JD Long \u2705"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/XiaojieGu/PAGE",
+    "title": "GitHub - XiaojieGu/PAGE: The source code for paper--PAGE: A Position-Aware Graph-based model for Emotion cause entailment",
+    "latest": "2023-03-07T02:07:51+00:00",
+    "last_post": {
+      "url": "https://creative.ai/@arxiv_cl/109979557651864356",
+      "content": "<p>\ud83d\udcdd PAGE: A Position-Aware Graph-Based Model for Emotion Cause Entailment in Conversation \ud83d\udcda</p><p>\"A position-aware graph is built to encode the entire conversation, fully modeling causal relations among utterances, which are then utilized to learn the representation of target utterances for emotion entailment recognition.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/XiaojieGu/PAGE\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/XiaojieGu/PAGE</span><span class=\"invisible\"></span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2303.01795v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2303.01795v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://creative.ai/@arxiv_cl",
+        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/b-k/py1040",
+    "title": "https://github.com/b-k/py1040",
+    "latest": "2023-03-07T02:06:05+00:00",
+    "last_post": {
+      "url": "https://xoxo.zone/@b/109979548975088120",
+      "content": "<p>I've updated the U.S. tax explorer for the `22 tax year. The Python version uses the same data, so that's ready for you too. May it ease your calculations.<br><a href=\"https://b-k.github.io/1040.js/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">b-k.github.io/1040.js/</span><span class=\"invisible\"></span></a><br><a href=\"https://github.com/b-k/py1040\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/b-k/py1040</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.unknownrealm.org/@winteram",
+        "display_name": "Winter Mason"
+      },
+      {
+        "url": "https://data-folks.masto.host/@harlanh",
+        "display_name": "Harlan Harris"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/BrunoLevy/GraphiteThree",
     "title": "GitHub - BrunoLevy/GraphiteThree: Experimental 3D modeler",
     "latest": "2023-03-06T21:25:48+00:00",
@@ -26,37 +328,6 @@
       {
         "url": "https://social.coop/@edsu",
         "display_name": "Ed Summers"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/mastodon/mastodon/pull/23913",
-    "title": "Add support for incoming rich text by ClearlyClaire \u00b7 Pull Request #23913 \u00b7 mastodon/mastodon",
-    "latest": "2023-03-06T20:44:39+00:00",
-    "last_post": {
-      "url": "https://beach.city/@vantablack/109973794184562873",
-      "content": "<p>OMG OMG OMG OMG OMG</p><p>MARKDOWN IS COMING TO MASTODON </p><p><a href=\"https://github.com/mastodon/mastodon/pull/23913\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/mastodon/mastodon/p</span><span class=\"invisible\">ull/23913</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@davew",
-        "display_name": "Dave Winer \u2615\ufe0f"
-      },
-      {
-        "url": "https://mastodon.social/@mmasnick",
-        "display_name": "Mike Masnick \u2705"
-      },
-      {
-        "url": "https://indieweb.social/@tchambers",
-        "display_name": "Tim Chambers"
-      },
-      {
-        "url": "https://mstdn.io/@nclslbrn",
-        "display_name": "Nicolas Lebrun"
-      },
-      {
-        "url": "https://hci.social/@bkeegan",
-        "display_name": "Brian C. Keegan"
       }
     ]
   },
@@ -192,21 +463,6 @@
       {
         "url": "https://vis.social/@seblammers",
         "display_name": "Sebastian Lammers"
-      }
-    ]
-  },
-  {
-    "link": "https://observablehq.com/@frankelavsky/chartability-contrast-series",
-    "title": "Introduction to Accessible Contrast and Color for Data Visualization",
-    "latest": "2023-03-06T18:40:16+00:00",
-    "last_post": {
-      "url": "https://vis.social/@frankelavsky/109977797672858605",
-      "content": "<p>Every now and then I go back to this series on accessible color because someone brings it up (or mentions it was helpful).</p><p>It means so much to me to hear from members of the community that came across these notebooks and it had an impact in their work.</p><p><a href=\"https://observablehq.com/@frankelavsky/chartability-contrast-series\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">observablehq.com/@frankelavsky</span><span class=\"invisible\">/chartability-contrast-series</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://vis.social/@frankelavsky",
-        "display_name": "Frank \u2301"
       }
     ]
   },
@@ -3028,246 +3284,6 @@
       {
         "url": "https://macaw.social/@andypiper",
         "display_name": "Andy Piper"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/Shirakumo/kandria#readme",
-    "title": "GitHub - Shirakumo/kandria: A post-apocalyptic actionRPG. Now on Steam!",
-    "latest": "2023-02-26T21:42:18+00:00",
-    "last_post": {
-      "url": "https://rollenspiel.social/@ArneBab/109916137058637667",
-      "content": "<p>Thanks to <span class=\"h-card\"><a href=\"https://mastodon.tymoon.eu/@shinmera\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>shinmera</span></a></span> there\u2019s now a full indie-commercial-grade <a href=\"https://rollenspiel.social/tags/libre\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>libre</span></a> 2D <a href=\"https://rollenspiel.social/tags/game\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>game</span></a> <a href=\"https://rollenspiel.social/tags/engine\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>engine</span></a> available for Common <a href=\"https://rollenspiel.social/tags/Lisp\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Lisp</span></a> \u2014 developed with <a href=\"https://rollenspiel.social/tags/Emacs\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Emacs</span></a> and including live-hacking! <a href=\"https://github.com/Shirakumo/kandria#readme\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/Shirakumo/kandria#r</span><span class=\"invisible\">eadme</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://social.yesterweb.org/@triptych",
-        "display_name": "Andrew Wooldridge"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/WebReflection/nonchalance#readme",
-    "title": "GitHub - WebReflection/nonchalance: The easiest way to augment DOM builtin elements.",
-    "latest": "2023-02-26T21:33:37+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@webreflection/109933123348492642",
-      "content": "<p>I made a poor job at describing it but here's the thing: there are 143-161+ DOM classes nobody can extend out of a classes based PL as JS is:</p><p>Reflect.ownKeys(globalThis).filter($ =&gt; /^(?:HTML|SVG|MathML).*?Element$/.test($));</p><p>now you can with nonchalance<br><a href=\"https://github.com/WebReflection/nonchalance#readme\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/WebReflection/nonch</span><span class=\"invisible\">alance#readme</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://social.yesterweb.org/@triptych",
-        "display_name": "Andrew Wooldridge"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/thecodecat23/processing-sketches",
-    "title": "GitHub - thecodecat23/processing-sketches: \"Processing Sketches\" is a repository of creative coding sketches made with the Processing programming language, showcasing generative art, interactive visualizations, and other experiments with code.",
-    "latest": "2023-02-26T20:58:25+00:00",
-    "last_post": {
-      "url": "https://23.illuminati.org/@thecodecat/109933042413602045",
-      "content": "<p>\ud83c\udfa8 Just created a mesmerizing \"Gravitational Well\" sketch with <a href=\"https://23.illuminati.org/tags/processing\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>processing</span></a>! <br>Particles emerge from random points and move towards the center in a hypnotic loop. <br>Check my <a href=\"https://23.illuminati.org/tags/GitHub\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>GitHub</span></a> repo here: <a href=\"https://github.com/thecodecat23/processing-sketches\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/thecodecat23/proces</span><span class=\"invisible\">sing-sketches</span></a><br><a href=\"https://23.illuminati.org/tags/creativecoding\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>creativecoding</span></a> <a href=\"https://23.illuminati.org/tags/generativeart\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>generativeart</span></a> <a href=\"https://23.illuminati.org/tags/animation\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>animation</span></a> \ud83c\udf00</p>"
-    },
-    "people": [
-      {
-        "url": "https://23.illuminati.org/@thecodecat",
-        "display_name": "thecodecat23"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/wotbrew/relic",
-    "title": "GitHub - wotbrew/relic: Functional relational programming for Clojure(Script).",
-    "latest": "2023-02-26T20:35:02+00:00",
-    "last_post": {
-      "url": "https://die-partei.social/@hackernews/109932950516764971",
-      "content": "<p>Relic: Functional relational programming for Clojure(Script) - <a href=\"https://github.com/wotbrew/relic\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/wotbrew/relic</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://die-partei.social/@hackernews",
-        "display_name": "Hackernews"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/jina-ai/jina",
-    "title": "GitHub - jina-ai/jina: Cloud-native neural search framework for \ud835\ude56\ud835\ude63\ud835\ude6e kind of data",
-    "latest": "2023-02-26T20:32:04+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@programming_discussions/107874214995080527",
-      "content": "<p>Just released Jina 3.0 - self-hosted AI powered search for any type of data - text, image, gif, audio, video, 3d mesh [Open-Source]</p><p><a href=\"https://github.com/jina-ai/jina\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/jina-ai/jina</span><span class=\"invisible\"></span></a></p><p>Discussions: <a href=\"https://discu.eu/q/https://github.com/jina-ai/jina\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">discu.eu/q/https://github.com/</span><span class=\"invisible\">jina-ai/jina</span></a></p><p><a href=\"https://mastodon.social/tags/degoogle\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>degoogle</span></a> <a href=\"https://mastodon.social/tags/machinelearning\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>machinelearning</span></a> <a href=\"https://mastodon.social/tags/privacy\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>privacy</span></a> <a href=\"https://mastodon.social/tags/programmertil\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>programmertil</span></a> <a href=\"https://mastodon.social/tags/programming\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>programming</span></a> <a href=\"https://mastodon.social/tags/selfhosted\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>selfhosted</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@compsci_discussions",
-        "display_name": "Compsci Weekly"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/prakhs123/read-epub-from-azure-tts",
-    "title": "GitHub - prakhs123/read-epub-from-azure-tts: Use Azure TTS to read epub files",
-    "latest": "2023-02-26T20:30:48+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@python_discussions/109932933841959084",
-      "content": "<p>Convert EPUB files to speech using Azure's Text-to-Speech with Python</p><p><a href=\"https://github.com/prakhs123/read-epub-from-azure-tts\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/prakhs123/read-epub</span><span class=\"invisible\">-from-azure-tts</span></a></p><p>Discussions: <a href=\"https://discu.eu/q/https://github.com/prakhs123/read-epub-from-azure-tts\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">discu.eu/q/https://github.com/</span><span class=\"invisible\">prakhs123/read-epub-from-azure-tts</span></a></p><p><a href=\"https://mastodon.social/tags/programming\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>programming</span></a> <a href=\"https://mastodon.social/tags/python\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>python</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@python_discussions",
-        "display_name": "Python Weekly"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/travisbrown/blue/pull/5",
-    "title": "Update (26 February 2023) by travisbrown \u00b7 Pull Request #5 \u00b7 travisbrown/blue",
-    "latest": "2023-02-26T20:23:20+00:00",
-    "last_post": {
-      "url": "https://bird.makeup/users/travisbrown/statuses/1629730714559168514",
-      "content": "<p>Twitter Blue tracker weekly update: 21.5k newly-identified sign-ups, 19.5k unsubscriptions, 13k returning, the usual few hundred suspensions and deactivations: <a href=\"https://github.com/travisbrown/blue/pull/5\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/travisbrown/blue/pu</span><span class=\"invisible\">ll/5</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://indieweb.social/@tchambers",
-        "display_name": "Tim Chambers"
-      }
-    ]
-  },
-  {
-    "link": "https://observablehq.com/@hrbrmstr/weatherflow-tempest-obs_st-record-handling",
-    "title": "WeatherFlow Tempest obs_st Record Handling",
-    "latest": "2023-02-26T19:45:57+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@hrbrmstr/109932757486595806",
-      "content": "<p>Prior to the workout today, I updated the <span class=\"h-card\"><a href=\"https://vis.social/@observablehq\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>observablehq</span></a></span> notebook I've been tweaking over time (mostly for Plot theme testing) to show how to use parquet via duckdb \"side-by-side\" with the ndjson I was using. Did that b/c the Weatherflow Tempest observation JSON data was getting close to 7MB, but the parquet is less than 1 MB. </p><p>Rly cool times to be doing data analysis/vis in. So many advancements coming so fast &amp; furious.</p><p>\ud83d\udcd3 <a href=\"https://observablehq.com/@hrbrmstr/weatherflow-tempest-obs_st-record-handling\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">observablehq.com/@hrbrmstr/wea</span><span class=\"invisible\">therflow-tempest-obs_st-record-handling</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@hrbrmstr",
-        "display_name": "boB Rudis \ud83c\uddfa\ud83c\udde6"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/wahlatlas/grid_data/blob/main/gridded_data_tutorial.ipynb",
-    "title": "grid_data/gridded_data_tutorial.ipynb at main \u00b7 wahlatlas/grid_data",
-    "latest": "2023-02-26T10:03:01+00:00",
-    "last_post": {
-      "url": "https://mamot.fr/@emchateau/109930465317873775",
-      "content": "<p>RT @wahlatlas@twitter.activitypub.actor</p><p>11/11 In diesem <a href=\"https://mamot.fr/tags/Tutorial\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Tutorial</span></a> zeige ich, wie man mit Python/Pandas den 4,6 GB gro\u00dfen Datensatz zu Wohnungen f\u00fcr alle 100m-Gitterzellen in Deutschland  aus dem <a href=\"https://mamot.fr/tags/Zensus\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Zensus</span></a> 2011 auf handliche 64 MB filtert und dann mit <a href=\"https://mamot.fr/tags/QGis\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>QGis</span></a> visualisiert <a href=\"https://github.com/wahlatlas/grid_data/blob/main/gridded_data_tutorial.ipynb\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/wahlatlas/grid_data</span><span class=\"invisible\">/blob/main/gridded_data_tutorial.ipynb</span></a></p><p>\ud83d\udc26\ud83d\udd17: <a href=\"https://twitter.com/wahlatlas/status/1629420383748214784\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">twitter.com/wahlatlas/status/1</span><span class=\"invisible\">629420383748214784</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mamot.fr/@emchateau",
-        "display_name": "Emmanuel Chateau-Dutier"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/anirvan/1940-singh-census/",
-    "title": "github.com/anirvan/1940-singh-...",
-    "latest": "2023-02-26T09:34:42+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@anirvan/109924065436088395",
-      "content": "<p>The first significant wave of South Asians on the West Coast of the US were Punjabi men, primarily Sikh (<a href=\"https://en.wikipedia.org/wiki/Punjabi_Americans\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">en.wikipedia.org/wiki/Punjabi_</span><span class=\"invisible\">Americans</span></a>)</p><p>Some of those histories are well recorded: Stockton Gurdwara, railroads, Punjabi-Mexican marriages, Bellingham Riot: <a href=\"https://en.wikipedia.org/wiki/Punjabi_Americans\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">en.wikipedia.org/wiki/Punjabi_</span><span class=\"invisible\">Americans</span></a></p><p>I wanted to do some <a href=\"https://mastodon.social/tags/DigitalHumanities\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DigitalHumanities</span></a> analysis, so I created a cleaned-up list of every person with the last name \"Singh\" in the 1940 US Census.</p><p>I made the dataset public:</p><p><a href=\"https://github.com/anirvan/1940-singh-census/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/anirvan/1940-singh-</span><span class=\"invisible\">census/</span></a><br><a href=\"https://en.wikipedia.org/wiki/Singh\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">en.wikipedia.org/wiki/Singh</span><span class=\"invisible\"></span></a></p><p>2/n</p>"
-    },
-    "people": [
-      {
-        "url": "https://sfba.social/@morgandawn",
-        "display_name": "morgandawn"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/openjournals/joss-reviews/issues/5017",
-    "title": "[REVIEW]: DeBIR: A Python Package for Dense Bi-Encoder Information Retrieval \u00b7 Issue #5017 \u00b7 openjournals/joss-reviews",
-    "latest": "2023-02-26T08:44:54+00:00",
-    "last_post": {
-      "url": "https://fosstodon.org/@arfon/109925462068663239",
-      "content": "<p>I'm looking for someone to help me review this submission for <span class=\"h-card\"><a href=\"https://fosstodon.org/@joss\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>joss</span></a></span>: DeBIR: A Python Package for Dense Bi-Encoder Information Retrieval. We already have one review and are looking for a second \u2013 know anyone who might be able to help? <a href=\"https://github.com/openjournals/joss-reviews/issues/5017\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/openjournals/joss-r</span><span class=\"invisible\">eviews/issues/5017</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://idf.social/@arjen",
-        "display_name": "Arjen P. de Vries Timmers \ud83d\udd4a\ufe0f"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/OblivCode/chippy",
-    "title": "GitHub - OblivCode/chippy: Chip8 emulator written in python using pygame",
-    "latest": "2023-02-26T08:30:19+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@compsci_discussions/109930100774221445",
-      "content": "<p>My first emulator</p><p><a href=\"https://github.com/OblivCode/chippy\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/OblivCode/chippy</span><span class=\"invisible\"></span></a></p><p>Discussions: <a href=\"https://discu.eu/q/https://github.com/OblivCode/chippy\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">discu.eu/q/https://github.com/</span><span class=\"invisible\">OblivCode/chippy</span></a></p><p><a href=\"https://mastodon.social/tags/compsci\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>compsci</span></a> <a href=\"https://mastodon.social/tags/emudev\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>emudev</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@compsci_discussions",
-        "display_name": "Compsci Weekly"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/csgoh/processmapper",
-    "title": "GitHub - csgoh/processmapper",
-    "latest": "2023-02-26T08:29:53+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@python_discussions/109930099076612190",
-      "content": "<p>Business Process Diagram as code</p><p><a href=\"https://github.com/csgoh/processmapper\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/csgoh/processmapper</span><span class=\"invisible\"></span></a></p><p>Discussions: <a href=\"https://discu.eu/q/https://github.com/csgoh/processmapper\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">discu.eu/q/https://github.com/</span><span class=\"invisible\">csgoh/processmapper</span></a></p><p><a href=\"https://mastodon.social/tags/programming\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>programming</span></a> <a href=\"https://mastodon.social/tags/python\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>python</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@python_discussions",
-        "display_name": "Python Weekly"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/kedro-org/kedro-viz",
-    "title": "GitHub - kedro-org/kedro-viz: Visualise your Kedro data and machine-learning pipelines and track your experiments.",
-    "latest": "2023-02-26T08:24:37+00:00",
-    "last_post": {
-      "url": "https://social.juanlu.space/@astrojuanlu/109930078387961291",
-      "content": "<p>What are the best practices when packaging Python + JavaScript projects? I know that <span class=\"h-card\"><a href=\"https://fosstodon.org/@Jupyter\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>Jupyter</span></a></span> is using Hatch and created a custom extension. Are there other examples? Asking for kedro-viz <a href=\"https://github.com/kedro-org/kedro-viz\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/kedro-org/kedro-viz</span><span class=\"invisible\"></span></a></p><p><a href=\"https://social.juanlu.space/tags/python\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>python</span></a> <a href=\"https://social.juanlu.space/tags/packaging\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>packaging</span></a> <a href=\"https://social.juanlu.space/tags/js\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>js</span></a> <a href=\"https://social.juanlu.space/tags/npm\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>npm</span></a> <a href=\"https://social.juanlu.space/tags/nodejs\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>nodejs</span></a> <a href=\"https://social.juanlu.space/tags/kedro\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>kedro</span></a> <a href=\"https://social.juanlu.space/tags/kedroviz\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>kedroviz</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://social.juanlu.space/@astrojuanlu",
-        "display_name": "Juan Luis"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/roapi/roapi",
-    "title": "GitHub - roapi/roapi: Create full-fledged APIs for slowly moving datasets without writing a single line of code.",
-    "latest": "2023-02-26T07:38:32+00:00",
-    "last_post": {
-      "url": "https://sigmoid.social/@epappas/109918704248060875",
-      "content": "<p>ROAPI automatically spins up read-only APIs for static datasets without requiring you to write a single line of code. It builds on top of <a href=\"https://sigmoid.social/tags/ApacheArrow\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ApacheArrow</span></a> and <a href=\"https://sigmoid.social/tags/Datafusion\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Datafusion</span></a> (and <a href=\"https://sigmoid.social/tags/rust\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rust</span></a>).</p><p><a href=\"https://github.com/roapi/roapi\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/roapi/roapi</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://sigmoid.social/@rich",
-        "display_name": "Rich Tong \u2764\ufe0f\ud83c\udf93"
-      }
-    ]
-  },
-  {
-    "link": "https://gitlab.com/TheZoq2/spade-v",
-    "title": "https://gitlab.com/TheZoq2/spade-v",
-    "latest": "2023-02-26T06:51:49+00:00",
-    "last_post": {
-      "url": "https://mastodon.online/@goran_mahovlic/109913484133212132",
-      "content": "<p>RT @TheZoq2<br>I have largely moved onto the elephant site, but this warrants a cross post</p><p>The <a href=\"https://spade-lang.org/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">spade-lang.org/</span><span class=\"invisible\"></span></a> <a href=\"https://mastodon.online/tags/riscv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>riscv</span></a> now passes all ISA tests, and can run a rust program to blink an LED.</p><p>HDL source <a href=\"https://gitlab.com/TheZoq2/spade-v\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">gitlab.com/TheZoq2/spade-v</span><span class=\"invisible\"></span></a><br>Rust program: <a href=\"https://gitlab.com/TheZoq2/spade-v/-/blob/rust/hwtest/bare-metal-rust-on-riscv/src/main.rs\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gitlab.com/TheZoq2/spade-v/-/b</span><span class=\"invisible\">lob/rust/hwtest/bare-metal-rust-on-riscv/src/main.rs</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://sigmoid.social/@rich",
-        "display_name": "Rich Tong \u2764\ufe0f\ud83c\udf93"
       }
     ]
   }
