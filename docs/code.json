@@ -1,5 +1,268 @@
 [
   {
+    "link": "https://github.com/rust-lang/rust/pull/95985/",
+    "title": "Add PhantomData marker to Context to make Context !Send and !Sync by jihiggins \u00b7 Pull Request #95985 \u00b7 rust-lang/rust",
+    "latest": "2023-03-10T10:00:21+00:00",
+    "last_post": {
+      "url": "https://hachyderm.io/@algo_luca/109998402504586208",
+      "content": "<p>I didn't realize that <a href=\"https://hachyderm.io/tags/rustlang\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rustlang</span></a>  1.68.0 finally bit the bullet on making Context explicitly !Send and !Sync: <a href=\"https://github.com/rust-lang/rust/pull/95985/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/rust-lang/rust/pull</span><span class=\"invisible\">/95985/</span></a></p><p>It is a (tiny) breaking change, but I'm curious to see if it unlocks some optimisations for single-threaded executors.</p>"
+    },
+    "people": [
+      {
+        "url": "https://hachyderm.io/@algo_luca",
+        "display_name": "Luca Palmieri"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/CodeIntelligenceTesting/cifuzz/pull/655#discussion_r1131139148",
+    "title": "Get `error-details` from CI App  and enhance findings with more details by MarkusZoppelt \u00b7 Pull Request #655 \u00b7 CodeIntelligenceTesting/cifuzz",
+    "latest": "2023-03-10T09:03:57+00:00",
+    "last_post": {
+      "url": "https://infosec.exchange/@MarkusZoppelt/109994283644581208",
+      "content": "<p>One of my dear colleagues left the funniest PR review comment:</p><p><a href=\"https://github.com/CodeIntelligenceTesting/cifuzz/pull/655#discussion_r1131139148\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/CodeIntelligenceTes</span><span class=\"invisible\">ting/cifuzz/pull/655#discussion_r1131139148</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://cyberdeck.social/@jon",
+        "display_name": "Jon Martin \ud83e\udd95"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/microsoft/LMOps",
+    "title": "https://github.com/microsoft/LMOps",
+    "latest": "2023-03-10T07:54:47+00:00",
+    "last_post": {
+      "url": "https://infosec.exchange/@tsomersu/109868522507102175",
+      "content": "<p>Microsoft Open Source LMOps: An AI Prompt Optimization Toolkit For Generative AI Models </p><p><a href=\"https://www.marktechpost.com/2023/02/14/microsoft-open-source-lmops-an-ai-prompt-optimization-toolkit-for-generative-ai-models/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">marktechpost.com/2023/02/14/mi</span><span class=\"invisible\">crosoft-open-source-lmops-an-ai-prompt-optimization-toolkit-for-generative-ai-models/</span></a></p><p><a href=\"https://github.com/microsoft/LMOps\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/microsoft/LMOps</span><span class=\"invisible\"></span></a></p><p>Optimizing Prompts for Text-to-Image Generation<br><a href=\"https://arxiv.org/pdf/2212.09611.pdf\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/pdf/2212.09611.pdf</span><span class=\"invisible\"></span></a></p><p><a href=\"https://infosec.exchange/tags/GPT\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>GPT</span></a> <a href=\"https://infosec.exchange/tags/GenerativeAI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>GenerativeAI</span></a> <a href=\"https://infosec.exchange/tags/Microsoft\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Microsoft</span></a> <a href=\"https://infosec.exchange/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://creative.ai/@arxiv",
+        "display_name": "arXiv Highlights AI/ML \ud83d\udcdd\ud83e\udd16"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/ipeaGIT/intro_access_book",
+    "title": "GitHub - ipeaGIT/intro_access_book: Acessibilidade urbana e avalia\u00e7\u00e3o de impacto (https://ipeagit.github.io/intro_access_book/)",
+    "latest": "2023-03-10T07:37:23+00:00",
+    "last_post": {
+      "url": "https://datasci.social/@UrbanDemog/109994052089329197",
+      "content": "<p>The book was entirely written in <a href=\"https://datasci.social/tags/rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rstats</span></a> and <a href=\"https://datasci.social/tags/quartopub\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>quartopub</span></a>. The code of the book is available on this GitHub repository <a href=\"https://github.com/ipeaGIT/intro_access_book\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/ipeaGIT/intro_acces</span><span class=\"invisible\">s_book</span></a> </p><p>The icing on the cake \ud83c\udf70:  you can run the code used in the book online in your browser with @mybinderteam +</p>"
+    },
+    "people": [
+      {
+        "url": "https://fosstodon.org/@brodriguesco",
+        "display_name": "Bruno Rodrigues :rstats: :tux:"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/mastodon/mastodon/issues/431",
+    "title": "Convert gifs to webm during upload \u00b7 Issue #431 \u00b7 mastodon/mastodon",
+    "latest": "2023-03-10T07:21:42+00:00",
+    "last_post": {
+      "url": "https://mapstodon.space/@floledermann/109997778673405761",
+      "content": "<p>FWIW I found out that Mastodon automatically converts GIFs to mp4 on upload, and uploading a GIF still seems the only way to get an auto-playing video on here. A bit weird but still good to know.</p><p><a href=\"https://github.com/mastodon/mastodon/issues/431\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/mastodon/mastodon/i</span><span class=\"invisible\">ssues/431</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mapstodon.space/@floledermann",
+        "display_name": "Florian Ledermann"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/web-infra-dev/rspack",
+    "title": "GitHub - web-infra-dev/rspack: A fast Rust-based web bundler.",
+    "latest": "2023-03-10T06:50:02+00:00",
+    "last_post": {
+      "url": "https://die-partei.social/@hackernews/109997654156866367",
+      "content": "<p>Rspack: A fast Rust-based web bundler - <a href=\"https://github.com/web-infra-dev/rspack\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/web-infra-dev/rspac</span><span class=\"invisible\">k</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://die-partei.social/@hackernews",
+        "display_name": "Hackernews"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/coatless-r-n-d/webR-quarto-demos",
+    "title": "GitHub - coatless-r-n-d/webR-quarto-demos: Experiments with generating a standalone Quarto Document using Web R",
+    "latest": "2023-03-10T06:46:33+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@brodriguesco/109997640506199119",
+      "content": "<p>Someone just wrote a proof of concept for a {webr} chunk for Quarto !</p><p>Basically, use the {webr} chunk to get an executable, interactive, <a href=\"https://fosstodon.org/tags/RStats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>RStats</span></a> console inside an HTML document knitted with Quarto ! </p><p>author is @axiomsofxyz@twitter.com</p><p><a href=\"https://github.com/coatless-r-n-d/webR-quarto-demos\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/coatless-r-n-d/webR</span><span class=\"invisible\">-quarto-demos</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://genart.social/@georgemsavva",
+        "display_name": "George Savva"
+      },
+      {
+        "url": "https://fosstodon.org/@brodriguesco",
+        "display_name": "Bruno Rodrigues :rstats: :tux:"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/coatless-r-n-d/webR-quarto-demos/blob/main/webr-quarto-html-demo.qmd",
+    "title": "webR-quarto-demos/webr-quarto-html-demo.qmd at main \u00b7 coatless-r-n-d/webR-quarto-demos",
+    "latest": "2023-03-10T06:39:27+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@brodriguesco/109997612592993328",
+      "content": "<p><span class=\"h-card\"><a href=\"https://fediscience.org/@andrew\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>andrew</span></a></span> <span class=\"h-card\"><a href=\"https://mastodon.social/@eliocamp\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>eliocamp</span></a></span> someone just did lol <a href=\"https://github.com/coatless-r-n-d/webR-quarto-demos/blob/main/webr-quarto-html-demo.qmd\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/coatless-r-n-d/webR</span><span class=\"invisible\">-quarto-demos/blob/main/webr-quarto-html-demo.qmd</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fosstodon.org/@brodriguesco",
+        "display_name": "Bruno Rodrigues :rstats: :tux:"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/fredrikaverpil/creosote",
+    "title": "GitHub - fredrikaverpil/creosote: Identify unused dependencies and avoid a bloated virtual environment",
+    "latest": "2023-03-10T06:10:59+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@python_discussions/109997500650837772",
+      "content": "<p>Creosote - Identify unused dependencies and avoid a bloated virtual environment</p><p><a href=\"https://github.com/fredrikaverpil/creosote\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/fredrikaverpil/creo</span><span class=\"invisible\">sote</span></a></p><p>Discussions: <a href=\"https://discu.eu/q/https://github.com/fredrikaverpil/creosote\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">discu.eu/q/https://github.com/</span><span class=\"invisible\">fredrikaverpil/creosote</span></a></p><p><a href=\"https://mastodon.social/tags/programming\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>programming</span></a> <a href=\"https://mastodon.social/tags/python\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>python</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@python_discussions",
+        "display_name": "Python Weekly"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/SeungoneKim/CoTEVer",
+    "title": "GitHub - SeungoneKim/CoTEVer: Official Repository of CoT Verification Toolbox. Accepted at EACL 2023 (demo track).",
+    "latest": "2023-03-10T06:08:48+00:00",
+    "last_post": {
+      "url": "https://creative.ai/@arxiv_cl/109990704212722117",
+      "content": "<p>\ud83d\udcdd CoTEVer: Chain of Thought Prompting Annotation Toolkit for Explanation Verification \ud83d\udcda\ud83e\udde0</p><p>\"A tool for annotating the factual correctness of generated explanations and collecting revision data of wrong explanations for enhancing the faithfulness of generated explanations from large language models (LLMs).\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a> <a href=\"https://creative.ai/tags/LG\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>LG</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/SeungoneKim/CoTEVer\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/SeungoneKim/CoTEVer</span><span class=\"invisible\"></span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2303.03628v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2303.03628v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://creative.ai/@arxiv_cl",
+        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
+      },
+      {
+        "url": "https://fosstodon.org/@ljvmiranda",
+        "display_name": "Lj V. Miranda"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/microsoft/visual-chatgpt",
+    "title": "GitHub - microsoft/visual-chatgpt: VisualChatGPT",
+    "latest": "2023-03-10T05:00:03+00:00",
+    "last_post": {
+      "url": "https://die-partei.social/@hackernews/109997221680573522",
+      "content": "<p>Visual ChatGPT - <a href=\"https://github.com/microsoft/visual-chatgpt\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/microsoft/visual-ch</span><span class=\"invisible\">atgpt</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://die-partei.social/@hackernews",
+        "display_name": "Hackernews"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/maxgoedjen/secretive",
+    "title": "GitHub - maxgoedjen/secretive: Store SSH keys in the Secure Enclave",
+    "latest": "2023-03-10T04:45:02+00:00",
+    "last_post": {
+      "url": "https://die-partei.social/@hackernews/109997162663394596",
+      "content": "<p>Secretive: Store SSH Keys in the Secure Enclave - <a href=\"https://github.com/maxgoedjen/secretive\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/maxgoedjen/secretiv</span><span class=\"invisible\">e</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://die-partei.social/@hackernews",
+        "display_name": "Hackernews"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/zyxelsa/InST",
+    "title": "https://github.com/zyxelsa/InST",
+    "latest": "2023-03-10T03:50:12.321000+00:00",
+    "last_post": {
+      "url": "https://a.farook.org/objects/47ea9bc2-32e5-4fe8-91da-dd002d94691e",
+      "content": "\"Inversion-Based Style Transfer with Diffusion Models. (arXiv:2211.13203v2 [cs.CV] UPDATED)\" \u2014 Accurately transfer the style attributes such as semantics, material, object shape, brushstrokes and colors of an input image to the target image.<br><br>Paper: <a href=\"http://arxiv.org/abs/2211.13203\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">http://arxiv.org/abs/2211.13203</a><br>Code: <a href=\"https://github.com/zyxelsa/InST\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">https://github.com/zyxelsa/InST</a><br><br><a class=\"hashtag\" href=\"https://a.farook.org/tag/ai\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#AI</a> <a class=\"hashtag\" href=\"https://a.farook.org/tag/cv\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#CV</a> <a class=\"hashtag\" href=\"https://a.farook.org/tag/newpaper\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#NewPaper</a> <a class=\"hashtag\" href=\"https://a.farook.org/tag/deeplearning\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#DeepLearning</a>  <a class=\"hashtag\" href=\"https://a.farook.org/tag/machinelearning\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#MachineLearning</a><br><br>&lt;&lt;Find this useful? Please boost so that others can benefit too \ud83d\ude42&gt;&gt;<br><a href=\"https://a.farook.org/media/fd921051b97c78e7d384097a7634d2cab4c4358cfeabed5fb007c9bf9b34a03d.jpeg\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">Style transfer results by using\u2026</a>"
+    },
+    "people": [
+      {
+        "url": "https://a.farook.org/users/f",
+        "display_name": "Fahim Farook"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/anon-user-for-web/badlad",
+    "title": "https://github.com/anon-user-for-web/badlad",
+    "latest": "2023-03-10T03:26:46.385000+00:00",
+    "last_post": {
+      "url": "https://a.farook.org/objects/4815090a-e38b-4e4f-be36-a07bf0449145",
+      "content": "\"BaDLAD: A Large Multi-Domain Bengali Document Layout Analysis Dataset. (arXiv:2303.05325v1 [cs.CV])\" \u2014 A dataset to help with Bengali document layout analysis, containing 33,695 human annotated document samples from six domains.<br><br>Paper: <a href=\"http://arxiv.org/abs/2303.05325\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">http://arxiv.org/abs/2303.05325</a><br>Code: <a href=\"https://github.com/anon-user-for-web/badlad\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">https://github.com/anon-user-for-web/badlad</a><br><br><a class=\"hashtag\" href=\"https://a.farook.org/tag/ai\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#AI</a> <a class=\"hashtag\" href=\"https://a.farook.org/tag/cv\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#CV</a> <a class=\"hashtag\" href=\"https://a.farook.org/tag/newpaper\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#NewPaper</a> <a class=\"hashtag\" href=\"https://a.farook.org/tag/deeplearning\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#DeepLearning</a>  <a class=\"hashtag\" href=\"https://a.farook.org/tag/machinelearning\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#MachineLearning</a><br><br>&lt;&lt;Find this useful? Please boost so that others can benefit too \ud83d\ude42&gt;&gt;<br><a href=\"https://a.farook.org/media/497b688a120ce6e469f6d3a0c631ef4178af1338cfa8f0b65e3300fc9773693c.jpeg\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">A sample of the different layou\u2026</a>"
+    },
+    "people": [
+      {
+        "url": "https://a.farook.org/users/f",
+        "display_name": "Fahim Farook"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/poopingface/sigmoidcolon",
+    "title": "GitHub - poopingface/sigmoidcolon: Sigmoid Colon: The biologically inspired activation function.",
+    "latest": "2023-03-10T02:00:03+00:00",
+    "last_post": {
+      "url": "https://die-partei.social/@hackernews/109996513936828120",
+      "content": "<p>Sigmoid Colon: The biologically inspired activation function - <a href=\"https://github.com/poopingface/sigmoidcolon\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/poopingface/sigmoid</span><span class=\"invisible\">colon</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://die-partei.social/@hackernews",
+        "display_name": "Hackernews"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/gallagher-tech/ofxGAkit",
+    "title": "GitHub - gallagher-tech/ofxGAkit: ofxGAkit is the official openFrameworks addon for the GA::kit toolkit - G&A' in-house C++ toolkit for building interactive experiences.",
+    "latest": "2023-03-10T01:35:02+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@openFrameworks/109995581573232344",
+      "content": "<p>Awesome to see G&amp;A <a href=\"https://fosstodon.org/tags/opensource\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>opensource</span></a> their <a href=\"https://fosstodon.org/tags/openFrameworks\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>openFrameworks</span></a> tools: ofxGAkit</p><p><a href=\"https://github.com/gallagher-tech/ofxGAkit\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/gallagher-tech/ofxG</span><span class=\"invisible\">Akit</span></a></p><p>More info on their linked in post: </p><p><a href=\"https://www.linkedin.com/posts/jonathan-a-cohen_community-prototyping-gakit-activity-7039287791481946112-mdfa\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">linkedin.com/posts/jonathan-a-</span><span class=\"invisible\">cohen_community-prototyping-gakit-activity-7039287791481946112-mdfa</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@nickhardeman",
+        "display_name": "NickHardeman"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/oobabooga/text-generation-webui/pull/206",
+    "title": "Add LLaMA 4-bit support by oobabooga \u00b7 Pull Request #206 \u00b7 oobabooga/text-generation-webui",
+    "latest": "2023-03-10T01:14:10+00:00",
+    "last_post": {
+      "url": "https://creative.ai/@alexjc/109996333466773433",
+      "content": "<p>Pull Request for running LLaMa as 4-bit quantized! \ud83e\udd2f</p><p>It uses even less memory \u2014 obviously \u2014 but when the bottleneck is transferring data back and forth between GPUs, users report significant speed-up too. <a href=\"https://github.com/oobabooga/text-generation-webui/pull/206\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/oobabooga/text-gene</span><span class=\"invisible\">ration-webui/pull/206</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://creative.ai/@alexjc",
+        "display_name": "Alex J. Champandard \u2744\ufe0f"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/Render96/Render96Wiki/wiki/cobble_stone-%28The-Texture-of-Your-Childhood%29",
     "title": "github.com/Render96/Render96Wi...",
     "latest": "2023-03-09T22:00:04+00:00",
@@ -439,21 +702,6 @@
       {
         "url": "https://die-partei.social/@hackernews",
         "display_name": "Hackernews"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/SeungoneKim/CoTEVer",
-    "title": "GitHub - SeungoneKim/CoTEVer: Official Repository of CoT Verification Toolbox. Accepted at EACL 2023 (demo track).",
-    "latest": "2023-03-09T01:22:34+00:00",
-    "last_post": {
-      "url": "https://creative.ai/@arxiv_cl/109990704212722117",
-      "content": "<p>\ud83d\udcdd CoTEVer: Chain of Thought Prompting Annotation Toolkit for Explanation Verification \ud83d\udcda\ud83e\udde0</p><p>\"A tool for annotating the factual correctness of generated explanations and collecting revision data of wrong explanations for enhancing the faithfulness of generated explanations from large language models (LLMs).\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a> <a href=\"https://creative.ai/tags/LG\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>LG</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/SeungoneKim/CoTEVer\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/SeungoneKim/CoTEVer</span><span class=\"invisible\"></span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2303.03628v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2303.03628v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://creative.ai/@arxiv_cl",
-        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
       }
     ]
   },
@@ -3004,270 +3252,6 @@
       {
         "url": "https://hci.social/@bkeegan",
         "display_name": "Brian C. Keegan"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/jcken95/tidytuesday/tree/main/2023/2023-02-28",
-    "title": "tidytuesday/2023/2023-02-28 at main \u00b7 jcken95/tidytuesday",
-    "latest": "2023-03-02T01:35:36+00:00",
-    "last_post": {
-      "url": "https://qoto.org/@_jcken/109947374853184672",
-      "content": "<p>Managed to do a <a href=\"https://qoto.org/tags/TidyTuesday\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>TidyTuesday</span></a> for the first time in a few weeks. Sentiment of tweets is mostly negative!</p><p>Code: <a href=\"https://github.com/jcken95/tidytuesday/tree/main/2023/2023-02-28\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/jcken95/tidytuesday</span><span class=\"invisible\">/tree/main/2023/2023-02-28</span></a></p><p>AfriScenti paper (pdf): <a href=\"https://arxiv.org/pdf/2302.08956.pdf\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/pdf/2302.08956.pdf</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://fosstodon.org/@nrennie",
-        "display_name": "Nicola Rennie"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/godotengine/godot/releases/tag/4.0-stable",
-    "title": "Release 4.0-stable \u00b7 godotengine/godot",
-    "latest": "2023-03-01T21:46:08+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@unix_discussions/109949921533943094",
-      "content": "<p>Godot 4.0 is out</p><p><a href=\"https://github.com/godotengine/godot/releases/tag/4.0-stable\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/godotengine/godot/r</span><span class=\"invisible\">eleases/tag/4.0-stable</span></a></p><p>Discussions: <a href=\"https://discu.eu/q/https://github.com/godotengine/godot/releases/tag/4.0-stable\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">discu.eu/q/https://github.com/</span><span class=\"invisible\">godotengine/godot/releases/tag/4.0-stable</span></a></p><p><a href=\"https://mastodon.social/tags/gamedev\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>gamedev</span></a> <a href=\"https://mastodon.social/tags/linux\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>linux</span></a> <a href=\"https://mastodon.social/tags/linux_gaming\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>linux_gaming</span></a> <a href=\"https://mastodon.social/tags/unix\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>unix</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mas.to/@nmstoker",
-        "display_name": "Neil Stoker"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/andresrcs/raspberry_pi_server",
-    "title": "GitHub - andresrcs/raspberry_pi_server: Ansible playbooks for installing a fully-fledge R based data science server on Raspberry Pi OS",
-    "latest": "2023-03-01T21:25:43+00:00",
-    "last_post": {
-      "url": "https://fosstodon.org/@r4pi/109950132823630139",
-      "content": "<p>Have you seen this epic resource from R4Pi contributor, <span class=\"h-card\"><a href=\"https://mastodon.social/@andresrcs\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>andresrcs</span></a></span>? Build  your own R based data science server on Raspberry Pi OS from scratch.<br><a href=\"https://github.com/andresrcs/raspberry_pi_server\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/andresrcs/raspberry</span><span class=\"invisible\">_pi_server</span></a><br><a href=\"https://fosstodon.org/tags/rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rstats</span></a> <a href=\"https://fosstodon.org/tags/RaspberryPi\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>RaspberryPi</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@sellorm",
-        "display_name": "Mark Sellors"
-      }
-    ]
-  },
-  {
-    "link": "https://observablehq.com/@fgregg/2023-mayoral-election-dot-density-maps",
-    "title": "2023 Mayoral Election, Dot density maps",
-    "latest": "2023-03-01T19:56:49+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@fgregg/109949168057579013",
-      "content": "<p>here are dot density maps for yesterday's <a href=\"https://mastodon.social/tags/chicago\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>chicago</span></a> mayoral race:</p><p><a href=\"https://observablehq.com/@fgregg/2023-mayoral-election-dot-density-maps\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">observablehq.com/@fgregg/2023-</span><span class=\"invisible\">mayoral-election-dot-density-maps</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://vis.social/@mstringer",
-        "display_name": "Mike Stringer"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/Const-me/Whisper",
-    "title": "https://github.com/Const-me/Whisper",
-    "latest": "2023-03-01T19:30:13+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@MattHodges/109949682523449710",
-      "content": "<p>24 hours of transcription from the AWS Transcribe API will cost you about $34.50.\u00b9 On OpenAI's new Whisper API, it'll cost about $8.60.\u00b2 Of course, there are plenty of local apps that can run Whisper for ~free.\u00b3\ud834\udd12\u2074</p><p>\u00b9 <a href=\"https://aws.amazon.com/transcribe/pricing/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">aws.amazon.com/transcribe/pric</span><span class=\"invisible\">ing/</span></a><br>\u00b2 <a href=\"https://openai.com/pricing\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">openai.com/pricing</span><span class=\"invisible\"></span></a><br>\u00b3 <a href=\"https://goodsnooze.gumroad.com/l/macwhisper\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">goodsnooze.gumroad.com/l/macwh</span><span class=\"invisible\">isper</span></a><br>\u2074 <a href=\"https://github.com/Const-me/Whisper\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/Const-me/Whisper</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@MattHodges",
-        "display_name": "Matt Hodges"
-      }
-    ]
-  },
-  {
-    "link": "https://observablehq.com/@observablehq/build-your-first-choropleth-map-with-observable-plot",
-    "title": "Build your first choropleth map with Observable Plot",
-    "latest": "2023-03-01T18:45:10+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@allison_horst/109835925840488305",
-      "content": "<p>I'm excited to share our new tutorial in the \"Build your first map\" series: Build your first choropleth map with <span class=\"h-card\"><a href=\"https://vis.social/@observablehq\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>observablehq</span></a></span> Plot!</p><p><a href=\"https://observablehq.com/@observablehq/build-your-first-choropleth-map-with-observable-plot\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">observablehq.com/@observablehq</span><span class=\"invisible\">/build-your-first-choropleth-map-with-observable-plot</span></a></p><p>Check it out to learn how to quickly make &amp; customize beautiful choropleth maps, then add interactivity w/ tooltips &amp; inputs!</p><p><a href=\"https://mastodon.social/tags/javascript\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>javascript</span></a> <a href=\"https://mastodon.social/tags/dataviz\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>dataviz</span></a> <a href=\"https://mastodon.social/tags/maps\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>maps</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://vis.social/@ijlyttle",
-        "display_name": "Ian Lyttle"
-      },
-      {
-        "url": "https://vis.social/@mikebrondbjerg",
-        "display_name": "Mike Brondbjerg"
-      },
-      {
-        "url": "https://mapstodon.space/@Amber",
-        "display_name": "Amber Manfree"
-      },
-      {
-        "url": "https://mastodon.online/@statstas",
-        "display_name": "Stas Kolenikov"
-      },
-      {
-        "url": "https://mastodon.social/@hrbrmstr",
-        "display_name": "boB Rudis \ud83c\uddfa\ud83c\udde6"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/openai/openai-python/blob/main/chatml.md",
-    "title": "openai-python/chatml.md at main \u00b7 openai/openai-python",
-    "latest": "2023-03-01T18:40:15+00:00",
-    "last_post": {
-      "url": "https://dan.mastohon.com/@danhon/109949486092053499",
-      "content": "<p>see: <a href=\"https://github.com/openai/openai-python/blob/main/chatml.md\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/openai/openai-pytho</span><span class=\"invisible\">n/blob/main/chatml.md</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://dan.mastohon.com/@danhon",
-        "display_name": "Dan Hon"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/I7-Examples/The-Reliques-of-Tolti-Aph/blob/main/The%20Reliques%20of%20Tolti-Aph.inform/Source/story.ni",
-    "title": "github.com/I7-Examples/The-Rel...",
-    "latest": "2023-03-01T17:49:58+00:00",
-    "last_post": {
-      "url": "https://mastodon.gamedev.place/@inform7tips/109949288347665682",
-      "content": "<p>It points one toward The Reliques of Tolti-Aph for examples, but that's no longer on the Inform 7 website. A version updated for 9.3/6M62 is here:</p><p><a href=\"https://github.com/I7-Examples/The-Reliques-of-Tolti-Aph/blob/main/The%20Reliques%20of%20Tolti-Aph.inform/Source/story.ni\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/I7-Examples/The-Rel</span><span class=\"invisible\">iques-of-Tolti-Aph/blob/main/The%20Reliques%20of%20Tolti-Aph.inform/Source/story.ni</span></a></p><p>Unfortunately, there's a bug in 10.1 that prevents specifying kinds of thing by table.</p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.gamedev.place/@inform7tips",
-        "display_name": "Inform 7 Tips"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/nrennie/tidytuesday/tree/main/2023/2023-02-28",
-    "title": "tidytuesday/2023/2023-02-28 at main \u00b7 nrennie/tidytuesday",
-    "latest": "2023-03-01T09:43:57+00:00",
-    "last_post": {
-      "url": "https://fosstodon.org/@nrennie/109941777018121891",
-      "content": "<p>It's <a href=\"https://fosstodon.org/tags/TidyTuesday\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>TidyTuesday</span></a> again! Thanks to Shamsuddeen Hassan Muhammad for sharing the data this week on African language sentiments \ud83c\udf0d</p><p>I made use of {ggtext} again this week to try some alternative approaches to labelling bar charts! \ud83d\udcca</p><p>Code: <a href=\"https://github.com/nrennie/tidytuesday/tree/main/2023/2023-02-28\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/nrennie/tidytuesday</span><span class=\"invisible\">/tree/main/2023/2023-02-28</span></a></p><p><a href=\"https://fosstodon.org/tags/RStats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>RStats</span></a> <a href=\"https://fosstodon.org/tags/R4DS\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>R4DS</span></a> <a href=\"https://fosstodon.org/tags/DataViz\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DataViz</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://fosstodon.org/@nrennie",
-        "display_name": "Nicola Rennie"
-      },
-      {
-        "url": "https://fosstodon.org/@leeolney",
-        "display_name": "Lee Olney"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/hypertidy/ggdal",
-    "title": "GitHub - hypertidy/ggdal: GDAL Rendering for 'ggplot2', get imagery from diverse sources for any plot with extent, and projection",
-    "latest": "2023-03-01T08:56:41+00:00",
-    "last_post": {
-      "url": "https://fosstodon.org/@mdsumner/109947191368050020",
-      "content": "<p>{ggdal} taking shape, after a few months of using better image plotting helper om <a href=\"https://fosstodon.org/tags/rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rstats</span></a> was time to apply the lessons to ggplot2 backgrounds</p><p><a href=\"https://github.com/hypertidy/ggdal\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/hypertidy/ggdal</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://fosstodon.org/@mdsumner",
-        "display_name": "mdsumner"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/BjnNowak/TidyTuesday/blob/main/SC_language.R",
-    "title": "TidyTuesday/SC_language.R at main \u00b7 BjnNowak/TidyTuesday",
-    "latest": "2023-03-01T08:20:33+00:00",
-    "last_post": {
-      "url": "https://fosstodon.org/@bjnnowak/109942793882861179",
-      "content": "<p>Ethiopian Language Sentiment analysis for <a href=\"https://fosstodon.org/tags/TidyTuesday\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>TidyTuesday</span></a> : religious terms are mostly tweeted in a positive way, whereas the opinion of others is poorly considered... </p><p><a href=\"https://fosstodon.org/tags/RStats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>RStats</span></a> code at <a href=\"https://github.com/BjnNowak/TidyTuesday/blob/main/SC_language.R\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/BjnNowak/TidyTuesda</span><span class=\"invisible\">y/blob/main/SC_language.R</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://fosstodon.org/@leeolney",
-        "display_name": "Lee Olney"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/leeolney3/TidyTuesday/blob/main/2023/week_09/2023_09.qmd",
-    "title": "TidyTuesday/2023_09.qmd at main \u00b7 leeolney3/TidyTuesday",
-    "latest": "2023-03-01T08:20:27+00:00",
-    "last_post": {
-      "url": "https://fosstodon.org/@leeolney/109947048890777477",
-      "content": "<p><a href=\"https://fosstodon.org/tags/TidyTuesday\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>TidyTuesday</span></a> week 9 African Language Sentiment. This week I tried out facet_col() from the {ggforce} package.</p><p><a href=\"https://fosstodon.org/tags/rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rstats</span></a> code: <a href=\"https://github.com/leeolney3/TidyTuesday/blob/main/2023/week_09/2023_09.qmd\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/leeolney3/TidyTuesd</span><span class=\"invisible\">ay/blob/main/2023/week_09/2023_09.qmd</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://fosstodon.org/@leeolney",
-        "display_name": "Lee Olney"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/marcoppasini/musika",
-    "title": "GitHub - marcoppasini/musika: Fast Infinite Waveform Music Generation",
-    "latest": "2023-03-01T06:13:36+00:00",
-    "last_post": {
-      "url": "https://creative.ai/@alexjc/109946550108920103",
-      "content": "<p>An audio project that went out of the way to train with best-in-class Copyright practices: Musika.<br><a href=\"https://github.com/marcoppasini/musika\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/marcoppasini/musika</span><span class=\"invisible\"></span></a></p><p>It's based on 17,000 songs from SXSW.  I'm not exactly sure about the license though:<br><a href=\"http://www.sxswtorrent.org/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">http://www.</span><span class=\"\">sxswtorrent.org/</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://creative.ai/@alexjc",
-        "display_name": "Alex J. Champandard \u2744\ufe0f"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/ror-community/ror-updates/releases/tag/v1.19",
-    "title": "Release v1.19 \u00b7 ror-community/ror-updates",
-    "latest": "2023-03-01T05:49:24+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@ResearchOrgs/109898635232997809",
-      "content": "<p>ROR release v1.19 is now available \ud83c\udf89 This registry update adds 37 organizations and modifies 510, bringing the total number of registry records to 104,594. Release notes: <a href=\"https://github.com/ror-community/ror-updates/releases/tag/v1.19\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/ror-community/ror-u</span><span class=\"invisible\">pdates/releases/tag/v1.19</span></a>. Data dump: <a href=\"https://doi.org/10.5281/zenodo.7644942\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">doi.org/10.5281/zenodo.7644942</span><span class=\"invisible\"></span></a> \ud83e\udd81 <a href=\"https://mastodon.social/tags/LetsRORtogether\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>LetsRORtogether</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://social.cwts.nl/@vtraag",
-        "display_name": "Vincent Traag"
-      },
-      {
-        "url": "https://fedihum.org/@christof",
-        "display_name": "Christof Sch\u00f6ch (moderator)"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/Almenon/AREPL-vscode",
-    "title": "GitHub - Almenon/AREPL-vscode: Program python in real-time",
-    "latest": "2023-03-01T04:29:54+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@python_discussions/109946142333096737",
-      "content": "<p>An Emacs REPL for Python that auto-evaluates as you type?</p><p><a href=\"https://github.com/Almenon/AREPL-vscode\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/Almenon/AREPL-vscod</span><span class=\"invisible\">e</span></a></p><p>Discussions: <a href=\"https://discu.eu/q/https://github.com/Almenon/AREPL-vscode\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">discu.eu/q/https://github.com/</span><span class=\"invisible\">Almenon/AREPL-vscode</span></a></p><p><a href=\"https://mastodon.social/tags/emacs\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>emacs</span></a> <a href=\"https://mastodon.social/tags/programming\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>programming</span></a> <a href=\"https://mastodon.social/tags/python\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>python</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@python_discussions",
-        "display_name": "Python Weekly"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/i7/extensions/blob/9.3/Brady%20Garvin/Object%20Kinds.i7x",
-    "title": "extensions/Object Kinds.i7x at 9.3 \u00b7 i7/extensions",
-    "latest": "2023-03-01T02:36:10+00:00",
-    "last_post": {
-      "url": "https://mastodon.gamedev.place/@inform7tips/109945695169607197",
-      "content": "<p>An issue here is that while `name of kind of value` is okay in phrase definitions to describe an argument, kind names are *not* a kind of value.</p><p>Object Kinds by Brady Garvin (hasn't been updated for 10.1) creates a kind of value called object kind and through various I6-level hacks provides a pretty good facsimile of a kind name kind of value.</p><p><a href=\"https://github.com/i7/extensions/blob/9.3/Brady%20Garvin/Object%20Kinds.i7x\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/i7/extensions/blob/</span><span class=\"invisible\">9.3/Brady%20Garvin/Object%20Kinds.i7x</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.gamedev.place/@inform7tips",
-        "display_name": "Inform 7 Tips"
       }
     ]
   }
