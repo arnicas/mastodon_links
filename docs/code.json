@@ -1,5 +1,221 @@
 [
   {
+    "link": "https://github.com/facebookresearch/llama/issues",
+    "title": "Issues \u00b7 facebookresearch/llama",
+    "latest": "2023-03-11T21:28:31+00:00",
+    "last_post": {
+      "url": "https://fedi.simonwillison.net/@simon/110006770826677155",
+      "content": "<p><span class=\"h-card\"><a href=\"https://sigmoid.social/@osma\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>osma</span></a></span> People are definitely running LLaMA on PC hardware, but I don't know anything about what that requires or if you can do it without a top-spec GPU. Lots of hints about PC stuff in the Facebook repo's issues: <a href=\"https://github.com/facebookresearch/llama/issues\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/facebookresearch/ll</span><span class=\"invisible\">ama/issues</span></a></p><p>I presume fine-tuning is possible but I have no idea how you would do it I'm afraid!</p>"
+    },
+    "people": [
+      {
+        "url": "https://fedi.simonwillison.net/@simon",
+        "display_name": "Simon Willison"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/hrbrmstr/webr-experiments",
+    "title": "GitHub - hrbrmstr/webr-experiments: \ud83d\udd78\ufe0f \ud83e\uddea hrbrmstr's WebR Experiments",
+    "latest": "2023-03-11T21:25:20+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@hrbrmstr/110006758323113400",
+      "content": "<p>A much more explanatory blog post is coming, and a proper start-to-finish example in the new repo is as well.</p><p>But, I\u2019ve put the core parts of my experiments over here \u2014 <a href=\"https://github.com/hrbrmstr/webr-experiments\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/hrbrmstr/webr-exper</span><span class=\"invisible\">iments</span></a> \u2014 and did some extra commentary in the README.</p><p>Look for more in the coming days.</p>"
+    },
+    "people": [
+      {
+        "url": "https://fosstodon.org/@brodriguesco",
+        "display_name": "Bruno Rodrigues :rstats: :tux:"
+      },
+      {
+        "url": "https://mastodon.social/@hrbrmstr",
+        "display_name": "boB Rudis \ud83c\uddfa\ud83c\udde6"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/r-lib/diffviewer/blob/main/LICENSE.note",
+    "title": "github.com/r-lib/diffviewer/bl...",
+    "latest": "2023-03-11T21:16:04+00:00",
+    "last_post": {
+      "url": "https://mapstodon.space/@josiah/110006721879006802",
+      "content": "<p>Of course it's been (mostly covered in R packages by <span class=\"h-card\"><a href=\"https://fosstodon.org/@jennybryan\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>jennybryan</span></a></span> and <span class=\"h-card\"><a href=\"https://fosstodon.org/@hadleywickham\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>hadleywickham</span></a></span> :) </p><p>Important for {extendr} users because the source libraries are included in the binary and not the package itself. </p><p>From the text: <br>  <a href=\"https://r-pkgs.org/license.html#sec-code-you-bundle\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">r-pkgs.org/license.html#sec-co</span><span class=\"invisible\">de-you-bundle</span></a></p><p>Example: <br>  <a href=\"https://github.com/r-lib/diffviewer/blob/main/LICENSE.note\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/r-lib/diffviewer/bl</span><span class=\"invisible\">ob/main/LICENSE.note</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mapstodon.space/@josiah",
+        "display_name": "Josiah :rstat:"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/ggerganov/llama.cpp",
+    "title": "GitHub - ggerganov/llama.cpp: Port of Facebook's LLaMA model in C/C++",
+    "latest": "2023-03-11T20:35:32+00:00",
+    "last_post": {
+      "url": "https://fedi.simonwillison.net/@simon/110002471725057460",
+      "content": "<p>Just ran llama.cpp - with Facebook's LLaMA 7B large language model - on my M2 64GB MacBook Pro!</p><p><a href=\"https://github.com/ggerganov/llama.cpp\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/ggerganov/llama.cpp</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://die-partei.social/@hackernews",
+        "display_name": "Hackernews"
+      },
+      {
+        "url": "https://fedi.simonwillison.net/@simon",
+        "display_name": "Simon Willison"
+      },
+      {
+        "url": "https://sigmoid.social/@nezubn",
+        "display_name": "Ankit Sharma"
+      },
+      {
+        "url": "https://sigmoid.social/@osma",
+        "display_name": "Osma Suominen"
+      }
+    ]
+  },
+  {
+    "link": "https://observablehq.com/@hrbrmstr/webr-utility-functions",
+    "title": "WebR Utility Functions",
+    "latest": "2023-03-11T20:03:11+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@hrbrmstr/110006435307624117",
+      "content": "<p>If you do play with <a href=\"https://mastodon.social/tags/RStats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>RStats</span></a> WebR and plan on returning data frames to JavaScript, you may find this function handy. It\u2019s how I removed the {jsonlite} dependency from my examples.</p><p>I\u2019ll shove some more in it and prbly make a small npm pkg for ones I make.</p><p><a href=\"https://observablehq.com/@hrbrmstr/webr-utility-functions\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">observablehq.com/@hrbrmstr/web</span><span class=\"invisible\">r-utility-functions</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@hrbrmstr",
+        "display_name": "boB Rudis \ud83c\uddfa\ud83c\udde6"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/adplug/adplug/issues/12",
+    "title": "LAA playback for later LucasArts games sounds way off \u00b7 Issue #12 \u00b7 adplug/adplug",
+    "latest": "2023-03-11T19:58:27+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@jplebreton/110006416684840612",
+      "content": "<p>Added some detail to a 20 year old bug report that probably like two other people on the planet care about: <a href=\"https://github.com/adplug/adplug/issues/12\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/adplug/adplug/issue</span><span class=\"invisible\">s/12</span></a><br>Posting here on the very remote chance that anyone reading this has worked with DOS FM synth music formats and/or the ScummVM Adlib sound code.</p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@jplebreton",
+        "display_name": "JP"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/rmflight/flighttools",
+    "title": "GitHub - rmflight/flighttools: various r functions I find useful",
+    "latest": "2023-03-11T18:47:34+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@johnmackintosh/110006137934277128",
+      "content": "<p><span class=\"h-card\"><a href=\"https://mapstodon.space/@josiah\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>josiah</span></a></span> <span class=\"h-card\"><a href=\"https://mstdn.social/@ERDonnachie\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>ERDonnachie</span></a></span> <span class=\"h-card\"><a href=\"https://fosstodon.org/@TimTeaFan\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>TimTeaFan</span></a></span> <span class=\"h-card\"><a href=\"https://fosstodon.org/@smach\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>smach</span></a></span> </p><p>For completeness / posterity,  the other solution was <span class=\"h-card\"><a href=\"https://mastodon.social/@rmflight\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>rmflight</span></a></span> 's quarto_create_post function in this repo: </p><p><a href=\"https://github.com/rmflight/flighttools\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/rmflight/flighttool</span><span class=\"invisible\">s</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fosstodon.org/@johnmackintosh",
+        "display_name": "John MacKintosh"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/airtai/fastkafka",
+    "title": "GitHub - airtai/fastkafka: FastKafka is a powerful and easy-to-use Python library for building asynchronous web services that interact with Kafka topics. Built on top of Pydantic, AIOKafka and AsyncAPI, FastKafka simplifies the process of writing producers and consumers for Kafka topics.",
+    "latest": "2023-03-11T18:11:01+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@python_discussions/110005994236162171",
+      "content": "<p>GitHub - airtai/fastkafka: FastKafka is a powerful and easy-to-use Python library for building asynchronous web services that interact with Kafka topics. Built on top of Pydantic, AIOKafka and AsyncAPI, FastKafka simplifies the process of writing producers and consumers for Kafka topics.</p><p><a href=\"https://github.com/airtai/fastkafka\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/airtai/fastkafka</span><span class=\"invisible\"></span></a></p><p>Discussions: <a href=\"https://discu.eu/q/https://github.com/airtai/fastkafka\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">discu.eu/q/https://github.com/</span><span class=\"invisible\">airtai/fastkafka</span></a></p><p><a href=\"https://mastodon.social/tags/programming\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>programming</span></a> <a href=\"https://mastodon.social/tags/python\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>python</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@python_discussions",
+        "display_name": "Python Weekly"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/bcdavasconcelos/citefield",
+    "title": "GitHub - bcdavasconcelos/citefield: Lua filter for Pandoc and Quarto that allows printing any field of a bibliographic entry using `[@Citekey]{.csl_field}` as in `[@Citekey]{.author}`.",
+    "latest": "2023-03-11T17:21:14+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@pandoc/110005798464266739",
+      "content": "<p>Ever wanted to include only a very specific part of a citation entry, e.g., the title of a book? The new \"citefield\" Lua filter allows to do just that. E.g.<br>\t[@Pratchet1988]{.title}<br>when used with the right bib entry, will yield<br>\tSourcery</p><p><a href=\"https://github.com/bcdavasconcelos/citefield\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/bcdavasconcelos/cit</span><span class=\"invisible\">efield</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fosstodon.org/@pandoc",
+        "display_name": "pandoc"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/coatless/quarto-webr",
+    "title": "GitHub - coatless/quarto-webr: Quarto extension to embed webr for html documents",
+    "latest": "2023-03-11T17:07:48+00:00",
+    "last_post": {
+      "url": "https://bbs.crumplab.com/@MattCrump/110005745631956833",
+      "content": "<p>Whoa, a <a href=\"https://bbs.crumplab.com/tags/quartopub\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>quartopub</span></a> extension for adding <a href=\"https://bbs.crumplab.com/tags/webR\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>webR</span></a> to quarto documents!! That was fast!!! <a href=\"https://bbs.crumplab.com/tags/rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rstats</span></a></p><p><a href=\"https://github.com/coatless/quarto-webr\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/coatless/quarto-web</span><span class=\"invisible\">r</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fosstodon.org/@ivelasq3",
+        "display_name": "Isabella Vel\u00e1squez :rstats:"
+      },
+      {
+        "url": "https://bbs.crumplab.com/@MattCrump",
+        "display_name": "Matt Crump"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/twintproject/twint",
+    "title": "GitHub - twintproject/twint: An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets and more while evading most API limitations.",
+    "latest": "2023-03-11T16:45:49+00:00",
+    "last_post": {
+      "url": "https://social.luca.run/@luca/110001041922359875",
+      "content": "<p>Apparently <a href=\"https://social.luca.run/tags/Twitter\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Twitter</span></a> sent some ridiculous <a href=\"https://social.luca.run/tags/API\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>API</span></a> pricing to academics ($42k/month).</p><p>In other news: <a href=\"https://social.luca.run/tags/twint\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>twint</span></a> got un-archived. <a href=\"https://github.com/twintproject/twint\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/twintproject/twint</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://scholar.social/@electricarchaeo",
+        "display_name": "Shawn Graham"
+      },
+      {
+        "url": "https://social.luca.run/@luca",
+        "display_name": "Luca \ud83d\udd28"
+      },
+      {
+        "url": "https://mastodon.social/@lakens",
+        "display_name": "Daniel Lakens"
+      },
+      {
+        "url": "https://vis.social/@Luca",
+        "display_name": "Luca Hammer"
+      },
+      {
+        "url": "https://sciences.social/@ktaylor",
+        "display_name": "Dr. Kevin P. Taylor"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/openva/court-audio",
+    "title": "GitHub - openva/court-audio: Bulk data pertaining to Supreme Court of Virginia audio recordings of oral arguments.",
+    "latest": "2023-03-11T16:38:10+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@waldoj/110005622090672460",
+      "content": "<p>This is a standard AWS stack\u2014data in S3, served via CloudFront. The code is almost entirely Bash scripts, plus a screen-scraper in Python because Beautiful Soup. Source code is on GitHub.</p><p>Who is this for? \ud83e\udd37\u200d\u2642\ufe0f I'll probably make a front-end for this, using HyperAudio to pop up a transcript player for each oral argument. <a href=\"https://github.com/openva/court-audio\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/openva/court-audio</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@MattHodges",
+        "display_name": "Matt Hodges"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/jozsefszalma/chatgpt_prefrontal_cortex",
     "title": "GitHub - jozsefszalma/chatgpt_prefrontal_cortex: Giving ChatGPT some social inhibitions",
     "latest": "2023-03-11T06:58:27+00:00",
@@ -30,33 +246,6 @@
       {
         "url": "https://die-partei.social/@hackernews",
         "display_name": "Hackernews"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/twintproject/twint",
-    "title": "GitHub - twintproject/twint: An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets and more while evading most API limitations.",
-    "latest": "2023-03-11T06:00:06+00:00",
-    "last_post": {
-      "url": "https://social.luca.run/@luca/110001041922359875",
-      "content": "<p>Apparently <a href=\"https://social.luca.run/tags/Twitter\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Twitter</span></a> sent some ridiculous <a href=\"https://social.luca.run/tags/API\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>API</span></a> pricing to academics ($42k/month).</p><p>In other news: <a href=\"https://social.luca.run/tags/twint\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>twint</span></a> got un-archived. <a href=\"https://github.com/twintproject/twint\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/twintproject/twint</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://scholar.social/@electricarchaeo",
-        "display_name": "Shawn Graham"
-      },
-      {
-        "url": "https://social.luca.run/@luca",
-        "display_name": "Luca \ud83d\udd28"
-      },
-      {
-        "url": "https://mastodon.social/@lakens",
-        "display_name": "Daniel Lakens"
-      },
-      {
-        "url": "https://vis.social/@Luca",
-        "display_name": "Luca Hammer"
       }
     ]
   },
@@ -239,29 +428,6 @@
       {
         "url": "https://bayes.club/@djhocking",
         "display_name": "Daniel Hocking"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/ggerganov/llama.cpp",
-    "title": "GitHub - ggerganov/llama.cpp: Port of Facebook's LLaMA model in C/C++",
-    "latest": "2023-03-11T00:26:34+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@c_discussions/110001276963658166",
-      "content": "<p>LLaMA-7B in Pure C++ with full Apple Silicon support</p><p><a href=\"https://github.com/ggerganov/llama.cpp\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/ggerganov/llama.cpp</span><span class=\"invisible\"></span></a></p><p>Discussions: <a href=\"https://discu.eu/q/https://github.com/ggerganov/llama.cpp\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">discu.eu/q/https://github.com/</span><span class=\"invisible\">ggerganov/llama.cpp</span></a></p><p><a href=\"https://mastodon.social/tags/cpp\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>cpp</span></a> <a href=\"https://mastodon.social/tags/programming\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>programming</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://die-partei.social/@hackernews",
-        "display_name": "Hackernews"
-      },
-      {
-        "url": "https://fedi.simonwillison.net/@simon",
-        "display_name": "Simon Willison"
-      },
-      {
-        "url": "https://sigmoid.social/@nezubn",
-        "display_name": "Ankit Sharma"
       }
     ]
   },
@@ -3146,160 +3312,6 @@
       {
         "url": "https://mastodon.social/@igor",
         "display_name": "Igor Brigadir"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/nshiab/simple-data-analysis.js",
-    "title": "github.com/nshiab/simple-data-...",
-    "latest": "2023-03-03T18:16:39+00:00",
-    "last_post": {
-      "url": "https://vis.social/@naelshiab/109960028296619233",
-      "content": "<p>Are you attending my session on data analysis with JavaScript at <a href=\"https://vis.social/tags/nicar23\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>nicar23</span></a>  Here are the links!</p><p>Slides =&gt; <a href=\"https://tinyurl.com/4p5v57kp\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">tinyurl.com/4p5v57kp</span><span class=\"invisible\"></span></a></p><p>Simple-data-analysis repo: <a href=\"https://github.com/nshiab/simple-data-analysis.js\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/nshiab/simple-data-</span><span class=\"invisible\">analysis.js</span></a></p><p>Reference notebook =&gt; <a href=\"https://observablehq.com/@nshiab/climate-change-in-us-cities-example\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">observablehq.com/@nshiab/clima</span><span class=\"invisible\">te-change-in-us-cities-example</span></a></p><p>Live-coding notebook =&gt; <a href=\"https://observablehq.com/@nshiab/climate-change-in-us-cities-example-live\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">observablehq.com/@nshiab/clima</span><span class=\"invisible\">te-change-in-us-cities-example-live</span></a></p><p>Node.js repo =&gt; <a href=\"https://github.com/nshiab/cities-temperature-example\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/nshiab/cities-tempe</span><span class=\"invisible\">rature-example</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@hrbrmstr",
-        "display_name": "boB Rudis \ud83c\uddfa\ud83c\udde6"
-      }
-    ]
-  },
-  {
-    "link": "https://observablehq.com/@nshiab/climate-change-in-us-cities-example",
-    "title": "observablehq.com/@nshiab/clima...",
-    "latest": "2023-03-03T18:16:39+00:00",
-    "last_post": {
-      "url": "https://vis.social/@naelshiab/109960028296619233",
-      "content": "<p>Are you attending my session on data analysis with JavaScript at <a href=\"https://vis.social/tags/nicar23\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>nicar23</span></a>  Here are the links!</p><p>Slides =&gt; <a href=\"https://tinyurl.com/4p5v57kp\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">tinyurl.com/4p5v57kp</span><span class=\"invisible\"></span></a></p><p>Simple-data-analysis repo: <a href=\"https://github.com/nshiab/simple-data-analysis.js\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/nshiab/simple-data-</span><span class=\"invisible\">analysis.js</span></a></p><p>Reference notebook =&gt; <a href=\"https://observablehq.com/@nshiab/climate-change-in-us-cities-example\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">observablehq.com/@nshiab/clima</span><span class=\"invisible\">te-change-in-us-cities-example</span></a></p><p>Live-coding notebook =&gt; <a href=\"https://observablehq.com/@nshiab/climate-change-in-us-cities-example-live\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">observablehq.com/@nshiab/clima</span><span class=\"invisible\">te-change-in-us-cities-example-live</span></a></p><p>Node.js repo =&gt; <a href=\"https://github.com/nshiab/cities-temperature-example\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/nshiab/cities-tempe</span><span class=\"invisible\">rature-example</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@hrbrmstr",
-        "display_name": "boB Rudis \ud83c\uddfa\ud83c\udde6"
-      }
-    ]
-  },
-  {
-    "link": "https://observablehq.com/@nshiab/climate-change-in-us-cities-example-live",
-    "title": "observablehq.com/@nshiab/clima...",
-    "latest": "2023-03-03T18:16:39+00:00",
-    "last_post": {
-      "url": "https://vis.social/@naelshiab/109960028296619233",
-      "content": "<p>Are you attending my session on data analysis with JavaScript at <a href=\"https://vis.social/tags/nicar23\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>nicar23</span></a>  Here are the links!</p><p>Slides =&gt; <a href=\"https://tinyurl.com/4p5v57kp\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">tinyurl.com/4p5v57kp</span><span class=\"invisible\"></span></a></p><p>Simple-data-analysis repo: <a href=\"https://github.com/nshiab/simple-data-analysis.js\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/nshiab/simple-data-</span><span class=\"invisible\">analysis.js</span></a></p><p>Reference notebook =&gt; <a href=\"https://observablehq.com/@nshiab/climate-change-in-us-cities-example\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">observablehq.com/@nshiab/clima</span><span class=\"invisible\">te-change-in-us-cities-example</span></a></p><p>Live-coding notebook =&gt; <a href=\"https://observablehq.com/@nshiab/climate-change-in-us-cities-example-live\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">observablehq.com/@nshiab/clima</span><span class=\"invisible\">te-change-in-us-cities-example-live</span></a></p><p>Node.js repo =&gt; <a href=\"https://github.com/nshiab/cities-temperature-example\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/nshiab/cities-tempe</span><span class=\"invisible\">rature-example</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@hrbrmstr",
-        "display_name": "boB Rudis \ud83c\uddfa\ud83c\udde6"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/nshiab/cities-temperature-example",
-    "title": "github.com/nshiab/cities-tempe...",
-    "latest": "2023-03-03T18:16:39+00:00",
-    "last_post": {
-      "url": "https://vis.social/@naelshiab/109960028296619233",
-      "content": "<p>Are you attending my session on data analysis with JavaScript at <a href=\"https://vis.social/tags/nicar23\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>nicar23</span></a>  Here are the links!</p><p>Slides =&gt; <a href=\"https://tinyurl.com/4p5v57kp\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">tinyurl.com/4p5v57kp</span><span class=\"invisible\"></span></a></p><p>Simple-data-analysis repo: <a href=\"https://github.com/nshiab/simple-data-analysis.js\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/nshiab/simple-data-</span><span class=\"invisible\">analysis.js</span></a></p><p>Reference notebook =&gt; <a href=\"https://observablehq.com/@nshiab/climate-change-in-us-cities-example\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">observablehq.com/@nshiab/clima</span><span class=\"invisible\">te-change-in-us-cities-example</span></a></p><p>Live-coding notebook =&gt; <a href=\"https://observablehq.com/@nshiab/climate-change-in-us-cities-example-live\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">observablehq.com/@nshiab/clima</span><span class=\"invisible\">te-change-in-us-cities-example-live</span></a></p><p>Node.js repo =&gt; <a href=\"https://github.com/nshiab/cities-temperature-example\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/nshiab/cities-tempe</span><span class=\"invisible\">rature-example</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@hrbrmstr",
-        "display_name": "boB Rudis \ud83c\uddfa\ud83c\udde6"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/tldraw/signia",
-    "title": "https://github.com/tldraw/signia",
-    "latest": "2023-03-03T09:32:00+00:00",
-    "last_post": {
-      "url": "https://mas.to/@tldraw/109958649694681709",
-      "content": "<p>:undefined:Today we're releasing Signia, a new reactive state management library by tldraw. Open source, MIT licensed, wicked fast.</p><p>Read the announcement: <a href=\"https://tldraw.substack.com/p/introducing-signia\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">tldraw.substack.com/p/introduc</span><span class=\"invisible\">ing-signia</span></a><br>See the code: <a href=\"https://github.com/tldraw/signia\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/tldraw/signia</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@TodePond",
-        "display_name": "Lu Wilson"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/google-research/",
-    "title": "Google Research",
-    "latest": "2023-03-03T08:34:14+00:00",
-    "last_post": {
-      "url": "https://creative.ai/@arxiv_cl/109958427765045879",
-      "content": "<p>\ud83d\udcdd DIFFQG: Generating Questions to Summarize Factual Changes \ud83d\udcda</p><p>\"The dataset consists of pairs of articles (d1, d2) that are similar but differ in factual content, and a set of information-seeking questions Q.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/google-research/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/google-research/</span><span class=\"invisible\"></span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2303.00242v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2303.00242v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://creative.ai/@arxiv_cl",
-        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/hashicorp/nomad/issues/3854",
-    "title": "[Feature] secrets in artifact stanza \u00b7 Issue #3854 \u00b7 hashicorp/nomad",
-    "latest": "2023-03-03T06:41:48+00:00",
-    "last_post": {
-      "url": "https://hacky.town/@rtyler/109957985635437138",
-      "content": "<p>Nomad 1.4 introduces the concept of variables on the server, which you could almost use.</p><p>Well, except that variables aren't usable anywhere except in template statements.</p><p>ffs</p><p><a href=\"https://github.com/hashicorp/nomad/issues/3854\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/hashicorp/nomad/iss</span><span class=\"invisible\">ues/3854</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://hacky.town/@rtyler",
-        "display_name": "R Tyler Croy \ud83e\udd80"
-      }
-    ]
-  },
-  {
-    "link": "https://gitlab.com/postmarketOS/pmaports/-/merge_requests/3895",
-    "title": "Draft: Support (postmarketos-)mkinitfs 2.0 (!3895) \u00b7 Merge requests \u00b7 postmarketOS / pmaports \u00b7 GitLab",
-    "latest": "2023-03-03T06:36:03+00:00",
-    "last_post": {
-      "url": "https://freeradical.zone/@craftyguy/109955511434553257",
-      "content": "<p>Greetings <a href=\"https://freeradical.zone/tags/postmarketOS\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>postmarketOS</span></a> edge users! This is a general call for help testing changes to our initramfs, testing instructions are at the top of the description here: <a href=\"https://gitlab.com/postmarketOS/pmaports/-/merge_requests/3895\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gitlab.com/postmarketOS/pmapor</span><span class=\"invisible\">ts/-/merge_requests/3895</span></a></p><p>Since this modifies boot files, you kinda need to know what you are getting into... and it's obviously not recommended if you rely on your device in any capacity.</p><p>Anyways, please help us test this out so we can get it in soon! Thanks!</p>"
-    },
-    "people": [
-      {
-        "url": "https://fosstodon.org/@dylanvanassche",
-        "display_name": "Dylan Van Assche"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/total-typescript/ts-reset",
-    "title": "GitHub - total-typescript/ts-reset: A 'CSS reset' for TypeScript, improving types for common JavaScript API's",
-    "latest": "2023-03-03T06:30:02+00:00",
-    "last_post": {
-      "url": "https://die-partei.social/@hackernews/109957939334723040",
-      "content": "<p>A 'CSS reset' for TypeScript, improving types for common JavaScript API's - <a href=\"https://github.com/total-typescript/ts-reset\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/total-typescript/ts</span><span class=\"invisible\">-reset</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://die-partei.social/@hackernews",
-        "display_name": "Hackernews"
-      }
-    ]
-  },
-  {
-    "link": "https://gist.github.com/mdsumner/5f622bd0874e959836e4d3a8811f3a67",
-    "title": "gdal_general_engagement.md",
-    "latest": "2023-03-03T05:04:52+00:00",
-    "last_post": {
-      "url": "https://fosstodon.org/@mdsumner/109957604491245964",
-      "content": "<p><a href=\"https://fosstodon.org/tags/rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rstats</span></a> I wrote a general note of encouragement to engage in GDAL for features and problems in R packages, check it out, report your issues to GDAL itself </p><p><a href=\"https://gist.github.com/mdsumner/5f622bd0874e959836e4d3a8811f3a67\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gist.github.com/mdsumner/5f622</span><span class=\"invisible\">bd0874e959836e4d3a8811f3a67</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://fosstodon.org/@djnavarro",
-        "display_name": "Danielle Navarro"
-      },
-      {
-        "url": "https://fosstodon.org/@mdsumner",
-        "display_name": "mdsumner"
       }
     ]
   }
