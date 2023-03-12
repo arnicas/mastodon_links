@@ -1,23 +1,83 @@
 [
   {
-    "link": "https://github.com/facebookresearch/llama/issues",
-    "title": "Issues \u00b7 facebookresearch/llama",
-    "latest": "2023-03-11T21:28:31+00:00",
+    "link": "https://github.com/fogleman/sdf",
+    "title": "GitHub - fogleman/sdf: Simple SDF mesh generation in Python",
+    "latest": "2023-03-12T09:57:13+00:00",
     "last_post": {
-      "url": "https://fedi.simonwillison.net/@simon/110006770826677155",
-      "content": "<p><span class=\"h-card\"><a href=\"https://sigmoid.social/@osma\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>osma</span></a></span> People are definitely running LLaMA on PC hardware, but I don't know anything about what that requires or if you can do it without a top-spec GPU. Lots of hints about PC stuff in the Facebook repo's issues: <a href=\"https://github.com/facebookresearch/llama/issues\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/facebookresearch/ll</span><span class=\"invisible\">ama/issues</span></a></p><p>I presume fine-tuning is possible but I have no idea how you would do it I'm afraid!</p>"
+      "url": "https://fosstodon.org/@nobodyinperson/110009150807762838",
+      "content": "<p><span class=\"h-card\"><a href=\"https://mastodon.social/@rcarmo\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>rcarmo</span></a></span> This looks awesome and like a really good :openscad: alternative!</p><p><a href=\"https://github.com/fogleman/sdf\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/fogleman/sdf</span><span class=\"invisible\"></span></a></p>"
     },
     "people": [
       {
-        "url": "https://fedi.simonwillison.net/@simon",
-        "display_name": "Simon Willison"
+        "url": "https://chaos.social/@alexcg",
+        "display_name": "Alex C-G :python:"
+      }
+    ]
+  },
+  {
+    "link": "https://codeberg.org/fediverse/fep/src/branch/main/feps/fep-1b12.md",
+    "title": "https://codeberg.org/fediverse/fep/src/branch/main/feps/fep-1b12.md",
+    "latest": "2023-03-12T09:32:51+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@atomicpoet/110009382502329933",
+      "content": "<p><span class=\"h-card\"><a href=\"https://social.coop/@J12t\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>J12t</span></a></span> <span class=\"h-card\"><a href=\"https://sociale.network/@oblomov\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>oblomov</span></a></span> <span class=\"h-card\"><a href=\"https://hachyderm.io/@maegul\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>maegul</span></a></span> <span class=\"h-card\"><a href=\"https://mastodon.social/@Gargron\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>Gargron</span></a></span> Lots of people are doing work with ActivityPub. Here's something that was literally finalized last month:</p><p><a href=\"https://codeberg.org/fediverse/fep/src/branch/main/feps/fep-1b12.md\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">codeberg.org/fediverse/fep/src</span><span class=\"invisible\">/branch/main/feps/fep-1b12.md</span></a></p><p>Just because you don't see the work doesn't mean it's not being done \ud83d\ude42</p>"
+    },
+    "people": [
+      {
+        "url": "https://indieweb.social/@tchambers",
+        "display_name": "Tim Chambers"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/kfcd/chaizi",
+    "title": "GitHub - kfcd/chaizi: \u6f22\u8a9e\u62c6\u5b57\u5b57\u5178",
+    "latest": "2023-03-12T07:50:14+00:00",
+    "last_post": {
+      "url": "https://creative.ai/@arxiv_cl/110009215533850605",
+      "content": "<p>\ud83d\udcdd Dynamic Multi-View Fusion Mechanism for Chinese Relation Extraction \ud83d\udcda</p><p>\"Proposes a Mixture-of-View-Experts framework for Chinese relation extraction (MoVE), which dynamically learns the multi-view features of Chinese characters.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/kfcd/chaizi\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/kfcd/chaizi</span><span class=\"invisible\"></span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2303.05082v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2303.05082v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://creative.ai/@arxiv_cl",
+        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/digikar99/py4cl2-cffi",
+    "title": "GitHub - digikar99/py4cl2-cffi: CFFI based alternative to py4cl2",
+    "latest": "2023-03-12T06:11:43+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@lisp_discussions/109987124916161813",
+      "content": "<p>py4cl2-cffi: Connecting Common Lisp with Embedded Python</p><p><a href=\"https://github.com/digikar99/py4cl2-cffi\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/digikar99/py4cl2-cf</span><span class=\"invisible\">fi</span></a></p><p>Discussions: <a href=\"https://discu.eu/q/https://github.com/digikar99/py4cl2-cffi\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">discu.eu/q/https://github.com/</span><span class=\"invisible\">digikar99/py4cl2-cffi</span></a></p><p><a href=\"https://mastodon.social/tags/lisp\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>lisp</span></a> <a href=\"https://mastodon.social/tags/programming\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>programming</span></a> <a href=\"https://mastodon.social/tags/python\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>python</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@python_discussions",
+        "display_name": "Python Weekly"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/pfefferle/wordpress-activitypub/commit/abef17b9ad5d8e346aca92008e3b2b13aaa4ebf4",
+    "title": "add Automattic \u00b7 pfefferle/wordpress-activitypub@abef17b",
+    "latest": "2023-03-12T06:10:57+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@autiomaa/110008797058431742",
+      "content": "<p><span class=\"h-card\"><a href=\"https://mastodon.social/@atomicpoet\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>atomicpoet</span></a></span> Here is a screenshot of the change from ActivityPub WordPress plugin's GitHub repository.</p><p>Difference in the source code:<br><a href=\"https://github.com/pfefferle/wordpress-activitypub/commit/abef17b9ad5d8e346aca92008e3b2b13aaa4ebf4\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/pfefferle/wordpress</span><span class=\"invisible\">-activitypub/commit/abef17b9ad5d8e346aca92008e3b2b13aaa4ebf4</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://indieweb.social/@tchambers",
+        "display_name": "Tim Chambers"
       }
     ]
   },
   {
     "link": "https://github.com/hrbrmstr/webr-experiments",
     "title": "GitHub - hrbrmstr/webr-experiments: \ud83d\udd78\ufe0f \ud83e\uddea hrbrmstr's WebR Experiments",
-    "latest": "2023-03-11T21:25:20+00:00",
+    "latest": "2023-03-12T05:55:27+00:00",
     "last_post": {
       "url": "https://mastodon.social/@hrbrmstr/110006758323113400",
       "content": "<p>A much more explanatory blog post is coming, and a proper start-to-finish example in the new repo is as well.</p><p>But, I\u2019ve put the core parts of my experiments over here \u2014 <a href=\"https://github.com/hrbrmstr/webr-experiments\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/hrbrmstr/webr-exper</span><span class=\"invisible\">iments</span></a> \u2014 and did some extra commentary in the README.</p><p>Look for more in the coming days.</p>"
@@ -30,31 +90,50 @@
       {
         "url": "https://mastodon.social/@hrbrmstr",
         "display_name": "boB Rudis \ud83c\uddfa\ud83c\udde6"
+      },
+      {
+        "url": "https://mastodon.nz/@ojala",
+        "display_name": "Luis Apiolaza"
       }
     ]
   },
   {
-    "link": "https://github.com/r-lib/diffviewer/blob/main/LICENSE.note",
-    "title": "github.com/r-lib/diffviewer/bl...",
-    "latest": "2023-03-11T21:16:04+00:00",
+    "link": "https://github.com/dvsth/learning-legibility-2023",
+    "title": "GitHub - dvsth/learning-legibility-2023: Code for \"Learning the Legibility of Visual Text Perturbations\" (EACL 2023)",
+    "latest": "2023-03-12T05:50:11+00:00",
     "last_post": {
-      "url": "https://mapstodon.space/@josiah/110006721879006802",
-      "content": "<p>Of course it's been (mostly covered in R packages by <span class=\"h-card\"><a href=\"https://fosstodon.org/@jennybryan\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>jennybryan</span></a></span> and <span class=\"h-card\"><a href=\"https://fosstodon.org/@hadleywickham\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>hadleywickham</span></a></span> :) </p><p>Important for {extendr} users because the source libraries are included in the binary and not the package itself. </p><p>From the text: <br>  <a href=\"https://r-pkgs.org/license.html#sec-code-you-bundle\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">r-pkgs.org/license.html#sec-co</span><span class=\"invisible\">de-you-bundle</span></a></p><p>Example: <br>  <a href=\"https://github.com/r-lib/diffviewer/blob/main/LICENSE.note\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/r-lib/diffviewer/bl</span><span class=\"invisible\">ob/main/LICENSE.note</span></a></p>"
+      "url": "https://creative.ai/@arxiv_cl/110008743461484036",
+      "content": "<p>\ud83d\udcdd Learning the Legibility of Visual Text Perturbations \ud83d\udcda\ud83d\udd2d</p><p>\"Learns models that predict the legibility of text and rank perturbations based on the legibility score produced by the model, without using any visual information about the perturbation.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a> <a href=\"https://creative.ai/tags/CV\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CV</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/dvsth/learning-legibility-2023\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/dvsth/learning-legi</span><span class=\"invisible\">bility-2023</span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2303.05077v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2303.05077v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
     },
     "people": [
       {
-        "url": "https://mapstodon.space/@josiah",
-        "display_name": "Josiah :rstat:"
+        "url": "https://creative.ai/@arxiv_cl",
+        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/jareklupinski/hackernews-badge",
+    "title": "GitHub - jareklupinski/hackernews-badge: A gadget that displays the latest HackerNews article, and notifies you of changes to your karma",
+    "latest": "2023-03-12T05:15:03+00:00",
+    "last_post": {
+      "url": "https://die-partei.social/@hackernews/110008605304153904",
+      "content": "<p>Show HN: Hacker News LCD Badge - <a href=\"https://github.com/jareklupinski/hackernews-badge\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/jareklupinski/hacke</span><span class=\"invisible\">rnews-badge</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://die-partei.social/@hackernews",
+        "display_name": "Hackernews"
       }
     ]
   },
   {
     "link": "https://github.com/ggerganov/llama.cpp",
     "title": "GitHub - ggerganov/llama.cpp: Port of Facebook's LLaMA model in C/C++",
-    "latest": "2023-03-11T20:35:32+00:00",
+    "latest": "2023-03-12T02:39:55+00:00",
     "last_post": {
-      "url": "https://fedi.simonwillison.net/@simon/110002471725057460",
-      "content": "<p>Just ran llama.cpp - with Facebook's LLaMA 7B large language model - on my M2 64GB MacBook Pro!</p><p><a href=\"https://github.com/ggerganov/llama.cpp\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/ggerganov/llama.cpp</span><span class=\"invisible\"></span></a></p>"
+      "url": "https://sigmoid.social/@drdan/110004066462751046",
+      "content": "<p>I knew this was coming soon, I just had no idea how soon!</p><p>What's your bet? How many months/years until ChatGPT-equivalent LLMs are running locally on mobile phones? <a href=\"https://sigmoid.social/tags/ai\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ai</span></a> <a href=\"https://sigmoid.social/tags/Singularity\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Singularity</span></a> <a href=\"https://sigmoid.social/tags/GenerativeAI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>GenerativeAI</span></a> <a href=\"https://sigmoid.social/tags/LLM\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>LLM</span></a> <br>---<br>RT @sytelus<br>\"ChatGPT\" on laptop: LLaMA 7B now runs on Apple M1 Pro  at 16 tokens/s on Apple Silicon! </p><p>Secret? Pure C++ code and 4-bit quantization.</p><p>Credits: @ggerganov <br>1/n<br><a href=\"https://github.com/ggerganov/llama.cpp\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/ggerganov/llama.cpp</span><span class=\"invisible\"></span></a><br><a href=\"https://twitter.com/sytelus/status/1634370038349303808\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">twitter.com/sytelus/status/163</span><span class=\"invisible\">4370038349303808</span></a></p>"
     },
     "people": [
       {
@@ -72,6 +151,143 @@
       {
         "url": "https://sigmoid.social/@osma",
         "display_name": "Osma Suominen"
+      },
+      {
+        "url": "https://sigmoid.social/@Yarin",
+        "display_name": "Yarin :verified: :verified:"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/coatless/quarto-webr",
+    "title": "GitHub - coatless/quarto-webr: Quarto extension to embed webr for html documents",
+    "latest": "2023-03-12T02:31:10+00:00",
+    "last_post": {
+      "url": "https://fediscience.org/@andrew/110007960901124885",
+      "content": "<p><span class=\"h-card\"><a href=\"https://fosstodon.org/@brodriguesco\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>brodriguesco</span></a></span> <span class=\"h-card\"><a href=\"https://mastodon.social/@eliocamp\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>eliocamp</span></a></span> There's an extension for it now! <a href=\"https://github.com/coatless/quarto-webr\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/coatless/quarto-web</span><span class=\"invisible\">r</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fosstodon.org/@ivelasq3",
+        "display_name": "Isabella Vel\u00e1squez :rstats:"
+      },
+      {
+        "url": "https://bbs.crumplab.com/@MattCrump",
+        "display_name": "Matt Crump"
+      },
+      {
+        "url": "https://fosstodon.org/@mattdray",
+        "display_name": "Matt Dray"
+      },
+      {
+        "url": "https://mastodon.social/@JoranJongerling",
+        "display_name": "Joran"
+      },
+      {
+        "url": "https://fosstodon.org/@brodriguesco",
+        "display_name": "Bruno Rodrigues :rstats: :tux:"
+      },
+      {
+        "url": "https://fediscience.org/@andrew",
+        "display_name": "Andrew Heiss :rstats:"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/RhetTbull/apple-news-to-sqlite",
+    "title": "GitHub - RhetTbull/apple-news-to-sqlite: Export Apple News saved articles to SQLite",
+    "latest": "2023-03-12T02:15:08+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@RhetTbull/110007704606283960",
+      "content": "<p>With inspiration from <span class=\"h-card\"><a href=\"https://fedi.simonwillison.net/@simon\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>simon</span></a></span> and his \"everything-to-sqlite\" and <span class=\"h-card\"><a href=\"https://fosstodon.org/@datasette\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>datasette</span></a></span> projects, I've created apple-news-to-sqlite to save your Apple News Saved Stories to a sqlite database: <a href=\"https://github.com/RhetTbull/apple-news-to-sqlite\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/RhetTbull/apple-new</span><span class=\"invisible\">s-to-sqlite</span></a> <a href=\"https://fosstodon.org/tags/python\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>python</span></a> <a href=\"https://fosstodon.org/tags/projects\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>projects</span></a> <a href=\"https://fosstodon.org/tags/sqlite\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>sqlite</span></a> <a href=\"https://fosstodon.org/tags/macos\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>macos</span></a> <a href=\"https://fosstodon.org/tags/apple\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>apple</span></a> <a href=\"https://fosstodon.org/tags/reverseengineering\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>reverseengineering</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fedi.simonwillison.net/@simon",
+        "display_name": "Simon Willison"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/kona314/transit-fedilerts",
+    "title": "github.com/kona314/transit-fed...",
+    "latest": "2023-03-12T02:10:41+00:00",
+    "last_post": {
+      "url": "https://social.ridetrans.it/@kona/109877326154945041",
+      "content": "<p>I'm making an ActivityPub server for distributing transit alerts \ud83c\udf89 The tool is completely open-source and fetches alerts from GTFS-realtime Service Alerts feeds</p><p>Official instance: <a href=\"https://transit.alerts.social\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">transit.alerts.social</span><span class=\"invisible\"></span></a> <br>Currently works with:<br><span class=\"h-card\"><a href=\"https://transit.alerts.social/u/kingcountymetro\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>kingcountymetro</span></a></span> <br><span class=\"h-card\"><a href=\"https://transit.alerts.social/u/commtrans\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>commtrans</span></a></span> <br><span class=\"h-card\"><a href=\"https://transit.alerts.social/u/soundtransit\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>soundtransit</span></a></span> </p><p>I expect to add a lot more agencies to the instance in the near-ish future\u2014want to validate more before going wider</p><p>GitHub: <a href=\"https://github.com/kona314/transit-fedilerts\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/kona314/transit-fed</span><span class=\"invisible\">ilerts</span></a> </p><p><a href=\"https://social.ridetrans.it/tags/GTFS\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>GTFS</span></a> <a href=\"https://social.ridetrans.it/tags/GTFSrealtime\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>GTFSrealtime</span></a> <a href=\"https://social.ridetrans.it/tags/ActivityPub\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ActivityPub</span></a> <a href=\"https://social.ridetrans.it/tags/fediverse\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>fediverse</span></a> <a href=\"https://social.ridetrans.it/tags/transit\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>transit</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fosstodon.org/@dylanvanassche",
+        "display_name": "Dylan Van Assche"
+      },
+      {
+        "url": "https://mastodon.energy/@Devonyates",
+        "display_name": "Devon Yates"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/jepler/chap",
+    "title": "GitHub - jepler/chap",
+    "latest": "2023-03-12T01:03:58+00:00",
+    "last_post": {
+      "url": "https://octodon.social/@stylus/110007603575885244",
+      "content": "<p>I made a terminal-based interface to <a href=\"https://octodon.social/tags/OpenAI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>OpenAI</span></a> 's <a href=\"https://octodon.social/tags/ChatGPT\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ChatGPT</span></a>.  <a href=\"https://github.com/jepler/chap\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/jepler/chap</span><span class=\"invisible\"></span></a></p><p>Technologies used: <a href=\"https://octodon.social/tags/Python\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Python</span></a>, <a href=\"https://octodon.social/tags/Textual\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Textual</span></a>, httpx</p><p>Textual's pretty keen, and this is probably the most complicated async-using python program I've written to date.</p><p>Short on instructions, for now.</p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@willmcgugan",
+        "display_name": "Will McGugan"
+      },
+      {
+        "url": "https://hachyderm.io/@schlink",
+        "display_name": "Sam Schlinkert"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/Gordonei/really-simple-jquery-cache",
+    "title": "GitHub - Gordonei/really-simple-jquery-cache: Simple jQuery cache that routes ajax GET calls via the browser's session storage. A one line include.",
+    "latest": "2023-03-11T22:56:16+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@Gord1i/110007115873791065",
+      "content": "<p>Might be a very niche use case, but a very simple jQuery cache: <a href=\"https://github.com/Gordonei/really-simple-jquery-cache\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/Gordonei/really-sim</span><span class=\"invisible\">ple-jquery-cache</span></a></p><p>The itch I'm scratching is folium/leaflet maps with multiple layers that reuse the same GeoJSON source data. Rather than reloading the GeoJSON many, many times, this should result in a single ajax call.</p>"
+    },
+    "people": [
+      {
+        "url": "https://fosstodon.org/@Gord1i",
+        "display_name": "Gordon Inggs"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/facebookresearch/llama/issues",
+    "title": "Issues \u00b7 facebookresearch/llama",
+    "latest": "2023-03-11T21:28:31+00:00",
+    "last_post": {
+      "url": "https://fedi.simonwillison.net/@simon/110006770826677155",
+      "content": "<p><span class=\"h-card\"><a href=\"https://sigmoid.social/@osma\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>osma</span></a></span> People are definitely running LLaMA on PC hardware, but I don't know anything about what that requires or if you can do it without a top-spec GPU. Lots of hints about PC stuff in the Facebook repo's issues: <a href=\"https://github.com/facebookresearch/llama/issues\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/facebookresearch/ll</span><span class=\"invisible\">ama/issues</span></a></p><p>I presume fine-tuning is possible but I have no idea how you would do it I'm afraid!</p>"
+    },
+    "people": [
+      {
+        "url": "https://fedi.simonwillison.net/@simon",
+        "display_name": "Simon Willison"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/r-lib/diffviewer/blob/main/LICENSE.note",
+    "title": "github.com/r-lib/diffviewer/bl...",
+    "latest": "2023-03-11T21:16:04+00:00",
+    "last_post": {
+      "url": "https://mapstodon.space/@josiah/110006721879006802",
+      "content": "<p>Of course it's been (mostly covered in R packages by <span class=\"h-card\"><a href=\"https://fosstodon.org/@jennybryan\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>jennybryan</span></a></span> and <span class=\"h-card\"><a href=\"https://fosstodon.org/@hadleywickham\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>hadleywickham</span></a></span> :) </p><p>Important for {extendr} users because the source libraries are included in the binary and not the package itself. </p><p>From the text: <br>  <a href=\"https://r-pkgs.org/license.html#sec-code-you-bundle\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">r-pkgs.org/license.html#sec-co</span><span class=\"invisible\">de-you-bundle</span></a></p><p>Example: <br>  <a href=\"https://github.com/r-lib/diffviewer/blob/main/LICENSE.note\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/r-lib/diffviewer/bl</span><span class=\"invisible\">ob/main/LICENSE.note</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mapstodon.space/@josiah",
+        "display_name": "Josiah :rstat:"
       }
     ]
   },
@@ -147,25 +363,6 @@
       {
         "url": "https://fosstodon.org/@pandoc",
         "display_name": "pandoc"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/coatless/quarto-webr",
-    "title": "GitHub - coatless/quarto-webr: Quarto extension to embed webr for html documents",
-    "latest": "2023-03-11T17:07:48+00:00",
-    "last_post": {
-      "url": "https://bbs.crumplab.com/@MattCrump/110005745631956833",
-      "content": "<p>Whoa, a <a href=\"https://bbs.crumplab.com/tags/quartopub\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>quartopub</span></a> extension for adding <a href=\"https://bbs.crumplab.com/tags/webR\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>webR</span></a> to quarto documents!! That was fast!!! <a href=\"https://bbs.crumplab.com/tags/rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rstats</span></a></p><p><a href=\"https://github.com/coatless/quarto-webr\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/coatless/quarto-web</span><span class=\"invisible\">r</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://fosstodon.org/@ivelasq3",
-        "display_name": "Isabella Vel\u00e1squez :rstats:"
-      },
-      {
-        "url": "https://bbs.crumplab.com/@MattCrump",
-        "display_name": "Matt Crump"
       }
     ]
   },
@@ -3123,195 +3320,6 @@
       {
         "url": "https://creative.ai/@arxiv_cl",
         "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
-      }
-    ]
-  },
-  {
-    "link": "https://gist.github.com/juliusgeo/41811563811a6e523086e514ef2bec4a",
-    "title": "gauss-legendre.md",
-    "latest": "2023-03-04T01:20:02+00:00",
-    "last_post": {
-      "url": "https://die-partei.social/@hackernews/109962382729611813",
-      "content": "<p>20M digits of pi in 1 minute using Julia - <a href=\"https://gist.github.com/juliusgeo/41811563811a6e523086e514ef2bec4a\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gist.github.com/juliusgeo/4181</span><span class=\"invisible\">1563811a6e523086e514ef2bec4a</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://die-partei.social/@hackernews",
-        "display_name": "Hackernews"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/facebookresearch/llama/pull/73/files",
-    "title": "Save bandwidth by using a torrent to distribute more efficiently by ChristopherKing42 \u00b7 Pull Request #73 \u00b7 facebookresearch/llama",
-    "latest": "2023-03-04T00:28:28+00:00",
-    "last_post": {
-      "url": "https://fosstodon.org/@nafnlaus/109962179913917593",
-      "content": "<p>Wish you could run <a href=\"https://fosstodon.org/tags/GPT3\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>GPT3</span></a> locally? Or something even better? <a href=\"https://fosstodon.org/tags/Facebook\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Facebook</span></a> accidentally made their  new <a href=\"https://fosstodon.org/tags/LLaMA\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>LLaMA</span></a> models fully public (instead of just for researchers behind a signup-and-approval wall), when they released a torrent magnet for download:</p><p><a href=\"https://github.com/facebookresearch/llama/pull/73/files\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/facebookresearch/ll</span><span class=\"invisible\">ama/pull/73/files</span></a></p><p>The magnet is: <br><a href=\"magnet:?xt=urn:btih:ZXXDAUWYLRUXXBHUYEMS6Q5CE5WA3LVA&amp;dn=LLaMA\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\"></span><span class=\"ellipsis\">magnet:?xt=urn:btih:ZXXDAUWYLR</span><span class=\"invisible\">UXXBHUYEMS6Q5CE5WA3LVA&amp;dn=LLaMA</span></a>\"</p><p>The smallest versions of the model can run on consumer-grade cards (like a RTX 3090) and the smallest is said to have performance equal to GPT-3. <a href=\"https://fosstodon.org/tags/AI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AI</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://fosstodon.org/@nafnlaus",
-        "display_name": "Nafnlaus \ud83c\uddee\ud83c\uddf8 \ud83c\uddfa\ud83c\udde6"
-      }
-    ]
-  },
-  {
-    "link": "https://codeberg.org/TomLarrow/creative-coding-experiments/src/branch/main/x_0065",
-    "title": "creative-coding-experiments",
-    "latest": "2023-03-04T00:17:09+00:00",
-    "last_post": {
-      "url": "https://vis.social/@TomLarrow/109962135445658050",
-      "content": "<p>Some <a href=\"https://vis.social/tags/CreativeCoding\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CreativeCoding</span></a> in <a href=\"https://vis.social/tags/Py5\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Py5</span></a> for the past few days. This started as something else, and gradually morphed into this, mixing various blend modes with a really weak flow field. It is incredibly unoptimized, and takes nearly an hour to generate these, but I do love the results</p><p>Code: <a href=\"https://codeberg.org/TomLarrow/creative-coding-experiments/src/branch/main/x_0065\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">codeberg.org/TomLarrow/creativ</span><span class=\"invisible\">e-coding-experiments/src/branch/main/x_0065</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://ciberlandia.pt/@villares",
-        "display_name": "Alexandre B A Villares \ud83d\udc0d"
-      },
-      {
-        "url": "https://vis.social/@TomLarrow",
-        "display_name": "Tom Larrow"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/mastodon/mastodon/releases/tag/v4.1.0",
-    "title": "Release v4.1.0 \u00b7 mastodon/mastodon",
-    "latest": "2023-03-04T00:15:26+00:00",
-    "last_post": {
-      "url": "https://hci.social/@barik/109961802398460565",
-      "content": "<p>We've now upgraded hci.social from mastodon v4.0.2 to v4.1.0. Thanks very much to <span class=\"h-card\"><a href=\"https://hci.social/@YuhanLiu\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>YuhanLiu</span></a></span> for leading the upgrade! \ud83c\udf89 </p><p>This release fixes several longstanding bugs and likely introduces many new ones. \ud83d\ude05 </p><p>Release notes:<br><a href=\"https://github.com/mastodon/mastodon/releases/tag/v4.1.0\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/mastodon/mastodon/r</span><span class=\"invisible\">eleases/tag/v4.1.0</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://hci.social/@bkeegan",
-        "display_name": "Brian C. Keegan"
-      },
-      {
-        "url": "https://esq.social/@icymi_law",
-        "display_name": "ICYMI (Law)"
-      },
-      {
-        "url": "https://starbase80.wtf/@5ciFiGirl",
-        "display_name": "Sci-Fi Girl"
-      },
-      {
-        "url": "https://hci.social/@axz",
-        "display_name": "Amy Zhang"
-      },
-      {
-        "url": "https://hci.social/@andresmh",
-        "display_name": "Andr\u00e9s Monroy-Hern\u00e1ndez"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/doomemacs/doomemacs",
-    "title": "GitHub - doomemacs/doomemacs: An Emacs framework for the stubborn martian hacker",
-    "latest": "2023-03-03T20:51:05+00:00",
-    "last_post": {
-      "url": "https://social.skewed.de/@tiago/109961325125828344",
-      "content": "<p>I just ditched my decades-old init.el and installed doom emacs:</p><p><a href=\"https://github.com/doomemacs/doomemacs\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/doomemacs/doomemacs</span><span class=\"invisible\"></span></a></p><p>Once you disable evil mode (\ud83e\udd2e) it's quite neat!</p>"
-    },
-    "people": [
-      {
-        "url": "https://social.skewed.de/@tiago",
-        "display_name": "Tiago Peixoto"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/kir-gadjello/zipslicer",
-    "title": "GitHub - kir-gadjello/zipslicer: A library for incremental loading of large PyTorch checkpoints",
-    "latest": "2023-03-03T20:05:02+00:00",
-    "last_post": {
-      "url": "https://die-partei.social/@hackernews/109961144070716573",
-      "content": "<p>Show HN: Zipslicer, a library for loading LLM checkpoints on consumer hardware - <a href=\"https://github.com/kir-gadjello/zipslicer\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/kir-gadjello/zipsli</span><span class=\"invisible\">cer</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://die-partei.social/@hackernews",
-        "display_name": "Hackernews"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/r-lib/httr2/issues/210",
-    "title": "Expand on caching in Wrapping APIs \u00b7 Issue #210 \u00b7 r-lib/httr2",
-    "latest": "2023-03-03T19:19:58+00:00",
-    "last_post": {
-      "url": "https://mapstodon.space/@josiah/109960966872218358",
-      "content": "<p>:rstat:  \ud83d\udce6 <br>\u2757\ufe0f\u26a0\ufe0f calling <a href=\"https://mapstodon.space/tags/rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rstats</span></a> fam / {httr2} gurus! Re Cached OAuth2 tokens</p><p>I know that tokens are cached. I don't know how to access or used the cached tokens. Any tips? </p><p>Related <br><a href=\"https://github.com/r-lib/httr2/issues/210\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/r-lib/httr2/issues/</span><span class=\"invisible\">210</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mapstodon.space/@josiah",
-        "display_name": "Josiah :rstat:"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/koaning/embetter",
-    "title": "GitHub - koaning/embetter: just a bunch of useful embeddings",
-    "latest": "2023-03-03T19:14:32+00:00",
-    "last_post": {
-      "url": "https://fosstodon.org/@koaning/109960945502841474",
-      "content": "<p>You may notice that it's designed to play nice with embetter, making it easy to use a whole suite of word/phrase/sentence/image embeddings! </p><p><a href=\"https://github.com/koaning/embetter\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/koaning/embetter</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://fosstodon.org/@koaning",
-        "display_name": "Vincent D. Warmerdam"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/koaning/simsity",
-    "title": "GitHub - koaning/simsity: Super Simple Similarities Service",
-    "latest": "2023-03-03T19:13:23+00:00",
-    "last_post": {
-      "url": "https://fosstodon.org/@koaning/109960940967856464",
-      "content": "<p>I've found a lot of ANN databases pretty unintuitive to set up for quick experiments. </p><p>So I wrote a little helper... reintroducing ... simsity! </p><p>It's all about building a neighborhood. Literally! </p><p><a href=\"https://github.com/koaning/simsity\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/koaning/simsity</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://recsys.social/@karlhigley",
-        "display_name": "Karl Higley"
-      },
-      {
-        "url": "https://fosstodon.org/@koaning",
-        "display_name": "Vincent D. Warmerdam"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/joshcho/ChatGPT.el",
-    "title": "GitHub - joshcho/ChatGPT.el: ChatGPT in Emacs",
-    "latest": "2023-03-03T18:44:47+00:00",
-    "last_post": {
-      "url": "https://social.coop/@MichaelTBacon/109960828506370582",
-      "content": "<p>I am oddly comforted by the fact that someone has produced a ChatGPT client mode for Emacs.</p><p><a href=\"https://github.com/joshcho/ChatGPT.el\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/joshcho/ChatGPT.el</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://social.coop/@MichaelTBacon",
-        "display_name": "Michael T. Bacon, Ph.D."
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/facebookresearch/llama/pull/73",
-    "title": "Save bandwidth by using a torrent to distribute more efficiently by ChristopherKing42 \u00b7 Pull Request #73 \u00b7 facebookresearch/llama",
-    "latest": "2023-03-03T18:43:22+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@igor/109960822952322644",
-      "content": "<p>Someone already leaked the LLaMA weights (brand new LLM from Facebook) in a torrent, and added the magnet link as a Pull Request into the Official Repository: <a href=\"https://github.com/facebookresearch/llama/pull/73\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/facebookresearch/ll</span><span class=\"invisible\">ama/pull/73</span></a> \ud83d\ude02</p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@igor",
-        "display_name": "Igor Brigadir"
       }
     ]
   }
