@@ -1,5 +1,110 @@
 [
   {
+    "link": "https://arxiv.org/abs/2303.05383v1",
+    "title": "Making a Computational Attorney",
+    "latest": "2023-03-12T20:30:07+00:00",
+    "last_post": {
+      "url": "https://creative.ai/@arxiv_cl/110012203521822577",
+      "content": "<p>\ud83d\udcdd Making a Computational Attorney \ud83d\udcda\ud83e\udde0</p><p>\"A ChatGPT-like Large Legal Language Model (L$^3$M) is a large language model pre-trained from scratch on the large legal corpus and then fine-tuned on the target legal tasks.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a> <a href=\"https://creative.ai/tags/CY\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CY</span></a> <a href=\"https://creative.ai/tags/LG\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>LG</span></a></p><p>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2303.05383v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2303.05383v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://creative.ai/@arxiv_cl",
+        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
+      }
+    ]
+  },
+  {
+    "link": "https://www.nature.com/articles/nrn.2018.20",
+    "title": "https://www.nature.com/articles/nrn.2018.20",
+    "latest": "2023-03-12T20:21:05+00:00",
+    "last_post": {
+      "url": "https://neuromatch.social/@laurentperrinet/110011729094365732",
+      "content": "<p>\ud83d\udce3The <a href=\"https://neuromatch.social/tags/NeuroSchool\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>NeuroSchool</span></a> Ph.D. Program of Aix-Marseille University is hiring with new Neuroscience PhD contracts \ud83c\udf93</p><p>The <a href=\"https://neuromatch.social/tags/NeuroSchool\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>NeuroSchool</span></a> Ph.D. Program of Aix-Marseille University (France) has launched it call for PhD contracts. Deadline for application: April 2, 2023, three weeks left \ud83d\udcc6.</p><p>\ud83d\udc49\ud83c\udffc<a href=\"https://neuro-marseille.org/en/Calls/2023-phd-scholarships-for-international-students/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">neuro-marseille.org/en/Calls/2</span><span class=\"invisible\">023-phd-scholarships-for-international-students/</span></a> \u2026</p><p><a href=\"https://neuromatch.social/tags/hiring\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>hiring</span></a>  <a href=\"https://neuromatch.social/tags/PhDposition\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>PhDposition</span></a> </p><p>You can read <a href=\"https://neuro-marseille.org/wp-content/uploads/2023/03/inter2023-neuroschool-phd-research-projects-list.pdf\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">all projects in one PDF</a></p><p>In particular, check-out our projet no 11 :</p><p>An efficient modelling approach for the detection of spiking motifs in neurobiological data</p><p>State of the art. Neuroscience has recently undergone a scientific and technological revolution. The scales at which neuronal activity can be experimentally recorded has considerably expanded. One striking example is the use of photonic imaging approaches to simultaneously sample the activity of thousands of neurons in vivo. Such novel experimental evidence shows that information processing in the brain is not a purely feed-forward process but relies also on internally generated activity in recurrent networks forming complex dynamical systems. Interestingly, it has been recently shown that neural information can be carried by way of series of spikes distributed on neurons of large networks and forming <a href=\"https://laurentperrinet.github.io/publication/grimaldi-22-polychronies/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">precise spiking spatio-temporal motifs</a>.</p><p>Objectives. The goal of this project is to bring an interdisciplinary perspective to the detection of precise spike motifs in neurobiological data. In particular, inspired by neurobiological observations, we will mathematically formalize a representation in an assembly of neurons based on a set of motifs with different relative spike times. The main innovative aspect is to consider a representation based on repetitions of these spiking motifs at precise times of occurrence, thus extending the capabilities of analog representations based on vectors of instantaneous firing rate.</p><p>Methods. In preliminary work, we showed that this dedicated artificial neural network outperforms classical covariance-based methods in recognizing spiking motif timing and identity. This machine learning algorithm is particularly powerful when there is a large number of overlapping motifs as the temporal depth of the motifs increases. We used the pyTorch deep learning library, which is well suited for high-performance computing architectures such as GPUs, making it a viable option for high-throughput analysis of neurobiological data.</p><p>Expected results. An added value of this algorithm is that it can be used to learn precise spiking motifs in an unsupervised manner. It is a powerful tool for the detection of sequential activation of motifs in neurobiological data. In particular, the motifs may take the form of elementary waves and we will challenge the hypothesis that <a href=\"https://www.nature.com/articles/nrn.2018.20\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">neural activity drives computations thanks to traveling waves</a>, an aspect in which the collaboration with the team of Fr\u00e9d\u00e9ric Chavane, an expert on their functional role in the visual cortex, will be crucial.</p><p>Feasibility. Thanks to our preliminary work, we have validated this algorithm on synthetic data for which the ground truth is known. The method will be applied on existing data by our group, notably from cats, macaques or marmosets. The availability of this material makes the project highly feasible.</p><p>Expected candidate profile, specifying at least 4 skills. The candidate should have a strong inter-disciplinary profile in 1/ computational neuroscience, 2/ biological neuroscience, 3/ machine learning, and 4/ open science (FAIR principles).</p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@vh",
+        "display_name": "Vincent HETRU"
+      }
+    ]
+  },
+  {
+    "link": "https://arxiv.org/abs/2303.05208v1",
+    "title": "Geometry of Language",
+    "latest": "2023-03-12T18:10:15+00:00",
+    "last_post": {
+      "url": "https://creative.ai/@arxiv_cl/110011653516643367",
+      "content": "<p>\ud83d\udcdd Geometry of Language \ud83d\udcda</p><p>\"By forming chains of tokens representing words, followed by matching these chains with pre-existing chains representing grammatical word orders, as in the diagram on the right, which can be visualized by two- or three-dimensional complexes.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a></p><p>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2303.05208v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2303.05208v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://creative.ai/@arxiv_cl",
+        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
+      }
+    ]
+  },
+  {
+    "link": "https://arxiv.org/abs/2302.13971v1",
+    "title": "LLaMA: Open and Efficient Foundation Language Models",
+    "latest": "2023-03-12T17:58:44+00:00",
+    "last_post": {
+      "url": "https://mast.eu.org/@martin1975/110011607979445917",
+      "content": "<p>\ud83e\udd16\ud83e\udd13 LLaMA: Open and Efficient Foundation Language Models <a href=\"https://arxiv.org/abs/2302.13971v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2302.13971v1</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://creative.ai/@arxiv_cl",
+        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
+      }
+    ]
+  },
+  {
+    "link": "https://onlinelibrary.wiley.com/doi/10.1111/geb.13648?af=R",
+    "title": "onlinelibrary.wiley.com/doi/10...",
+    "latest": "2023-03-12T16:58:04+00:00",
+    "last_post": {
+      "url": "https://ecoevo.social/@sMarten_Winter/110010103259549185",
+      "content": "<p>RT @GEB_macro<br>The global EPTO database: Worldwide occurrences of aquatic insects  <a href=\"https://onlinelibrary.wiley.com/doi/10.1111/geb.13648?af=R\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">onlinelibrary.wiley.com/doi/10</span><span class=\"invisible\">.1111/geb.13648?af=R</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://ecoevo.social/@jebyrnes",
+        "display_name": "jebyrnes"
+      }
+    ]
+  },
+  {
+    "link": "https://link.springer.com/shop/springer/yellow-sale/de-eu/?sap-outbound-id=EFD7CCF2BC4D6B5733A9D53DF9D2444A8C1938B7&amp;utm_source=standard&amp;utm_medium=email&amp;utm_campaign=103_WADI01_0000028414_CONR_BOOKS_ECOM_GL_PHSS_002AA_spr-yel&amp;utm_content=EN_52642_20230312&amp;mkt-key=42010A0D569E1EECB3C8900FB514BDC0",
+    "title": "Yellow Sale | Springer Nature ",
+    "latest": "2023-03-12T16:32:13+00:00",
+    "last_post": {
+      "url": "https://mathstodon.xyz/@filipw/110010666461214684",
+      "content": "<p>dear Mathstodon friends, Springer has a \"yellow sale\" - 50% off for Mathematics books</p><p>\ud83d\udd17 <a href=\"https://link.springer.com/shop/springer/yellow-sale/de-eu/?sap-outbound-id=EFD7CCF2BC4D6B5733A9D53DF9D2444A8C1938B7&amp;utm_source=standard&amp;utm_medium=email&amp;utm_campaign=103_WADI01_0000028414_CONR_BOOKS_ECOM_GL_PHSS_002AA_spr-yel&amp;utm_content=EN_52642_20230312&amp;mkt-key=42010A0D569E1EECB3C8900FB514BDC0\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">link.springer.com/shop/springe</span><span class=\"invisible\">r/yellow-sale/de-eu/?sap-outbound-id=EFD7CCF2BC4D6B5733A9D53DF9D2444A8C1938B7&amp;utm_source=standard&amp;utm_medium=email&amp;utm_campaign=103_WADI01_0000028414_CONR_BOOKS_ECOM_GL_PHSS_002AA_spr-yel&amp;utm_content=EN_52642_20230312&amp;mkt-key=42010A0D569E1EECB3C8900FB514BDC0</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://social.coop/@ansate",
+        "display_name": "Melissa Santos"
+      }
+    ]
+  },
+  {
+    "link": "https://onlinelibrary.wiley.com/doi/full/10.1111/j.1365-2575.2008.00304.x",
+    "title": "onlinelibrary.wiley.com/doi/fu...",
+    "latest": "2023-03-12T16:15:50+00:00",
+    "last_post": {
+      "url": "https://hci.social/@clifflampe/110011203598377836",
+      "content": "<p><span class=\"h-card\"><a href=\"https://mstdn.social/@kissane\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>kissane</span></a></span> <span class=\"h-card\"><a href=\"https://mastodon.social/@jamiemccarthy\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>jamiemccarthy</span></a></span> Sorry, haven't checked this channel for a minute. I like this one for the things that work in an online community: <a href=\"https://onlinelibrary.wiley.com/doi/full/10.1111/j.1365-2575.2008.00304.x\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">onlinelibrary.wiley.com/doi/fu</span><span class=\"invisible\">ll/10.1111/j.1365-2575.2008.00304.x</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://hci.social/@clifflampe",
+        "display_name": "Cliff Lampe"
+      }
+    ]
+  },
+  {
     "link": "https://doi.org/10.5281/zenodo.7715492",
     "title": "https://doi.org/10.5281/zenodo.7715492",
     "latest": "2023-03-12T09:53:19+00:00",
@@ -3103,127 +3208,6 @@
       {
         "url": "https://creative.ai/@alexjc",
         "display_name": "Alex J. Champandard \u2744\ufe0f"
-      }
-    ]
-  },
-  {
-    "link": "https://arxiv.org/abs/2301.10810v1",
-    "title": "On the inconsistency of separable losses for structured prediction",
-    "latest": "2023-03-04T06:16:16+00:00",
-    "last_post": {
-      "url": "https://masto.ai/@cheng/109826091754581280",
-      "content": "<p>Structured prediction is computationally hard because the log-sum-exp cannot be decomposed into a sum of smaller components. Hence many practical approaches assume a model that separates into individual sums. But this paper shows that this separation means that the model is no longer Bayes consistent. But why does structured prediction work well in practice? <br><a href=\"https://masto.ai/tags/MachineLearning\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>MachineLearning</span></a> <a href=\"https://masto.ai/tags/NaturalLanguageProcessing\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>NaturalLanguageProcessing</span></a> </p><p><a href=\"https://arxiv.org/abs/2301.10810v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2301.10810v1</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://creative.ai/@arxiv",
-        "display_name": "arXiv Highlights AI/ML \ud83d\udcdd\ud83e\udd16"
-      }
-    ]
-  },
-  {
-    "link": "https://arxiv.org/abs/2206.00665.pdf",
-    "title": "MonoSDF: Exploring Monocular Geometric Cues for Neural Implicit Surface Reconstruction",
-    "latest": "2023-03-04T05:31:14+00:00",
-    "last_post": {
-      "url": "https://sigmoid.social/@ducha_aiki/109834042194245579",
-      "content": "<p>Thanks to SDF Studio, I have discovered Omnidata depth &amp; normals model.<br>Source: MonoSDF paper<br><a href=\"https://arxiv.org/abs/2206.00665.pdf\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2206.00665.pdf</span><span class=\"invisible\"></span></a><br>Omnidata paper: <a href=\"https://arxiv.org/abs/2110.04994\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2110.04994</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://sigmoid.social/@ducha_aiki",
-        "display_name": "Dmytro Mishkin \ud83c\uddfa\ud83c\udde6"
-      },
-      {
-        "url": "https://creative.ai/@arxiv",
-        "display_name": "arXiv Highlights AI/ML \ud83d\udcdd\ud83e\udd16"
-      }
-    ]
-  },
-  {
-    "link": "https://arxiv.org/abs/2110.04994",
-    "title": "https://arxiv.org/abs/2110.04994",
-    "latest": "2023-03-04T05:31:14+00:00",
-    "last_post": {
-      "url": "https://sigmoid.social/@ducha_aiki/109834042194245579",
-      "content": "<p>Thanks to SDF Studio, I have discovered Omnidata depth &amp; normals model.<br>Source: MonoSDF paper<br><a href=\"https://arxiv.org/abs/2206.00665.pdf\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2206.00665.pdf</span><span class=\"invisible\"></span></a><br>Omnidata paper: <a href=\"https://arxiv.org/abs/2110.04994\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2110.04994</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://sigmoid.social/@ducha_aiki",
-        "display_name": "Dmytro Mishkin \ud83c\uddfa\ud83c\udde6"
-      },
-      {
-        "url": "https://creative.ai/@arxiv",
-        "display_name": "arXiv Highlights AI/ML \ud83d\udcdd\ud83e\udd16"
-      }
-    ]
-  },
-  {
-    "link": "https://arxiv.org/abs/2208.09632",
-    "title": "Adam Can Converge Without Any Modification On Update Rules",
-    "latest": "2023-03-04T04:53:02+00:00",
-    "last_post": {
-      "url": "https://sigmoid.social/@dpkingma/109450950632067746",
-      "content": "<p>\u201cAdam can converge without any modification on update rules\u201d <br><a href=\"https://arxiv.org/abs/2208.09632\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2208.09632</span><span class=\"invisible\"></span></a></p><p>Proves that (vanilla) Adam is theoretically justified without any modification. Presented at NeurIPS'22. </p><p>By Yushun Zhang, Congliang Chen, Naichen Shi, Ruoyu Sun, Zhi-Quan Luo. Also provides suggestions for tuning hyperparameters beta1 and beta2.</p>"
-    },
-    "people": [
-      {
-        "url": "https://sigmoid.social/@DigThatData",
-        "display_name": "David Marx"
-      }
-    ]
-  },
-  {
-    "link": "https://arxiv.org/abs/2302.04023?fbclid=IwAR1Q3v7jty7nlejw1d4KEW4A4vxyPNKyZ3OhkUnTzM04vFOZ1fxAo8B6FcA",
-    "title": "A Multitask, Multilingual, Multimodal Evaluation of ChatGPT on Reasoning, Hallucination, and Interactivity",
-    "latest": "2023-03-04T04:46:12+00:00",
-    "last_post": {
-      "url": "https://fedihum.org/@fabiociotti/109834361105779337",
-      "content": "<p>Some serious research on ChatGPT capacities and limitations <a href=\"https://arxiv.org/abs/2302.04023?fbclid=IwAR1Q3v7jty7nlejw1d4KEW4A4vxyPNKyZ3OhkUnTzM04vFOZ1fxAo8B6FcA\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">arxiv.org/abs/2302.04023?fbcli</span><span class=\"invisible\">d=IwAR1Q3v7jty7nlejw1d4KEW4A4vxyPNKyZ3OhkUnTzM04vFOZ1fxAo8B6FcA</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://creative.ai/@arxiv",
-        "display_name": "arXiv Highlights AI/ML \ud83d\udcdd\ud83e\udd16"
-      }
-    ]
-  },
-  {
-    "link": "https://arxiv.org/abs/2302.02596",
-    "title": "Ten Lessons We Have Learned in the New \"Sparseland\": A Short Handbook for Sparse Neural Network Researchers",
-    "latest": "2023-03-04T03:16:11+00:00",
-    "last_post": {
-      "url": "https://sigmoid.social/@at/109824560751869598",
-      "content": "<p>Ten Lessons We Have Learned in the New \"Sparseland\": A Short Handbook for Sparse Neural Network Researchers<br>Shiwei Liu, Zhangyang Wang </p><p>What a beautifully-written, kind, and academically-funny abstract!</p><p>favorite part: \"At the very least ... if you are writing/planning to write a<br>paper or rebuttal in the field of SNNs, we hope some of our answers could help<br>you! </p><p>abs: <a href=\"https://arxiv.org/abs/2302.02596\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2302.02596</span><span class=\"invisible\"></span></a> <br>pdf: <a href=\"https://arxiv.org/pdf/2302.02596.pdf\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/pdf/2302.02596.pdf</span><span class=\"invisible\"></span></a> </p><p><a href=\"https://sigmoid.social/tags/arXiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arXiv</span></a> <a href=\"https://sigmoid.social/tags/SNNs\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>SNNs</span></a> <a href=\"https://sigmoid.social/tags/AmyPostsPapers\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AmyPostsPapers</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://indieweb.social/@dnnydnl",
-        "display_name": "Donny Daniel :mastodon:"
-      },
-      {
-        "url": "https://creative.ai/@arxiv",
-        "display_name": "arXiv Highlights AI/ML \ud83d\udcdd\ud83e\udd16"
-      }
-    ]
-  },
-  {
-    "link": "https://arxiv.org/pdf/2302.02596.pdf",
-    "title": "https://arxiv.org/pdf/2302.02596.pdf",
-    "latest": "2023-03-04T03:16:11+00:00",
-    "last_post": {
-      "url": "https://sigmoid.social/@at/109824560751869598",
-      "content": "<p>Ten Lessons We Have Learned in the New \"Sparseland\": A Short Handbook for Sparse Neural Network Researchers<br>Shiwei Liu, Zhangyang Wang </p><p>What a beautifully-written, kind, and academically-funny abstract!</p><p>favorite part: \"At the very least ... if you are writing/planning to write a<br>paper or rebuttal in the field of SNNs, we hope some of our answers could help<br>you! </p><p>abs: <a href=\"https://arxiv.org/abs/2302.02596\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2302.02596</span><span class=\"invisible\"></span></a> <br>pdf: <a href=\"https://arxiv.org/pdf/2302.02596.pdf\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/pdf/2302.02596.pdf</span><span class=\"invisible\"></span></a> </p><p><a href=\"https://sigmoid.social/tags/arXiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arXiv</span></a> <a href=\"https://sigmoid.social/tags/SNNs\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>SNNs</span></a> <a href=\"https://sigmoid.social/tags/AmyPostsPapers\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AmyPostsPapers</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://indieweb.social/@dnnydnl",
-        "display_name": "Donny Daniel :mastodon:"
-      },
-      {
-        "url": "https://creative.ai/@arxiv",
-        "display_name": "arXiv Highlights AI/ML \ud83d\udcdd\ud83e\udd16"
       }
     ]
   }
