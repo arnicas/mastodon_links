@@ -1,5 +1,156 @@
 [
   {
+    "link": "https://github.com/zedeus/nitter",
+    "title": "https://github.com/zedeus/nitter",
+    "latest": "2023-03-13T20:42:07+00:00",
+    "last_post": {
+      "url": "https://cyberfurz.social/@tweets_icu/109817800863120823",
+      "content": "<p>Thanks to <span class=\"h-card\"><a href=\"https://mastodon.social/@foreverandaday\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>foreverandaday</span></a></span> for making it known the existence of <a href=\"https://bird.makeup\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">bird.makeup</span><span class=\"invisible\"></span></a>, a fork of BirdsiteLIVE that uses the same back-end as Nitter(<a href=\"https://github.com/zedeus/nitter\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/zedeus/nitter</span><span class=\"invisible\"></span></a>), which uses the hidden Twitter API. We do not wish to bypass the Twitter-allowed usage guidelines and have no guarantee Twitter will not axe hidden API access with tooling in the future, so if you would like to migrate to <a href=\"https://bird.makeup\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">bird.makeup</span><span class=\"invisible\"></span></a>, which may last past the Feb 9 cut.</p>"
+    },
+    "people": [
+      {
+        "url": "https://social.librem.one/@vincent",
+        "display_name": "Vincent Cloutier"
+      }
+    ]
+  },
+  {
+    "link": "https://observablehq.com/@simonw/blog-to-newsletter",
+    "title": "Blog to newsletter experiment",
+    "latest": "2023-03-13T20:21:39+00:00",
+    "last_post": {
+      "url": "https://fedi.simonwillison.net/@simon/110017832499015245",
+      "content": "<p>Most of the newsletter was assembled using this Observable notebook, which assembles HTML from data fetched from a Datasette backup of my blog content: <a href=\"https://observablehq.com/@simonw/blog-to-newsletter\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">observablehq.com/@simonw/blog-</span><span class=\"invisible\">to-newsletter</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fedi.simonwillison.net/@simon",
+        "display_name": "Simon Willison"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/huggingface/text-generation-inference",
+    "title": "github.com/huggingface/text-ge...",
+    "latest": "2023-03-13T19:11:33+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@mmitchell_ai/110017556877900814",
+      "content": "<p>NEXT ethics-relevant thingie I'm excited about is new work from <br><span class=\"h-card\"><a href=\"https://sigmoid.social/@tomgoldstein\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>tomgoldstein</span></a></span>  and crew: WATERMARKING Language Model output. This helps to AUTOMATICALLY DETECT language model output, amongst other things. \ud83d\ude0d<br>Check out their demo here!!<br><a href=\"https://huggingface.co/spaces/tomg-group-umd/lm-watermarking\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">huggingface.co/spaces/tomg-gro</span><span class=\"invisible\">up-umd/lm-watermarking</span></a></p><p>And supported within Hugging Face infrastructure! \ud83e\udd17 <a href=\"https://github.com/huggingface/text-generation-inference\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/huggingface/text-ge</span><span class=\"invisible\">neration-inference</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://dair-community.social/@meg",
+        "display_name": "Margaret Mitchell"
+      },
+      {
+        "url": "https://mastodon.social/@mmitchell_ai",
+        "display_name": "mmitchell_ai"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/mcaceresb/stata-parquet",
+    "title": "github.com/mcaceresb/stata-par...",
+    "latest": "2023-03-13T18:43:46+00:00",
+    "last_post": {
+      "url": "https://mastodon.online/@statstas/110017447634187388",
+      "content": "<p>I had a need to read some <a href=\"https://mastodon.online/tags/parquet\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>parquet</span></a> files into <a href=\"https://mastodon.online/tags/Stata\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Stata</span></a> so I have prepared a short thread on that. Parquet format is a must know in <a href=\"https://mastodon.online/tags/datascience\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>datascience</span></a> so if your knowledge is c(epsdouble) right now, read up conceptual tutorials <a href=\"https://www.jumpingrivers.com/blog/parquet-file-format-big-data-r/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">jumpingrivers.com/blog/parquet</span><span class=\"invisible\">-file-format-big-data-r/</span></a> <a href=\"https://towardsdatascience.com/demystifying-the-parquet-file-format-13adb0206705\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">towardsdatascience.com/demysti</span><span class=\"invisible\">fying-the-parquet-file-format-13adb0206705</span></a></p><p>There's a proper C++ plugin written by Mauricio Caceres Bravo <a href=\"https://github.com/mcaceresb/stata-parquet\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/mcaceresb/stata-par</span><span class=\"invisible\">quet</span></a> but I have not tried to build it as I don't have first hand access to the compiler chain. Instead, I am passing the file through <a href=\"https://mastodon.online/tags/Python\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Python</span></a> 1/10</p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.online/@statstas",
+        "display_name": "Stas Kolenikov"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/tatsu-lab/stanford_alpaca",
+    "title": "GitHub - tatsu-lab/stanford_alpaca: Code and documentation to train Stanford's Alpaca models, and generate the data.",
+    "latest": "2023-03-13T18:25:02+00:00",
+    "last_post": {
+      "url": "https://die-partei.social/@hackernews/110017373957236085",
+      "content": "<p>Stanford Alpaca: An Instruction-following LLaMA model - <a href=\"https://github.com/tatsu-lab/stanford_alpaca\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/tatsu-lab/stanford_</span><span class=\"invisible\">alpaca</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://die-partei.social/@hackernews",
+        "display_name": "Hackernews"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/Exgc/AVMuST-TED",
+    "title": "GitHub - Exgc/AVMuST-TED",
+    "latest": "2023-03-13T17:30:12+00:00",
+    "last_post": {
+      "url": "https://creative.ai/@arxiv_cl/110017158338660023",
+      "content": "<p>\ud83d\udcdd MixSpeech: Cross-Modality Self-Learning with Audio-Visual Stream Mixup for Visual Speech Translation and Recognition \ud83d\udd2d\ud83d\udcda</p><p>\"MixSpeech regularizes the training of visual speech by utilizing audio speech as a teacher to learn the knowledge of visual speech and using mixed speech with a curriculum learning strategy to adjust the mixing ratio as needed.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CV\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CV</span></a> <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/Exgc/AVMuST-TED\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/Exgc/AVMuST-TED</span><span class=\"invisible\"></span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2303.05309v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2303.05309v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://creative.ai/@arxiv_cl",
+        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/bookwyrm-social/bookwyrm/pull/2524",
+    "title": "Initial hashtag support by chdorner \u00b7 Pull Request #2524 \u00b7 bookwyrm-social/bookwyrm",
+    "latest": "2023-03-13T17:20:26+00:00",
+    "last_post": {
+      "url": "https://josh.tel/@josh/110013052733345884",
+      "content": "<p>Heck yes. <a href=\"https://josh.tel/tags/BookWyrm\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>BookWyrm</span></a> just merged in hashtag support! <a href=\"https://github.com/bookwyrm-social/bookwyrm/pull/2524\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/bookwyrm-social/boo</span><span class=\"invisible\">kwyrm/pull/2524</span></a></p><p><a href=\"https://josh.tel/tags/Fediverse\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Fediverse</span></a> <a href=\"https://josh.tel/tags/IndieWeb\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>IndieWeb</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://macaw.social/@andypiper",
+        "display_name": "Andy Piper"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/rmcelreath/stat_rethinking_2023#calendar--topical-outline",
+    "title": "GitHub - rmcelreath/stat_rethinking_2023: Statistical Rethinking Course for Jan-Mar 2023",
+    "latest": "2023-03-13T16:55:42+00:00",
+    "last_post": {
+      "url": "https://nerdculture.de/@rlmcelreath/110016840540174926",
+      "content": "<p>The 2023 edition of my long-running anti-establishment art-science-fusion code-therapy smooth-baritone causal inference &amp; Bayesian data analysis course is complete. 20 lectures, from the basics of causal inference &amp; Bayesian updating to mixed models &amp; Gaussian processes. </p><p>Lecture recordings, slides, homework sets and solutions are all listed here. Take it at your own pace. First half is a solid course in regression and causal inference. Second half turns it up to 11. <a href=\"https://github.com/rmcelreath/stat_rethinking_2023#calendar--topical-outline\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/rmcelreath/stat_ret</span><span class=\"invisible\">hinking_2023#calendar--topical-outline</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fosstodon.org/@SherlockpHolmes",
+        "display_name": "Susan Holmes"
+      },
+      {
+        "url": "https://astrodon.social/@harcel",
+        "display_name": "Marcel Haas"
+      },
+      {
+        "url": "https://tech.lgbt/@_dmh",
+        "display_name": "Dave Howcroft \ud83e\udd94"
+      },
+      {
+        "url": "https://ecoevo.social/@jebyrnes",
+        "display_name": "jebyrnes"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/ShreyaR/guardrails",
+    "title": "GitHub - ShreyaR/guardrails: Adding guardrails to large language models.",
+    "latest": "2023-03-13T16:51:06+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@ceperez/110017004584473316",
+      "content": "<p>An interesting early effort to introducing types to large language models. <a href=\"https://github.com/ShreyaR/guardrails\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/ShreyaR/guardrails</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@ceperez",
+        "display_name": "Carlos E. Perez @IntuitMachine"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/KNowledgeOnWebScale/knoodle",
     "title": "GitHub - KNowledgeOnWebScale/knoodle: KNoWS' Solid-based alternative to Doodle",
     "latest": "2023-03-13T09:41:52+00:00",
@@ -3141,157 +3292,6 @@
       {
         "url": "https://mastodon.social/@MattHodges",
         "display_name": "Matt Hodges"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/purvaten/FLEX",
-    "title": "https://github.com/purvaten/FLEX",
-    "latest": "2023-03-05T09:50:15+00:00",
-    "last_post": {
-      "url": "https://creative.ai/@alexjc/109970051247629628",
-      "content": "<p>RT @PurvaTendulkar@twitter.com</p><p>Excited to share our CVPR'23 paper -- FLEX\ud83e\udd38</p><p>We synthesize full-body 3D avatars grasping everyday objects in household scenes without requiring full-body grasping data.</p><p>Website: <a href=\"https://flex.cs.columbia.edu/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">flex.cs.columbia.edu/</span><span class=\"invisible\"></span></a><br>Paper: <a href=\"https://arxiv.org/abs/2211.11903\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2211.11903</span><span class=\"invisible\"></span></a><br>Code: <a href=\"https://github.com/purvaten/FLEX\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/purvaten/FLEX</span><span class=\"invisible\"></span></a></p><p>\ud83e\uddf5(1/4)</p><p>\ud83d\udc26\ud83d\udd17: <a href=\"https://twitter.com/PurvaTendulkar/status/1631832200650817536\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">twitter.com/PurvaTendulkar/sta</span><span class=\"invisible\">tus/1631832200650817536</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://creative.ai/@alexjc",
-        "display_name": "Alex J. Champandard \u2744\ufe0f"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/fullthom/chat-gpt-quine",
-    "title": "GitHub - fullthom/chat-gpt-quine",
-    "latest": "2023-03-05T09:42:15+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@python_discussions/109970019792999357",
-      "content": "<p>Self-replicating Python using ChatGPT</p><p><a href=\"https://github.com/fullthom/chat-gpt-quine\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/fullthom/chat-gpt-q</span><span class=\"invisible\">uine</span></a></p><p>Discussions: <a href=\"https://discu.eu/q/https://github.com/fullthom/chat-gpt-quine\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">discu.eu/q/https://github.com/</span><span class=\"invisible\">fullthom/chat-gpt-quine</span></a></p><p><a href=\"https://mastodon.social/tags/programming\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>programming</span></a> <a href=\"https://mastodon.social/tags/python\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>python</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://die-partei.social/@hackernews",
-        "display_name": "Hackernews"
-      },
-      {
-        "url": "https://mastodon.social/@python_discussions",
-        "display_name": "Python Weekly"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/eriknyquist/duckargs",
-    "title": "GitHub - eriknyquist/duckargs: Productivity tool for quickly creating python programs that parse command-line arguments. Stop writing argparse boilerplate code!",
-    "latest": "2023-03-05T09:32:06+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@python_discussions/109969979894325153",
-      "content": "<p>I am sick of writing argparse boilerplate code, so I made \"duckargs\" to do it for me</p><p><a href=\"https://github.com/eriknyquist/duckargs\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/eriknyquist/duckarg</span><span class=\"invisible\">s</span></a></p><p>Discussions: <a href=\"https://discu.eu/q/https://github.com/eriknyquist/duckargs\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">discu.eu/q/https://github.com/</span><span class=\"invisible\">eriknyquist/duckargs</span></a></p><p><a href=\"https://mastodon.social/tags/programming\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>programming</span></a> <a href=\"https://mastodon.social/tags/python\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>python</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@python_discussions",
-        "display_name": "Python Weekly"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/Asabeneh/30-Days-Of-Python",
-    "title": "GitHub - Asabeneh/30-Days-Of-Python: 30 days of Python programming challenge is a step-by-step guide to learn the Python programming language in 30 days. This challenge may take more than100 days, follow your own pace.",
-    "latest": "2023-03-05T09:24:53+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@python_discussions/109969951513363119",
-      "content": "<p>30 Days of Python</p><p><a href=\"https://github.com/Asabeneh/30-Days-Of-Python\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/Asabeneh/30-Days-Of</span><span class=\"invisible\">-Python</span></a></p><p>Discussions: <a href=\"https://discu.eu/q/https://github.com/Asabeneh/30-Days-Of-Python\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">discu.eu/q/https://github.com/</span><span class=\"invisible\">Asabeneh/30-Days-Of-Python</span></a></p><p><a href=\"https://mastodon.social/tags/programming\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>programming</span></a> <a href=\"https://mastodon.social/tags/python\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>python</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@python_discussions",
-        "display_name": "Python Weekly"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/coolbutuseless/deft",
-    "title": "GitHub - coolbutuseless/deft: R package providing C functions for creating/expanding data.frames from within C",
-    "latest": "2023-03-05T08:57:31+00:00",
-    "last_post": {
-      "url": "https://fosstodon.org/@coolbutuseless/109969056124195727",
-      "content": "<p>Introducing {deft} - code for creating data.frames within C and returning to user.</p><p>Benchmarks show creating totally within C can be *FAST*! </p><p>~100x faster than creating data.frames with tibble() or data.frame()</p><p><a href=\"https://github.com/coolbutuseless/deft\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/coolbutuseless/deft</span><span class=\"invisible\"></span></a></p><p>This is designed to be used as a 'LinkingTo' package, so that I can use these functions as part of a bigger project.</p><p><a href=\"https://fosstodon.org/tags/RStats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>RStats</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://fosstodon.org/@mdsumner",
-        "display_name": "mdsumner"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/coolbutuseless/deftly",
-    "title": "GitHub - coolbutuseless/deftly: Demonstration of using the C data.frame functions in the {deft} package.",
-    "latest": "2023-03-05T08:53:13+00:00",
-    "last_post": {
-      "url": "https://fosstodon.org/@coolbutuseless/109969688757624605",
-      "content": "<p>And I only figured out today how to properly(?)  call C code from one package in another package.</p><p>So I wrote {deftly} package as a reminder to myself how this works with:</p><p>* Set LinkingTo: deft<br>* Set Depends: deft<br>* <a href=\"https://fosstodon.org/tags/include\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>include</span></a> &lt;deft.h&gt;</p><p>And how to write a correct deft.h and exporting of C callables from {deft}'s init.c</p><p>All this came from studying how {systemfonts} package works.</p><p>{deftly} just imports and calls the C code from {deft}</p><p><a href=\"https://github.com/coolbutuseless/deftly\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/coolbutuseless/deft</span><span class=\"invisible\">ly</span></a></p><p><a href=\"https://fosstodon.org/tags/RStats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>RStats</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://fosstodon.org/@mdsumner",
-        "display_name": "mdsumner"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/rasbt/machine-learning-notes/blob/main/benchmark/pandas-pyarrow/pandas2-pyarrow.ipynb",
-    "title": "machine-learning-notes/pandas2-pyarrow.ipynb at main \u00b7 rasbt/machine-learning-notes",
-    "latest": "2023-03-05T08:10:25+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@SebRaschka/109966565029700277",
-      "content": "<p>I love Pandas! I've been using it ever since I started doing machine learning more than a decade ago. </p><p>Now that the Pandas 2.0 release candidate is out, I was just taking the new PyArrow backend for a test drive. It's a significant boost over the original NumPy backend. <br>For string manipulation, it even seems faster than polars.</p><p>Code for reference here: <br><a href=\"https://github.com/rasbt/machine-learning-notes/blob/main/benchmark/pandas-pyarrow/pandas2-pyarrow.ipynb\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/rasbt/machine-learn</span><span class=\"invisible\">ing-notes/blob/main/benchmark/pandas-pyarrow/pandas2-pyarrow.ipynb</span></a></p><p><a href=\"https://mastodon.social/tags/python\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>python</span></a> <a href=\"https://mastodon.social/tags/programming\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>programming</span></a> <a href=\"https://mastodon.social/tags/machinelearning\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>machinelearning</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://tech.lgbt/@jesper",
-        "display_name": "Jesper Dr.amsch :v_enby:"
-      },
-      {
-        "url": "https://mastodon.social/@SebRaschka",
-        "display_name": "Sebastian Raschka"
-      },
-      {
-        "url": "https://mas.to/@dpprdan",
-        "display_name": "Daniel Possenriede"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/jwyg/awesome-data-journalism/",
-    "title": "github.com/jwyg/awesome-data-j...",
-    "latest": "2023-03-05T07:43:45+00:00",
-    "last_post": {
-      "url": "https://post.lurk.org/@jwyg/109964908581130709",
-      "content": "<p>New guide to \"Finding Undocumented APIs\" by <span class=\"h-card\"><a href=\"https://mastodon.social/@Leonyin\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>Leonyin</span></a></span> at <span class=\"h-card\"><a href=\"https://mastodon.themarkup.org/@themarkup\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>themarkup</span></a></span> \u2013 looks useful for internet studies researchers as well as digital reporters!<br><a href=\"https://inspectelement.org/apis\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">inspectelement.org/apis</span><span class=\"invisible\"></span></a></p><p>Just added to this resource for our data journalism students at <span class=\"h-card\"><a href=\"https://hcommons.social/@kingsdh\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>kingsdh</span></a></span>: <a href=\"https://github.com/jwyg/awesome-data-journalism/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/jwyg/awesome-data-j</span><span class=\"invisible\">ournalism/</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://piaille.fr/@paulanomalie",
-        "display_name": "Paul"
-      },
-      {
-        "url": "https://mastodon.cloud/@thadk",
-        "display_name": ""
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/espnet/espnet",
-    "title": "GitHub - espnet/espnet: End-to-End Speech Processing Toolkit",
-    "latest": "2023-03-05T07:24:12+00:00",
-    "last_post": {
-      "url": "https://creative.ai/@arxiv_cl/109969476977961446",
-      "content": "<p>\ud83d\udcdd Leveraging Large Text Corpora for End-to-End Speech Summarization \ud83d\udcda</p><p>\"The first technique is to utilize a text-to-speech (TTS) system to generate synthesized speech, which is used for E2E SSum training with the text summary.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/espnet/espnet\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/espnet/espnet</span><span class=\"invisible\"></span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2303.00978v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2303.00978v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://creative.ai/@arxiv_cl",
-        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
       }
     ]
   }
