@@ -1,5 +1,204 @@
 [
   {
+    "link": "https://github.com/bbolker/bio4ae3/blob/main/Makefile#L26",
+    "title": "bio4ae3/Makefile at main \u00b7 bbolker/bio4ae3",
+    "latest": "2023-03-15T22:01:53+00:00",
+    "last_post": {
+      "url": "https://fediscience.org/@bbolker/109633216009794090",
+      "content": "<p>(2/n) in the past I've used `sed` in a Makefile flow for simple exclusion, e.g. <a href=\"https://github.com/bbolker/bio4ae3/blob/main/Makefile#L26\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/bbolker/bio4ae3/blo</span><span class=\"invisible\">b/main/Makefile#L26</span></a>, or a first pass with GPP &lt;<a href=\"https://github.com/logological/gpp\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/logological/gpp</span><span class=\"invisible\"></span></a>&gt; for more robust/extensive processing (e.g. <a href=\"https://github.com/bbolker/bio1m/blob/master/Makefile\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/bbolker/bio1m/blob/</span><span class=\"invisible\">master/Makefile</span></a>).  Is there something better/less clunky I should explore?</p>"
+    },
+    "people": [
+      {
+        "url": "https://fosstodon.org/@SherlockpHolmes",
+        "display_name": "Susan Holmes"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/logological/gpp",
+    "title": "https://github.com/logological/gpp",
+    "latest": "2023-03-15T22:01:53+00:00",
+    "last_post": {
+      "url": "https://fediscience.org/@bbolker/109633216009794090",
+      "content": "<p>(2/n) in the past I've used `sed` in a Makefile flow for simple exclusion, e.g. <a href=\"https://github.com/bbolker/bio4ae3/blob/main/Makefile#L26\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/bbolker/bio4ae3/blo</span><span class=\"invisible\">b/main/Makefile#L26</span></a>, or a first pass with GPP &lt;<a href=\"https://github.com/logological/gpp\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/logological/gpp</span><span class=\"invisible\"></span></a>&gt; for more robust/extensive processing (e.g. <a href=\"https://github.com/bbolker/bio1m/blob/master/Makefile\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/bbolker/bio1m/blob/</span><span class=\"invisible\">master/Makefile</span></a>).  Is there something better/less clunky I should explore?</p>"
+    },
+    "people": [
+      {
+        "url": "https://fosstodon.org/@SherlockpHolmes",
+        "display_name": "Susan Holmes"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/bbolker/bio1m/blob/master/Makefile",
+    "title": "github.com/bbolker/bio1m/blob/...",
+    "latest": "2023-03-15T22:01:53+00:00",
+    "last_post": {
+      "url": "https://fediscience.org/@bbolker/109633216009794090",
+      "content": "<p>(2/n) in the past I've used `sed` in a Makefile flow for simple exclusion, e.g. <a href=\"https://github.com/bbolker/bio4ae3/blob/main/Makefile#L26\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/bbolker/bio4ae3/blo</span><span class=\"invisible\">b/main/Makefile#L26</span></a>, or a first pass with GPP &lt;<a href=\"https://github.com/logological/gpp\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/logological/gpp</span><span class=\"invisible\"></span></a>&gt; for more robust/extensive processing (e.g. <a href=\"https://github.com/bbolker/bio1m/blob/master/Makefile\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/bbolker/bio1m/blob/</span><span class=\"invisible\">master/Makefile</span></a>).  Is there something better/less clunky I should explore?</p>"
+    },
+    "people": [
+      {
+        "url": "https://fosstodon.org/@SherlockpHolmes",
+        "display_name": "Susan Holmes"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/11ty/eleventy-plugin-webc/releases/tag/v0.9.4",
+    "title": "Release Eleventy WebC v0.9.4: 65% Faster \u00b7 11ty/eleventy-plugin-webc",
+    "latest": "2023-03-15T21:55:58+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@eleventy/110029514364983609",
+      "content": "<p>New release:</p><p>Eleventy WebC v0.9.4, now 65% faster!</p><p><a href=\"https://github.com/11ty/eleventy-plugin-webc/releases/tag/v0.9.4\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/11ty/eleventy-plugi</span><span class=\"invisible\">n-webc/releases/tag/v0.9.4</span></a></p><p>From a large sample WebC project:</p><p>Before:<br>&gt; Wrote 2621 files in 21.17 seconds (8.1ms each)</p><p>After:<br>&gt; Wrote 2621 files in 7.24 seconds (2.8ms each)</p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@autiomaa",
+        "display_name": "Daniel Schildt"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/eco4cast/neon4cast-example",
+    "title": "GitHub - eco4cast/neon4cast-example",
+    "latest": "2023-03-15T21:20:07+00:00",
+    "last_post": {
+      "url": "https://ecoevo.social/@cboettig/110028699910988168",
+      "content": "<p><span class=\"h-card\"><a href=\"https://ecoevo.social/@noamross\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>noamross</span></a></span> yup that makes total sense.  I think one action for building/pushing the image, another for running the workflow in the image.  Doesn't really matter then if those actions are in the same or different repos.  </p><p>Can also combine this with a devcontainer+Dockerfile for interactive use :-) </p><p>We've had good adoption of this with folks modifying the example in <a href=\"https://github.com/eco4cast/neon4cast-example\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/eco4cast/neon4cast-</span><span class=\"invisible\">example</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fosstodon.org/@mdsumner",
+        "display_name": "mdsumner"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/prajjwal1/autodial",
+    "title": "GitHub - prajjwal1/autodial",
+    "latest": "2023-03-15T21:18:57+00:00",
+    "last_post": {
+      "url": "https://creative.ai/@arxiv_cl/110029382438862749",
+      "content": "<p>\ud83d\udcdd AUTODIAL: Efficient Asynchronous Task-Oriented Dialogue Model \ud83d\udcda</p><p>\"AUTODIAL is a multi-task dialogue model with 4 parallel encoders and a multi-task decoder that can perform tasks such as dialogue act prediction, domain prediction, intent prediction and dialogue state tracking.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/prajjwal1/autodial\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/prajjwal1/autodial</span><span class=\"invisible\"></span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2303.06245v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2303.06245v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://creative.ai/@arxiv_cl",
+        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/obra/Youtube2Webpage",
+    "title": "GitHub - obra/Youtube2Webpage: I learn much better from text than from videos",
+    "latest": "2023-03-15T20:56:50+00:00",
+    "last_post": {
+      "url": "https://metasocial.com/@jesse/110028673740467398",
+      "content": "<p>My Youtube to webpage toy is already paying dividends.</p><p>ETA: <a href=\"https://github.com/obra/Youtube2Webpage\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/obra/Youtube2Webpag</span><span class=\"invisible\">e</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://hackers.town/@fbz",
+        "display_name": "fbz"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/tui-rs-revival/ratatui",
+    "title": "GitHub - tui-rs-revival/ratatui: tui-rs revival project",
+    "latest": "2023-03-15T20:25:02+00:00",
+    "last_post": {
+      "url": "https://die-partei.social/@hackernews/110029170462138390",
+      "content": "<p>Rust TUI Relaunching as Ratatui - <a href=\"https://github.com/tui-rs-revival/ratatui\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/tui-rs-revival/rata</span><span class=\"invisible\">tui</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://die-partei.social/@hackernews",
+        "display_name": "Hackernews"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/radiantearth/stac-browser",
+    "title": "GitHub - radiantearth/stac-browser: A full-fledged UI in Vue for browsing and searching static STAC catalogs and STAC APIs",
+    "latest": "2023-03-15T18:33:08+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@mmohr/110028472396787869",
+      "content": "<p>\ud83d\udce2 STAC Browser v3.0.0 RC1 has finally been released!</p><p>It's likely the most advanced STAC Web UI and has a lot of new features over v2, especially API support.</p><p>Please check it out and give feedback:<br><a href=\"https://github.com/radiantearth/stac-browser\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/radiantearth/stac-b</span><span class=\"invisible\">rowser</span></a></p><p>I'm collecting feedback for about a month and then I'll release 3.0.0 (final) with all bugs fixed that have been reported.</p>"
+    },
+    "people": [
+      {
+        "url": "https://fosstodon.org/@mdsumner",
+        "display_name": "mdsumner"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/setzer22/llama-rs/",
+    "title": "GitHub - setzer22/llama-rs: Run LLaMA inference on CPU, with Rust \ud83e\udd80\ud83d\ude80\ud83e\udd99",
+    "latest": "2023-03-15T18:12:16+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@compsci_discussions/110028648348932655",
+      "content": "<p>LLaMA-rs: A Rust port of llama.cpp for fast LLaMA inference on CPU</p><p><a href=\"https://github.com/setzer22/llama-rs/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/setzer22/llama-rs/</span><span class=\"invisible\"></span></a></p><p>Discussions: <a href=\"https://discu.eu/q/https://github.com/setzer22/llama-rs/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">discu.eu/q/https://github.com/</span><span class=\"invisible\">setzer22/llama-rs/</span></a></p><p><a href=\"https://mastodon.social/tags/compsci\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>compsci</span></a> <a href=\"https://mastodon.social/tags/machinelearning\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>machinelearning</span></a> <a href=\"https://mastodon.social/tags/programming\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>programming</span></a> <a href=\"https://mastodon.social/tags/rustlang\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rustlang</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@compsci_discussions",
+        "display_name": "Compsci Weekly"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/setzer22/llama-rs",
+    "title": "GitHub - setzer22/llama-rs: Run LLaMA inference on CPU, with Rust \ud83e\udd80\ud83d\ude80\ud83e\udd99",
+    "latest": "2023-03-15T17:55:02+00:00",
+    "last_post": {
+      "url": "https://die-partei.social/@hackernews/110028580610752613",
+      "content": "<p>Llama.rs \u2013 Rust port of llama.cpp for fast LLaMA inference on CPU - <a href=\"https://github.com/setzer22/llama-rs\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/setzer22/llama-rs</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://die-partei.social/@hackernews",
+        "display_name": "Hackernews"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/facebookresearch/llama/pull/73",
+    "title": "Save bandwidth by using a torrent to distribute more efficiently by ChristopherKing42 \u00b7 Pull Request #73 \u00b7 facebookresearch/llama",
+    "latest": "2023-03-15T17:46:04+00:00",
+    "last_post": {
+      "url": "https://fediscience.org/@drjohncliu/110028545332568164",
+      "content": "<p>How to download Meta's open-sourced LLaMa model weights: <br><a href=\"https://github.com/facebookresearch/llama/pull/73\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/facebookresearch/ll</span><span class=\"invisible\">ama/pull/73</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@igor",
+        "display_name": "Igor Brigadir"
+      },
+      {
+        "url": "https://fediscience.org/@drjohncliu",
+        "display_name": "John Chih Liu \u5289\u5586"
+      }
+    ]
+  },
+  {
+    "link": "https://gitlab.com/crossref/labs/lambda-api-proxy",
+    "title": "crossref / labs / lambda-api-proxy \u00b7 GitLab",
+    "latest": "2023-03-15T17:41:01+00:00",
+    "last_post": {
+      "url": "https://ravenation.club/@mpe/110028525515244813",
+      "content": "<p>It's all being developed in the open, here: <a href=\"https://gitlab.com/crossref/labs/lambda-api-proxy\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gitlab.com/crossref/labs/lambd</span><span class=\"invisible\">a-api-proxy</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://ravenation.club/@mpe",
+        "display_name": "Martin Paul Eve"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/nedbat/watchgha",
     "title": "GitHub - nedbat/watchgha: Live display of current GitHub action runs",
     "latest": "2023-03-15T08:45:12+00:00",
@@ -3077,205 +3276,6 @@
       {
         "url": "https://ciberlandia.pt/@villares",
         "display_name": "Alexandre B A Villares \ud83d\udc0d"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/edsu/diary#362023",
-    "title": "GitHub - edsu/diary: Silly GPT-3 experiment",
-    "latest": "2023-03-06T20:52:51+00:00",
-    "last_post": {
-      "url": "https://social.coop/@edsu/109978319010711859",
-      "content": "<p><span class=\"h-card\"><a href=\"https://mastodon.online/@dchud\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>dchud</span></a></span> I swapped out text-davinci-003 for gpt-3.5-turbo:</p><p><a href=\"https://github.com/edsu/diary#362023\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/edsu/diary#362023</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://social.coop/@edsu",
-        "display_name": "Ed Summers"
-      }
-    ]
-  },
-  {
-    "link": "https://gitlab.com/markstos/walk-potential/-/releases/v3.0.0",
-    "title": "v3.0.0 \u00b7 Mark Stosberg / walk-potential \u00b7 GitLab",
-    "latest": "2023-03-06T20:11:46+00:00",
-    "last_post": {
-      "url": "https://urbanists.social/@markstos/109977320989920949",
-      "content": "<p>v3.0 of my \"Walk Potential\" software has been released. This an <a href=\"https://urbanists.social/tags/UrbanPlanning\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>UrbanPlanning</span></a> <a href=\"https://urbanists.social/tags/mapping\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>mapping</span></a> tool used in planning to quantify the number of \"interesting\" places nearby to walk. Useful metric for demand to fix sidewalk network gaps.</p><p>Release notes: <a href=\"https://gitlab.com/markstos/walk-potential/-/releases/v3.0.0\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gitlab.com/markstos/walk-poten</span><span class=\"invisible\">tial/-/releases/v3.0.0</span></a></p><p>Docs: <a href=\"https://gitlab.com/markstos/walk-potential/-/blob/main/README.md\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gitlab.com/markstos/walk-poten</span><span class=\"invisible\">tial/-/blob/main/README.md</span></a></p><p>First reply with a boundary polygon for their city wins free Walk Potential analysis for that city.</p><p><a href=\"https://urbanists.social/tags/gis\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>gis</span></a> <a href=\"https://urbanists.social/tags/BloomingtonIN\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>BloomingtonIN</span></a> <a href=\"https://urbanists.social/tags/OpenStreetMap\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>OpenStreetMap</span></a> <a href=\"https://urbanists.social/tags/OpenTripPlanner\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>OpenTripPlanner</span></a> <a href=\"https://urbanists.social/tags/TurfJS\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>TurfJS</span></a> </p><p>Example Walk Potential Heatmap:</p>"
-    },
-    "people": [
-      {
-        "url": "https://datasci.social/@yy",
-        "display_name": "YY Ahn"
-      }
-    ]
-  },
-  {
-    "link": "https://gitlab.com/markstos/walk-potential/-/blob/main/README.md",
-    "title": "gitlab.com/markstos/walk-poten...",
-    "latest": "2023-03-06T20:11:46+00:00",
-    "last_post": {
-      "url": "https://urbanists.social/@markstos/109977320989920949",
-      "content": "<p>v3.0 of my \"Walk Potential\" software has been released. This an <a href=\"https://urbanists.social/tags/UrbanPlanning\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>UrbanPlanning</span></a> <a href=\"https://urbanists.social/tags/mapping\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>mapping</span></a> tool used in planning to quantify the number of \"interesting\" places nearby to walk. Useful metric for demand to fix sidewalk network gaps.</p><p>Release notes: <a href=\"https://gitlab.com/markstos/walk-potential/-/releases/v3.0.0\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gitlab.com/markstos/walk-poten</span><span class=\"invisible\">tial/-/releases/v3.0.0</span></a></p><p>Docs: <a href=\"https://gitlab.com/markstos/walk-potential/-/blob/main/README.md\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gitlab.com/markstos/walk-poten</span><span class=\"invisible\">tial/-/blob/main/README.md</span></a></p><p>First reply with a boundary polygon for their city wins free Walk Potential analysis for that city.</p><p><a href=\"https://urbanists.social/tags/gis\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>gis</span></a> <a href=\"https://urbanists.social/tags/BloomingtonIN\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>BloomingtonIN</span></a> <a href=\"https://urbanists.social/tags/OpenStreetMap\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>OpenStreetMap</span></a> <a href=\"https://urbanists.social/tags/OpenTripPlanner\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>OpenTripPlanner</span></a> <a href=\"https://urbanists.social/tags/TurfJS\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>TurfJS</span></a> </p><p>Example Walk Potential Heatmap:</p>"
-    },
-    "people": [
-      {
-        "url": "https://datasci.social/@yy",
-        "display_name": "YY Ahn"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/palewire/moneyinpolitics.wtf/issues/new?assignees=palewire&amp;labels=enhancement&amp;template=request-a-word.yaml&amp;title=Request+a+word",
-    "title": "github.com/palewire/moneyinpol...",
-    "latest": "2023-03-06T19:45:07+00:00",
-    "last_post": {
-      "url": "https://mastodon.palewi.re/@palewire/109973266874276033",
-      "content": "<p>Say hello to <a href=\"https://moneyinpolitics.wtf\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">moneyinpolitics.wtf</span><span class=\"invisible\"></span></a></p><p>Launched this weekend at <a href=\"https://mastodon.palewi.re/tags/nicar23\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>nicar23</span></a>, it aims to be the biggest dictionary of campaign-finance jargon.</p><p>It's also open source. Check it out. Then join the cause!</p><p>Request a word: <a href=\"https://github.com/palewire/moneyinpolitics.wtf/issues/new?assignees=palewire&amp;labels=enhancement&amp;template=request-a-word.yaml&amp;title=Request+a+word\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/palewire/moneyinpol</span><span class=\"invisible\">itics.wtf/issues/new?assignees=palewire&amp;labels=enhancement&amp;template=request-a-word.yaml&amp;title=Request+a+word</span></a></p><p>Add a word: <a href=\"https://github.com/palewire/moneyinpolitics.wtf/issues/new?assignees=palewire&amp;labels=enhancement&amp;template=add-a-word.yaml&amp;title=Add+a+word\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/palewire/moneyinpol</span><span class=\"invisible\">itics.wtf/issues/new?assignees=palewire&amp;labels=enhancement&amp;template=add-a-word.yaml&amp;title=Add+a+word</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@jonkeegan",
-        "display_name": "Jon Keegan"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/palewire/moneyinpolitics.wtf/issues/new?assignees=palewire&amp;labels=enhancement&amp;template=add-a-word.yaml&amp;title=Add+a+word",
-    "title": "github.com/palewire/moneyinpol...",
-    "latest": "2023-03-06T19:45:07+00:00",
-    "last_post": {
-      "url": "https://mastodon.palewi.re/@palewire/109973266874276033",
-      "content": "<p>Say hello to <a href=\"https://moneyinpolitics.wtf\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">moneyinpolitics.wtf</span><span class=\"invisible\"></span></a></p><p>Launched this weekend at <a href=\"https://mastodon.palewi.re/tags/nicar23\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>nicar23</span></a>, it aims to be the biggest dictionary of campaign-finance jargon.</p><p>It's also open source. Check it out. Then join the cause!</p><p>Request a word: <a href=\"https://github.com/palewire/moneyinpolitics.wtf/issues/new?assignees=palewire&amp;labels=enhancement&amp;template=request-a-word.yaml&amp;title=Request+a+word\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/palewire/moneyinpol</span><span class=\"invisible\">itics.wtf/issues/new?assignees=palewire&amp;labels=enhancement&amp;template=request-a-word.yaml&amp;title=Request+a+word</span></a></p><p>Add a word: <a href=\"https://github.com/palewire/moneyinpolitics.wtf/issues/new?assignees=palewire&amp;labels=enhancement&amp;template=add-a-word.yaml&amp;title=Add+a+word\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/palewire/moneyinpol</span><span class=\"invisible\">itics.wtf/issues/new?assignees=palewire&amp;labels=enhancement&amp;template=add-a-word.yaml&amp;title=Add+a+word</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@jonkeegan",
-        "display_name": "Jon Keegan"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/alan-turing-institute/the-turing-way/issues/2988",
-    "title": "github.com/alan-turing-institu...",
-    "latest": "2023-03-06T19:37:42+00:00",
-    "last_post": {
-      "url": "https://fosstodon.org/@turingway/109978023500325520",
-      "content": "<p>Who can apply to Book Dash? \ud83d\udcda \ud83c\udf2c\ufe0f </p><p>Everyone and all skills are welcome! However, we do recommend that you know a bit more about us and what we\u2019re all about before applying. Join a Collaboration Cafe (we are running an open Q&amp;A about Book Dash at the 15 March cafe!), get started with ongoing discussions on Github, and/or join us on slack! </p><p>Collab Cafe: <a href=\"https://hackmd.io/@turingway/collaboration-cafe\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">hackmd.io/@turingway/collabora</span><span class=\"invisible\">tion-cafe</span></a><br>Github: <a href=\"https://github.com/alan-turing-institute/the-turing-way/issues/2988\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/alan-turing-institu</span><span class=\"invisible\">te/the-turing-way/issues/2988</span></a><br>Slack: <a href=\"https://tinyurl.com/jointuringwayslack\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">tinyurl.com/jointuringwayslack</span><span class=\"invisible\"></span></a></p><p><a href=\"https://fosstodon.org/tags/nomoa\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>nomoa</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://fosstodon.org/@turingway",
-        "display_name": "The Turing Way Project"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/dagster-io/dagster/discussions/12510",
-    "title": "[RFC] Ergonomic improvements coming to the config and resources systems \u00b7 Discussion #12510 \u00b7 dagster-io/dagster",
-    "latest": "2023-03-06T19:33:35+00:00",
-    "last_post": {
-      "url": "https://social.coop/@ZaneSelvans/109926049827902627",
-      "content": "<p>Nice to see <span class=\"h-card\"><a href=\"https://data-folks.masto.host/@dagster\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>dagster</span></a></span> moving toward using <span class=\"h-card\"><a href=\"https://fosstodon.org/@samuelcolvin\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>samuelcolvin</span></a></span>'s <span class=\"h-card\"><a href=\"https://fosstodon.org/@pydantic\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>pydantic</span></a></span> for typing resources and config. Will definitely reduce the number of bespoke new structures that we have to learn, and let us re-use more of our existing settings &amp; configurations:</p><p><a href=\"https://github.com/dagster-io/dagster/discussions/12510\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/dagster-io/dagster/</span><span class=\"invisible\">discussions/12510</span></a></p><p><a href=\"https://social.coop/tags/DataEngineering\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DataEngineering</span></a> <a href=\"https://social.coop/tags/Python\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Python</span></a> <a href=\"https://social.coop/tags/PyData\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>PyData</span></a> <a href=\"https://social.coop/tags/Pydantic\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Pydantic</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://data-folks.masto.host/@dagster",
-        "display_name": "Dagster"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/camertron/rux",
-    "title": "GitHub - camertron/rux: A jsx-inspired way to render view components in Ruby.",
-    "latest": "2023-03-06T18:55:02+00:00",
-    "last_post": {
-      "url": "https://die-partei.social/@hackernews/109977855767868770",
-      "content": "<p>Rux: A JSX-inspired way to render view components in Ruby - <a href=\"https://github.com/camertron/rux\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/camertron/rux</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://die-partei.social/@hackernews",
-        "display_name": "Hackernews"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/bprusinowski/plotteus",
-    "title": "GitHub - bprusinowski/plotteus: \ud83e\udd8b Plotteus is a JavaScript data visualization library designed to help you tell better stories.",
-    "latest": "2023-03-06T18:41:12+00:00",
-    "last_post": {
-      "url": "https://vis.social/@neocarto/109947477759220779",
-      "content": "<p>Plotteus, a new JS library to design chart transitions.<br>See <a href=\"https://github.com/bprusinowski/plotteus\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/bprusinowski/plotte</span><span class=\"invisible\">us</span></a>, <a href=\"https://www.plotteus.dev/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">plotteus.dev/</span><span class=\"invisible\"></span></a> &amp; <a href=\"https://observablehq.com/@bartok32/hello-plotteus\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">observablehq.com/@bartok32/hel</span><span class=\"invisible\">lo-plotteus</span></a>.<br>By Bartosz Prusinowski</p>"
-    },
-    "people": [
-      {
-        "url": "https://vis.social/@seblammers",
-        "display_name": "Sebastian Lammers"
-      }
-    ]
-  },
-  {
-    "link": "https://observablehq.com/@bartok32/hello-plotteus",
-    "title": "observablehq.com/@bartok32/hel...",
-    "latest": "2023-03-06T18:41:12+00:00",
-    "last_post": {
-      "url": "https://vis.social/@neocarto/109947477759220779",
-      "content": "<p>Plotteus, a new JS library to design chart transitions.<br>See <a href=\"https://github.com/bprusinowski/plotteus\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/bprusinowski/plotte</span><span class=\"invisible\">us</span></a>, <a href=\"https://www.plotteus.dev/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">plotteus.dev/</span><span class=\"invisible\"></span></a> &amp; <a href=\"https://observablehq.com/@bartok32/hello-plotteus\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">observablehq.com/@bartok32/hel</span><span class=\"invisible\">lo-plotteus</span></a>.<br>By Bartosz Prusinowski</p>"
-    },
-    "people": [
-      {
-        "url": "https://vis.social/@seblammers",
-        "display_name": "Sebastian Lammers"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/apache/arrow/issues/",
-    "title": "Issues \u00b7 apache/arrow",
-    "latest": "2023-03-06T18:09:30+00:00",
-    "last_post": {
-      "url": "https://fosstodon.org/@jonkeane/109977676698141873",
-      "content": "<p><span class=\"h-card\"><a href=\"https://bayes.club/@akhilrao\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>akhilrao</span></a></span> aaah yeah, that sounds  about right. The comparisons _should_ work, but you might need to line up the types just right to get it to work (and even then it\u2019s possible it might not yet be implemented).</p><p>Would you be willing to send a small repro to <a href=\"https://github.com/apache/arrow/issues/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/apache/arrow/issues</span><span class=\"invisible\">/</span></a> ?</p>"
-    },
-    "people": [
-      {
-        "url": "https://fosstodon.org/@jonkeane",
-        "display_name": "jonkeane"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/quarto-dev/quarto/issues/4",
-    "title": "Ctrl+Enter executes R and Python code but not bash \u00b7 Issue #4 \u00b7 quarto-dev/quarto",
-    "latest": "2023-03-06T17:52:05+00:00",
-    "last_post": {
-      "url": "https://fosstodon.org/@robinlovelace/109839745706205613",
-      "content": "<p>Exciting update for anyone using <a href=\"https://fosstodon.org/tags/quarto\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>quarto</span></a>: The VSCode plugin by @posit_pbc now allows you to execute code written in any language with the same simple shortcut: Ctrl+Enter. So nice. So multi-lingual! Details: <a href=\"https://github.com/quarto-dev/quarto/issues/4\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/quarto-dev/quarto/i</span><span class=\"invisible\">ssues/4</span></a> <a href=\"https://fosstodon.org/tags/datascience\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>datascience</span></a> <a href=\"https://fosstodon.org/tags/rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rstats</span></a> <a href=\"https://fosstodon.org/tags/python\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>python</span></a> <a href=\"https://fosstodon.org/tags/opensource\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>opensource</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@JoranJongerling",
-        "display_name": "Joran"
-      },
-      {
-        "url": "https://fosstodon.org/@underdarkGIS",
-        "display_name": "Anita Graser \ud83c\uddea\ud83c\uddfa\ud83c\uddfa\ud83c\udde6"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/gautamkrishnar/keepalive-workflow",
-    "title": "GitHub - gautamkrishnar/keepalive-workflow: GitHub action to prevent GitHub from suspending your cronjob based triggers due to repository inactivity",
-    "latest": "2023-03-06T17:49:41+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@fgregg/109977342126287128",
-      "content": "<p><span class=\"h-card\"><a href=\"https://toots.schwanksta.com/@ken\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>ken</span></a></span> i use this guy. <a href=\"https://github.com/gautamkrishnar/keepalive-workflow\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/gautamkrishnar/keep</span><span class=\"invisible\">alive-workflow</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://toots.schwanksta.com/@ken",
-        "display_name": "Ken Schwencke"
       }
     ]
   }
