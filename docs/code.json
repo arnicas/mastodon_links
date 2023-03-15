@@ -1,5 +1,191 @@
 [
   {
+    "link": "https://github.com/nedbat/watchgha",
+    "title": "GitHub - nedbat/watchgha: Live display of current GitHub action runs",
+    "latest": "2023-03-15T08:45:12+00:00",
+    "last_post": {
+      "url": "https://hachyderm.io/@nedbat/110018545718864226",
+      "content": "<p>I didn't like the way \"gh run watch\" worked, so I made my own: <a href=\"https://github.com/nedbat/watchgha\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/nedbat/watchgha</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@willmcgugan",
+        "display_name": "Will McGugan"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/treyhunner/http-tui",
+    "title": "GitHub - treyhunner/http-tui: HTTP API Client TUI",
+    "latest": "2023-03-15T08:45:04+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@treyhunner/110017572994412798",
+      "content": "<p>I started a new project over the weekend, partly as an excuse to try out Textual.</p><p>It's a visual HTTP client, like Insomnia or Postman, but in your terminal.</p><p>It can't (yet) customize request headers or request body, but it's good enough for 80% of the examples I'll need to show when teaching DRF in my trainings over the next few months.</p><p><a href=\"https://github.com/treyhunner/http-tui\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/treyhunner/http-tui</span><span class=\"invisible\"></span></a></p><p><a href=\"https://mastodon.social/tags/projects\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>projects</span></a> <a href=\"https://mastodon.social/tags/textual\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>textual</span></a> <a href=\"https://mastodon.social/tags/python\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>python</span></a> <a href=\"https://mastodon.social/tags/rest\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rest</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@willmcgugan",
+        "display_name": "Will McGugan"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/stars/elipousson/lists/spatial-data-workshops",
+    "title": "elipousson's list / \ud83d\udee0\ufe0f spatial data workshops \ud83d\udce6",
+    "latest": "2023-03-15T08:44:27+00:00",
+    "last_post": {
+      "url": "https://dads.cool/@elipousson/110024279983816641",
+      "content": "<p>Just added a few new items to my GitHub list of spatial data workshops \ud83d\udc49\ud83c\udffc<a href=\"https://github.com/stars/elipousson/lists/spatial-data-workshops\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/stars/elipousson/li</span><span class=\"invisible\">sts/spatial-data-workshops</span></a></p><p>There are some neat resources on this list IMHO. Suggested additions are welcome. <a href=\"https://dads.cool/tags/gischat\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>gischat</span></a> <a href=\"https://dads.cool/tags/rspatial\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rspatial</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fosstodon.org/@mdsumner",
+        "display_name": "mdsumner"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/coatless/quarto-webr",
+    "title": "GitHub - coatless/quarto-webr: Quarto extension to embed webr for html documents",
+    "latest": "2023-03-15T08:19:30+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@coatless/110007038832140945",
+      "content": "<p>Add code interactivity to your <a href=\"https://mastodon.social/tags/rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rstats</span></a> code cells using the `quarto-webr` extension! Great for creating explorable explanations and unique active learning experiences without requiring a server!</p><p><a href=\"https://github.com/coatless/quarto-webr\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/coatless/quarto-web</span><span class=\"invisible\">r</span></a></p><p><a href=\"https://mastodon.social/tags/quarto\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>quarto</span></a> <a href=\"https://mastodon.social/tags/rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rstats</span></a> <a href=\"https://mastodon.social/tags/webr\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>webr</span></a> <a href=\"https://mastodon.social/tags/wasm\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>wasm</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fosstodon.org/@ivelasq3",
+        "display_name": "Isabella Vel\u00e1squez :rstats:"
+      },
+      {
+        "url": "https://bbs.crumplab.com/@MattCrump",
+        "display_name": "Matt Crump"
+      },
+      {
+        "url": "https://fosstodon.org/@mattdray",
+        "display_name": "Matt Dray"
+      },
+      {
+        "url": "https://mastodon.social/@JoranJongerling",
+        "display_name": "Joran"
+      },
+      {
+        "url": "https://fosstodon.org/@brodriguesco",
+        "display_name": "Bruno Rodrigues :rstats: :tux:"
+      },
+      {
+        "url": "https://fediscience.org/@andrew",
+        "display_name": "Andrew Heiss :rstats:"
+      },
+      {
+        "url": "https://mastodon.social/@hrbrmstr",
+        "display_name": "boB Rudis \ud83c\uddfa\ud83c\udde6"
+      },
+      {
+        "url": "https://fosstodon.org/@SherlockpHolmes",
+        "display_name": "Susan Holmes"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/apify/apify-sdk-python",
+    "title": "GitHub - apify/apify-sdk-python: The Apify SDK for Python is the official library for creating Apify Actors in Python. It provides useful features like actor lifecycle management, local storage emulation, and actor event handling.",
+    "latest": "2023-03-15T06:11:13+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@python_discussions/110025813067974223",
+      "content": "<p>Build and run your Python web scrapers in the cloud with Apify SDK for Python</p><p><a href=\"https://github.com/apify/apify-sdk-python\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/apify/apify-sdk-pyt</span><span class=\"invisible\">hon</span></a></p><p>Discussions: <a href=\"https://discu.eu/q/https://github.com/apify/apify-sdk-python\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">discu.eu/q/https://github.com/</span><span class=\"invisible\">apify/apify-sdk-python</span></a></p><p><a href=\"https://mastodon.social/tags/programming\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>programming</span></a> <a href=\"https://mastodon.social/tags/python\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>python</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@python_discussions",
+        "display_name": "Python Weekly"
+      }
+    ]
+  },
+  {
+    "link": "https://gist.github.com/ayman/01ad46f71edb7a833bfe247268b65b49",
+    "title": "Load and config Github Copilot for Emacs.",
+    "latest": "2023-03-15T03:11:24+00:00",
+    "last_post": {
+      "url": "https://hci.social/@ayman/110024248498710009",
+      "content": "<p>What do y'all think about Copilot?  </p><p>I got Github Copilot in Emacs thanks to <span class=\"h-card\"><a href=\"https://toot.kra.hn/@robert\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>robert</span></a></span> (<a href=\"https://gist.github.com/ayman/01ad46f71edb7a833bfe247268b65b49\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gist.github.com/ayman/01ad46f7</span><span class=\"invisible\">1edb7a833bfe247268b65b49</span></a> wrapped into use-package).  As someone who never liked popup function name completion, I'm not digging AI completion (or theft depending on how you look at it).</p>"
+    },
+    "people": [
+      {
+        "url": "https://hci.social/@andresmh",
+        "display_name": "Andr\u00e9s Monroy-Hern\u00e1ndez"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/stevana/elastically-scalable-thread-pools#elastically-scalable-thread-pools",
+    "title": "GitHub - stevana/elastically-scalable-thread-pools: An experiment in controlling the size of a thread pool using a PID controller.",
+    "latest": "2023-03-15T02:12:10+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@haskell_discussions/110022038210414787",
+      "content": "<p>An experiment in elastically scaling a thread pool using a PID controller</p><p><a href=\"https://github.com/stevana/elastically-scalable-thread-pools#elastically-scalable-thread-pools\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/stevana/elastically</span><span class=\"invisible\">-scalable-thread-pools#elastically-scalable-thread-pools</span></a></p><p>Discussions: <a href=\"https://discu.eu/q/https://github.com/stevana/elastically-scalable-thread-pools%23elastically-scalable-thread-pools\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">discu.eu/q/https://github.com/</span><span class=\"invisible\">stevana/elastically-scalable-thread-pools%23elastically-scalable-thread-pools</span></a></p><p><a href=\"https://mastodon.social/tags/compsci\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>compsci</span></a> <a href=\"https://mastodon.social/tags/distributed\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>distributed</span></a> <a href=\"https://mastodon.social/tags/haskell\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>haskell</span></a> <a href=\"https://mastodon.social/tags/programming\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>programming</span></a> <a href=\"https://mastodon.social/tags/scaling\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>scaling</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@compsci_discussions",
+        "display_name": "Compsci Weekly"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/AlignmentResearch/tuned-lens",
+    "title": "GitHub - AlignmentResearch/tuned-lens: Tools for understanding how transformer predictions are built layer-by-layer",
+    "latest": "2023-03-15T01:54:48+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@aran/110024804796769803",
+      "content": "<p>Eliciting Latent Predictions from Transformers with the Tuned Lens</p><p>Analyzes transformers from the perspective of iterative inference, seeking to understand how model predictions are refined layer by layer.</p><p>repo: <a href=\"https://github.com/AlignmentResearch/tuned-lens\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/AlignmentResearch/t</span><span class=\"invisible\">uned-lens</span></a><br>abs: <a href=\"https://arxiv.org/abs/2303.08112\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2303.08112</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@aran",
+        "display_name": "Aran Komatsuzaki"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/huggingface/text-generation-inference",
+    "title": "github.com/huggingface/text-ge...",
+    "latest": "2023-03-15T01:06:59+00:00",
+    "last_post": {
+      "url": "https://dair-community.social/@meg/110017554335522145",
+      "content": "<p>NEXT ethics-relevant thingie I'm excited about is new work from <br><span class=\"h-card\"><a href=\"https://sigmoid.social/@tomgoldstein\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>tomgoldstein</span></a></span>  and crew: WATERMARKING Language Model output. This helps to AUTOMATICALLY DETECT language model output, amongst other things. \ud83d\ude0d<br>Check out their demo here!!<br><a href=\"https://huggingface.co/spaces/tomg-group-umd/lm-watermarking\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">huggingface.co/spaces/tomg-gro</span><span class=\"invisible\">up-umd/lm-watermarking</span></a></p><p>And supported within Hugging Face infrastructure! \ud83e\udd17 <a href=\"https://github.com/huggingface/text-generation-inference\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/huggingface/text-ge</span><span class=\"invisible\">neration-inference</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://dair-community.social/@meg",
+        "display_name": "Margaret Mitchell"
+      },
+      {
+        "url": "https://mastodon.social/@mmitchell_ai",
+        "display_name": "mmitchell_ai"
+      },
+      {
+        "url": "https://wandering.shop/@minxdragon",
+        "display_name": "J. Rosenbaum (they/them)"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/tweetback",
+    "title": "tweetback",
+    "latest": "2023-03-15T01:04:17+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@box464/110024100944452487",
+      "content": "<p>Is anyone aware of a repo similar to Tweetback that uses your Facebook archive data to create your own static site of post history?  Boost if you want to know, too!</p><p><a href=\"https://github.com/tweetback\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/tweetback</span><span class=\"invisible\"></span></a> </p><p><a href=\"https://mastodon.social/tags/OwnYourData\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>OwnYourData</span></a> <a href=\"https://mastodon.social/tags/IndieWeb\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>IndieWeb</span></a> <a href=\"https://mastodon.social/tags/Facebook\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Facebook</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://hcommons.social/@librarifran",
+        "display_name": "franny gaede"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/blogmywiki/ZXSpectrum/tree/main/fonts/inline",
     "title": "ZXSpectrum/fonts/inline at main \u00b7 blogmywiki/ZXSpectrum",
     "latest": "2023-03-14T21:31:47+00:00",
@@ -460,25 +646,6 @@
     ]
   },
   {
-    "link": "https://github.com/huggingface/text-generation-inference",
-    "title": "github.com/huggingface/text-ge...",
-    "latest": "2023-03-13T19:11:33+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@mmitchell_ai/110017556877900814",
-      "content": "<p>NEXT ethics-relevant thingie I'm excited about is new work from <br><span class=\"h-card\"><a href=\"https://sigmoid.social/@tomgoldstein\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>tomgoldstein</span></a></span>  and crew: WATERMARKING Language Model output. This helps to AUTOMATICALLY DETECT language model output, amongst other things. \ud83d\ude0d<br>Check out their demo here!!<br><a href=\"https://huggingface.co/spaces/tomg-group-umd/lm-watermarking\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">huggingface.co/spaces/tomg-gro</span><span class=\"invisible\">up-umd/lm-watermarking</span></a></p><p>And supported within Hugging Face infrastructure! \ud83e\udd17 <a href=\"https://github.com/huggingface/text-generation-inference\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/huggingface/text-ge</span><span class=\"invisible\">neration-inference</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://dair-community.social/@meg",
-        "display_name": "Margaret Mitchell"
-      },
-      {
-        "url": "https://mastodon.social/@mmitchell_ai",
-        "display_name": "mmitchell_ai"
-      }
-    ]
-  },
-  {
     "link": "https://github.com/mcaceresb/stata-parquet",
     "title": "github.com/mcaceresb/stata-par...",
     "latest": "2023-03-13T18:43:46+00:00",
@@ -592,45 +759,6 @@
       {
         "url": "https://creative.ai/@arxiv_cl",
         "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/coatless/quarto-webr",
-    "title": "GitHub - coatless/quarto-webr: Quarto extension to embed webr for html documents",
-    "latest": "2023-03-13T07:05:14+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@coatless/110007038832140945",
-      "content": "<p>Add code interactivity to your <a href=\"https://mastodon.social/tags/rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rstats</span></a> code cells using the `quarto-webr` extension! Great for creating explorable explanations and unique active learning experiences without requiring a server!</p><p><a href=\"https://github.com/coatless/quarto-webr\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/coatless/quarto-web</span><span class=\"invisible\">r</span></a></p><p><a href=\"https://mastodon.social/tags/quarto\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>quarto</span></a> <a href=\"https://mastodon.social/tags/rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rstats</span></a> <a href=\"https://mastodon.social/tags/webr\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>webr</span></a> <a href=\"https://mastodon.social/tags/wasm\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>wasm</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://fosstodon.org/@ivelasq3",
-        "display_name": "Isabella Vel\u00e1squez :rstats:"
-      },
-      {
-        "url": "https://bbs.crumplab.com/@MattCrump",
-        "display_name": "Matt Crump"
-      },
-      {
-        "url": "https://fosstodon.org/@mattdray",
-        "display_name": "Matt Dray"
-      },
-      {
-        "url": "https://mastodon.social/@JoranJongerling",
-        "display_name": "Joran"
-      },
-      {
-        "url": "https://fosstodon.org/@brodriguesco",
-        "display_name": "Bruno Rodrigues :rstats: :tux:"
-      },
-      {
-        "url": "https://fediscience.org/@andrew",
-        "display_name": "Andrew Heiss :rstats:"
-      },
-      {
-        "url": "https://mastodon.social/@hrbrmstr",
-        "display_name": "boB Rudis \ud83c\uddfa\ud83c\udde6"
       }
     ]
   },
@@ -3148,126 +3276,6 @@
       {
         "url": "https://toots.schwanksta.com/@ken",
         "display_name": "Ken Schwencke"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/hrbrmstr/hello-plotteus",
-    "title": "GitHub - hrbrmstr/hello-plotteus: \ud83d\udcc9 A Quarto R + OJS notebook to show how to wrangle data in R to pass to the Plotteus library.",
-    "latest": "2023-03-06T17:43:05+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@hrbrmstr/109977572808213061",
-      "content": "<p><span class=\"h-card\"><a href=\"https://vis.social/@observablehq\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>observablehq</span></a></span> <span class=\"h-card\"><a href=\"https://fosstodon.org/@smach\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>smach</span></a></span> This is now also on GH \u2014&nbsp;which, unlike the bird site \u2014 is not tossing API errors for its own services. Well, at least not _today_.</p><p><a href=\"https://github.com/hrbrmstr/hello-plotteus\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/hrbrmstr/hello-plot</span><span class=\"invisible\">teus</span></a></p><p>Drop issues with q's how to do things re: R/OJS/Plotteus if you run into issues.</p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@hrbrmstr",
-        "display_name": "boB Rudis \ud83c\uddfa\ud83c\udde6"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/lionel-/codegrip",
-    "title": "GitHub - lionel-/codegrip: Reshaping and navigation commands for R code",
-    "latest": "2023-03-06T09:25:17+00:00",
-    "last_post": {
-      "url": "https://genomic.social/@datascience/109975516022033417",
-      "content": "<p>Handy RStudio addins for reshaping and navigating in code: <a href=\"https://github.com/lionel-/codegrip\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/lionel-/codegrip</span><span class=\"invisible\"></span></a> <a href=\"https://genomic.social/tags/rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rstats</span></a> <a href=\"https://genomic.social/tags/rstudio\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rstudio</span></a> <a href=\"https://floss.social/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">floss.social/</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://fosstodon.org/@milesmcbain",
-        "display_name": "MilesMcBain"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/pallets/werkzeug/pull/2608",
-    "title": "replace calls to `werkzeug.urls` with `urllib.parse` by davidism \u00b7 Pull Request #2608 \u00b7 pallets/werkzeug",
-    "latest": "2023-03-06T08:40:24+00:00",
-    "last_post": {
-      "url": "https://mas.to/@davidism/109959986694245388",
-      "content": "<p>Last year at PyCon US 2022, <span class=\"h-card\"><a href=\"https://fosstodon.org/@tonybaloney\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>tonybaloney</span></a></span> ran a basic benchmark of Flask. I finally got around to it, and achieved a \u2728  35% \u2728  speedup to routing and environ processing.</p><p>Due to Python 2/3, Werkzeug had its own modified copy of `urlparse`/`urllib.parse`, with a lot of unnecessary encoding/decoding due to str/bytes support. I finally replaced that with the standard library, and got a huge speed boost.</p><p><a href=\"https://github.com/pallets/werkzeug/pull/2608\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/pallets/werkzeug/pu</span><span class=\"invisible\">ll/2608</span></a></p><p><a href=\"https://mas.to/tags/Python\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Python</span></a> <a href=\"https://mas.to/tags/Flask\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Flask</span></a> <a href=\"https://mas.to/tags/PythonFlask\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>PythonFlask</span></a> <a href=\"https://mas.to/tags/PythonWerkzeug\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>PythonWerkzeug</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://fosstodon.org/@tonybaloney",
-        "display_name": "Anthony Shaw :python:"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/sibozhang/Text2Video",
-    "title": "GitHub - sibozhang/Text2Video: ICASSP 2022: \"Text2Video: text-driven talking-head video synthesis with phonetic dictionary\".",
-    "latest": "2023-03-06T08:31:10+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@compsci_discussions/109975402607258886",
-      "content": "<p>[D] Is there a new SOTA for text-to-talking-head generation?</p><p><a href=\"https://github.com/sibozhang/Text2Video\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/sibozhang/Text2Vide</span><span class=\"invisible\">o</span></a></p><p>Discussions: <a href=\"https://discu.eu/q/https://github.com/sibozhang/Text2Video\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">discu.eu/q/https://github.com/</span><span class=\"invisible\">sibozhang/Text2Video</span></a></p><p><a href=\"https://mastodon.social/tags/compsci\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>compsci</span></a> <a href=\"https://mastodon.social/tags/machinelearning\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>machinelearning</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@compsci_discussions",
-        "display_name": "Compsci Weekly"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/DavisVaughan/cexport",
-    "title": "GitHub - DavisVaughan/cexport: What the Package Does (One Line, Title Case)",
-    "latest": "2023-03-06T07:27:57+00:00",
-    "last_post": {
-      "url": "https://fosstodon.org/@davis/109972748718906768",
-      "content": "<p><span class=\"h-card\"><a href=\"https://fosstodon.org/@coolbutuseless\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>coolbutuseless</span></a></span> you may also like <a href=\"https://github.com/DavisVaughan/cexport\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/DavisVaughan/cexpor</span><span class=\"invisible\">t</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://fosstodon.org/@mdsumner",
-        "display_name": "mdsumner"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/jgm/pandoc/releases/tag/3.1.1",
-    "title": "Release pandoc 3.1.1 \u00b7 jgm/pandoc",
-    "latest": "2023-03-06T07:12:09+00:00",
-    "last_post": {
-      "url": "https://fosstodon.org/@pandoc/109975091936099392",
-      "content": "<p>\ud83c\udd95 Pandoc 3.1.1 is out! Mostly this is a bugfix release.  There are two changes to the Lua API:<br>- New function pandoc.system.cputime<br>- New module pandoc.json for JSON conversion</p><p>Thanks to all who contributed, especially new contributors Miko\u0142aj Machowski, Morgan Willcock, Pavol Otto, and arcnmx.</p><p><a href=\"https://github.com/jgm/pandoc/releases/tag/3.1.1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/jgm/pandoc/releases</span><span class=\"invisible\">/tag/3.1.1</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://fosstodon.org/@pandoc",
-        "display_name": "pandoc"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/amazon-science/alexa-arena",
-    "title": "GitHub - amazon-science/alexa-arena",
-    "latest": "2023-03-06T05:52:52+00:00",
-    "last_post": {
-      "url": "https://sigmoid.social/@aran/109974780118492485",
-      "content": "<p>Alexa Arena: A User-Centric Interactive Platform for Embodied AI</p><p>repo: <a href=\"https://github.com/amazon-science/alexa-arena\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/amazon-science/alex</span><span class=\"invisible\">a-arena</span></a><br>abs: <a href=\"https://arxiv.org/abs/2303.01586\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2303.01586</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://sigmoid.social/@aran",
-        "display_name": "Aran Komatsuzaki"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/facebookresearch/FFCV-SSL",
-    "title": "GitHub - facebookresearch/FFCV-SSL: FFCV-SSL Fast Forward Computer Vision for Self-Supervised Learning.",
-    "latest": "2023-03-06T05:52:48+00:00",
-    "last_post": {
-      "url": "https://sigmoid.social/@aran/109974779882028642",
-      "content": "<p>Towards Democratizing Joint-Embedding Self-Supervised Learning</p><p>Trains SSL method, e.g. SimCLR, using only 1 GPU in a reasonable amount of time.</p><p>repo: <a href=\"https://github.com/facebookresearch/FFCV-SSL\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/facebookresearch/FF</span><span class=\"invisible\">CV-SSL</span></a><br>abs: <a href=\"https://arxiv.org/abs/2303.01986\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2303.01986</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://sigmoid.social/@aran",
-        "display_name": "Aran Komatsuzaki"
       }
     ]
   }
