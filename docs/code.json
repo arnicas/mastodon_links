@@ -1,5 +1,329 @@
 [
   {
+    "link": "https://github.com/NordSecurity",
+    "title": "Nord Security",
+    "latest": "2023-03-16T21:33:36+00:00",
+    "last_post": {
+      "url": "https://toot.works/@joe/110022370640230356",
+      "content": "<p>Hmm!  Nord VPN just open-sourced all the things, under GNU General Public License v3.0.</p><p><a href=\"https://github.com/NordSecurity\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/NordSecurity</span><span class=\"invisible\"></span></a></p><p><a href=\"https://toot.works/tags/Nord\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Nord</span></a> <a href=\"https://toot.works/tags/NordVPN\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>NordVPN</span></a> <a href=\"https://toot.works/tags/NordSecurity\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>NordSecurity</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://macaw.social/@andypiper",
+        "display_name": "Andy Piper"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/maildev/maildev",
+    "title": "GitHub - maildev/maildev: SMTP Server + Web Interface for viewing and testing emails during development.",
+    "latest": "2023-03-16T21:09:39+00:00",
+    "last_post": {
+      "url": "https://emacsen.net/@emacsen/110034795067308858",
+      "content": "<p>Does anyone know of an Activitypub server that I can use to make something like this (but for ActivityPub)</p><p><a href=\"https://github.com/maildev/maildev\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/maildev/maildev</span><span class=\"invisible\"></span></a></p><p>Where it's just a single actor, and a nice web frontend. I don't need a lot of controls or tools.</p><p>Lightweight and simple are the names of the game here. I'd even say it doesn't need (and maybe shouldn't) have the ability to send messages or offer authenciation- just receive and display them nicely.</p><p><a href=\"https://emacsen.net/tags/ActivityPub\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ActivityPub</span></a> <a href=\"https://emacsen.net/tags/Fediverse\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Fediverse</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@aeveltstra",
+        "display_name": "Andr\u00e9 E. Veltstra"
+      }
+    ]
+  },
+  {
+    "link": "https://gist.github.com/LayZeeDK/c822cc812f75bb07b7c55d07ba2719b3",
+    "title": "Angular CLI, Angular, Node.js, TypeScript, and RxJS version compatibility matrix. Based on changelogs, metadata, and hands-on experience. Major Node.js and RxJS versions above officially supported versions are not listed. Note that both major and minor TypeScript versions contain breaking changes. Please upvote https://github.com/angular/angular/pull/48753.",
+    "latest": "2023-03-16T21:02:27+00:00",
+    "last_post": {
+      "url": "https://mastodon.zaclys.com/@lascapi/110034883780817512",
+      "content": "<p>I'm looking for a <a href=\"https://mastodon.zaclys.com/tags/database\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>database</span></a> of <a href=\"https://mastodon.zaclys.com/tags/software\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>software</span></a>, <a href=\"https://mastodon.zaclys.com/tags/framework\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>framework</span></a>, <a href=\"https://mastodon.zaclys.com/tags/library\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>library</span></a> and <a href=\"https://mastodon.zaclys.com/tags/plugin\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>plugin</span></a> version where I can found for example which version of <a href=\"https://mastodon.zaclys.com/tags/webpack\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>webpack</span></a> I can use with <a href=\"https://mastodon.zaclys.com/tags/angular8\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>angular8</span></a> and with which version of <a href=\"https://mastodon.zaclys.com/tags/typescript\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>typescript</span></a> and <a href=\"https://mastodon.zaclys.com/tags/nodejs\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>nodejs</span></a>. ( <a href=\"https://mastodon.zaclys.com/tags/realWorld\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>realWorld</span></a> example \ud83d\ude05 ).</p><p>A bit like <a href=\"https://gist.github.com/LayZeeDK/c822cc812f75bb07b7c55d07ba2719b3\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gist.github.com/LayZeeDK/c822c</span><span class=\"invisible\">c812f75bb07b7c55d07ba2719b3</span></a> </p><p>Any idea? </p><p><a href=\"https://mastodon.zaclys.com/tags/freeSoftware\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>freeSoftware</span></a> <a href=\"https://mastodon.zaclys.com/tags/openSource\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>openSource</span></a> <a href=\"https://mastodon.zaclys.com/tags/data\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>data</span></a> <a href=\"https://mastodon.zaclys.com/tags/web\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>web</span></a> <a href=\"https://mastodon.zaclys.com/tags/question\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>question</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@aeveltstra",
+        "display_name": "Andr\u00e9 E. Veltstra"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/fxsjy/jieba",
+    "title": "GitHub - fxsjy/jieba: \u7ed3\u5df4\u4e2d\u6587\u5206\u8bcd",
+    "latest": "2023-03-16T20:09:03+00:00",
+    "last_post": {
+      "url": "https://creative.ai/@arxiv_cl/110034769934976057",
+      "content": "<p>\ud83d\udcdd Good Neighbors Are All You Need for Chinese Grapheme-to-Phoneme Conversion \ud83d\udcda\ud83e\udde0</p><p>\"A reinforcement learning based architecture is used to provide strong inductive bias for language models by emphasizing the phonological information between neighboring characters and the tone information to help disambiguate the pronunciations.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a> <a href=\"https://creative.ai/tags/LG\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>LG</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/fxsjy/jieba\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/fxsjy/jieba</span><span class=\"invisible\"></span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2303.07726v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2303.07726v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://creative.ai/@arxiv_cl",
+        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
+      }
+    ]
+  },
+  {
+    "link": "https://gist.github.com/chockenberry/aec61eb3ee486813782c7260102646d5",
+    "title": "Script to toggle Finder icons",
+    "latest": "2023-03-16T20:04:46+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@chockenberry/110034753029571058",
+      "content": "<p>A shell script for those of you who want a pristine desktop with no icons - especially useful when you need to take screenshots and there's a crapload of work on your desktop:</p><p><a href=\"https://gist.github.com/chockenberry/aec61eb3ee486813782c7260102646d5\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gist.github.com/chockenberry/a</span><span class=\"invisible\">ec61eb3ee486813782c7260102646d5</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@chockenberry",
+        "display_name": "Craig Hockenberry"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/uscensusbureau/cvam",
+    "title": "GitHub - uscensusbureau/cvam: Coarsened Variable Modeling",
+    "latest": "2023-03-16T20:04:17+00:00",
+    "last_post": {
+      "url": "https://mastodon.online/@statstas/110034751160194072",
+      "content": "<p>Joe Schaffer gives a terrific talk on <a href=\"https://mastodon.online/tags/rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rstats</span></a> library(cvam) -- Coarsened Variable Analysis Modeling (or something like that). This seems like a very helpful tool for fitting GLMs and LCAs with arbitrary patterns of missing or partially informed categorical data. It is considered an official Census Bureau package as it is available from the CB's github <a href=\"https://github.com/uscensusbureau/cvam\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/uscensusbureau/cvam</span><span class=\"invisible\"></span></a>. The CRAN page is <a href=\"https://cran.r-project.org/web/packages/cvam/index.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">cran.r-project.org/web/package</span><span class=\"invisible\">s/cvam/index.html</span></a>.</p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.online/@statstas",
+        "display_name": "Stas Kolenikov"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/w3ctag/privacy-principles",
+    "title": "GitHub - w3ctag/privacy-principles",
+    "latest": "2023-03-16T20:00:25+00:00",
+    "last_post": {
+      "url": "https://w3c.social/@w3c/110027495282842497",
+      "content": "<p>W3C\u2019s Technical Architecture Group (TAG) has convened a task force that has written a set of privacy principles for the web. We welcome your feedback before the end if April if possible.<br><a href=\"https://github.com/w3ctag/privacy-principles\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/w3ctag/privacy-prin</span><span class=\"invisible\">ciples</span></a><br><a href=\"https://www.w3.org/TR/privacy-principles/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">w3.org/TR/privacy-principles/</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://indieweb.social/@tchambers",
+        "display_name": "Tim Chambers"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/andsens/docopt.sh",
+    "title": "GitHub - andsens/docopt.sh: Command-line argument parser for bash 3.2, 4+, and 5+.",
+    "latest": "2023-03-16T20:00:02+00:00",
+    "last_post": {
+      "url": "https://die-partei.social/@hackernews/110034734446695996",
+      "content": "<p>Docopt.sh \u2013 Command-Line Argument Parser for Bash 3.2, 4, and 5 - <a href=\"https://github.com/andsens/docopt.sh\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/andsens/docopt.sh</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://die-partei.social/@hackernews",
+        "display_name": "Hackernews"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/eeholmes/test-webr",
+    "title": "https://github.com/eeholmes/test-webr",
+    "latest": "2023-03-16T19:54:41+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@juliesquid/110034713380076640",
+      "content": "<p>RT Eli Holmes: <a href=\"https://twitter.com/eeholm/status/1635750691552768000\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">twitter.com/eeholm/status/1635</span><span class=\"invisible\">750691552768000</span></a> :: </p><p>Another webR demo. This time demo-ing @axiomsofxyz<br> quarto extension along with showing that the WebR pages preview nicely in your GitHub Codespace. My repo with the devcontainer code is here: </p><p><a href=\"https://github.com/eeholmes/test-webr\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/eeholmes/test-webr</span><span class=\"invisible\"></span></a> </p><p><a href=\"https://youtu.be/hVLF98HP6Sw\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">youtu.be/hVLF98HP6Sw</span><span class=\"invisible\"></span></a> </p><p><a href=\"https://fosstodon.org/tags/rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rstats</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fosstodon.org/@juliesquid",
+        "display_name": "Dr. Julia Stewart Lowndes"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/ropensci/software-review/issues/464",
+    "title": "github.com/ropensci/software-r...",
+    "latest": "2023-03-16T19:22:45+00:00",
+    "last_post": {
+      "url": "https://hachyderm.io/@rOpenSci/110034044370484650",
+      "content": "<p>rOpenSci is proud to welcome a new package to our software suite!\ud83c\udf89</p><p>tsbox: Class-Agnostic Time Series by <span class=\"h-card\"><a href=\"https://cyberplace.social/@christophsax\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>christophsax</span></a></span></p><p>Docs: <a href=\"https://docs.ropensci.org/tsbox\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">docs.ropensci.org/tsbox</span><span class=\"invisible\"></span></a><br>Peer review: <a href=\"https://github.com/ropensci/software-review/issues/464\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/ropensci/software-r</span><span class=\"invisible\">eview/issues/464</span></a></p><p>\ud83d\ude4f Thank you to reviewers @atimeforecology@twitter.com and Matt Nunes!</p><p><a href=\"https://hachyderm.io/tags/RStats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>RStats</span></a>  <br><span class=\"h-card\"><a href=\"https://a.gup.pe/u/rstats\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>rstats</span></a></span></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@cutterkom",
+        "display_name": "Katharina Brunner"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/scikit-learn/scikit-learn/blob/main/sklearn/preprocessing/tests/test_target_encoder.py#L438",
+    "title": "scikit-learn/test_target_encoder.py at main \u00b7 scikit-learn/scikit-learn",
+    "latest": "2023-03-16T18:11:55+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@ogrisel/110034309301617339",
+      "content": "<p>Note that Target Encoding is a risky business: to avoid trivially leaking supervised signal into noisy features, it requires a implementing an internal cross-transform routine in its fit_transform(X_train) method which makes it behave differently that calling fit(X_train).transform(X_train) sequentially.</p><p>See the following educational non-regression test to see why its important on a minimal synthetic case:</p><p><a href=\"https://github.com/scikit-learn/scikit-learn/blob/main/sklearn/preprocessing/tests/test_target_encoder.py#L438\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/scikit-learn/scikit</span><span class=\"invisible\">-learn/blob/main/sklearn/preprocessing/tests/test_target_encoder.py#L438</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@ogrisel",
+        "display_name": "Olivier Grisel"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/mufiye/mufiye",
+    "title": "GitHub - mufiye/mufiye",
+    "latest": "2023-03-16T18:09:06+00:00",
+    "last_post": {
+      "url": "https://creative.ai/@arxiv_cl/110034298240623106",
+      "content": "<p>\ud83d\udcdd Dual-Attention Model for Aspect-Level Sentiment Classification \ud83d\udcda\ud83d\udc7e</p><p>\"Dependency labels are important information for aspect-level sentiment classification task, this paper proposes a method using dependency labels for the attention mechanism to do this task, which can be used in any attention-based model to enhance aspect-level sentiment classification.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a> <a href=\"https://creative.ai/tags/AI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AI</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/mufiye/mufiye\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/mufiye/mufiye</span><span class=\"invisible\"></span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2303.07689v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2303.07689v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://creative.ai/@arxiv_cl",
+        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/tloen/alpaca-lora",
+    "title": "GitHub - tloen/alpaca-lora: Code for reproducing the Stanford Alpaca InstructLLaMA result on consumer hardware",
+    "latest": "2023-03-16T18:08:20+00:00",
+    "last_post": {
+      "url": "https://creative.ai/@alexjc/110034295256590530",
+      "content": "<p>RT @_akhaliq@twitter.com</p><p>alpaca-lora: Code for reproducing the Stanford Alpaca InstructLLaMA result on consumer hardware</p><p>github: <a href=\"https://github.com/tloen/alpaca-lora\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/tloen/alpaca-lora</span><span class=\"invisible\"></span></a></p><p>\ud83d\udc26\ud83d\udd17: <a href=\"https://twitter.com/_akhaliq/status/1636416647518097408\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">twitter.com/_akhaliq/status/16</span><span class=\"invisible\">36416647518097408</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@ceperez",
+        "display_name": "Carlos E. Perez @IntuitMachine"
+      },
+      {
+        "url": "https://eldritch.cafe/@enkiv2",
+        "display_name": "\ud808\udc2d\ud808\udc97\ud808\udda0"
+      },
+      {
+        "url": "https://creative.ai/@alexjc",
+        "display_name": "Alex J. Champandard \u2744\ufe0f"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/scikit-learn/scikit-learn/pull/25334",
+    "title": "ENH Adds TargetEncoder by thomasjpfan \u00b7 Pull Request #25334 \u00b7 scikit-learn/scikit-learn",
+    "latest": "2023-03-16T18:08:07+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@ogrisel/110034294344541892",
+      "content": "<p>The TargetEncoder PR has been merged into the scikit-learn main branch!</p><p><a href=\"https://github.com/scikit-learn/scikit-learn/pull/25334\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/scikit-learn/scikit</span><span class=\"invisible\">-learn/pull/25334</span></a></p><p>It's a very efficient way to deal with high cardinality categorical variables for supervised machine learning tasks. See the following quick tutorial to compare its performance with one-hot encoding, ordinal encoding and native support of categorical variables in Gradient Boosted Trees:</p><p><a href=\"https://scikit-learn.org/dev/auto_examples/preprocessing/plot_target_encoder.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">scikit-learn.org/dev/auto_exam</span><span class=\"invisible\">ples/preprocessing/plot_target_encoder.html</span></a></p><p>It will be part of scikit-learn 1.3.</p><p><a href=\"https://sigmoid.social/tags/sklearn\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>sklearn</span></a> <a href=\"https://sigmoid.social/tags/PyData\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>PyData</span></a> <a href=\"https://sigmoid.social/tags/SciPy\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>SciPy</span></a> <a href=\"https://sigmoid.social/tags/MachineLearnig\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>MachineLearnig</span></a> <a href=\"https://sigmoid.social/tags/Python\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Python</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@ogrisel",
+        "display_name": "Olivier Grisel"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/antimatter15/alpaca.cpp",
+    "title": "GitHub - antimatter15/alpaca.cpp: Port of Facebook's LLaMA model in C/C++",
+    "latest": "2023-03-16T18:00:04+00:00",
+    "last_post": {
+      "url": "https://die-partei.social/@hackernews/110034262716415025",
+      "content": "<p>Show HN: Alpaca.cpp \u2013 Run an Instruction-Tuned Chat-Style LLM on a MacBook - <a href=\"https://github.com/antimatter15/alpaca.cpp\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/antimatter15/alpaca</span><span class=\"invisible\">.cpp</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@bleuje",
+        "display_name": "Etienne Jacob"
+      },
+      {
+        "url": "https://die-partei.social/@hackernews",
+        "display_name": "Hackernews"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/sparqlunicorn/sparqlunicornGoesGIS",
+    "title": "GitHub - sparqlunicorn/sparqlunicornGoesGIS: SPARQLing Unicorn QGIS Plugin (Documentation: https://sparqlunicorn.github.io/sparqlunicornGoesGIS/)",
+    "latest": "2023-03-16T17:41:53+00:00",
+    "last_post": {
+      "url": "https://akademienl.social/@mob/110034165297631794",
+      "content": "<p>Any <a href=\"https://akademienl.social/tags/geohumanities\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>geohumanities</span></a> people out there who are already using <a href=\"https://akademienl.social/tags/SPARQLunicorn\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>SPARQLunicorn</span></a> for their projects? @i_f &amp; I would be delighted to hear about your experiences, especially if you are also providing your own <a href=\"https://akademienl.social/tags/SPARQL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>SPARQL</span></a> endpoint or <a href=\"https://akademienl.social/tags/webfeatureservice\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>webfeatureservice</span></a>. </p><p><a href=\"https://github.com/sparqlunicorn/sparqlunicornGoesGIS\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/sparqlunicorn/sparq</span><span class=\"invisible\">lunicornGoesGIS</span></a> <a href=\"https://t.co/cLLfMo08nN\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">t.co/cLLfMo08nN</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://scholar.social/@telliott",
+        "display_name": "Tom Elliott"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/lukebatchelor/url-snake",
+    "title": "GitHub - lukebatchelor/url-snake",
+    "latest": "2023-03-16T17:32:02+00:00",
+    "last_post": {
+      "url": "https://mastodon.gassner.io/@peter/110034152479815345",
+      "content": "<p>URL Snake is cool: the full game in just 1152 bytes, copy-paste-able into your favourite browser's URL bar \ud83d\udc0d<br><a href=\"https://github.com/lukebatchelor/url-snake\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/lukebatchelor/url-s</span><span class=\"invisible\">nake</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.gassner.io/@peter",
+        "display_name": "Peter Gassner"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/CU-ITSS/Web-Data-Scraping-S2023",
+    "title": "GitHub - CU-ITSS/Web-Data-Scraping-S2023",
+    "latest": "2023-03-16T17:32:01+00:00",
+    "last_post": {
+      "url": "https://botsin.space/@kottke/110034152449868157",
+      "content": "<p>From the University of Colorado Boulder, a five-week mini-course on web scraping. The syllabus and code samples are available on Github. <a href=\"https://github.com/CU-ITSS/Web-Data-Scraping-S2023\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/CU-ITSS/Web-Data-Sc</span><span class=\"invisible\">raping-S2023</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://datasci.social/@mszll",
+        "display_name": "Michael Szell"
+      },
+      {
+        "url": "https://hci.social/@andresmh",
+        "display_name": "Andr\u00e9s Monroy-Hern\u00e1ndez"
+      },
+      {
+        "url": "https://botsin.space/@kottke",
+        "display_name": "kottke.org"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/gkaramanis/tidytuesday/tree/master/2023/2023-week_11",
+    "title": "github.com/gkaramanis/tidytues...",
+    "latest": "2023-03-16T17:17:43+00:00",
+    "last_post": {
+      "url": "https://vis.social/@georgios/110034082309848722",
+      "content": "<p>For this week's <a href=\"https://vis.social/tags/TidyTuesday\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>TidyTuesday</span></a> I looked at the first letters of drug brand names. Cool to see different patterns among the drug groups. For creating this text visualization I was once again inspired by Richard Brath's \"Visualizing with text\" <a href=\"https://richardbrath.files.wordpress.com/2020/10/diagrams_and_figures_from_visualizing_with_type_richard_brath_cc_by_sa_4.0_20201023e.pdf\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">richardbrath.files.wordpress.c</span><span class=\"invisible\">om/2020/10/diagrams_and_figures_from_visualizing_with_type_richard_brath_cc_by_sa_4.0_20201023e.pdf</span></a><br>  </p><p>code: <a href=\"https://github.com/gkaramanis/tidytuesday/tree/master/2023/2023-week_11\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/gkaramanis/tidytues</span><span class=\"invisible\">day/tree/master/2023/2023-week_11</span></a></p><p><a href=\"https://vis.social/tags/Rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Rstats</span></a> <a href=\"https://vis.social/tags/dataviz\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>dataviz</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://vis.social/@maarten",
+        "display_name": "Maarten Lambrechts"
+      },
+      {
+        "url": "https://fosstodon.org/@jimgruman",
+        "display_name": "\ud83e\udde2\ud83d\udcda\ud83d\udeb5\u200d\u2642\ufe0f\u2699\ud83d\udcc8\u2615"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/MiCode/Xiaomi_Kernel_OpenSource/issues",
+    "title": "Issues \u00b7 MiCode/Xiaomi_Kernel_OpenSource",
+    "latest": "2023-03-16T17:15:03+00:00",
+    "last_post": {
+      "url": "https://die-partei.social/@hackernews/110034085708326700",
+      "content": "<p>Xiaomi has been in violation of GPL for years - <a href=\"https://github.com/MiCode/Xiaomi_Kernel_OpenSource/issues\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/MiCode/Xiaomi_Kerne</span><span class=\"invisible\">l_OpenSource/issues</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://die-partei.social/@hackernews",
+        "display_name": "Hackernews"
+      }
+    ]
+  },
+  {
     "link": "https://gist.github.com/baptiste/825accee01d4537cb930e8a13a80da15",
     "title": "ggtroll.R",
     "latest": "2023-03-16T09:40:25+00:00",
@@ -56,21 +380,6 @@
       {
         "url": "https://sigmoid.social/@vh",
         "display_name": "Vincent HETRU"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/fxsjy/jieba",
-    "title": "GitHub - fxsjy/jieba: \u7ed3\u5df4\u4e2d\u6587\u5206\u8bcd",
-    "latest": "2023-03-16T05:58:58+00:00",
-    "last_post": {
-      "url": "https://creative.ai/@arxiv_cl/110031427207421144",
-      "content": "<p>\ud83d\udcdd ZeroNLG: Aligning and Autoencoding Domains for Zero-Shot Multimodal and Multilingual Natural Language Generation \ud83d\udcda\ud83d\udc7e\ud83d\udd2d</p><p>\"The training of ZeroNLG includes three steps: 1) projecting input data to a shared common latent space; 2) aligning coordinates in this common space across different modalities and languages; and 3) learning to generate text by reconstructing input text.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a> <a href=\"https://creative.ai/tags/AI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AI</span></a> <a href=\"https://creative.ai/tags/CV\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CV</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/fxsjy/jieba\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/fxsjy/jieba</span><span class=\"invisible\"></span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2303.06458v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2303.06458v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://creative.ai/@arxiv_cl",
-        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
       }
     ]
   },
@@ -2939,319 +3248,6 @@
       {
         "url": "https://sigmoid.social/@vukosi",
         "display_name": "Vukosi Marivate"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/peterklijn/hammerspoon-shiftit",
-    "title": "GitHub - peterklijn/hammerspoon-shiftit: A ShiftIt like Hammerspoon window management configuration",
-    "latest": "2023-03-08T04:11:40+00:00",
-    "last_post": {
-      "url": "https://code4lib.social/@hardyoyo/109985612273200451",
-      "content": "<p>Hammerspoon, plus this little \"spoon\" is the missing piece for multiple monitor Mac usage. Cannot say enough good things about this.</p><p><a href=\"https://github.com/peterklijn/hammerspoon-shiftit\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/peterklijn/hammersp</span><span class=\"invisible\">oon-shiftit</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://hcommons.social/@librarifran",
-        "display_name": "franny gaede"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/UCF-ML-Research/TrojText",
-    "title": "GitHub - UCF-ML-Research/TrojText",
-    "latest": "2023-03-08T02:22:26+00:00",
-    "last_post": {
-      "url": "https://creative.ai/@arxiv_cl/109985277285311701",
-      "content": "<p>\ud83d\udcdd TrojText: Test-Time Invisible Textual Trojan Insertion \ud83d\udcda</p><p>\"The proposed approach, called the Representation-Logit Trojan Insertion (RLI) algorithm, uses smaller sampled test data instead of large training data to achieve the desired attack.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/UCF-ML-Research/TrojText\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/UCF-ML-Research/Tro</span><span class=\"invisible\">jText</span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2303.02242v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2303.02242v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://creative.ai/@arxiv_cl",
-        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/stac-utils/pystac/releases/tag/v1.7.0",
-    "title": "github.com/stac-utils/pystac/r...",
-    "latest": "2023-03-07T21:15:36+00:00",
-    "last_post": {
-      "url": "https://fosstodon.org/@gadomski/109982826523423192",
-      "content": "<p>pystac 1.7.0 release!</p><p>- <a href=\"https://pypi.org/project/pystac/1.7.0/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">pypi.org/project/pystac/1.7.0/</span><span class=\"invisible\"></span></a><br>- <a href=\"https://github.com/stac-utils/pystac/releases/tag/v1.7.0\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/stac-utils/pystac/r</span><span class=\"invisible\">eleases/tag/v1.7.0</span></a></p><p>plenty of feature additions and bug fixes, highlights in the release notes</p><p>part of the python \ud83d\udc0d @STACspec<br> ecosystem</p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@TomAugspurger",
-        "display_name": "Tom Augspurger"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/bgavran/Category_Theory_Machine_Learning",
-    "title": "GitHub - bgavran/Category_Theory_Machine_Learning: List of papers studying machine learning through the lens of category theory",
-    "latest": "2023-03-07T21:00:03+00:00",
-    "last_post": {
-      "url": "https://die-partei.social/@hackernews/109984009640834143",
-      "content": "<p>Category Theory \u2229 Machine Learning - <a href=\"https://github.com/bgavran/Category_Theory_Machine_Learning\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/bgavran/Category_Th</span><span class=\"invisible\">eory_Machine_Learning</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://die-partei.social/@hackernews",
-        "display_name": "Hackernews"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/mauforonda/mastodon_digest",
-    "title": "github.com/mauforonda/mastodon...",
-    "latest": "2023-03-07T20:42:45+00:00",
-    "last_post": {
-      "url": "https://stefanbohacek.online/@stefan/109977535781651407",
-      "content": "<p>Do you use any third party content discovery tools for Mastodon/fediverse?</p><p>A few examples:</p><p>- <a href=\"https://fediview.com\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">fediview.com</span><span class=\"invisible\"></span></a><br>- <a href=\"https://fo.llow.social/trending\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">fo.llow.social/trending</span><span class=\"invisible\"></span></a><br>- <a href=\"https://github.com/mauforonda/mastodon_digest\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/mauforonda/mastodon</span><span class=\"invisible\">_digest</span></a><br>- <a href=\"https://github.com/mauforonda/mastodon_email_digest\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/mauforonda/mastodon</span><span class=\"invisible\">_email_digest</span></a><br>- <a href=\"https://followgraph.vercel.app\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">followgraph.vercel.app</span><span class=\"invisible\"></span></a></p><p>Feel free to share more in the comments!</p><p><a href=\"https://stefanbohacek.online/tags/mastodon\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>mastodon</span></a> <a href=\"https://stefanbohacek.online/tags/fediverse\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>fediverse</span></a>  <a href=\"https://stefanbohacek.online/tags/poll\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>poll</span></a> <a href=\"https://stefanbohacek.online/tags/ContentDiscovery\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ContentDiscovery</span></a> <a href=\"https://stefanbohacek.online/tags/digest\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>digest</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@MattHodges",
-        "display_name": "Matt Hodges"
-      },
-      {
-        "url": "https://sigmoid.social/@maria_antoniak",
-        "display_name": "Maria Antoniak"
-      },
-      {
-        "url": "https://mastodon.social/@botwiki",
-        "display_name": "Botwiki.org"
-      },
-      {
-        "url": "https://stefanbohacek.online/@stefan",
-        "display_name": "Stefan Bohacek"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/mauforonda/mastodon_email_digest",
-    "title": "github.com/mauforonda/mastodon...",
-    "latest": "2023-03-07T20:42:45+00:00",
-    "last_post": {
-      "url": "https://stefanbohacek.online/@stefan/109977535781651407",
-      "content": "<p>Do you use any third party content discovery tools for Mastodon/fediverse?</p><p>A few examples:</p><p>- <a href=\"https://fediview.com\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">fediview.com</span><span class=\"invisible\"></span></a><br>- <a href=\"https://fo.llow.social/trending\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">fo.llow.social/trending</span><span class=\"invisible\"></span></a><br>- <a href=\"https://github.com/mauforonda/mastodon_digest\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/mauforonda/mastodon</span><span class=\"invisible\">_digest</span></a><br>- <a href=\"https://github.com/mauforonda/mastodon_email_digest\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/mauforonda/mastodon</span><span class=\"invisible\">_email_digest</span></a><br>- <a href=\"https://followgraph.vercel.app\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">followgraph.vercel.app</span><span class=\"invisible\"></span></a></p><p>Feel free to share more in the comments!</p><p><a href=\"https://stefanbohacek.online/tags/mastodon\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>mastodon</span></a> <a href=\"https://stefanbohacek.online/tags/fediverse\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>fediverse</span></a>  <a href=\"https://stefanbohacek.online/tags/poll\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>poll</span></a> <a href=\"https://stefanbohacek.online/tags/ContentDiscovery\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ContentDiscovery</span></a> <a href=\"https://stefanbohacek.online/tags/digest\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>digest</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@MattHodges",
-        "display_name": "Matt Hodges"
-      },
-      {
-        "url": "https://mastodon.social/@botwiki",
-        "display_name": "Botwiki.org"
-      },
-      {
-        "url": "https://stefanbohacek.online/@stefan",
-        "display_name": "Stefan Bohacek"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/mastodon/mastodon/issues/19298",
-    "title": "\"Followed by ... and n others you follow\" \u00b7 Issue #19298 \u00b7 mastodon/mastodon",
-    "latest": "2023-03-07T20:16:16+00:00",
-    "last_post": {
-      "url": "https://stefanbohacek.online/@stefan/109983837454838194",
-      "content": "<p>And also the \"followed by x, y, and z others\" note on profile pages.</p><p><a href=\"https://github.com/mastodon/mastodon/issues/19298\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/mastodon/mastodon/i</span><span class=\"invisible\">ssues/19298</span></a> </p><p>The API is already there, but I'm not seeing it on the roadmap.</p>"
-    },
-    "people": [
-      {
-        "url": "https://stefanbohacek.online/@stefan",
-        "display_name": "Stefan Bohacek"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/stschubert/VPR_Tutorial",
-    "title": "github.com/stschubert/VPR_Tuto...",
-    "latest": "2023-03-07T20:11:41+00:00",
-    "last_post": {
-      "url": "https://sigmoid.social/@at/109982882859844190",
-      "content": "<p>Visual Place Recognition: A Tutorial<br>Stefan Schubert, Peer Neubert, Sourav Garg, Michael Milford, Tobias Fischer </p><p>[15 pages] presents VPR for newcomers &amp; deals with evaluation. Maybe the code would serve as a good baseline method?</p><p>abs:<a href=\"https://arxiv.org/abs/2303.03281\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2303.03281</span><span class=\"invisible\"></span></a> <br>code: <a href=\"https://github.com/stschubert/VPR_Tutorial\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/stschubert/VPR_Tuto</span><span class=\"invisible\">rial</span></a> <br><a href=\"https://sigmoid.social/tags/VPR\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>VPR</span></a> <a href=\"https://sigmoid.social/tags/ComputerVision\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ComputerVision</span></a> <a href=\"https://sigmoid.social/tags/arXiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arXiv</span></a> <a href=\"https://sigmoid.social/tags/AmyPostsPapers\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AmyPostsPapers</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://sigmoid.social/@hue",
-        "display_name": "Hue :notverified:"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/jeffbinder/promptarray",
-    "title": "GitHub - jeffbinder/promptarray: Text generator prompting with Boolean operators",
-    "latest": "2023-03-07T19:10:53+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@jmbinder/109960647639949644",
-      "content": "<p>This week I released a new version of PromptArray, a system for controlling language models through a combination of natural language and Boolean logic. I refactored the code to improve compatibility with different library versions. <a href=\"https://mastodon.social/tags/LLM\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>LLM</span></a> <a href=\"https://mastodon.social/tags/ML\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ML</span></a> <a href=\"https://mastodon.social/tags/AI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AI</span></a></p><p><a href=\"https://github.com/jeffbinder/promptarray\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/jeffbinder/promptar</span><span class=\"invisible\">ray</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@jmbinder",
-        "display_name": "Jeffrey M. Binder"
-      },
-      {
-        "url": "https://fosstodon.org/@ayliu",
-        "display_name": "Alan Liu"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/BjnNowak/TidyTuesday/blob/main/SC_numbats.R",
-    "title": "TidyTuesday/SC_numbats.R at main \u00b7 BjnNowak/TidyTuesday",
-    "latest": "2023-03-07T09:58:53+00:00",
-    "last_post": {
-      "url": "https://fosstodon.org/@bjnnowak/109980708207270386",
-      "content": "<p>Mixing <a href=\"https://fosstodon.org/tags/TidyTuesday\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>TidyTuesday</span></a> with vegetation index from multispectral images (the kind of data I use most frequently at work!) to test if numbats distribution is related to vegetation, at national and local scale. Answer in plot below...</p><p><a href=\"https://fosstodon.org/tags/RStats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>RStats</span></a> code <a href=\"https://github.com/BjnNowak/TidyTuesday/blob/main/SC_numbats.R\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/BjnNowak/TidyTuesda</span><span class=\"invisible\">y/blob/main/SC_numbats.R</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://fosstodon.org/@leeolney",
-        "display_name": "Lee Olney"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/mrklingon/StarTraveler",
-    "title": "GitHub - mrklingon/StarTraveler: Micropython \"game\" for micro:bit",
-    "latest": "2023-03-07T09:19:00+00:00",
-    "last_post": {
-      "url": "https://mastodon.sdf.org/@Mrklingo/109978919774767939",
-      "content": "<p>Playing around with the terrific python.microbit.org IDE.</p><p>\"Star Traveler\" for the micro:bit<br>Sort of a \"fidget spinner\" - to travel around a simulated cosmos.</p><p>tilt left, up, down, right to make starfield scroll in different directions. ...</p><p><a href=\"https://github.com/mrklingon/StarTraveler\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/mrklingon/StarTrave</span><span class=\"invisible\">ler</span></a></p><p><a href=\"https://mastodon.sdf.org/tags/microbit\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>microbit</span></a> <a href=\"https://mastodon.sdf.org/tags/micropython\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>micropython</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://ciberlandia.pt/@villares",
-        "display_name": "Alexandre B A Villares \ud83d\udc0d"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/farlit/ACDS",
-    "title": "GitHub - farlit/ACDS: Code for ICASSP2023: Ancient Chinese Word Segmentation and Part-of-Speech Tagging Using Distant Supervision",
-    "latest": "2023-03-07T08:52:39+00:00",
-    "last_post": {
-      "url": "https://creative.ai/@arxiv_cl/109981149380294452",
-      "content": "<p>\ud83d\udcdd Ancient Chinese Word Segmentation and Part-of-Speech Tagging Using Distant Supervision \ud83d\udcda</p><p>\"Uses distant supervision over parallel corpus to augment ancient Chinese word segmentation and part-of-speech tagging data and then uses the small amount of annotated data to relabel the data generated from distant supervision.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/farlit/ACDS\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/farlit/ACDS</span><span class=\"invisible\"></span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2303.01912v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2303.01912v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://creative.ai/@arxiv_cl",
-        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/rstudio/rstudio/issues/12494",
-    "title": "Previewing rendered html_document causes URLs to open in browser \u00b7 Issue #12494 \u00b7 rstudio/rstudio",
-    "latest": "2023-03-07T08:42:32+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@maelle/109981109627140150",
-      "content": "<p>Thanks to pair debugging \ud83d\udcaa <span class=\"h-card\"><a href=\"https://fosstodon.org/@Drmowinckels\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>Drmowinckels</span></a></span> &amp; I discovered the source of </p><p>\ud83d\ude40  \"sooo many new tabs open when building a Hugo website in RStudio IDE and put the browser in focus all the time\" \ud83d\ude40 </p><p> was not our layouts, not Hugo, but RStudio IDE that we simply need to update on our machines! \ud83d\ude0c <a href=\"https://github.com/rstudio/rstudio/issues/12494\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/rstudio/rstudio/iss</span><span class=\"invisible\">ues/12494</span></a></p><p><a href=\"https://mastodon.social/tags/RStats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>RStats</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@maelle",
-        "display_name": "Ma\u00eblle Salmon"
-      }
-    ]
-  },
-  {
-    "link": "https://observablehq.com/@frankelavsky/chartability-contrast-series",
-    "title": "Introduction to Accessible Contrast and Color for Data Visualization",
-    "latest": "2023-03-07T08:17:57+00:00",
-    "last_post": {
-      "url": "https://vis.social/@frankelavsky/109977797672858605",
-      "content": "<p>Every now and then I go back to this series on accessible color because someone brings it up (or mentions it was helpful).</p><p>It means so much to me to hear from members of the community that came across these notebooks and it had an impact in their work.</p><p><a href=\"https://observablehq.com/@frankelavsky/chartability-contrast-series\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">observablehq.com/@frankelavsky</span><span class=\"invisible\">/chartability-contrast-series</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://vis.social/@frankelavsky",
-        "display_name": "Frank \u2301"
-      },
-      {
-        "url": "https://hcommons.social/@librarifran",
-        "display_name": "franny gaede"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/TZW1998/Taming-Stable-Diffusion-with-Human-Ranking-Feedback",
-    "title": "GitHub - TZW1998/Taming-Stable-Diffusion-with-Human-Ranking-Feedback: This is the official repo for the paper \"Zeroth-Order Optimization Meets Human Feedback: Provable Learning via  Ranking Oracles\", Tang et al.",
-    "latest": "2023-03-07T07:39:02+00:00",
-    "last_post": {
-      "url": "https://creative.ai/@alexjc/109980859916164409",
-      "content": "<p>RT @_akhaliq@twitter.com</p><p>Taming Stable Diffusion with Human Ranking Feedback</p><p>method do not require any training or finetuning at all!. From experience, usually it takses around 10-20 rounds of ranking feedback before obtaining image with satisfying details</p><p>github: <a href=\"https://github.com/TZW1998/Taming-Stable-Diffusion-with-Human-Ranking-Feedback\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/TZW1998/Taming-Stab</span><span class=\"invisible\">le-Diffusion-with-Human-Ranking-Feedback</span></a></p><p>\ud83d\udc26\ud83d\udd17: <a href=\"https://twitter.com/_akhaliq/status/1632985863297671171\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">twitter.com/_akhaliq/status/16</span><span class=\"invisible\">32985863297671171</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://creative.ai/@alexjc",
-        "display_name": "Alex J. Champandard \u2744\ufe0f"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/suxuann/ddib",
-    "title": "GitHub - suxuann/ddib: Dual Diffusion Implicit Bridges for Image-to-Image Translation. ICLR 2023.",
-    "latest": "2023-03-07T07:38:56+00:00",
-    "last_post": {
-      "url": "https://creative.ai/@alexjc/109980859559163118",
-      "content": "<p>RT @chenlin_meng@twitter.com</p><p>Excited to share our <a href=\"https://creative.ai/tags/ICLR2023\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ICLR2023</span></a> paper \"Dual Diffusion Implicit Bridges for Image-to-Image Translation\" (DDIB), an image-to-image translation approach with diffusion models  \ud83d\udc31 -&gt; \ud83d\udc2f </p><p><a href=\"https://github.com/suxuann/ddib\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/suxuann/ddib</span><span class=\"invisible\"></span></a></p><p>\ud83d\udc26\ud83d\udd17: <a href=\"https://twitter.com/chenlin_meng/status/1632989952207376384\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">twitter.com/chenlin_meng/statu</span><span class=\"invisible\">s/1632989952207376384</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://creative.ai/@alexjc",
-        "display_name": "Alex J. Champandard \u2744\ufe0f"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/BurntMonkey/hello-graal",
-    "title": "GitHub - BurntMonkey/hello-graal: A simple project calling c from java",
-    "latest": "2023-03-07T07:30:02+00:00",
-    "last_post": {
-      "url": "https://die-partei.social/@hackernews/109980824557678801",
-      "content": "<p>Show HN: Hello World Java Polyglot - <a href=\"https://github.com/BurntMonkey/hello-graal\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/BurntMonkey/hello-g</span><span class=\"invisible\">raal</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://die-partei.social/@hackernews",
-        "display_name": "Hackernews"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/rbawden/mtbigscience",
-    "title": "github.com/rbawden/mtbigscienc...",
-    "latest": "2023-03-07T06:37:40+00:00",
-    "last_post": {
-      "url": "https://creative.ai/@arxiv_cl/109980618595791087",
-      "content": "<p>\ud83d\udcdd Investigating the Translation Performance of a Large Multilingual Language Model: The Case of BLOOM \ud83d\udcda</p><p>\"BLOOM is a 200 billion parameter language model trained in a multi-task learning paradigm over 46 typologically diverse languages on 720GB of filtered CommonCrawl data.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/rbawden/mtbigscience\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/rbawden/mtbigscienc</span><span class=\"invisible\">e</span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2303.01911v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2303.01911v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://creative.ai/@arxiv_cl",
-        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/mastodon/mastodon/blob/main/app/models/tag.rb#L37",
-    "title": "mastodon/tag.rb at main \u00b7 mastodon/mastodon",
-    "latest": "2023-03-07T06:28:02+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@texttheater/109980551350363014",
-      "content": "<p><span class=\"h-card\"><a href=\"https://fediscience.org/@tschfflr\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>tschfflr</span></a></span> <span class=\"h-card\"><a href=\"https://fosstodon.org/@minimalparts\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>minimalparts</span></a></span> Roughly speaking, all characters in the Unicode categories Letter, Mark, Number, and Connector Punctuation can be part of Mastodon hashtags. \"Letter\" includes, among many others, Cyrillic letters, Korean letters, Korean syllable blocks, and even Chinese characters. Sources: <a href=\"https://github.com/mastodon/mastodon/blob/main/app/models/tag.rb#L37\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/mastodon/mastodon/b</span><span class=\"invisible\">lob/main/app/models/tag.rb#L37</span></a>, <a href=\"https://ruby-doc.org/3.2.1/Regexp.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">ruby-doc.org/3.2.1/Regexp.html</span><span class=\"invisible\"></span></a>, <a href=\"https://www.compart.com/de/unicode/category\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">compart.com/de/unicode/categor</span><span class=\"invisible\">y</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://fediscience.org/@tschfflr",
-        "display_name": "Tatjana Scheffler"
       }
     ]
   }
