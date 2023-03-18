@@ -1,5 +1,137 @@
 [
   {
+    "link": "https://github.com/jgm/pandoc/issues/7921",
+    "title": "Add commonmark attributes extension to pandoc markdown reader \u00b7 Issue #7921 \u00b7 jgm/pandoc",
+    "latest": "2023-03-18T20:58:08+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@pandoc/110046287533431375",
+      "content": "<p><span class=\"h-card\"><a href=\"https://mstdn.social/@felwert\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>felwert</span></a></span> The attribute extension should help here, but it's available only for commonmark for now. Relevant issue: <a href=\"https://github.com/jgm/pandoc/issues/7921\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/jgm/pandoc/issues/7</span><span class=\"invisible\">921</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fosstodon.org/@pandoc",
+        "display_name": "pandoc"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/THUDM/ChatGLM-6B",
+    "title": "GitHub - THUDM/ChatGLM-6B: ChatGLM-6B\uff1a\u5f00\u6e90\u53cc\u8bed\u5bf9\u8bdd\u8bed\u8a00\u6a21\u578b",
+    "latest": "2023-03-18T20:30:44+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@ceperez/110046179799132083",
+      "content": "<p>Lazy Twitter: Does anyone know how different a Chinese language model is from one that is exclusively English?  What about Chinese language changes the behavior of this LLaMa? <a href=\"https://github.com/THUDM/ChatGLM-6B\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/THUDM/ChatGLM-6B</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@ceperez",
+        "display_name": "Carlos E. Perez @IntuitMachine"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/openai/evals",
+    "title": "GitHub - openai/evals: Evals is a framework for evaluating OpenAI models and an open-source registry of benchmarks.",
+    "latest": "2023-03-18T19:34:47+00:00",
+    "last_post": {
+      "url": "https://creative.ai/@arxiv_cl/110045959797370624",
+      "content": "<p>\ud83d\udcdd GPT-4 Technical Report \ud83d\udcda\ud83d\udc7e</p><p>\"GPT-4 is based on the Transformer architecture and trained with a causal language modeling objective on a diverse set of web documents (primarily webpages, books, and software repositories).\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a> <a href=\"https://creative.ai/tags/AI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AI</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/openai/evals\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/openai/evals</span><span class=\"invisible\"></span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2303.08774v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2303.08774v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://creative.ai/@arxiv_cl",
+        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/THUDM/ChatGLM-6B/blob/main/README_en.md",
+    "title": "ChatGLM-6B/README_en.md at main \u00b7 THUDM/ChatGLM-6B",
+    "latest": "2023-03-18T18:13:31+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@compsci_discussions/110045640245008724",
+      "content": "<p>[R] ChatGLM-6B - an open source 6.2 billion parameter Eng/Chinese bilingual LLM trained on 1T tokens, supplemented by supervised fine-tuning, feedback bootstrap, and RLHF. Runs on consumer grade GPUs</p><p><a href=\"https://github.com/THUDM/ChatGLM-6B/blob/main/README_en.md\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/THUDM/ChatGLM-6B/bl</span><span class=\"invisible\">ob/main/README_en.md</span></a></p><p>Discussions: <a href=\"https://discu.eu/q/https://github.com/THUDM/ChatGLM-6B/blob/main/README_en.md\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">discu.eu/q/https://github.com/</span><span class=\"invisible\">THUDM/ChatGLM-6B/blob/main/README_en.md</span></a></p><p><a href=\"https://mastodon.social/tags/compsci\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>compsci</span></a> <a href=\"https://mastodon.social/tags/machinelearning\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>machinelearning</span></a> <a href=\"https://mastodon.social/tags/selfhosted\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>selfhosted</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@ceperez",
+        "display_name": "Carlos E. Perez @IntuitMachine"
+      },
+      {
+        "url": "https://mastodon.social/@compsci_discussions",
+        "display_name": "Compsci Weekly"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/audiophyl/qnxdemotools",
+    "title": "GitHub - audiophyl/qnxdemotools: Tools to manipulate the 90s QNX Demodisk.",
+    "latest": "2023-03-18T18:11:41+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@python_discussions/110045633034198747",
+      "content": "<p>QNX Demodisk Utilities</p><p><a href=\"https://github.com/audiophyl/qnxdemotools\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/audiophyl/qnxdemoto</span><span class=\"invisible\">ols</span></a></p><p>Discussions: <a href=\"https://discu.eu/q/https://github.com/audiophyl/qnxdemotools\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">discu.eu/q/https://github.com/</span><span class=\"invisible\">audiophyl/qnxdemotools</span></a></p><p><a href=\"https://mastodon.social/tags/programming\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>programming</span></a> <a href=\"https://mastodon.social/tags/python\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>python</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@python_discussions",
+        "display_name": "Python Weekly"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/pingantechnlp/PG-DRR",
+    "title": "github.com/pingantechnlp/PG-DR...",
+    "latest": "2023-03-18T17:34:43+00:00",
+    "last_post": {
+      "url": "https://creative.ai/@arxiv_cl/110045487666072706",
+      "content": "<p>\ud83d\udcdd On the Calibration and Uncertainty with P\u00f3lya-Gamma Augmentation for Dialog Retrieval Models \ud83d\udcda\ud83d\udc7e</p><p>\"A Gaussian Process (GP) layer is introduced to a deterministic deep neural network for dialog response retrieval models by P\\'{o}lya-Gamma augmentation.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a> <a href=\"https://creative.ai/tags/AI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AI</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/pingantechnlp/PG-DRR\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/pingantechnlp/PG-DR</span><span class=\"invisible\">R</span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2303.08606v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2303.08606v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://creative.ai/@arxiv_cl",
+        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/mastodon/mastodon/releases/tag/v4.1.1",
+    "title": "Release v4.1.1 \u00b7 mastodon/mastodon",
+    "latest": "2023-03-18T16:51:23+00:00",
+    "last_post": {
+      "url": "https://hci.social/@barik/110045164708017041",
+      "content": "<p>hci.social has been upgraded to mastodon 4.1.1: <a href=\"https://github.com/mastodon/mastodon/releases/tag/v4.1.1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/mastodon/mastodon/r</span><span class=\"invisible\">eleases/tag/v4.1.1</span></a>.</p>"
+    },
+    "people": [
+      {
+        "url": "https://indieweb.social/@tchambers",
+        "display_name": "Tim Chambers"
+      },
+      {
+        "url": "https://hci.social/@jbigham",
+        "display_name": "Jeff Bigham"
+      }
+    ]
+  },
+  {
+    "link": "https://observablehq.com/@observablehq/us-energy-mix-bubble-map-recreation",
+    "title": "US energy mix bubble chart (Washington Post)",
+    "latest": "2023-03-18T16:50:33+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@allison_horst/110045313972615536",
+      "content": "<p>Recreating existing visualizations is a fun way to learn new skills - feels like solving a puzzle \ud83e\udde9. As an exercise, <span class=\"h-card\"><a href=\"https://vis.social/@fil\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>fil</span></a></span> &amp; I recently recreated a map of US power plants from the Washington Post in <span class=\"h-card\"><a href=\"https://vis.social/@observablehq\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>observablehq</span></a></span> Plot \ud83d\uddfa\ufe0f <a href=\"https://observablehq.com/@observablehq/us-energy-mix-bubble-map-recreation\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">observablehq.com/@observablehq</span><span class=\"invisible\">/us-energy-mix-bubble-map-recreation</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://vis.social/@lane",
+        "display_name": "Lane Harrison"
+      },
+      {
+        "url": "https://mastodon.social/@allison_horst",
+        "display_name": "Allison Horst  :BlobhajReach:"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/zjunlp/KnowPrompt",
     "title": "GitHub - zjunlp/KnowPrompt: Code and datasets for the WWW2022 paper \"KnowPrompt: Knowledge-aware Prompt-tuning with Synergistic Optimization for Relation Extraction.\"",
     "latest": "2023-03-18T09:34:46+00:00",
@@ -507,21 +639,6 @@
       {
         "url": "https://mastodon.social/@MattHodges",
         "display_name": "Matt Hodges"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/mastodon/mastodon/releases/tag/v4.1.1",
-    "title": "Release v4.1.1 \u00b7 mastodon/mastodon",
-    "latest": "2023-03-17T02:43:56+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@Mastodon/110036246553464473",
-      "content": "<p>\ud83c\udf89 New <a href=\"https://mastodon.social/tags/Mastodon\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Mastodon</span></a> release! It's a minor one while we work on some bigger items for 4.2. A number of bug fixes and performance improvements! Backports for 4.0 and 3.5 also available.</p><p><a href=\"https://github.com/mastodon/mastodon/releases/tag/v4.1.1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/mastodon/mastodon/r</span><span class=\"invisible\">eleases/tag/v4.1.1</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://indieweb.social/@tchambers",
-        "display_name": "Tim Chambers"
       }
     ]
   },
@@ -3159,111 +3276,6 @@
       {
         "url": "https://mastodon.social/@nickhardeman",
         "display_name": "NickHardeman"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/oobabooga/text-generation-webui/pull/206",
-    "title": "Add LLaMA 4-bit support by oobabooga \u00b7 Pull Request #206 \u00b7 oobabooga/text-generation-webui",
-    "latest": "2023-03-10T01:14:10+00:00",
-    "last_post": {
-      "url": "https://creative.ai/@alexjc/109996333466773433",
-      "content": "<p>Pull Request for running LLaMa as 4-bit quantized! \ud83e\udd2f</p><p>It uses even less memory \u2014 obviously \u2014 but when the bottleneck is transferring data back and forth between GPUs, users report significant speed-up too. <a href=\"https://github.com/oobabooga/text-generation-webui/pull/206\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/oobabooga/text-gene</span><span class=\"invisible\">ration-webui/pull/206</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://creative.ai/@alexjc",
-        "display_name": "Alex J. Champandard \u2744\ufe0f"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/Render96/Render96Wiki/wiki/cobble_stone-%28The-Texture-of-Your-Childhood%29",
-    "title": "github.com/Render96/Render96Wi...",
-    "latest": "2023-03-09T22:00:04+00:00",
-    "last_post": {
-      "url": "https://die-partei.social/@hackernews/109995570268670483",
-      "content": "<p>Cobble_stone (The Texture of Your Childhood) - <a href=\"https://github.com/Render96/Render96Wiki/wiki/cobble_stone-%28The-Texture-of-Your-Childhood%29\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/Render96/Render96Wi</span><span class=\"invisible\">ki/wiki/cobble_stone-%28The-Texture-of-Your-Childhood%29</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://die-partei.social/@hackernews",
-        "display_name": "Hackernews"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/Makbari1997/Persian-Atis",
-    "title": "GitHub - Makbari1997/Persian-Atis: This repository contains the dataset of the article \"A Persian Benchmark for Joint Intent Detection and Slot Filling\"",
-    "latest": "2023-03-09T21:22:46+00:00",
-    "last_post": {
-      "url": "https://creative.ai/@arxiv_cl/109995423616270788",
-      "content": "<p>\ud83d\udcdd A Hybrid Architecture for Out of Domain Intent Detection and Intent Discovery \ud83d\udcda\ud83d\udc7e</p><p>\"A Variational Autoencoder is used to distinguish between known and unknown intents independent of input data distribution and an unsupervised clustering method is used to discover different unknown intents underlying OOD/OOS inputs.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a> <a href=\"https://creative.ai/tags/AI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AI</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/Makbari1997/Persian-Atis\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/Makbari1997/Persian</span><span class=\"invisible\">-Atis</span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2303.04134v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2303.04134v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://creative.ai/@arxiv_cl",
-        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/a-scie/jump",
-    "title": "https://github.com/a-scie/jump",
-    "latest": "2023-03-09T20:36:53+00:00",
-    "last_post": {
-      "url": "https://social.coop/@chrisjrn/109995193670333084",
-      "content": "<p>ICYMI, over on the Pants Build blog, we posted about our new self-contained binary launcher, which not only embeds a Python interpreter but can also do in-place incremental upgrades of the Python version and our first-party Python code.</p><p>It's so good that we went from it being an experiment to our preferred way to install Pants in less than two months.</p><p>Check out the blog: <a href=\"https://blog.pantsbuild.org/the-pants-launcher-binary-a-much-simpler-way-to-install-and-run-pants/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">blog.pantsbuild.org/the-pants-</span><span class=\"invisible\">launcher-binary-a-much-simpler-way-to-install-and-run-pants/</span></a><br>And `scie`, the technology it's based on: <a href=\"https://github.com/a-scie/jump\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/a-scie/jump</span><span class=\"invisible\"></span></a></p><p><a href=\"https://social.coop/tags/python\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>python</span></a> <a href=\"https://social.coop/tags/pantsbuild\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>pantsbuild</span></a> <a href=\"https://social.coop/tags/rust\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rust</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@ambv",
-        "display_name": "\u0141ukasz Langa"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/epfl-dlab/SynthIE",
-    "title": "GitHub - epfl-dlab/SynthIE",
-    "latest": "2023-03-09T19:52:29+00:00",
-    "last_post": {
-      "url": "https://creative.ai/@arxiv_cl/109995068613024340",
-      "content": "<p>\ud83d\udcdd Exploiting Asymmetry for Synthetic Training Data Generation: SynthIE and the Case of Information Extraction \ud83d\udcda\ud83d\udc7e\ud83e\udde0</p><p>\"SynthIE uses the asymmetry in task difficulty between generation and extraction to synthetically generate a dataset of 1,8M data points for closed information extraction with a large-language model.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a> <a href=\"https://creative.ai/tags/AI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AI</span></a> <a href=\"https://creative.ai/tags/LG\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>LG</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/epfl-dlab/SynthIE\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/epfl-dlab/SynthIE</span><span class=\"invisible\"></span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2303.04132v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2303.04132v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://creative.ai/@arxiv_cl",
-        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/inqueryio/inquery",
-    "title": "GitHub - inqueryio/inquery: Real-time events platform for Postgres",
-    "latest": "2023-03-09T18:45:02+00:00",
-    "last_post": {
-      "url": "https://die-partei.social/@hackernews/109994803394922840",
-      "content": "<p>Show HN: Safe Data Changes in PostgreSQL - <a href=\"https://github.com/inqueryio/inquery\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/inqueryio/inquery</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://die-partei.social/@hackernews",
-        "display_name": "Hackernews"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/jeffreykegler/Marpa--R2/blob/master/cpan/pperl/Marpa/R2/Perl.pm",
-    "title": "Marpa--R2/Perl.pm at master \u00b7 jeffreykegler/Marpa--R2",
-    "latest": "2023-03-09T18:22:29+00:00",
-    "last_post": {
-      "url": "https://creative.ai/@arxiv_cl/109994714705269408",
-      "content": "<p>\ud83d\udcdd Marpa and Nullable Symbols \ud83d\udcda</p><p>\"In a nutshell: it's a matter of adding a bit of bookkeeping information to the parser, along the lines of what's done in a top-down parser.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/jeffreykegler/Marpa--R2/blob/master/cpan/pperl/Marpa/R2/Perl.pm\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/jeffreykegler/Marpa</span><span class=\"invisible\">--R2/blob/master/cpan/pperl/Marpa/R2/Perl.pm</span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2303.04093v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2303.04093v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://creative.ai/@arxiv_cl",
-        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
       }
     ]
   }
