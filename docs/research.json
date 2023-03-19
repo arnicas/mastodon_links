@@ -1,5 +1,250 @@
 [
   {
+    "link": "https://arxiv.org/abs/2303.08896v1",
+    "title": "https://arxiv.org/abs/2303.08896v1",
+    "latest": "2023-03-19T09:41:32+00:00",
+    "last_post": {
+      "url": "https://creative.ai/@arxiv_cl/110049289325694394",
+      "content": "<p>\ud83d\udcdd SelfCheckGPT: Zero-Resource Black-Box Hallucination Detection for Generative Large Language Models \ud83d\udcda</p><p>\"SelfCheckGPT relies on the simple idea that if a LLM has knowledge of a given concept, sampled responses are likely to be similar and contain consistent facts.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/potsawee/selfcheckgpt\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/potsawee/selfcheckg</span><span class=\"invisible\">pt</span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2303.08896v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2303.08896v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://creative.ai/@arxiv_cl",
+        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
+      }
+    ]
+  },
+  {
+    "link": "https://doi.org/10.1111/criq.12359",
+    "title": "https://doi.org/10.1111/criq.12359",
+    "latest": "2023-03-19T07:48:53+00:00",
+    "last_post": {
+      "url": "https://ravenation.club/@mpe/110048846351871403",
+      "content": "<p>Bah. I pulled the same stunt, with part of my article written by a neural net, back in 2017, but didn't make the national news: <a href=\"https://doi.org/10.1111/criq.12359\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">doi.org/10.1111/criq.12359</span><span class=\"invisible\"></span></a></p><p>AI makes plagiarism harder to detect, argue academics \u2013 in paper written by chatbot<br><a href=\"https://www.theguardian.com/technology/2023/mar/19/ai-makes-plagiarism-harder-to-detect-argue-academics-in-paper-written-by-chatbot?CMP=Share_AndroidApp_Other\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">theguardian.com/technology/202</span><span class=\"invisible\">3/mar/19/ai-makes-plagiarism-harder-to-detect-argue-academics-in-paper-written-by-chatbot?CMP=Share_AndroidApp_Other</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://ravenation.club/@mpe",
+        "display_name": "Martin Paul Eve"
+      }
+    ]
+  },
+  {
+    "link": "https://arxiv.org/abs/2301.04589",
+    "title": "Memory Augmented Large Language Models are Computationally Universal",
+    "latest": "2023-03-19T06:56:14+00:00",
+    "last_post": {
+      "url": "https://mastodon.gamedev.place/@lentinic/110045665565973987",
+      "content": "<p>Sure, LLMs are a kind of game of guess the next word through statistical inference - but I think that view does maybe underestimate things a bit. </p><p><a href=\"https://arxiv.org/abs/2301.04589\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2301.04589</span><span class=\"invisible\"></span></a></p><p>This fairly straightforward paper shows the construction of a universal turing machine through a memory augmented LLM (generic, not trained to this task).</p><p>The result is maybe not surprising (IMO), but more the point is that with careful prompting and feedback loops that quite generic computation is entirely possible.</p>"
+    },
+    "people": [
+      {
+        "url": "https://mstdn.social/@cwizprod1",
+        "display_name": "Cyberwizard"
+      },
+      {
+        "url": "https://mastodon.social/@compsci_discussions",
+        "display_name": "Compsci Weekly"
+      },
+      {
+        "url": "https://creative.ai/@arxiv_cl",
+        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
+      }
+    ]
+  },
+  {
+    "link": "https://arxiv.org/abs/2212.08073",
+    "title": "Constitutional AI: Harmlessness from AI Feedback",
+    "latest": "2023-03-19T06:36:05+00:00",
+    "last_post": {
+      "url": "https://scholar.social/@joakinen/110043669641385820",
+      "content": "<p>\"As AI systems become more capable, we would like to enlist their help to supervise other AIs. We experiment with methods for training a harmless AI assistant through self-improvement, without any human labels identifying harmful outputs. The only human oversight is provided through a list of rules or principles, and so we refer to the method as 'Constitutional AI'.\"</p><p>[2212.08073] Constitutional AI: Harmlessness from AI Feedback<br><a href=\"https://arxiv.org/abs/2212.08073#\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2212.08073#</span><span class=\"invisible\"></span></a></p><p><a href=\"https://scholar.social/tags/aitraining\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>aitraining</span></a> <a href=\"https://scholar.social/tags/aiethics\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>aiethics</span></a> <a href=\"https://scholar.social/tags/ai\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ai</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://creative.ai/@arxiv_cl",
+        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
+      }
+    ]
+  },
+  {
+    "link": "http://osf.io/q9py3/",
+    "title": "http://osf.io/q9py3/",
+    "latest": "2023-03-19T00:26:24+00:00",
+    "last_post": {
+      "url": "https://botsin.space/@SocArXivBot/110047106457686456",
+      "content": "<p>Living Arrangements and Housing Affordability Issues of Young Adults in Canada: Differences by Nativity Status <a href=\"http://osf.io/q9py3/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">http://</span><span class=\"\">osf.io/q9py3/</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://botsin.space/@SocArXivBot",
+        "display_name": "SocArXiv"
+      }
+    ]
+  },
+  {
+    "link": "http://osf.io/gt8a5/",
+    "title": "http://osf.io/gt8a5/",
+    "latest": "2023-03-19T00:11:35+00:00",
+    "last_post": {
+      "url": "https://botsin.space/@SocArXivBot/110047048173017326",
+      "content": "<p>Territorial Patterns of Open E-Government: Evidence from Chilean Municipalities <a href=\"http://osf.io/gt8a5/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">http://</span><span class=\"\">osf.io/gt8a5/</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://botsin.space/@SocArXivBot",
+        "display_name": "SocArXiv"
+      }
+    ]
+  },
+  {
+    "link": "http://osf.io/2rkdj/",
+    "title": "http://osf.io/2rkdj/",
+    "latest": "2023-03-19T00:11:34+00:00",
+    "last_post": {
+      "url": "https://botsin.space/@SocArXivBot/110047048150311466",
+      "content": "<p>Leitura publica e a possibilidade de modos publicos e comuns para a provisao e fruicao dos bens culturais <a href=\"http://osf.io/2rkdj/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">http://</span><span class=\"\">osf.io/2rkdj/</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://botsin.space/@SocArXivBot",
+        "display_name": "SocArXiv"
+      }
+    ]
+  },
+  {
+    "link": "http://osf.io/sgj9h/",
+    "title": "http://osf.io/sgj9h/",
+    "latest": "2023-03-19T00:06:23+00:00",
+    "last_post": {
+      "url": "https://botsin.space/@SocArXivBot/110047027731804025",
+      "content": "<p>Neighborhood Structure and Environmental Quality: A fine-grained analysis of spatial inequalities in urban Germany <a href=\"http://osf.io/sgj9h/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">http://</span><span class=\"\">osf.io/sgj9h/</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://botsin.space/@SocArXivBot",
+        "display_name": "SocArXiv"
+      }
+    ]
+  },
+  {
+    "link": "http://osf.io/6dbwv/",
+    "title": "http://osf.io/6dbwv/",
+    "latest": "2023-03-19T00:06:22+00:00",
+    "last_post": {
+      "url": "https://botsin.space/@SocArXivBot/110047027703785188",
+      "content": "<p>In Defence of the Kalam Cosmological Argument for the Existence of God. <a href=\"http://osf.io/6dbwv/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">http://</span><span class=\"\">osf.io/6dbwv/</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://botsin.space/@SocArXivBot",
+        "display_name": "SocArXiv"
+      }
+    ]
+  },
+  {
+    "link": "https://arxiv.org/abs/2303.08572v1",
+    "title": "Distinguishing Cause from Effect on Categorical Data: The Uniform Channel Model",
+    "latest": "2023-03-19T00:04:42+00:00",
+    "last_post": {
+      "url": "https://creative.ai/@arxiv_cl/110047021116992429",
+      "content": "<p>\ud83d\udcdd Distinguishing Cause From Effect on Categorical Data: The Uniform Channel Model \ud83e\udde0\ud83d\udcda</p><p>\"Proposes a criterion to address the cause-effect problem with categorical variables (such as living in sets with no meaningful order), inspired by seeing a conditional probability mass function as a discrete memoryless channel.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/LG\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>LG</span></a> <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a> <a href=\"https://creative.ai/tags/IT\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>IT</span></a></p><p>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2303.08572v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2303.08572v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://creative.ai/@arxiv_cl",
+        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
+      }
+    ]
+  },
+  {
+    "link": "https://www.nature.com/articles/d41586-023-00831-6",
+    "title": "Strife at eLife: inside a journal\u2019s quest to upend science publishing",
+    "latest": "2023-03-18T22:44:17+00:00",
+    "last_post": {
+      "url": "https://mstdn.science/@lana/110041553640808691",
+      "content": "<p><a href=\"https://www.nature.com/articles/d41586-023-00831-6\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">nature.com/articles/d41586-023</span><span class=\"invisible\">-00831-6</span></a></p><p>I find some of this blowback disingenuous. There were YEARS of consultation and it's not other people's fault if some editors didn't show up and act like it's a surprise. What was a surprise was the timing of the release, which was sudden, but not the nature of the model or the fact that it was implemented. Mike Eisen is the reason why I joined eLife, <br>While dissent is natural, it should have come much earlier during the consultation period,</p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@lakens",
+        "display_name": "Daniel Lakens"
+      },
+      {
+        "url": "https://mastodon.social/@gvwilson",
+        "display_name": "Greg Wilson"
+      },
+      {
+        "url": "https://mastodon.social/@hauschke",
+        "display_name": "hauschke"
+      },
+      {
+        "url": "https://ecoevo.social/@RicSchuster",
+        "display_name": "Richard Schuster"
+      }
+    ]
+  },
+  {
+    "link": "https://arxiv.org/abs/2303.08809v1",
+    "title": "https://arxiv.org/abs/2303.08809v1",
+    "latest": "2023-03-18T22:19:43+00:00",
+    "last_post": {
+      "url": "https://creative.ai/@arxiv_cl/110046608301608555",
+      "content": "<p>\ud83d\udcdd Cascading and Direct Approaches to Unsupervised Constituency Parsing on Spoken Sentences \ud83d\udcda</p><p>\"Compares two approaches: (1) cascading an unsupervised ASR model and an unsupervised parser to obtain parse trees on ASR transcripts, and (2) direct training an unsupervised parser on continuous word-level speech representations.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/goodatlas/zeroth\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/goodatlas/zeroth</span><span class=\"invisible\"></span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2303.08809v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2303.08809v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://creative.ai/@arxiv_cl",
+        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
+      }
+    ]
+  },
+  {
+    "link": "http://osf.io/e7rh8/",
+    "title": "http://osf.io/e7rh8/",
+    "latest": "2023-03-18T22:16:29+00:00",
+    "last_post": {
+      "url": "https://botsin.space/@SocArXivBot/110046595581928296",
+      "content": "<p>Hunter-gatherer Population Expansion and Intensification: Malthusian and Boserupian Dynamics <a href=\"http://osf.io/e7rh8/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">http://</span><span class=\"\">osf.io/e7rh8/</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://botsin.space/@SocArXivBot",
+        "display_name": "SocArXiv"
+      }
+    ]
+  },
+  {
+    "link": "http://osf.io/e5uyv/",
+    "title": "http://osf.io/e5uyv/",
+    "latest": "2023-03-18T22:11:03+00:00",
+    "last_post": {
+      "url": "https://botsin.space/@SocArXivBot/110046574223114000",
+      "content": "<p>Understanding the social and political dimensions of research(er) assessment: Interpretative flexibility and hidden criteria <a href=\"http://osf.io/e5uyv/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">http://</span><span class=\"\">osf.io/e5uyv/</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://botsin.space/@SocArXivBot",
+        "display_name": "SocArXiv"
+      }
+    ]
+  },
+  {
+    "link": "http://osf.io/kuh5r/",
+    "title": "http://osf.io/kuh5r/",
+    "latest": "2023-03-18T22:11:02+00:00",
+    "last_post": {
+      "url": "https://botsin.space/@SocArXivBot/110046574173068122",
+      "content": "<p>Linking the Risky Behaviour of Fathers and Their Children <a href=\"http://osf.io/kuh5r/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">http://</span><span class=\"\">osf.io/kuh5r/</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://botsin.space/@SocArXivBot",
+        "display_name": "SocArXiv"
+      }
+    ]
+  },
+  {
     "link": "http://osf.io/b3ezy/",
     "title": "http://osf.io/b3ezy/",
     "latest": "2023-03-18T21:56:11+00:00",
@@ -293,25 +538,6 @@
       {
         "url": "https://die-partei.social/@hackernews",
         "display_name": "Hackernews"
-      }
-    ]
-  },
-  {
-    "link": "https://www.nature.com/articles/d41586-023-00831-6",
-    "title": "Strife at eLife: inside a journal\u2019s quest to upend science publishing",
-    "latest": "2023-03-17T23:35:06+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@mhoye/110041225907662645",
-      "content": "<p>I have, no word of a lie, had a paper rejected in part because one of the reviewers said I was using the wrong kind of hyphen. </p><p>The modern peer review process is extorted labor in service of gerontocratic gatekeeping and market capture and it can burn. </p><p><a href=\"https://www.nature.com/articles/d41586-023-00831-6\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">nature.com/articles/d41586-023</span><span class=\"invisible\">-00831-6</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@lakens",
-        "display_name": "Daniel Lakens"
-      },
-      {
-        "url": "https://mastodon.social/@gvwilson",
-        "display_name": "Greg Wilson"
       }
     ]
   },
@@ -744,25 +970,6 @@
       {
         "url": "https://social.coop/@natematias",
         "display_name": "J. Nathan Matias \ud83e\udda3"
-      }
-    ]
-  },
-  {
-    "link": "https://arxiv.org/abs/2301.04589",
-    "title": "Memory Augmented Large Language Models are Computationally Universal",
-    "latest": "2023-03-17T02:11:41+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@compsci_discussions/110036195832089416",
-      "content": "<p>[R] Memory Augmented Large Language Models are Computationally Universal</p><p><a href=\"https://arxiv.org/abs/2301.04589\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2301.04589</span><span class=\"invisible\"></span></a></p><p>Discussions: <a href=\"https://discu.eu/q/https://arxiv.org/abs/2301.04589\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">discu.eu/q/https://arxiv.org/a</span><span class=\"invisible\">bs/2301.04589</span></a></p><p><a href=\"https://mastodon.social/tags/compsci\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>compsci</span></a> <a href=\"https://mastodon.social/tags/machinelearning\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>machinelearning</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mstdn.social/@cwizprod1",
-        "display_name": "Cyberwizard"
-      },
-      {
-        "url": "https://mastodon.social/@compsci_discussions",
-        "display_name": "Compsci Weekly"
       }
     ]
   },
@@ -2933,241 +3140,6 @@
       {
         "url": "https://a.farook.org/users/f",
         "display_name": "Fahim Farook"
-      }
-    ]
-  },
-  {
-    "link": "https://www.tandfonline.com/doi/abs/10.1080/19439962.2023.2178566?journalCode=utss20",
-    "title": "tandfonline.com/doi/abs/10.108...",
-    "latest": "2023-03-10T01:56:05+00:00",
-    "last_post": {
-      "url": "https://sfba.social/@niedermeyer/109956211943246983",
-      "content": "<p>For years, Tesla and its supporters have waved away detailed investigations tying Autopilot's design to multiple deaths, claiming that the safety benefits outweighed them.</p><p>Now, finally, we have published academic work proving that Autopilot has no safety benefits, when you adjust the numbers for road type and driver age. In fact crashes appear to be 11% higher with Autopilot!</p><p>Huge thanks to Noah Goodall of the Virginia Transportation Research Council for this work!</p><p><a href=\"https://www.tandfonline.com/doi/abs/10.1080/19439962.2023.2178566?journalCode=utss20\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">tandfonline.com/doi/abs/10.108</span><span class=\"invisible\">0/19439962.2023.2178566?journalCode=utss20</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.scot/@mike_moran",
-        "display_name": "Mike Moran"
-      }
-    ]
-  },
-  {
-    "link": "https://arxiv.org/abs/2302.02083",
-    "title": "Theory of Mind May Have Spontaneously Emerged in Large Language Models",
-    "latest": "2023-03-10T01:54:43+00:00",
-    "last_post": {
-      "url": "https://universeodon.com/@rayh/109860913355526067",
-      "content": "<p>Also \"Theory of Mind May Have Spontaneously Emerged in Large Language Models\" by Kosinski</p><p><a href=\"https://arxiv.org/abs/2302.02083\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2302.02083</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://sigmoid.social/@LChoshen",
-        "display_name": "Leshem Choshen"
-      },
-      {
-        "url": "https://die-partei.social/@hackernews",
-        "display_name": "Hackernews"
-      },
-      {
-        "url": "https://creative.ai/@arxiv_cl",
-        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
-      },
-      {
-        "url": "https://fediscience.org/@ct_bergstrom",
-        "display_name": "Carl T. Bergstrom"
-      },
-      {
-        "url": "https://creative.ai/@arxiv",
-        "display_name": "arXiv Highlights AI/ML \ud83d\udcdd\ud83e\udd16"
-      },
-      {
-        "url": "https://sigmoid.social/@pbrane",
-        "display_name": "Jake Mannix"
-      }
-    ]
-  },
-  {
-    "link": "https://arxiv.org/abs/2303.04248",
-    "title": "TRACT: Denoising Diffusion Models with Transitive Closure Time-Distillation",
-    "latest": "2023-03-10T01:14:12+00:00",
-    "last_post": {
-      "url": "https://creative.ai/@alexjc/109996333616482879",
-      "content": "<p>RT @D_Berthelot_ML@twitter.com</p><p>New paper TRACT - Faster diffusion model sampling<br>- Single-step diffusion SotA for CIFAR10 and ImageNet64 with L2 loss without architecture changes<br>- Up to 2.4x FID improvement<br><a href=\"https://arxiv.org/abs/2303.04248\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2303.04248</span><span class=\"invisible\"></span></a></p><p>\ud83d\udc26\ud83d\udd17: <a href=\"https://twitter.com/D_Berthelot_ML/status/1633922777228148736\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">twitter.com/D_Berthelot_ML/sta</span><span class=\"invisible\">tus/1633922777228148736</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://sigmoid.social/@ogrisel",
-        "display_name": "Olivier Grisel"
-      },
-      {
-        "url": "https://sigmoid.social/@mat_kelcey",
-        "display_name": "Mat Kelcey"
-      },
-      {
-        "url": "https://creative.ai/@alexjc",
-        "display_name": "Alex J. Champandard \u2744\ufe0f"
-      }
-    ]
-  },
-  {
-    "link": "https://www.nature.com/articles/d41586-023-00642-9",
-    "title": "Indoor air is full of flu and COVID viruses. Will countries clean it up?",
-    "latest": "2023-03-09T21:57:16+00:00",
-    "last_post": {
-      "url": "https://mas.to/@lneumannca/109983383694575116",
-      "content": "<p>\"In the 316 classrooms that had mechanical ventilation with rates of 1.4\u201314 litres per second per person, the students\u2019 risk of infection was reduced by at least 74% over a 4-month period at the end of 2021, compared with that for students in classrooms that relied on windows for ventilation. ... When ventilation rates were at least 10 l/s per student, the infection risk was 80% lower.\"<br><a href=\"https://mas.to/tags/Covid\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Covid</span></a> <a href=\"https://mas.to/tags/Covid19\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Covid19</span></a> <a href=\"https://mas.to/tags/CleanAir\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CleanAir</span></a>  </p><p><a href=\"https://www.nature.com/articles/d41586-023-00642-9\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">nature.com/articles/d41586-023</span><span class=\"invisible\">-00642-9</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.cloud/@mogul",
-        "display_name": "Bret Mogilefsky"
-      },
-      {
-        "url": "https://mastodon.online/@vladiliescu",
-        "display_name": "Vlad Iliescu \ud83d\udc2c"
-      },
-      {
-        "url": "https://esq.social/@icymi_law",
-        "display_name": "ICYMI (Law)"
-      },
-      {
-        "url": "https://social.coop/@MichaelTBacon",
-        "display_name": "Michael T. Bacon, Ph.D."
-      }
-    ]
-  },
-  {
-    "link": "https://doi.org/10.21105/joss.04896",
-    "title": "https://doi.org/10.21105/joss.04896",
-    "latest": "2023-03-09T21:41:28+00:00",
-    "last_post": {
-      "url": "https://fosstodon.org/@joss/109995497132942694",
-      "content": "<p>Just published in JOSS: 'OpenMSIStream: A Python package for facilitating integration of streaming data in diverse laboratory environments' <a href=\"https://doi.org/10.21105/joss.04896\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">doi.org/10.21105/joss.04896</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://fosstodon.org/@joss",
-        "display_name": "JOSS"
-      }
-    ]
-  },
-  {
-    "link": "https://arxiv.org/abs/2303.04134v1",
-    "title": "https://arxiv.org/abs/2303.04134v1",
-    "latest": "2023-03-09T21:22:46+00:00",
-    "last_post": {
-      "url": "https://creative.ai/@arxiv_cl/109995423616270788",
-      "content": "<p>\ud83d\udcdd A Hybrid Architecture for Out of Domain Intent Detection and Intent Discovery \ud83d\udcda\ud83d\udc7e</p><p>\"A Variational Autoencoder is used to distinguish between known and unknown intents independent of input data distribution and an unsupervised clustering method is used to discover different unknown intents underlying OOD/OOS inputs.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a> <a href=\"https://creative.ai/tags/AI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AI</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/Makbari1997/Persian-Atis\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/Makbari1997/Persian</span><span class=\"invisible\">-Atis</span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2303.04134v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2303.04134v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://creative.ai/@arxiv_cl",
-        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
-      }
-    ]
-  },
-  {
-    "link": "https://doi.org/10.21105/joss.05021",
-    "title": "https://doi.org/10.21105/joss.05021",
-    "latest": "2023-03-09T21:00:15+00:00",
-    "last_post": {
-      "url": "https://fosstodon.org/@joss/109995335050238927",
-      "content": "<p>Just published in JOSS: 'flowMC: Normalizing flow enhanced sampling package for probabilistic inference in JAX' <a href=\"https://doi.org/10.21105/joss.05021\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">doi.org/10.21105/joss.05021</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://fosstodon.org/@joss",
-        "display_name": "JOSS"
-      }
-    ]
-  },
-  {
-    "link": "https://arxiv.org/pdf/2302.06466.pdf",
-    "title": "https://arxiv.org/pdf/2302.06466.pdf",
-    "latest": "2023-03-09T19:54:39+00:00",
-    "last_post": {
-      "url": "https://discuss.systems/@emansour/109864049442648804",
-      "content": "<p>We are happy to share our survey paper, the first to review the differences between conversational <a href=\"https://discuss.systems/tags/AI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AI</span></a> models, such as <a href=\"https://discuss.systems/tags/ChatGPT\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ChatGPT</span></a>, and traditional question-answering systems for <a href=\"https://discuss.systems/tags/KG\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>KG</span></a>. Thanks to my students (Reham Omarand Omij Mangukiya) and Panos Kalnis. <br>Our survey conducted a comprehensive evaluation, including four real <a href=\"https://discuss.systems/tags/KGs\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>KGs</span></a> of different application domains and 450 English questions of various linguistic complexity. Our paper proposes open research opportunities in developing <a href=\"https://discuss.systems/tags/chatbots\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>chatbots</span></a> for <a href=\"https://discuss.systems/tags/KGs\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>KGs</span></a>.<br>The paper is available at <a href=\"https://arxiv.org/pdf/2302.06466.pdf\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/pdf/2302.06466.pdf</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://creative.ai/@arxiv",
-        "display_name": "arXiv Highlights AI/ML \ud83d\udcdd\ud83e\udd16"
-      }
-    ]
-  },
-  {
-    "link": "https://arxiv.org/abs/2303.04132v1",
-    "title": "https://arxiv.org/abs/2303.04132v1",
-    "latest": "2023-03-09T19:52:29+00:00",
-    "last_post": {
-      "url": "https://creative.ai/@arxiv_cl/109995068613024340",
-      "content": "<p>\ud83d\udcdd Exploiting Asymmetry for Synthetic Training Data Generation: SynthIE and the Case of Information Extraction \ud83d\udcda\ud83d\udc7e\ud83e\udde0</p><p>\"SynthIE uses the asymmetry in task difficulty between generation and extraction to synthetically generate a dataset of 1,8M data points for closed information extraction with a large-language model.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a> <a href=\"https://creative.ai/tags/AI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AI</span></a> <a href=\"https://creative.ai/tags/LG\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>LG</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/epfl-dlab/SynthIE\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/epfl-dlab/SynthIE</span><span class=\"invisible\"></span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2303.04132v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2303.04132v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://creative.ai/@arxiv_cl",
-        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
-      }
-    ]
-  },
-  {
-    "link": "http://osf.io/7xgh3/",
-    "title": "http://osf.io/7xgh3/",
-    "latest": "2023-03-09T19:26:34+00:00",
-    "last_post": {
-      "url": "https://botsin.space/@SocArXivBot/109994966676909480",
-      "content": "<p>Heterogeneous Effects of Deferred Action for Childhood Arrivals (DACA) on Undocumented College Students' Educational Outcomes <a href=\"http://osf.io/7xgh3/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">http://</span><span class=\"\">osf.io/7xgh3/</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://botsin.space/@SocArXivBot",
-        "display_name": "SocArXiv"
-      }
-    ]
-  },
-  {
-    "link": "http://osf.io/fce7q/",
-    "title": "http://osf.io/fce7q/",
-    "latest": "2023-03-09T19:26:34+00:00",
-    "last_post": {
-      "url": "https://botsin.space/@SocArXivBot/109994966703541452",
-      "content": "<p>Does a Troubled Family Background Predict Adult Masturbation and Pornography Use? <a href=\"http://osf.io/fce7q/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">http://</span><span class=\"\">osf.io/fce7q/</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://botsin.space/@SocArXivBot",
-        "display_name": "SocArXiv"
-      }
-    ]
-  },
-  {
-    "link": "https://arxiv.org/abs/2303.04093v1",
-    "title": "https://arxiv.org/abs/2303.04093v1",
-    "latest": "2023-03-09T18:22:29+00:00",
-    "last_post": {
-      "url": "https://creative.ai/@arxiv_cl/109994714705269408",
-      "content": "<p>\ud83d\udcdd Marpa and Nullable Symbols \ud83d\udcda</p><p>\"In a nutshell: it's a matter of adding a bit of bookkeeping information to the parser, along the lines of what's done in a top-down parser.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/jeffreykegler/Marpa--R2/blob/master/cpan/pperl/Marpa/R2/Perl.pm\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/jeffreykegler/Marpa</span><span class=\"invisible\">--R2/blob/master/cpan/pperl/Marpa/R2/Perl.pm</span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2303.04093v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2303.04093v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://creative.ai/@arxiv_cl",
-        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
-      }
-    ]
-  },
-  {
-    "link": "http://osf.io/qrgmp/",
-    "title": "http://osf.io/qrgmp/",
-    "latest": "2023-03-09T18:16:11+00:00",
-    "last_post": {
-      "url": "https://botsin.space/@SocArXivBot/109994689897795068",
-      "content": "<p>How polarized is Europe? Public opinion disagreement, issue alignment, and sorting across European countries <a href=\"http://osf.io/qrgmp/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">http://</span><span class=\"\">osf.io/qrgmp/</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://botsin.space/@SocArXivBot",
-        "display_name": "SocArXiv"
       }
     ]
   }
