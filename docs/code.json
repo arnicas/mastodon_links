@@ -1,5 +1,65 @@
 [
   {
+    "link": "https://github.com/intel/cve-bin-tool",
+    "title": "GitHub - intel/cve-bin-tool: The CVE Binary Tool helps you determine if your system includes known vulnerabilities. You can scan binaries for over 200 common, vulnerable components (openssl, libpng, libxml2, expat and others), or if you know the components used, you can get a list of known vulnerabilities associated with an SBOM or a list of components and versions.",
+    "latest": "2023-03-20T20:27:05+00:00",
+    "last_post": {
+      "url": "https://infosec.exchange/@kaoudis/110057446661228454",
+      "content": "<p><a href=\"https://github.com/intel/cve-bin-tool\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/intel/cve-bin-tool</span><span class=\"invisible\"></span></a> this looks cool</p>"
+    },
+    "people": [
+      {
+        "url": "https://tenforward.social/@huertanix",
+        "display_name": "huertanix"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/andyk/recursive_llm",
+    "title": "GitHub - andyk/recursive_llm",
+    "latest": "2023-03-20T20:10:02+00:00",
+    "last_post": {
+      "url": "https://die-partei.social/@hackernews/110057423017547148",
+      "content": "<p>Show HN: Recursive LLM Prompts - <a href=\"https://github.com/andyk/recursive_llm\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/andyk/recursive_llm</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://die-partei.social/@hackernews",
+        "display_name": "Hackernews"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/validatorjs/validator.js",
+    "title": "GitHub - validatorjs/validator.js: String validation",
+    "latest": "2023-03-20T20:09:52+00:00",
+    "last_post": {
+      "url": "https://toot.cafe/@codepo8/110057422332372730",
+      "content": "<p>\ud83d\udc49\ud83c\udffc \u201eValidator.js\u201d<br>\ud83d\udd17 <a href=\"https://github.com/validatorjs/validator.js\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/validatorjs/validat</span><span class=\"invisible\">or.js</span></a><br>\ud83d\udcac A collection of string validators so you don\u2019t have to write your own regex (or ask ChatGPT to do it)</p>"
+    },
+    "people": [
+      {
+        "url": "https://toot.cafe/@codepo8",
+        "display_name": "Chris Heilmann"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/tml-tuebingen/chatgpt-algorithm-exam",
+    "title": "GitHub - tml-tuebingen/chatgpt-algorithm-exam: ChatGPT Participates in a Computer Science Exam",
+    "latest": "2023-03-20T18:26:34+00:00",
+    "last_post": {
+      "url": "https://creative.ai/@arxiv_cl/110057016166902893",
+      "content": "<p>\ud83d\udcdd ChatGPT Participates in a Computer Science Exam \ud83d\udcda</p><p>\"The program has $5$ layers with $12$ self-attention heads per layer and uses a vocabulary size of 33,355 tokens (see Appendix \\ref{sec:model_details} for details).\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a> <a href=\"https://creative.ai/tags/CY\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CY</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/tml-tuebingen/chatgpt-algorithm-exam\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/tml-tuebingen/chatg</span><span class=\"invisible\">pt-algorithm-exam</span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2303.09461v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2303.09461v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://creative.ai/@arxiv_cl",
+        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/multilingual-dh/nlp-resources",
     "title": "GitHub - multilingual-dh/nlp-resources: Natural language processing resources for multiple languages, with an eye towards use for digital humanities.",
     "latest": "2023-03-20T08:32:30+00:00",
@@ -3164,86 +3224,6 @@
       {
         "url": "https://fediscience.org/@NikaShilobod",
         "display_name": "Nika Shilobod"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/explosion/spaCy/discussions/12390",
-    "title": "github.com/explosion/spaCy/dis...",
-    "latest": "2023-03-11T02:37:11+00:00",
-    "last_post": {
-      "url": "https://sigmoid.social/@explosion/109999365283545850",
-      "content": "<p>Out now: New Turkish spaCy models!</p><p>The pipelines include medium and large versions, as well as a transformer.</p><p>Congrats to Duygu Altinok on her amazing work! \ud83d\ude80</p><p>You can find all the pipelines on Hugging Face: <a href=\"https://huggingface.co/turkish-nlp-suite\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">huggingface.co/turkish-nlp-sui</span><span class=\"invisible\">te</span></a></p><p>If you're interested in more resources around these models, check out this post on our GitHub discussions board!</p><p><a href=\"https://github.com/explosion/spaCy/discussions/12390\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/explosion/spaCy/dis</span><span class=\"invisible\">cussions/12390</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://fosstodon.org/@ljvmiranda",
-        "display_name": "Lj V. Miranda"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/explosion/projects/tree/v3/benchmarks/span-labeling-datasets",
-    "title": "projects/benchmarks/span-labeling-datasets at v3 \u00b7 explosion/projects",
-    "latest": "2023-03-11T02:36:18+00:00",
-    "last_post": {
-      "url": "https://sigmoid.social/@sofie/110000028559192331",
-      "content": "<p>Happy to announce the release of spaCy 3.5.1!</p><p>It introduces  'spancat_singlelabel', support for mypy v1.0, new operators for the dependency matchers, a 'PlainTextCorpusReader', various bug fixes and more!</p><p>We recently also added two new resources:</p><p>* <a href=\"https://github.com/explosion/projects/tree/v3/benchmarks/span-labeling-datasets\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/explosion/projects/</span><span class=\"invisible\">tree/v3/benchmarks/span-labeling-datasets</span></a> bundles various NER &amp; spancat datasets + .spacy convertors</p><p>* <a href=\"https://github.com/explosion/projects/tree/v3/benchmarks/ner_embeddings\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/explosion/projects/</span><span class=\"invisible\">tree/v3/benchmarks/ner_embeddings</span></a> contains all resources to reproduce the results of our \"Multi hash embeddings\" technical report: <a href=\"https://arxiv.org/abs/2212.09255\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2212.09255</span><span class=\"invisible\"></span></a></p><p>Happy weekend!</p>"
-    },
-    "people": [
-      {
-        "url": "https://dekok.dk/@daniel",
-        "display_name": "Dani\u00ebl de Kok :verified:"
-      },
-      {
-        "url": "https://sigmoid.social/@ryanwesslen",
-        "display_name": "Ryan Wesslen"
-      },
-      {
-        "url": "https://fosstodon.org/@ljvmiranda",
-        "display_name": "Lj V. Miranda"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/explosion/projects/tree/v3/benchmarks/ner_embeddings",
-    "title": "github.com/explosion/projects/...",
-    "latest": "2023-03-11T02:36:18+00:00",
-    "last_post": {
-      "url": "https://sigmoid.social/@sofie/110000028559192331",
-      "content": "<p>Happy to announce the release of spaCy 3.5.1!</p><p>It introduces  'spancat_singlelabel', support for mypy v1.0, new operators for the dependency matchers, a 'PlainTextCorpusReader', various bug fixes and more!</p><p>We recently also added two new resources:</p><p>* <a href=\"https://github.com/explosion/projects/tree/v3/benchmarks/span-labeling-datasets\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/explosion/projects/</span><span class=\"invisible\">tree/v3/benchmarks/span-labeling-datasets</span></a> bundles various NER &amp; spancat datasets + .spacy convertors</p><p>* <a href=\"https://github.com/explosion/projects/tree/v3/benchmarks/ner_embeddings\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/explosion/projects/</span><span class=\"invisible\">tree/v3/benchmarks/ner_embeddings</span></a> contains all resources to reproduce the results of our \"Multi hash embeddings\" technical report: <a href=\"https://arxiv.org/abs/2212.09255\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2212.09255</span><span class=\"invisible\"></span></a></p><p>Happy weekend!</p>"
-    },
-    "people": [
-      {
-        "url": "https://dekok.dk/@daniel",
-        "display_name": "Dani\u00ebl de Kok :verified:"
-      },
-      {
-        "url": "https://sigmoid.social/@ryanwesslen",
-        "display_name": "Ryan Wesslen"
-      },
-      {
-        "url": "https://fosstodon.org/@ljvmiranda",
-        "display_name": "Lj V. Miranda"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/IvanReznikov/DataVerse/blob/main/Onepagers/onepager_python_basics.md",
-    "title": "DataVerse/onepager_python_basics.md at main \u00b7 IvanReznikov/DataVerse",
-    "latest": "2023-03-11T02:25:03+00:00",
-    "last_post": {
-      "url": "https://die-partei.social/@hackernews/110002274530138889",
-      "content": "<p>Python Basics Onepager - <a href=\"https://github.com/IvanReznikov/DataVerse/blob/main/Onepagers/onepager_python_basics.md\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/IvanReznikov/DataVe</span><span class=\"invisible\">rse/blob/main/Onepagers/onepager_python_basics.md</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@python_discussions",
-        "display_name": "Python Weekly"
-      },
-      {
-        "url": "https://die-partei.social/@hackernews",
-        "display_name": "Hackernews"
       }
     ]
   }
