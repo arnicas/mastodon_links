@@ -1,5 +1,177 @@
 [
   {
+    "link": "https://doi.org/10.21105/joss.05289",
+    "title": "https://doi.org/10.21105/joss.05289",
+    "latest": "2023-03-22T09:42:45+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@joss/110066281085448644",
+      "content": "<p>Just published in JOSS: 'Pynteny: a Python package to perform synteny-aware, profile HMM-based searches in sequence databases' <a href=\"https://doi.org/10.21105/joss.05289\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">doi.org/10.21105/joss.05289</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fosstodon.org/@joss",
+        "display_name": "JOSS"
+      }
+    ]
+  },
+  {
+    "link": "https://arxiv.org/abs/2303.10227v1",
+    "title": "https://arxiv.org/abs/2303.10227v1",
+    "latest": "2023-03-22T09:15:56+00:00",
+    "last_post": {
+      "url": "https://creative.ai/@arxiv_cl/110066175586454216",
+      "content": "<p>\ud83d\udcdd Conversational Tree Search: A New Hybrid Dialog Task \ud83d\udcda</p><p>\"Uses a reinforcement learning architecture that combines the advantages of both a FAQ system and a dialog system to achieve higher goal completion rates while skipping unnecessary questions and reducing the number of turns necessary to achieve a goal.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/DigitalPhonetics/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/DigitalPhonetics/</span><span class=\"invisible\"></span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2303.10227v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2303.10227v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://creative.ai/@arxiv_cl",
+        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
+      }
+    ]
+  },
+  {
+    "link": "https://arxiv.org/abs/2303.11637",
+    "title": "Equiangular Basis Vectors",
+    "latest": "2023-03-22T08:11:18+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@ducha_aiki/110065921458849866",
+      "content": "<p>Equiangular Basis Vectors</p><p>Yang Shen, Xuhao Sun, Xiu-Shen Wei</p><p>tl;dr: first generate classifier weights - by eqiangular distribution on sphere. Then fit the model so the class embeddings are close to the generated vectors.</p><p><a href=\"https://arxiv.org/abs/2303.11637\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2303.11637</span><span class=\"invisible\"></span></a></p><p><a href=\"https://sigmoid.social/tags/computervision\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>computervision</span></a> <a href=\"https://sigmoid.social/tags/deeplearning\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>deeplearning</span></a> <br><a href=\"https://sigmoid.social/tags/dmytrotweetsaboutDL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>dmytrotweetsaboutDL</span></a> <a href=\"https://sigmoid.social/tags/CVPR2023\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CVPR2023</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@ducha_aiki",
+        "display_name": "Dmytro Mishkin \ud83c\uddfa\ud83c\udde6"
+      }
+    ]
+  },
+  {
+    "link": "https://dl.acm.org/doi/10.1145/3442188.3445922",
+    "title": "On the Dangers of Stochastic Parrots | Proceedings of the 2021 ACM Conference on Fairness, Accountability, and Transparency",
+    "latest": "2023-03-22T07:33:28+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@GraceEthicsAI/110062844036220597",
+      "content": "<p>GRACE editors review <a href=\"https://mastodon.social/tags/StochasticParrotsDay\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>StochasticParrotsDay</span></a> \ud83e\udd9c  celebrating the global impact of @timnit <span class=\"h-card\"><a href=\"https://mastodon.social/@Meg\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>Meg</span></a></span> <span class=\"h-card\"><a href=\"https://mastodon.social/@emilymbender\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>emilymbender</span></a></span> and Angelina McMillan-Major <a href=\"https://dl.acm.org/doi/10.1145/3442188.3445922\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">dl.acm.org/doi/10.1145/3442188</span><span class=\"invisible\">.3445922</span></a><br>\u201can LM is a system for haphazardly stitching together sequences of linguistic forms it has observed in its vast training data, according to probabilistic information about how they combine, but without any reference to meaning: a stochastic parrot \ud83e\udd9c.\u201d</p>"
+    },
+    "people": [
+      {
+        "url": "https://mamot.fr/@pluralistic",
+        "display_name": "Cory Doctorow's linkblog"
+      },
+      {
+        "url": "https://mstdn.social/@emmatonkin",
+        "display_name": ""
+      },
+      {
+        "url": "https://tech.lgbt/@jesper",
+        "display_name": "Jesper Dr.amsch :v_enby:"
+      },
+      {
+        "url": "https://fediscience.org/@UlrichJunker",
+        "display_name": "Ulrich Junker"
+      }
+    ]
+  },
+  {
+    "link": "https://arxiv.org/abs/2303.11156",
+    "title": "Can AI-Generated Text be Reliably Detected?",
+    "latest": "2023-03-22T06:28:54+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@crude2refined/110065272026604550",
+      "content": "<p>It looks like efforts to watermark AI generated text is ill posed: <a href=\"https://arxiv.org/abs/2303.11156\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2303.11156</span><span class=\"invisible\"></span></a></p><p>Essentially, no detector can be reliable for detecting AI generated text.</p>"
+    },
+    "people": [
+      {
+        "url": "https://creative.ai/@arxiv_cl",
+        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
+      }
+    ]
+  },
+  {
+    "link": "https://arxiv.org/abs/2303.11317",
+    "title": "Grover's Algorithm Offers No Quantum Advantage",
+    "latest": "2023-03-22T03:52:45+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@atoponce/110063266704599396",
+      "content": "<p>\"Grover\u2019s algorithm is an elegant intellectual construction. Unfortunately our analysis indicates that it will remain so for the foreseeable future.\"</p><p><a href=\"https://fosstodon.org/tags/Quantum\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Quantum</span></a> <a href=\"https://fosstodon.org/tags/QuantumComputers\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>QuantumComputers</span></a> <a href=\"https://fosstodon.org/tags/QuantumComputing\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>QuantumComputing</span></a> <a href=\"https://fosstodon.org/tags/Crypto\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Crypto</span></a> <a href=\"https://fosstodon.org/tags/Cryptography\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Cryptography</span></a></p><p><a href=\"https://arxiv.org/abs/2303.11317\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2303.11317</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://die-partei.social/@hackernews",
+        "display_name": "Hackernews"
+      },
+      {
+        "url": "https://feed.hella.cheap/@bob",
+        "display_name": "bob"
+      }
+    ]
+  },
+  {
+    "link": "https://arxiv.org/abs/2303.10798",
+    "title": "An aperiodic monotile",
+    "latest": "2023-03-22T01:58:53+00:00",
+    "last_post": {
+      "url": "https://neuromatch.social/@skarthik/110063465160166181",
+      "content": "<p>Wow!! What a breathe of fresh air this paper is in the midst of suffocating levels of \"AI solves everything\" hype cycle. </p><p><a href=\"https://arxiv.org/abs/2303.10798\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2303.10798</span><span class=\"invisible\"></span></a></p><p>They have found at long last, a single tile, an \"einstein\", which they call a \"hat\"/polykite that tiles the entire plane aperiodically. </p><p>Previously the best known aperiodic tiling of the plane required at the least two different tiles, the most famous ones being the Penrose tiles, and those that adorn Alhambra. </p><p>It is all the more wonderful that the first two authors don't have any academic/research affiliations. They write somewhere in the paper, how it all started, so wonderful:  </p><p>\"One of the authors (Smith) began investigating the hat polykite as part of his open-ended visual exploration of shapes and their tiling properties. Working largely by hand, with the assistance of Scherphuis\u2019s PolyForm Puzzle Solver software (<a href=\"http://www.jaapsch.net/puzzles/polysolver.htm\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">www.jaapsch.net/puzzles/polysolver.htm</a>), he could find no obvious barriers to the construction of large patches, and  yet no clear cluster of tiles that filled the plane periodically.\" </p><p>Why is the study of tilings such a big deal? Well, it hints at and tries to formalize various physics concepts that are of immense interest to many of us (and dare I say, even neuroscientists): quasi crystals!, possible new states of matter, emergent structures from simple units, how symmetries and asymmetries arise, stability of heterogenous media, soft matter physics, order without periodicity, criticality etc., etc., </p><p>On quasi-crystals and their search, applications, uses etc., I recommend the wonderful Paul Steinhardt's book: \"The Second Kind of Impossible: The Extraordinary Quest for a New Form of Matter\" </p><p><a href=\"https://neuromatch.social/tags/Physics\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Physics</span></a> <a href=\"https://neuromatch.social/tags/Maths\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Maths</span></a> <a href=\"https://neuromatch.social/tags/Combinatorics\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Combinatorics</span></a> <a href=\"https://neuromatch.social/tags/AperiodicTiling\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AperiodicTiling</span></a> <a href=\"https://neuromatch.social/tags/PenroseTiles\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>PenroseTiles</span></a> <a href=\"https://neuromatch.social/tags/Einstein\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Einstein</span></a> <a href=\"https://neuromatch.social/tags/Emergence\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Emergence</span></a> <a href=\"https://neuromatch.social/tags/condensedmatter\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>condensedmatter</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.art/@mtyka",
+        "display_name": "Mike Tyka"
+      },
+      {
+        "url": "https://hachyderm.io/@jtth",
+        "display_name": "jordan t t-h"
+      },
+      {
+        "url": "https://mathstodon.xyz/@csk",
+        "display_name": "Craig S. Kaplan"
+      },
+      {
+        "url": "https://mastodon.gamedev.place/@zarfeblong",
+        "display_name": "Andrew Plotkin"
+      },
+      {
+        "url": "https://recsys.social/@Randy_Au",
+        "display_name": "Randy Au \ud83d\ude43"
+      },
+      {
+        "url": "https://hackers.town/@fbz",
+        "display_name": "fbz"
+      },
+      {
+        "url": "https://mathstodon.xyz/@noneuclideandreamer",
+        "display_name": "Non-Euclidean Dreamer"
+      },
+      {
+        "url": "https://mastodon.social/@bcamper",
+        "display_name": "Brett Camper"
+      },
+      {
+        "url": "https://mastodon.social/@tjl",
+        "display_name": "Tom Lee"
+      },
+      {
+        "url": "https://an.errant.cloud/@ted",
+        "display_name": "Ted Han \u2605 \u97d3\u8056\u5b89"
+      }
+    ]
+  },
+  {
+    "link": "https://doi.org/10.1111/lang.12525",
+    "title": "https://doi.org/10.1111/lang.12525",
+    "latest": "2023-03-22T01:32:06+00:00",
+    "last_post": {
+      "url": "https://mastodon.world/@rempsyc/110063721231442987",
+      "content": "<p>Discovered that the {rempsyc} <a href=\"https://mastodon.world/tags/rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rstats</span></a> package now got its first official citation! Thank you, kind authors!</p><p>Jensen, I. N., &amp; Westergaard, M. (2022). Syntax Matters: Exploring the Effect of Linguistic Similarity in Third Language Acquisition. Language Learning. <a href=\"https://doi.org/10.1111/lang.12525\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">doi.org/10.1111/lang.12525</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sciences.social/@ktaylor",
+        "display_name": "Dr. Kevin P. Taylor"
+      }
+    ]
+  },
+  {
     "link": "https://arxiv.org/abs/2303.09435v1",
     "title": "Jump to Conclusions: Short-Cutting Transformers With Linear Transformations",
     "latest": "2023-03-21T21:53:22+00:00",
@@ -99,21 +271,6 @@
     ]
   },
   {
-    "link": "https://arxiv.org/abs/2303.11317",
-    "title": "Grover's Algorithm Offers No Quantum Advantage",
-    "latest": "2023-03-21T20:30:03+00:00",
-    "last_post": {
-      "url": "https://die-partei.social/@hackernews/110063164024544709",
-      "content": "<p>Grover's Algorithm Offers No Quantum Advantage - <a href=\"https://arxiv.org/abs/2303.11317\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2303.11317</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://die-partei.social/@hackernews",
-        "display_name": "Hackernews"
-      }
-    ]
-  },
-  {
     "link": "https://doi.org/10.1080/15236803.2023.2188150",
     "title": "doi.org/10.1080/15236803.2023....",
     "latest": "2023-03-21T19:13:02+00:00",
@@ -204,41 +361,6 @@
       {
         "url": "https://creative.ai/@arxiv_cl",
         "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
-      }
-    ]
-  },
-  {
-    "link": "https://arxiv.org/abs/2303.10798",
-    "title": "An aperiodic monotile",
-    "latest": "2023-03-21T17:01:12+00:00",
-    "last_post": {
-      "url": "https://mathstodon.xyz/@csk/110058807978537887",
-      "content": "<p>In a new paper, David Smith, Joseph Myers (<span class=\"h-card\"><a href=\"https://mathstodon.xyz/@jsm28\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>jsm28</span></a></span>), Chaim Goodman-Strauss and I prove that a polykite that we call \"the hat\" is an aperiodic monotile, AKA an einstein. We finally got down to 1!  <a href=\"https://arxiv.org/abs/2303.10798\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2303.10798</span><span class=\"invisible\"></span></a> 4/6</p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.art/@mtyka",
-        "display_name": "Mike Tyka"
-      },
-      {
-        "url": "https://hachyderm.io/@jtth",
-        "display_name": "jordan t t-h"
-      },
-      {
-        "url": "https://mathstodon.xyz/@csk",
-        "display_name": "Craig S. Kaplan"
-      },
-      {
-        "url": "https://mastodon.gamedev.place/@zarfeblong",
-        "display_name": "Andrew Plotkin"
-      },
-      {
-        "url": "https://recsys.social/@Randy_Au",
-        "display_name": "Randy Au \ud83d\ude43"
-      },
-      {
-        "url": "https://hackers.town/@fbz",
-        "display_name": "fbz"
       }
     ]
   },
@@ -3042,104 +3164,6 @@
       {
         "url": "https://creative.ai/@arxiv_cl",
         "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
-      }
-    ]
-  },
-  {
-    "link": "https://arxiv.org/abs/2303.06865",
-    "title": "High-throughput Generative Inference of Large Language Models with a Single GPU",
-    "latest": "2023-03-14T01:07:07+00:00",
-    "last_post": {
-      "url": "https://sigmoid.social/@aran/110018955021927809",
-      "content": "<p>High-throughput Generative Inference of Large Language Models with a Single GPU</p><p>Presents FlexGen, a high-throughput generation engine for running LLMs with limited GPU memory</p><p>repo: <a href=\"https://github.com/FMInference/FlexGen\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/FMInference/FlexGen</span><span class=\"invisible\"></span></a> <br>abs: <a href=\"https://arxiv.org/abs/2303.06865\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2303.06865</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://die-partei.social/@hackernews",
-        "display_name": "Hackernews"
-      },
-      {
-        "url": "https://sigmoid.social/@aran",
-        "display_name": "Aran Komatsuzaki"
-      }
-    ]
-  },
-  {
-    "link": "https://arxiv.org/abs/2303.07226",
-    "title": "Scaling Vision-Language Models with Sparse Mixture of Experts",
-    "latest": "2023-03-14T01:02:09+00:00",
-    "last_post": {
-      "url": "https://sigmoid.social/@aran/110018935503375593",
-      "content": "<p>Scaling Vision-Language Models with Sparse Mixture of Experts</p><p>Explores the effectiveness of MoE in scaling VLMs, demonstrating its potential to achieve SotA performance on a range of benchmarks over dense models of equivalent computational cost.</p><p><a href=\"https://arxiv.org/abs/2303.07226\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2303.07226</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://sigmoid.social/@aran",
-        "display_name": "Aran Komatsuzaki"
-      }
-    ]
-  },
-  {
-    "link": "https://www.nature.com/articles/s41467-023-36657-z",
-    "title": "Fundamental limits to learning closed-form mathematical models from data - Nature Communications",
-    "latest": "2023-03-14T00:59:15+00:00",
-    "last_post": {
-      "url": "https://masto.ai/@cheng/110018924087833180",
-      "content": "<p>I see two ways to interpret the results of this paper \"Fundamental limits to learning closed-form mathematical models from data\"</p><p>1. Be <a href=\"https://masto.ai/tags/Bayesian\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Bayesian</span></a><br>2. There is a sharp phase transition between low noise and high noise data, when trying to apply <a href=\"https://masto.ai/tags/MachineLearning\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>MachineLearning</span></a> to it.</p><p><a href=\"https://www.nature.com/articles/s41467-023-36657-z\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">nature.com/articles/s41467-023</span><span class=\"invisible\">-36657-z</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://social.skewed.de/@tiago",
-        "display_name": "Tiago Peixoto"
-      },
-      {
-        "url": "https://masto.ai/@cheng",
-        "display_name": "Cheng Soon Ong"
-      }
-    ]
-  },
-  {
-    "link": "https://arxiv.org/abs/2303.07109",
-    "title": "Transformer-based World Models Are Happy With 100k Interactions",
-    "latest": "2023-03-14T00:56:07+00:00",
-    "last_post": {
-      "url": "https://sigmoid.social/@aran/110018911779358412",
-      "content": "<p>Transformer-based World Models Are Happy With 100k Interactions</p><p>Outperforms previous model-free and model-based RL algorithms on the Atari 100k benchmark.</p><p><a href=\"https://arxiv.org/abs/2303.07109\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2303.07109</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://sigmoid.social/@aran",
-        "display_name": "Aran Komatsuzaki"
-      }
-    ]
-  },
-  {
-    "link": "https://arxiv.org/abs/2303.04289",
-    "title": "Do Prosody Transfer Models Transfer Prosody?",
-    "latest": "2023-03-13T22:02:09+00:00",
-    "last_post": {
-      "url": "https://icosahedron.website/@halcy/110018192027697626",
-      "content": "<p><a href=\"https://arxiv.org/abs/2303.04289\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2303.04289</span><span class=\"invisible\"></span></a> i don't know that this is a good paper but I randomly saw it on arxiv and the title made me chuckle</p>"
-    },
-    "people": [
-      {
-        "url": "https://creative.ai/@arxiv_cl",
-        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
-      }
-    ]
-  },
-  {
-    "link": "https://arxiv.org/abs/2212.13136v2",
-    "title": "Fewer is More: Efficient Object Detection in Large Aerial Images",
-    "latest": "2023-03-13T21:20:05+00:00",
-    "last_post": {
-      "url": "https://sigmoid.social/@hue/110018062310647137",
-      "content": "<p>Fewer is More: Efficient Object Detection in Large Aerial Images</p><p><a href=\"https://arxiv.org/abs/2212.13136v2\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2212.13136v2</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://sigmoid.social/@hue",
-        "display_name": "Hue :notverified:"
       }
     ]
   }
