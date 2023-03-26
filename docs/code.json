@@ -1,5 +1,65 @@
 [
   {
+    "link": "https://github.com/hrbrmstr/lit-webr-ojs-plot",
+    "title": "github.com/hrbrmstr/lit-webr-o...",
+    "latest": "2023-03-26T21:56:58+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@hrbrmstr/110089664627096521",
+      "content": "<p>Another day, another <a href=\"https://mastodon.social/tags/RStats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>RStats</span></a> <a href=\"https://mastodon.social/tags/WebR\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>WebR</span></a> \ud83e\uddea Experiment!</p><p>This time, we're tossing {svglite} and base R plots to the wind and bringing <span class=\"h-card\"><a href=\"https://vis.social/@observablehq\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>observablehq</span></a></span> Plot into the fold by *reducing* the complexity and overall size of the code.</p><p>The experiment is up @ <a href=\"https://rud.is/w/lit-webr-plot/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">rud.is/w/lit-webr-plot/</span><span class=\"invisible\"></span></a></p><p>GH repo: <a href=\"https://github.com/hrbrmstr/lit-webr-ojs-plot\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/hrbrmstr/lit-webr-o</span><span class=\"invisible\">js-plot</span></a></p><p>ObservableHQ has a lovely (I think \"new\u201d) plot making wizard that gives you JS you can use if you're just learning Plot.</p>"
+    },
+    "people": [
+      {
+        "url": "https://genart.social/@georgemsavva",
+        "display_name": "George Savva"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/refcell/run-wild/commit/7b71a4cd928b4382dd3086e7843170880075c098",
+    "title": "run wild gpt, run free... \u00b7 refcell/run-wild@7b71a4c",
+    "latest": "2023-03-26T20:25:03+00:00",
+    "last_post": {
+      "url": "https://die-partei.social/@hackernews/110091455900222413",
+      "content": "<p>Let ChatGPT run free on random webpages and do what it likes - <a href=\"https://github.com/refcell/run-wild/commit/7b71a4cd928b4382dd3086e7843170880075c098\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/refcell/run-wild/co</span><span class=\"invisible\">mmit/7b71a4cd928b4382dd3086e7843170880075c098</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://die-partei.social/@hackernews",
+        "display_name": "Hackernews"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/inovintell/py-template",
+    "title": "GitHub - inovintell/py-template: One-click GitHub Actions pipelines for Python!",
+    "latest": "2023-03-26T19:10:02+00:00",
+    "last_post": {
+      "url": "https://die-partei.social/@hackernews/110091160929918354",
+      "content": "<p>Py-template: one-click Python environment v0.2.0 update - <a href=\"https://github.com/inovintell/py-template\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/inovintell/py-templ</span><span class=\"invisible\">ate</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://die-partei.social/@hackernews",
+        "display_name": "Hackernews"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/dsmith111/ICER-Python",
+    "title": "GitHub - dsmith111/ICER-Python: (WIP) This is an explanation and implementation of the ICER compression algorithm from NASA (https://ipnpr.jpl.nasa.gov/progress_report/42-155/155J.pdf) in Python",
+    "latest": "2023-03-26T18:11:01+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@python_discussions/110090928865744015",
+      "content": "<p>Implementing Algorithms from Research Papers - NASA ICER Image Compression Example in Python (inspired by r/therealoranges's post)</p><p><a href=\"https://github.com/dsmith111/ICER-Python\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/dsmith111/ICER-Pyth</span><span class=\"invisible\">on</span></a></p><p>Discussions: <a href=\"https://discu.eu/q/https://github.com/dsmith111/ICER-Python\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">discu.eu/q/https://github.com/</span><span class=\"invisible\">dsmith111/ICER-Python</span></a></p><p><a href=\"https://mastodon.social/tags/programming\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>programming</span></a> <a href=\"https://mastodon.social/tags/python\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>python</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@python_discussions",
+        "display_name": "Python Weekly"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/google/open-location-code/wiki/Evaluation-of-Location-Encoding-Systems",
     "title": "Evaluation of Location Encoding Systems",
     "latest": "2023-03-26T09:05:02+00:00",
@@ -3088,66 +3148,6 @@
       {
         "url": "https://macaw.social/@andypiper",
         "display_name": "Andy Piper"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/maildev/maildev",
-    "title": "GitHub - maildev/maildev: SMTP Server + Web Interface for viewing and testing emails during development.",
-    "latest": "2023-03-16T21:09:39+00:00",
-    "last_post": {
-      "url": "https://emacsen.net/@emacsen/110034795067308858",
-      "content": "<p>Does anyone know of an Activitypub server that I can use to make something like this (but for ActivityPub)</p><p><a href=\"https://github.com/maildev/maildev\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/maildev/maildev</span><span class=\"invisible\"></span></a></p><p>Where it's just a single actor, and a nice web frontend. I don't need a lot of controls or tools.</p><p>Lightweight and simple are the names of the game here. I'd even say it doesn't need (and maybe shouldn't) have the ability to send messages or offer authenciation- just receive and display them nicely.</p><p><a href=\"https://emacsen.net/tags/ActivityPub\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ActivityPub</span></a> <a href=\"https://emacsen.net/tags/Fediverse\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Fediverse</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@aeveltstra",
-        "display_name": "Andr\u00e9 E. Veltstra"
-      }
-    ]
-  },
-  {
-    "link": "https://gist.github.com/LayZeeDK/c822cc812f75bb07b7c55d07ba2719b3",
-    "title": "Angular CLI, Angular, Node.js, TypeScript, and RxJS version compatibility matrix. Based on changelogs, metadata, and hands-on experience. Major Node.js and RxJS versions above officially supported versions are not listed. Note that both major and minor TypeScript versions contain breaking changes. Please upvote https://github.com/angular/angular/pull/48753.",
-    "latest": "2023-03-16T21:02:27+00:00",
-    "last_post": {
-      "url": "https://mastodon.zaclys.com/@lascapi/110034883780817512",
-      "content": "<p>I'm looking for a <a href=\"https://mastodon.zaclys.com/tags/database\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>database</span></a> of <a href=\"https://mastodon.zaclys.com/tags/software\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>software</span></a>, <a href=\"https://mastodon.zaclys.com/tags/framework\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>framework</span></a>, <a href=\"https://mastodon.zaclys.com/tags/library\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>library</span></a> and <a href=\"https://mastodon.zaclys.com/tags/plugin\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>plugin</span></a> version where I can found for example which version of <a href=\"https://mastodon.zaclys.com/tags/webpack\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>webpack</span></a> I can use with <a href=\"https://mastodon.zaclys.com/tags/angular8\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>angular8</span></a> and with which version of <a href=\"https://mastodon.zaclys.com/tags/typescript\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>typescript</span></a> and <a href=\"https://mastodon.zaclys.com/tags/nodejs\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>nodejs</span></a>. ( <a href=\"https://mastodon.zaclys.com/tags/realWorld\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>realWorld</span></a> example \ud83d\ude05 ).</p><p>A bit like <a href=\"https://gist.github.com/LayZeeDK/c822cc812f75bb07b7c55d07ba2719b3\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gist.github.com/LayZeeDK/c822c</span><span class=\"invisible\">c812f75bb07b7c55d07ba2719b3</span></a> </p><p>Any idea? </p><p><a href=\"https://mastodon.zaclys.com/tags/freeSoftware\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>freeSoftware</span></a> <a href=\"https://mastodon.zaclys.com/tags/openSource\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>openSource</span></a> <a href=\"https://mastodon.zaclys.com/tags/data\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>data</span></a> <a href=\"https://mastodon.zaclys.com/tags/web\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>web</span></a> <a href=\"https://mastodon.zaclys.com/tags/question\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>question</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@aeveltstra",
-        "display_name": "Andr\u00e9 E. Veltstra"
-      }
-    ]
-  },
-  {
-    "link": "https://gist.github.com/chockenberry/aec61eb3ee486813782c7260102646d5",
-    "title": "Script to toggle Finder icons",
-    "latest": "2023-03-16T20:04:46+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@chockenberry/110034753029571058",
-      "content": "<p>A shell script for those of you who want a pristine desktop with no icons - especially useful when you need to take screenshots and there's a crapload of work on your desktop:</p><p><a href=\"https://gist.github.com/chockenberry/aec61eb3ee486813782c7260102646d5\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gist.github.com/chockenberry/a</span><span class=\"invisible\">ec61eb3ee486813782c7260102646d5</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@chockenberry",
-        "display_name": "Craig Hockenberry"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/uscensusbureau/cvam",
-    "title": "GitHub - uscensusbureau/cvam: Coarsened Variable Modeling",
-    "latest": "2023-03-16T20:04:17+00:00",
-    "last_post": {
-      "url": "https://mastodon.online/@statstas/110034751160194072",
-      "content": "<p>Joe Schaffer gives a terrific talk on <a href=\"https://mastodon.online/tags/rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rstats</span></a> library(cvam) -- Coarsened Variable Analysis Modeling (or something like that). This seems like a very helpful tool for fitting GLMs and LCAs with arbitrary patterns of missing or partially informed categorical data. It is considered an official Census Bureau package as it is available from the CB's github <a href=\"https://github.com/uscensusbureau/cvam\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/uscensusbureau/cvam</span><span class=\"invisible\"></span></a>. The CRAN page is <a href=\"https://cran.r-project.org/web/packages/cvam/index.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">cran.r-project.org/web/package</span><span class=\"invisible\">s/cvam/index.html</span></a>.</p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.online/@statstas",
-        "display_name": "Stas Kolenikov"
       }
     ]
   }
