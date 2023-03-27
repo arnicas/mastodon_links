@@ -1,5 +1,254 @@
 [
   {
+    "link": "https://gist.github.com/mattdesl/7851b122a4d6d1d0d05d1f51bf3cd45f",
+    "title": "README.md",
+    "latest": "2023-03-27T09:54:34.371000+00:00",
+    "last_post": {
+      "url": "https://cornerof.world/objects/c3c1c68a-9b4e-4538-95ae-d6dea771201c",
+      "content": "Fixed a bug in canvas-sketch so that it can now use vanilla WebGPU contexts. \ud83d\udd27 The demo below renders a simple triangle\u2014the same JS script works client-side (browser) and server-side (Deno).\n\n\u2192 <a href=\"https://gist.github.com/mattdesl/7851b122a4d6d1d0d05d1f51bf3cd45f\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">https://gist.github.com/mattdesl/7851b122a4d6d1d0d05d1f51bf3cd45f</a>\n\n<a href=\"https://twitter.com/mattdesl/status/1640284195477155841\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">2023-03-27 09:26:41 UTC</a>"
+    },
+    "people": [
+      {
+        "url": "https://cornerof.world/users/mattdesl",
+        "display_name": "Matt DesLauriers"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/bdilday/GeomMLBStadiums",
+    "title": "GitHub - bdilday/GeomMLBStadiums: Geoms to draw MLB stadiums in ggplot2",
+    "latest": "2023-03-27T09:01:26.217000+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@smach/110092914086355887",
+      "content": "<p>{GeomMLBStadiums} is an <a href=\"https://fosstodon.org/tags/rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rstats</span></a> \ud83d\udce6 with geoms for visualizing each of the 30 Major League Baseball stadiums (and a generic one). By Ben Dilday<br><a href=\"https://github.com/bdilday/GeomMLBStadiums\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/bdilday/GeomMLBStad</span><span class=\"invisible\">iums</span></a><br>Example from repo:</p><p>ggplot() + <br>  geom_mlb_stadium(stadium_ids = \"all_mlb\", <br>                   stadium_segments = \"all\") + <br>  facet_wrap(~team) + <br>  coord_fixed() + <br>  theme_void()</p>"
+    },
+    "people": [
+      {
+        "url": "https://mstdn.social/@ramikrispin",
+        "display_name": "Rami Krispin :unverified:"
+      }
+    ]
+  },
+  {
+    "link": "https://observablehq.com/@fil/hello-thi-ng-grid-iterators",
+    "title": "observablehq.com/@fil/hello-th...",
+    "latest": "2023-03-27T07:50:07+00:00",
+    "last_post": {
+      "url": "https://vis.social/@fil/110089858288232112",
+      "content": "<p><span class=\"h-card\"><a href=\"https://mastodon.thi.ng/@toxi\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>toxi</span></a></span> I randomly stumbled on your post, and tried it out:<br><a href=\"https://observablehq.com/@fil/hello-thi-ng-grid-iterators\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">observablehq.com/@fil/hello-th</span><span class=\"invisible\">i-ng-grid-iterators</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.thi.ng/@toxi",
+        "display_name": "Karsten Schmidt"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/bigbluebutton/bigbluebutton/releases/tag/v2.6.0",
+    "title": "Release BigBlueButton 2.6.0 \u00b7 bigbluebutton/bigbluebutton",
+    "latest": "2023-03-27T06:51:12+00:00",
+    "last_post": {
+      "url": "https://hessen.social/@eLearningKS/110090071557060321",
+      "content": "<p><a href=\"https://hessen.social/tags/BigBlueButton\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>BigBlueButton</span></a> 2.6 released. </p><p>New <a href=\"https://hessen.social/tags/whiteboard\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>whiteboard</span></a> built on top of tldraw (<a href=\"https://m.youtube.com/watch?v=Uy1YFx91DSI\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">m.youtube.com/watch?v=Uy1YFx91</span><span class=\"invisible\">DSI</span></a>), <br>enhancements to breakout rooms, polling, layout management and other improvements:<br><a href=\"https://bigbluebutton.org/2023/03/23/bigbluebutton-releases-version-2-6/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">bigbluebutton.org/2023/03/23/b</span><span class=\"invisible\">igbluebutton-releases-version-2-6/</span></a></p><p>Release Notes: <br><a href=\"https://github.com/bigbluebutton/bigbluebutton/releases/tag/v2.6.0\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/bigbluebutton/bigbl</span><span class=\"invisible\">uebutton/releases/tag/v2.6.0</span></a></p><p><a href=\"https://hessen.social/tags/VideoConferencing\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>VideoConferencing</span></a> <a href=\"https://hessen.social/tags/Community\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Community</span></a> <a href=\"https://hessen.social/tags/OpenSource\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>OpenSource</span></a> <a href=\"https://hessen.social/tags/EdTech\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>EdTech</span></a> <a href=\"https://hessen.social/tags/VirtualClassroom\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>VirtualClassroom</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mamot.fr/@pierrepo",
+        "display_name": "Pierre Poulain"
+      },
+      {
+        "url": "https://fedihum.org/@christof",
+        "display_name": "Christof Sch\u00f6ch (moderator)"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/MarketingPipeline/Python-Selenium-Action",
+    "title": "GitHub - MarketingPipeline/Python-Selenium-Action: Run Selenium with Python via Github Actions using Headless or Non-Headless browsers!",
+    "latest": "2023-03-27T06:11:55+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@python_discussions/108410331403188418",
+      "content": "<p>Run Selenium with Python via Github Actions using Headless or Non-Headless browsers!</p><p><a href=\"https://github.com/MarketingPipeline/Python-Selenium-Action\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/MarketingPipeline/P</span><span class=\"invisible\">ython-Selenium-Action</span></a></p><p>Discussions: <a href=\"https://discu.eu/q/https://github.com/MarketingPipeline/Python-Selenium-Action\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">discu.eu/q/https://github.com/</span><span class=\"invisible\">MarketingPipeline/Python-Selenium-Action</span></a></p><p><a href=\"https://mastodon.social/tags/programming\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>programming</span></a> <a href=\"https://mastodon.social/tags/python\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>python</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@python_discussions",
+        "display_name": "Python Weekly"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/blackspike/protomap",
+    "title": "https://github.com/blackspike/protomap",
+    "latest": "2023-03-27T05:22:06+00:00",
+    "last_post": {
+      "url": "https://mastodon.cloud/@felixthehat/110090594493461251",
+      "content": "<p>got around to trying out <a href=\"https://protomaps.com\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">protomaps.com</span><span class=\"invisible\"></span></a> by <span class=\"h-card\"><a href=\"https://mastodon.social/@bdon\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>bdon</span></a></span> </p><p>It lets you generate a vector tileset of an area which you self-host \u2013 I made a set of Brighton &amp; Hove (just 2mb!) which you can plug in to leaflet.js /  MapLibre GL JS</p><p>Extremely impressed and that is the end of using google maps / mapbox for me!</p><p>See a demo of all the Brighton pubs + source:</p><p><a href=\"https://protomaps-pubs.netlify.app/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">protomaps-pubs.netlify.app/</span><span class=\"invisible\"></span></a></p><p><a href=\"https://github.com/blackspike/protomap\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/blackspike/protomap</span><span class=\"invisible\"></span></a></p><p><a href=\"https://mastodon.cloud/tags/webdev\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>webdev</span></a>  <a href=\"https://mastodon.cloud/tags/VueJS\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>VueJS</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@bdon",
+        "display_name": "bdon"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/FMInference/FlexGen",
+    "title": "GitHub - FMInference/FlexGen: Running large language models like OPT-175B/GPT-3 on a single GPU. Up to 100x faster than other offloading systems.",
+    "latest": "2023-03-27T04:55:03+00:00",
+    "last_post": {
+      "url": "https://die-partei.social/@hackernews/110093461301241619",
+      "content": "<p>FlexGen: Running large language models on a single GPU - <a href=\"https://github.com/FMInference/FlexGen\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/FMInference/FlexGen</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fedi.simonwillison.net/@simon",
+        "display_name": "Simon Willison"
+      },
+      {
+        "url": "https://sigmoid.social/@aran",
+        "display_name": "Aran Komatsuzaki"
+      },
+      {
+        "url": "https://die-partei.social/@hackernews",
+        "display_name": "Hackernews"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/b20n/Clothesline/commits?author=tlockney",
+    "title": "Commits \u00b7 b20n/Clothesline",
+    "latest": "2023-03-27T03:52:18+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@tlockney/110093214571689808",
+      "content": "<p>Sometimes I forget that I actually wrote some Clojure for a very brief bit: <a href=\"https://github.com/b20n/Clothesline/commits?author=tlockney\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/b20n/Clothesline/co</span><span class=\"invisible\">mmits?author=tlockney</span></a>. (That project is long dead and that version on Github is a copy of the original.)</p>"
+    },
+    "people": [
+      {
+        "url": "https://fosstodon.org/@tlockney",
+        "display_name": "Thomas Lockney"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/ropenscilabs/quartificate/",
+    "title": "GitHub - ropenscilabs/quartificate: Transform Google Docs into Quarto Books",
+    "latest": "2023-03-27T03:40:54+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@maelle/110077805435710174",
+      "content": "<p>When copy-pasting from Google Docs into RStudio visual editor isn't enough... WIP <a href=\"https://mastodon.social/tags/RStats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>RStats</span></a> \ud83d\udce6 to convert a Google Document to a Quarto book.</p><p><a href=\"https://github.com/ropenscilabs/quartificate/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/ropenscilabs/quarti</span><span class=\"invisible\">ficate/</span></a></p><p>\u26a0\ufe0f It works on an example doc and a doc of <span class=\"h-card\"><a href=\"https://fosstodon.org/@yabellini\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>yabellini</span></a></span>'s so really still experimental. \ud83d\ude05 </p><p>It uses <br>\ud83d\udee0\ufe0f {googledrive}<br>\ud83d\udee0\ufe0f Pandoc via {pandoc}<br>\ud83d\udee0\ufe0f {xml2}</p>"
+    },
+    "people": [
+      {
+        "url": "https://ecoevo.social/@naupaka",
+        "display_name": "Naupaka Zimmerman"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/MySong7NLPer/ChatGPT_as_",
+    "title": "github.com/MySong7NLPer/ChatGP...",
+    "latest": "2023-03-27T03:28:34+00:00",
+    "last_post": {
+      "url": "https://creative.ai/@arxiv_cl/110093121225335785",
+      "content": "<p>\ud83d\udcdd Is ChatGPT a Good Keyphrase Generator? A Preliminary Study \ud83d\udcda</p><p>\"ChatGPT is an unsupervised language model that was developed by OpenAI based on the Generative Pre-Trained Transformer 3 (GPT-3) model.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/MySong7NLPer/ChatGPT_as_\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/MySong7NLPer/ChatGP</span><span class=\"invisible\">T_as_</span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2303.13001v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2303.13001v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://creative.ai/@arxiv_cl",
+        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/github/dmca/blob/master/2023/03/2023-03-24-twitter.md",
+    "title": "dmca/2023-03-24-twitter.md at master \u00b7 github/dmca",
+    "latest": "2023-03-27T02:33:56+00:00",
+    "last_post": {
+      "url": "https://hachyderm.io/@ygalanter/110092314785268580",
+      "content": "<p><span class=\"h-card\"><a href=\"https://mastodon.laurenweinstein.org/@lauren\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>lauren</span></a></span> Also</p><p>TWITTER: We will release our code as open source.</p><p>* twitter code gets leaked online *</p><p>TWITTER: No, not like that <a href=\"https://github.com/github/dmca/blob/master/2023/03/2023-03-24-twitter.md\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/github/dmca/blob/ma</span><span class=\"invisible\">ster/2023/03/2023-03-24-twitter.md</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://indieweb.social/@tchambers",
+        "display_name": "Tim Chambers"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/R9295/customs-inspector",
+    "title": "GitHub - R9295/customs-inspector: Audit package updates with poetry",
+    "latest": "2023-03-27T02:10:56+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@python_discussions/110092816020881402",
+      "content": "<p>Customs Inspector - Easy manual auditing of Python Poetry package updates</p><p><a href=\"https://github.com/R9295/customs-inspector\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/R9295/customs-inspe</span><span class=\"invisible\">ctor</span></a></p><p>Discussions: <a href=\"https://discu.eu/q/https://github.com/R9295/customs-inspector\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">discu.eu/q/https://github.com/</span><span class=\"invisible\">R9295/customs-inspector</span></a></p><p><a href=\"https://mastodon.social/tags/programming\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>programming</span></a> <a href=\"https://mastodon.social/tags/python\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>python</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@python_discussions",
+        "display_name": "Python Weekly"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/simonw/datasette/issues/1608#issuecomment-1484274796",
+    "title": "Documentation should clarify /stable/ vs /latest/ \u00b7 Issue #1608 \u00b7 simonw/datasette",
+    "latest": "2023-03-26T23:47:30+00:00",
+    "last_post": {
+      "url": "https://fedi.simonwillison.net/@simon/110092251979066212",
+      "content": "<p>Here's a useful ChatGPT prompt:</p><p>&gt; ... paste in some JavaScript/jQuery code ...<br>&gt;<br>&gt; Rewrite this to use vanilla JavaScript, no jQuery</p><p>Just used that to port some older customization code to the latest Datasette documentation theme: <a href=\"https://github.com/simonw/datasette/issues/1608#issuecomment-1484274796\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/simonw/datasette/is</span><span class=\"invisible\">sues/1608#issuecomment-1484274796</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@jjelosua",
+        "display_name": "Juan Elosua"
+      },
+      {
+        "url": "https://social.yesterweb.org/@triptych",
+        "display_name": "Andrew Wooldridge"
+      },
+      {
+        "url": "https://fedi.simonwillison.net/@simon",
+        "display_name": "Simon Willison"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/gd3kr/BlenderGPT",
+    "title": "GitHub - gd3kr/BlenderGPT: Use commands in English to control Blender with OpenAI's GPT-4",
+    "latest": "2023-03-26T23:25:03+00:00",
+    "last_post": {
+      "url": "https://die-partei.social/@hackernews/110092163682583109",
+      "content": "<p>BlenderGPT: Use commands in English to control Blender with OpenAI's GPT-4 - <a href=\"https://github.com/gd3kr/BlenderGPT\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/gd3kr/BlenderGPT</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://die-partei.social/@hackernews",
+        "display_name": "Hackernews"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/openai/chatgpt-retrieval-plugin",
+    "title": "GitHub - openai/chatgpt-retrieval-plugin",
+    "latest": "2023-03-26T23:03:26+00:00",
+    "last_post": {
+      "url": "https://fediscience.org/@NikaShilobod/110092078729580020",
+      "content": "<p><span class=\"h-card\"><a href=\"https://social.coop/@MichaelTBacon\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>MichaelTBacon</span></a></span></p><p>Yeah! This is what I'm really excited about. :) I am just pining to get the plugins announced for chatgpt so I can argue with myself though with my Obsidian vault. \ud83d\ude05 The specialised ones are so amazing!</p><p><a href=\"https://github.com/openai/chatgpt-retrieval-plugin\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/openai/chatgpt-retr</span><span class=\"invisible\">ieval-plugin</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://die-partei.social/@hackernews",
+        "display_name": "Hackernews"
+      },
+      {
+        "url": "https://fediscience.org/@NikaShilobod",
+        "display_name": "Nika Shilobod"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/hrbrmstr/lit-webr-ojs-plot",
     "title": "github.com/hrbrmstr/lit-webr-o...",
     "latest": "2023-03-26T21:56:58+00:00",
@@ -944,21 +1193,6 @@
     ]
   },
   {
-    "link": "https://github.com/openai/chatgpt-retrieval-plugin",
-    "title": "GitHub - openai/chatgpt-retrieval-plugin",
-    "latest": "2023-03-23T19:15:02+00:00",
-    "last_post": {
-      "url": "https://die-partei.social/@hackernews/110074193673180974",
-      "content": "<p>ChatGPT Retrieval Plugin - <a href=\"https://github.com/openai/chatgpt-retrieval-plugin\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/openai/chatgpt-retr</span><span class=\"invisible\">ieval-plugin</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://die-partei.social/@hackernews",
-        "display_name": "Hackernews"
-      }
-    ]
-  },
-  {
     "link": "https://github.com/fxsjy/jieba",
     "title": "GitHub - fxsjy/jieba: \u7ed3\u5df4\u4e2d\u6587\u5206\u8bcd",
     "latest": "2023-03-23T18:29:37+00:00",
@@ -1360,21 +1594,6 @@
       {
         "url": "https://creative.ai/@arxiv_cl",
         "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/bigbluebutton/bigbluebutton/releases/tag/v2.6.0",
-    "title": "Release BigBlueButton 2.6.0 \u00b7 bigbluebutton/bigbluebutton",
-    "latest": "2023-03-22T06:57:17+00:00",
-    "last_post": {
-      "url": "https://mastodon.mim-libre.fr/@lelibreedu/110063286136771311",
-      "content": "<p>Nouvelle version majeure 2.6 pour BigBlueButton, avec notamment :<br>- int\u00e9gration Nextcloud<br>- nouveau tableau blanc<br>- r\u00e9cup\u00e9ration des travaux depuis les ateliers<br>-  t\u00e9l\u00e9chargement de la pr\u00e9sentation annot\u00e9e<br>- enregistrement des sessions en fichier vid\u00e9o</p><p>Merci qui ? ;)</p><p><a href=\"https://github.com/bigbluebutton/bigbluebutton/releases/tag/v2.6.0\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/bigbluebutton/bigbl</span><span class=\"invisible\">uebutton/releases/tag/v2.6.0</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mamot.fr/@pierrepo",
-        "display_name": "Pierre Poulain"
       }
     ]
   },
@@ -2937,217 +3156,6 @@
       {
         "url": "https://vis.social/@seblammers",
         "display_name": "Sebastian Lammers"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/pandas-dev/pandas/issues/new/choose",
-    "title": "github.com/pandas-dev/pandas/i...",
-    "latest": "2023-03-17T08:14:53+00:00",
-    "last_post": {
-      "url": "https://fosstodon.org/@pandas_dev/110035389824005305",
-      "content": "<p>The second release candidate of <a href=\"https://fosstodon.org/tags/pandas\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>pandas</span></a> 2.0 has just been published.</p><p>We recommend all users planning to upgrade to pandas 2.0 to try it with their code bases, and report any possible issue before the final release.</p><p>It can be installed with:</p><p>mamba install -c conda-forge/label/pandas_rc pandas==2.0.0rc1</p><p>or</p><p>python -m pip install --upgrade --pre pandas==2.0.0rc1</p><p>Issues can be reported at: <a href=\"https://github.com/pandas-dev/pandas/issues/new/choose\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/pandas-dev/pandas/i</span><span class=\"invisible\">ssues/new/choose</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://chaos.social/@noatamir",
-        "display_name": "Noa :python: \ud83c\udff3\ufe0f\u200d\ud83c\udf08"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/ChenyangQiQi/FateZero",
-    "title": "github.com/ChenyangQiQi/FateZe...",
-    "latest": "2023-03-17T07:32:44+00:00",
-    "last_post": {
-      "url": "https://sigmoid.social/@aran/110037458231157400",
-      "content": "<p>Fate/Zero: Fusing Attentions for Zero-shot Text-based Video Editing</p><p>proj: <a href=\"https://fate-zero-edit.github.io/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">fate-zero-edit.github.io/</span><span class=\"invisible\"></span></a><br>repo: <a href=\"https://github.com/ChenyangQiQi/FateZero\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/ChenyangQiQi/FateZe</span><span class=\"invisible\">ro</span></a><br>abs: <a href=\"https://arxiv.org/abs/2303.09535\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2303.09535</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://sigmoid.social/@aran",
-        "display_name": "Aran Komatsuzaki"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/tan92hl/Complex-Question-Answering-Evaluation-of-ChatGPT",
-    "title": "GitHub - tan92hl/Complex-Question-Answering-Evaluation-of-ChatGPT: A large-scale complex question answering evaluation of ChatGPT and similar large-language models",
-    "latest": "2023-03-17T06:24:04+00:00",
-    "last_post": {
-      "url": "https://creative.ai/@arxiv_cl/110037188256446530",
-      "content": "<p>\ud83d\udcdd Evaluation of ChatGPT as a Question Answering System for Answering Complex Questions \ud83d\udcda</p><p>\"ChatGPT is a knowledge-based question answering framework that is evaluated on 8 complex question answering datasets, including 6 English and 2 multilingual datasets with approximately 190,000 test cases.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/tan92hl/Complex-Question-Answering-Evaluation-of-ChatGPT\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/tan92hl/Complex-Que</span><span class=\"invisible\">stion-Answering-Evaluation-of-ChatGPT</span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2303.07992v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2303.07992v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://creative.ai/@arxiv_cl",
-        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/ror-community/ror-updates/releases/tag/v1.21",
-    "title": "Release v1.21 \u00b7 ror-community/ror-updates",
-    "latest": "2023-03-17T05:35:29+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@ResearchOrgs/110035673756917461",
-      "content": "<p>ROR release v1.21 is live \ud83c\udf89 This release includes 104 additions and 265 updates, bringing the total number of registry records to 104,834. It also includes our first-ever CSV version of the data file! Release notes: <a href=\"https://github.com/ror-community/ror-updates/releases/tag/v1.21\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/ror-community/ror-u</span><span class=\"invisible\">pdates/releases/tag/v1.21</span></a>. Data dump: <a href=\"https://doi.org/10.5281/zenodo.7742581\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">doi.org/10.5281/zenodo.7742581</span><span class=\"invisible\"></span></a> \ud83e\udd81</p>"
-    },
-    "people": [
-      {
-        "url": "https://fedihum.org/@christof",
-        "display_name": "Christof Sch\u00f6ch (moderator)"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/npmaile/blog/blob/main/posts/3.%20The%20Secret%20World%20of%20Programmers.md",
-    "title": "blog/3. The Secret World of Programmers.md at main \u00b7 npmaile/blog",
-    "latest": "2023-03-17T04:20:02+00:00",
-    "last_post": {
-      "url": "https://die-partei.social/@hackernews/110036700504336772",
-      "content": "<p>Speak English to me, The secret World of Programmers - <a href=\"https://github.com/npmaile/blog/blob/main/posts/3.%20The%20Secret%20World%20of%20Programmers.md\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/npmaile/blog/blob/m</span><span class=\"invisible\">ain/posts/3.%20The%20Secret%20World%20of%20Programmers.md</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://die-partei.social/@hackernews",
-        "display_name": "Hackernews"
-      }
-    ]
-  },
-  {
-    "link": "https://gitlab.com/thomaskole/blender-seams-to-sewing-pattern",
-    "title": "Thomas Kole / blender Seams to Sewing pattern \u00b7 GitLab",
-    "latest": "2023-03-17T03:12:17+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@cd0/110035801398156815",
-      "content": "<p>If you're looking to use <a href=\"https://mastodon.social/tags/blender\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>blender</span></a> to create <a href=\"https://mastodon.social/tags/sewing\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>sewing</span></a> patterns for real life, I found an addon here:</p><p><a href=\"https://gitlab.com/thomaskole/blender-seams-to-sewing-pattern\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gitlab.com/thomaskole/blender-</span><span class=\"invisible\">seams-to-sewing-pattern</span></a></p><p> <a href=\"https://m.youtube.com/watch?v=xp5MxI5hUjI\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">m.youtube.com/watch?v=xp5MxI5h</span><span class=\"invisible\">UjI</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.art/@PixelAndPolyCurator",
-        "display_name": "Pixel & Poly Curator"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/mastodon/mastodon/pull/23320",
-    "title": "Change auto-deletion throttling constants to better scale with server size by ClearlyClaire \u00b7 Pull Request #23320 \u00b7 mastodon/mastodon",
-    "latest": "2023-03-17T02:47:21+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@MattHodges/110036336106527891",
-      "content": "<p>Looks like there *might* be a fix to the never-firing \"Automated post deletion\" feature in the latest release of <a href=\"https://mastodon.social/tags/mastodon\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>mastodon</span></a> </p><p><a href=\"https://github.com/mastodon/mastodon/pull/23320\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/mastodon/mastodon/p</span><span class=\"invisible\">ull/23320</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@MattHodges",
-        "display_name": "Matt Hodges"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/mlc-ai/web-stable-diffusion",
-    "title": "github.com/mlc-ai/web-stable-d...",
-    "latest": "2023-03-17T02:15:02+00:00",
-    "last_post": {
-      "url": "https://die-partei.social/@hackernews/110036209005740799",
-      "content": "<p>Web Stable Diffusion - <a href=\"https://github.com/mlc-ai/web-stable-diffusion\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/mlc-ai/web-stable-d</span><span class=\"invisible\">iffusion</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.online/@vladiliescu",
-        "display_name": "Vlad Iliescu \ud83d\udc2c"
-      },
-      {
-        "url": "https://fedi.simonwillison.net/@simon",
-        "display_name": "Simon Willison"
-      },
-      {
-        "url": "https://die-partei.social/@hackernews",
-        "display_name": "Hackernews"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/simonw/datasette-lite/issues/62",
-    "title": "github.com/simonw/datasette-li...",
-    "latest": "2023-03-17T01:22:37+00:00",
-    "last_post": {
-      "url": "https://fosstodon.org/@datasette/110036002915847120",
-      "content": "<p>Two new tiny features for <a href=\"https://lite.datasette.io/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">lite.datasette.io/</span><span class=\"invisible\"></span></a> today:</p><p>- The ?json= argument can now be passed a URL to a newline-delimited JSON file, in addition to existing suppor for regular JSON files: <a href=\"https://github.com/simonw/datasette-lite/issues/62\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/simonw/datasette-li</span><span class=\"invisible\">te/issues/62</span></a><br>- You can now pass ?analytics=off to disable Plausible analytics entirely: <a href=\"https://github.com/simonw/datasette-lite/issues/61\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/simonw/datasette-li</span><span class=\"invisible\">te/issues/61</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://indieweb.social/@tchambers",
-        "display_name": "Tim Chambers"
-      },
-      {
-        "url": "https://fosstodon.org/@datasette",
-        "display_name": "Datasette"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/simonw/datasette-lite/issues/61",
-    "title": "github.com/simonw/datasette-li...",
-    "latest": "2023-03-17T01:22:37+00:00",
-    "last_post": {
-      "url": "https://fosstodon.org/@datasette/110036002915847120",
-      "content": "<p>Two new tiny features for <a href=\"https://lite.datasette.io/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">lite.datasette.io/</span><span class=\"invisible\"></span></a> today:</p><p>- The ?json= argument can now be passed a URL to a newline-delimited JSON file, in addition to existing suppor for regular JSON files: <a href=\"https://github.com/simonw/datasette-lite/issues/62\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/simonw/datasette-li</span><span class=\"invisible\">te/issues/62</span></a><br>- You can now pass ?analytics=off to disable Plausible analytics entirely: <a href=\"https://github.com/simonw/datasette-lite/issues/61\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/simonw/datasette-li</span><span class=\"invisible\">te/issues/61</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://indieweb.social/@tchambers",
-        "display_name": "Tim Chambers"
-      },
-      {
-        "url": "https://fosstodon.org/@datasette",
-        "display_name": "Datasette"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/retrohacker/template",
-    "title": "GitHub - retrohacker/template: A simple framework for webapps",
-    "latest": "2023-03-17T01:15:02+00:00",
-    "last_post": {
-      "url": "https://die-partei.social/@hackernews/110035973085613486",
-      "content": "<p>Template \u2013 A Simple Framework for Webapps - <a href=\"https://github.com/retrohacker/template\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/retrohacker/templat</span><span class=\"invisible\">e</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://die-partei.social/@hackernews",
-        "display_name": "Hackernews"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/mpoon/gpt-repository-loader",
-    "title": "GitHub - mpoon/gpt-repository-loader",
-    "latest": "2023-03-17T01:15:02+00:00",
-    "last_post": {
-      "url": "https://die-partei.social/@hackernews/110035973097198810",
-      "content": "<p>Show HN: GPT Repo Loader \u2013 load entire code repos into GPT prompts - <a href=\"https://github.com/mpoon/gpt-repository-loader\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/mpoon/gpt-repositor</span><span class=\"invisible\">y-loader</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://die-partei.social/@hackernews",
-        "display_name": "Hackernews"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/NordSecurity",
-    "title": "Nord Security",
-    "latest": "2023-03-16T21:33:36+00:00",
-    "last_post": {
-      "url": "https://toot.works/@joe/110022370640230356",
-      "content": "<p>Hmm!  Nord VPN just open-sourced all the things, under GNU General Public License v3.0.</p><p><a href=\"https://github.com/NordSecurity\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/NordSecurity</span><span class=\"invisible\"></span></a></p><p><a href=\"https://toot.works/tags/Nord\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Nord</span></a> <a href=\"https://toot.works/tags/NordVPN\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>NordVPN</span></a> <a href=\"https://toot.works/tags/NordSecurity\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>NordSecurity</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://macaw.social/@andypiper",
-        "display_name": "Andy Piper"
       }
     ]
   }
