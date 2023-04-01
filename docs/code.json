@@ -1,23 +1,61 @@
 [
   {
-    "link": "https://github.com/perechen/htr_lexicography",
-    "title": "GitHub - perechen/htr_lexicography",
-    "latest": "2023-04-01T08:04:53+00:00",
+    "link": "https://github.com/twitter/the-algorithm/commit/ec83d01dcaebf369444d75ed04b3625a0a645eb9",
+    "title": "Remove stats collection code measuring how often Tweets from specific\u2026 \u00b7 twitter/the-algorithm@ec83d01",
+    "latest": "2023-04-01T21:49:45+00:00",
     "last_post": {
-      "url": "https://creative.ai/@arxiv_cl/110122519352778390",
-      "content": "<p>\ud83d\udcdd Scalable Handwritten Text Recognition System for Lexicographic Sources of Under-Resourced Languages and Alphabets \ud83d\udcda\ud83d\udd2d</p><p>\"Uses a tailored handwritten text recognition model to decipher the handwritten content from index cards, designed to be used in combination with a constrained Word Beam Search post-processing step to find the matching dictionary entry.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a> <a href=\"https://creative.ai/tags/CV\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CV</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/perechen/htr_lexicography\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/perechen/htr_lexico</span><span class=\"invisible\">graphy</span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2303.16256v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2303.16256v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
+      "url": "https://hachyderm.io/@ygalanter/110124224281711048",
+      "content": "<p>This is hilarious, Twitter had published the algorithm that recommends/promotes tweets, and user types there were... special (one of them was \"author_is_elon\" ).</p><p>And then they they force-pushed commit to main to remove this The comments on that commit are a sight to behold. </p><p><a href=\"https://github.com/twitter/the-algorithm/commit/ec83d01dcaebf369444d75ed04b3625a0a645eb9\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/twitter/the-algorit</span><span class=\"invisible\">hm/commit/ec83d01dcaebf369444d75ed04b3625a0a645eb9</span></a></p>"
     },
     "people": [
       {
-        "url": "https://creative.ai/@arxiv_cl",
-        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
+        "url": "https://indieweb.social/@tchambers",
+        "display_name": "Tim Chambers"
+      },
+      {
+        "url": "https://saturation.social/@irwin",
+        "display_name": "irwin"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/openai/openai-cookbook/blob/main/examples/Question_answering_using_embeddings.ipynb",
+    "title": "openai-cookbook/Question_answering_using_embeddings.ipynb at main \u00b7 openai/openai-cookbook",
+    "latest": "2023-04-01T21:37:27+00:00",
+    "last_post": {
+      "url": "https://vis.social/@odbol/110125714442646087",
+      "content": "<p>Embedding is the new hotness: if a LLM doesn't know about some facts or article or whatever, you search for some article paragraphs that look similar to the question. Then include those as context when asking the AI so it can infer the knowledge <a href=\"https://vis.social/tags/ai\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ai</span></a> <a href=\"https://vis.social/tags/chatgpt\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>chatgpt</span></a> <a href=\"https://vis.social/tags/ml\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ml</span></a>  <a href=\"https://github.com/openai/openai-cookbook/blob/main/examples/Question_answering_using_embeddings.ipynb\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/openai/openai-cookb</span><span class=\"invisible\">ook/blob/main/examples/Question_answering_using_embeddings.ipynb</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://qoto.org/@hjcksn",
+        "display_name": "Helen Jackson"
+      },
+      {
+        "url": "https://vis.social/@odbol",
+        "display_name": "odbol"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/twitter/the-algorithm/issues/236",
+    "title": "author_is_elon \u00b7 Issue #236 \u00b7 twitter/the-algorithm",
+    "latest": "2023-04-01T20:29:47+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@jbaert/110119627387351933",
+      "content": "<p>Haha <a href=\"https://github.com/twitter/the-algorithm/issues/236\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/twitter/the-algorit</span><span class=\"invisible\">hm/issues/236</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://vis.social/@maarten",
+        "display_name": "Maarten Lambrechts"
       }
     ]
   },
   {
     "link": "https://observablehq.com/@observablehq/introdwjavascript?utm_medium=social&amp;utm_campaign=javascriptcourse23&amp;utm_source=mastodon",
     "title": "Course: Introduction to data wrangling and analysis in JavaScript",
-    "latest": "2023-04-01T07:04:06+00:00",
+    "latest": "2023-04-01T20:09:26+00:00",
     "last_post": {
       "url": "https://mastodon.social/@allison_horst/110119160603614571",
       "content": "<p>\ud83d\udce2 New course announcement: I'm teaching a free, beginner friendly \"Intro to data wrangling &amp; analysis in JavaScript\" course in April! If you've ever wanted to dip your toes into JS (...and to get started with <span class=\"h-card\"><a href=\"https://vis.social/@observablehq\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>observablehq</span></a></span>, Observable Plot, JavaScript basics, &amp; essential wrangling &amp; analysis methods to explore data!), this short course (4x 1-hour sessions) is for you \ud83d\udc9a</p><p>\u2728Register to join! </p><p><a href=\"https://observablehq.com/@observablehq/introdwjavascript?utm_medium=social&amp;utm_campaign=javascriptcourse23&amp;utm_source=mastodon\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">observablehq.com/@observablehq</span><span class=\"invisible\">/introdwjavascript?utm_medium=social&amp;utm_campaign=javascriptcourse23&amp;utm_source=mastodon</span></a></p>"
@@ -38,6 +76,194 @@
       {
         "url": "https://mastodon.nz/@ojala",
         "display_name": "Luis Apiolaza"
+      },
+      {
+        "url": "https://fosstodon.org/@grrrck",
+        "display_name": "Garrick Aden-Buie"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/twitter/the-algorithm",
+    "title": "Search \u00b7 elon \u00b7 twitter/the-algorithm",
+    "latest": "2023-04-01T20:05:09+00:00",
+    "last_post": {
+      "url": "https://creative.ai/@alexjc/110125351552938325",
+      "content": "<p>RT @vboykis@twitter.com</p><p>Going to be going through the Twitter codebase for a long time, this is truly a gift for recsys nerds. I've only browsed it so far but seems very standard recsys-y components, rankers, filters, generators, Kafka log collection, and timeline construction. <a href=\"https://github.com/twitter/the-algorithm\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/twitter/the-algorit</span><span class=\"invisible\">hm</span></a></p><p>\ud83d\udc26\ud83d\udd17: <a href=\"https://twitter.com/vboykis/status/1641883618602635269\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">twitter.com/vboykis/status/164</span><span class=\"invisible\">1883618602635269</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@sgillies",
+        "display_name": "Sean Gillies"
+      },
+      {
+        "url": "https://mastodon.social/@kjhealy",
+        "display_name": "Kieran Healy"
+      },
+      {
+        "url": "https://mastodon.social/@aeveltstra",
+        "display_name": "\u00c6n\u00f0r E. Feldstraw"
+      },
+      {
+        "url": "https://stefanbohacek.online/@stefan",
+        "display_name": "Stefan Bohacek"
+      },
+      {
+        "url": "https://social.librem.one/@vincent",
+        "display_name": "Vincent Cloutier"
+      },
+      {
+        "url": "https://mastodon.social/@igor",
+        "display_name": "Igor Brigadir"
+      },
+      {
+        "url": "https://hci.social/@bkeegan",
+        "display_name": "Brian C. Keegan"
+      },
+      {
+        "url": "https://indieweb.social/@tchambers",
+        "display_name": "Tim Chambers"
+      },
+      {
+        "url": "https://creative.ai/@alexjc",
+        "display_name": "Alex J. Champandard \ud83c\udf31"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/vipulraheja/IteraTeR/",
+    "title": "github.com/vipulraheja/IteraTe...",
+    "latest": "2023-04-01T20:04:52+00:00",
+    "last_post": {
+      "url": "https://creative.ai/@arxiv_cl/110125350410120558",
+      "content": "<p>\ud83d\udcdd Text Revision in Scientific Writing Assistance: An Overview \ud83d\udcda</p><p>\"Based on a corpus of 22,000 scientific articles from various sources (ACL Anthology, PubMed, arXiv, etc.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/vipulraheja/IteraTeR/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/vipulraheja/IteraTe</span><span class=\"invisible\">R/</span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2303.16726v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2303.16726v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://creative.ai/@arxiv_cl",
+        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/ggerganov/llama.cpp/discussions/638#discussioncomment-5492916",
+    "title": "30B model now needs only 5.8GB of RAM? How? \u00b7 ggerganov/llama.cpp \u00b7 Discussion #638",
+    "latest": "2023-04-01T19:17:17+00:00",
+    "last_post": {
+      "url": "https://creative.ai/@alexjc/110125163282289515",
+      "content": "<p>I honestly don't understand how it's possible for LLaMa's 30B parameters to be mmap'd from disk, then memory profiling reveals that only 1.6Gb of data of the 20Gb file need to be loaded to simulate?</p><p>There's nothing about LLaMa's architecture that's designed to be sparse...</p><p>RT @JustineTunney@twitter.com</p><p>@drenerbas@twitter.com @alicemazzy@twitter.com See also <a href=\"https://github.com/ggerganov/llama.cpp/discussions/638#discussioncomment-5492916\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/ggerganov/llama.cpp</span><span class=\"invisible\">/discussions/638#discussioncomment-5492916</span></a></p><p>\ud83d\udc26\ud83d\udd17: <a href=\"https://twitter.com/JustineTunney/status/1641894994670915584\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">twitter.com/JustineTunney/stat</span><span class=\"invisible\">us/1641894994670915584</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://creative.ai/@alexjc",
+        "display_name": "Alex J. Champandard \ud83c\udf31"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/pyOpenSci/software-submission/issues/68",
+    "title": "crowsetta: A Python tool to work with any format for annotating animal vocalizations and bioacoustics data. \u00b7 Issue #68 \u00b7 pyOpenSci/software-submission",
+    "latest": "2023-04-01T19:12:47+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@nicholdav/110125038059069858",
+      "content": "<p>Really proud to have Crowsetta accepted by <span class=\"h-card\"><a href=\"https://fosstodon.org/@pyOpenSci\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>pyOpenSci</span></a></span>. Huge thanks to reviewers Tessa Rhinehart &amp; scikit-maad dev Sylvain Haupert, editor Chia Marmo, &amp; parselmouth dev Yannick Jadoul for expert advice on Praat TextGrids!</p><p>My 1st <span class=\"h-card\"><a href=\"https://fosstodon.org/@joss\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>joss</span></a></span> pub too!</p><p><a href=\"https://github.com/pyOpenSci/software-submission/issues/68\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/pyOpenSci/software-</span><span class=\"invisible\">submission/issues/68</span></a></p><p>If you use tools like Audacity, Praat or Raven to annotate bioacoustics/speech data and you've been wanting to work with the annotations in <a href=\"https://fosstodon.org/tags/Python\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Python</span></a>, it just got a lot easier!</p>"
+    },
+    "people": [
+      {
+        "url": "https://dair-community.social/@trochee",
+        "display_name": "Jeremy Kahn"
+      }
+    ]
+  },
+  {
+    "link": "https://gitlab.com/schrieveslaach/nextcloud-open-document-forms/-/issues/1",
+    "title": "Rust Binding for UNO to Make all Calls Save (#1) \u00b7 Issues \u00b7 schrieveslaach / Nextcloud Open Document Forms \u00b7 GitLab",
+    "latest": "2023-04-01T19:09:47+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@schrieveslaach/109590567486637807",
+      "content": "<p>Wouldn't it be cool if <a href=\"https://fosstodon.org/tags/GitLab\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>GitLab</span></a>, <a href=\"https://fosstodon.org/tags/GitHub\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>GitHub</span></a>, <a href=\"https://fosstodon.org/tags/codeberg\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>codeberg</span></a>, and any other code hosting platform would speak <a href=\"https://fosstodon.org/tags/ActivityPub\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ActivityPub</span></a> so that issue discussions could be linked to each other across platforms? An extension to the <a href=\"https://fosstodon.org/tags/fediverse\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>fediverse</span></a>. </p><p>Today I wanted to share an idea (this one <a href=\"https://gitlab.com/schrieveslaach/nextcloud-open-document-forms/-/issues/1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gitlab.com/schrieveslaach/next</span><span class=\"invisible\">cloud-open-document-forms/-/issues/1</span></a> ) with a project over on GitHub. Would be cool if the idea would be automatically and semantically linked when I mentioned there.</p>"
+    },
+    "people": [
+      {
+        "url": "https://data-folks.masto.host/@ChristianNolan",
+        "display_name": "Christian Minich"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/corkami/pics/blob/master/binary/README.md",
+    "title": "pics/README.md at master \u00b7 corkami/pics",
+    "latest": "2023-04-01T18:39:47+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@Ange/110124975099297790",
+      "content": "<p>I updated my format page with more info (containers, full names, chronology\u2026)<br><a href=\"https://github.com/corkami/pics/blob/master/binary/README.md\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/corkami/pics/blob/m</span><span class=\"invisible\">aster/binary/README.md</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://ciberlandia.pt/@villares",
+        "display_name": "Alexandre B A Villares \ud83d\udc0d"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/veekaybee/awesome-twitter-algo",
+    "title": "GitHub - veekaybee/awesome-twitter-algo: The release of the Twitter algorithm, annotated for recsys",
+    "latest": "2023-04-01T17:01:35+00:00",
+    "last_post": {
+      "url": "https://jawns.club/@vicki/110124629718508487",
+      "content": "<p>The Twitter algorithm dropped yesterday, and now it\u2019s time to reverse-engineer. <span class=\"h-card\"><a href=\"https://mastodon.social/@igor\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>igor</span></a></span>  and I are starting to make sense of what\u2019s actually been released, how it compares to what the prod codebase might be and giving the released code some context. </p><p>If you know <a href=\"https://jawns.club/tags/search\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>search</span></a>, <a href=\"https://jawns.club/tags/recsys\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>recsys</span></a>, or <a href=\"https://jawns.club/tags/engineering\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>engineering</span></a> and want to contribute to make what\u2019s been released actually consumable for public understanding, please join us, contributions welcome.</p><p><a href=\"https://github.com/veekaybee/awesome-twitter-algo\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/veekaybee/awesome-t</span><span class=\"invisible\">witter-algo</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://octodon.social/@craignicol",
+        "display_name": "Craig Nicol"
+      },
+      {
+        "url": "https://hci.social/@bkeegan",
+        "display_name": "Brian C. Keegan"
+      },
+      {
+        "url": "https://mastodon.thi.ng/@toxi",
+        "display_name": "Karsten Schmidt"
+      },
+      {
+        "url": "https://mastodon.social/@gvwilson",
+        "display_name": "Greg Wilson"
+      },
+      {
+        "url": "https://sigmoid.social/@roban",
+        "display_name": "Roban Hultman Kramer"
+      },
+      {
+        "url": "https://sigmoid.social/@petersforbes",
+        "display_name": "Peter Forbes"
+      },
+      {
+        "url": "https://hcommons.social/@scott_bot",
+        "display_name": "@scott_bot \ud83e\udd39"
+      },
+      {
+        "url": "https://an.errant.cloud/@ted",
+        "display_name": "Ted Han \u2605 \u97d3\u8056\u5b89"
+      },
+      {
+        "url": "https://jawns.club/@vicki",
+        "display_name": "Vicki Boykis"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/perechen/htr_lexicography",
+    "title": "GitHub - perechen/htr_lexicography",
+    "latest": "2023-04-01T08:04:53+00:00",
+    "last_post": {
+      "url": "https://creative.ai/@arxiv_cl/110122519352778390",
+      "content": "<p>\ud83d\udcdd Scalable Handwritten Text Recognition System for Lexicographic Sources of Under-Resourced Languages and Alphabets \ud83d\udcda\ud83d\udd2d</p><p>\"Uses a tailored handwritten text recognition model to decipher the handwritten content from index cards, designed to be used in combination with a constrained Word Beam Search post-processing step to find the matching dictionary entry.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a> <a href=\"https://creative.ai/tags/CV\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CV</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/perechen/htr_lexicography\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/perechen/htr_lexico</span><span class=\"invisible\">graphy</span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2303.16256v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2303.16256v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://creative.ai/@arxiv_cl",
+        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
       }
     ]
   },
@@ -91,21 +317,6 @@
       {
         "url": "https://hci.social/@bkeegan",
         "display_name": "Brian C. Keegan"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/twitter/the-algorithm/commit/ec83d01dcaebf369444d75ed04b3625a0a645eb9",
-    "title": "Remove stats collection code measuring how often Tweets from specific\u2026 \u00b7 twitter/the-algorithm@ec83d01",
-    "latest": "2023-04-01T04:42:11+00:00",
-    "last_post": {
-      "url": "https://hachyderm.io/@nova/110121675203878027",
-      "content": "<p>The commit where Musk force pushed to main to remove himself from \"the algorithm\" is now going to be my favorite commit to use while developing at work. Thanks. </p><p><a href=\"https://github.com/twitter/the-algorithm/commit/ec83d01dcaebf369444d75ed04b3625a0a645eb9\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/twitter/the-algorit</span><span class=\"invisible\">hm/commit/ec83d01dcaebf369444d75ed04b3625a0a645eb9</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://indieweb.social/@tchambers",
-        "display_name": "Tim Chambers"
       }
     ]
   },
@@ -289,49 +500,6 @@
       {
         "url": "https://die-partei.social/@hackernews",
         "display_name": "Hackernews"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/twitter/the-algorithm",
-    "title": "Search \u00b7 elon \u00b7 twitter/the-algorithm",
-    "latest": "2023-03-31T23:51:26+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@rabble/110119519028652201",
-      "content": "<p>I lost access to the twitter source when they moved from subversion to git, but let me tell you, the code today looks nothing like it did 15 years ago! </p><p><a href=\"https://github.com/twitter/the-algorithm\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/twitter/the-algorit</span><span class=\"invisible\">hm</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@sgillies",
-        "display_name": "Sean Gillies"
-      },
-      {
-        "url": "https://mastodon.social/@kjhealy",
-        "display_name": "Kieran Healy"
-      },
-      {
-        "url": "https://mastodon.social/@aeveltstra",
-        "display_name": "\u00c6n\u00f0r E. Feldstraw"
-      },
-      {
-        "url": "https://stefanbohacek.online/@stefan",
-        "display_name": "Stefan Bohacek"
-      },
-      {
-        "url": "https://social.librem.one/@vincent",
-        "display_name": "Vincent Cloutier"
-      },
-      {
-        "url": "https://mastodon.social/@igor",
-        "display_name": "Igor Brigadir"
-      },
-      {
-        "url": "https://hci.social/@bkeegan",
-        "display_name": "Brian C. Keegan"
-      },
-      {
-        "url": "https://indieweb.social/@tchambers",
-        "display_name": "Tim Chambers"
       }
     ]
   },
@@ -3204,134 +3372,6 @@
       {
         "url": "https://toot.cafe/@codepo8",
         "display_name": "Chris Heilmann"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/AndongDeng/BEAR",
-    "title": "GitHub - AndongDeng/BEAR",
-    "latest": "2023-03-24T09:01:51+00:00",
-    "last_post": {
-      "url": "https://sigmoid.social/@aran/110077444859194520",
-      "content": "<p>A Large-scale Study of Spatiotemporal Representation Learning with a New Benchmark on Action Recognition</p><p>repo: <a href=\"https://github.com/AndongDeng/BEAR\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/AndongDeng/BEAR</span><span class=\"invisible\"></span></a><br>abs: <a href=\"https://arxiv.org/abs/2303.13505\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2303.13505</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://sigmoid.social/@aran",
-        "display_name": "Aran Komatsuzaki"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/TheRealOrange/icer_compression",
-    "title": "GitHub - TheRealOrange/icer_compression: Progressive, error tolerant, wavelet-based image compression algorithm",
-    "latest": "2023-03-24T04:50:03+00:00",
-    "last_post": {
-      "url": "https://die-partei.social/@hackernews/110076454701931234",
-      "content": "<p>NASA ICER image compression algorithm as a C library - <a href=\"https://github.com/TheRealOrange/icer_compression\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/TheRealOrange/icer_</span><span class=\"invisible\">compression</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://die-partei.social/@hackernews",
-        "display_name": "Hackernews"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/IndiePython/nodezator",
-    "title": "GitHub - IndiePython/nodezator: A multi-purpose visual node editor for the Python programming language",
-    "latest": "2023-03-24T02:44:09+00:00",
-    "last_post": {
-      "url": "https://fosstodon.org/@KennedyRichard/109305662247002937",
-      "content": "<p>Hello, everyone, if you like <a href=\"https://fosstodon.org/tags/python\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>python</span></a> and <a href=\"https://fosstodon.org/tags/pygame\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>pygame</span></a> , consider following me here on mastodon. Here's my most recent project:<br><a href=\"https://github.com/IndiePython/nodezator\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/IndiePython/nodezat</span><span class=\"invisible\">or</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://ciberlandia.pt/@villares",
-        "display_name": "Alexandre B A Villares \ud83d\udc0d"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/ZonglinY/LRNL-bench.git",
-    "title": "GitHub - ZonglinY/LRNL-bench: The Logical Reasoning over Natural Language as Knowledge Representation Benchmark (LRNL-bench) is a collaborative benchmark intended to promote a comprehensive evaluation on the three sub-reasoning aspects of logical reasoning (the three aspects are deductive reasoning, inductive reasoning, and abductive reasoning).",
-    "latest": "2023-03-23T23:44:32+00:00",
-    "last_post": {
-      "url": "https://creative.ai/@arxiv_cl/110075253385408513",
-      "content": "<p>\ud83d\udcdd Logical Reasoning Over Natural Language as Knowledge Representation: A Survey \ud83d\udcda\ud83d\udc7e</p><p>\"A new paradigm to conduct logical reasoning using natural lanugage as knowledge representation and pre-trained language models as reasoners, in contrast to traditional logical reasoning using formal language representations and symbolic reasoners.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a> <a href=\"https://creative.ai/tags/AI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AI</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/ZonglinY/LRNL-bench.git\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/ZonglinY/LRNL-bench</span><span class=\"invisible\">.git</span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2303.12023v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2303.12023v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://creative.ai/@arxiv_cl",
-        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/BlinkDL/RWKV-LM",
-    "title": "GitHub - BlinkDL/RWKV-LM: RWKV is a RNN with transformer-level LLM performance. It can be directly trained like a GPT (parallelizable). So it's combining the best of RNN and transformer - great performance, fast inference, saves VRAM, fast training, \"infinite\" ctx_len, and free sentence embedding.",
-    "latest": "2023-03-23T21:30:02+00:00",
-    "last_post": {
-      "url": "https://die-partei.social/@hackernews/110074724522172432",
-      "content": "<p>RWKV RNN: Better than ChatGPT? - <a href=\"https://github.com/BlinkDL/RWKV-LM\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/BlinkDL/RWKV-LM</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://creative.ai/@alexjc",
-        "display_name": "Alex J. Champandard \u2744\ufe0f"
-      },
-      {
-        "url": "https://mastodon.social/@compsci_discussions",
-        "display_name": "Compsci Weekly"
-      },
-      {
-        "url": "https://die-partei.social/@hackernews",
-        "display_name": "Hackernews"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/rust3ds/cargo-3ds",
-    "title": "GitHub - rust3ds/cargo-3ds: Cargo command to work with Nintendo 3DS project binaries. Based on cargo-psp.",
-    "latest": "2023-03-23T20:22:49+00:00",
-    "last_post": {
-      "url": "https://toot.cat/@zkat/110074421724029325",
-      "content": "<p>it's incredibly cool that you can just build 3ds games on your own, using <a href=\"https://toot.cat/tags/rust\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rust</span></a> <a href=\"https://toot.cat/tags/rustlang\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rustlang</span></a> <a href=\"https://github.com/rust3ds/cargo-3ds\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/rust3ds/cargo-3ds</span><span class=\"invisible\"></span></a> (and for the PSP!)</p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@ada",
-        "display_name": "Ada Rose Cannon"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/gzuidhof/starboard-notebook",
-    "title": "github.com/gzuidhof/starboard-...",
-    "latest": "2023-03-23T20:16:21+00:00",
-    "last_post": {
-      "url": "https://vis.social/@nrchtct/110074434784888084",
-      "content": "<p>has anyone tried Starboard for interactive computing \u00e0 la Jupyter Notebook? <a href=\"https://starboard.gg/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">starboard.gg/</span><span class=\"invisible\"></span></a> </p><p>it's not ready for prime time, but looks promising. development seems to have stalled a bit though:<br><a href=\"https://github.com/gzuidhof/starboard-notebook\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/gzuidhof/starboard-</span><span class=\"invisible\">notebook</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://vis.social/@nrchtct",
-        "display_name": "Marian D\u00f6rk"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/fxsjy/jieba",
-    "title": "GitHub - fxsjy/jieba: \u7ed3\u5df4\u4e2d\u6587\u5206\u8bcd",
-    "latest": "2023-03-23T18:29:37+00:00",
-    "last_post": {
-      "url": "https://creative.ai/@arxiv_cl/110074015080751974",
-      "content": "<p>\ud83d\udcdd LEAPT: Learning Adaptive Prefix-to-Prefix Translation for Simultaneous Machine Translation \ud83d\udcda</p><p>\"A novel prefix-to-prefix training policy called LEAPT is used to train the simultaneous machine translation model to predict the future context and achieve good performance on accuracy and latency.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/fxsjy/jieba\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/fxsjy/jieba</span><span class=\"invisible\"></span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2303.11750v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2303.11750v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://creative.ai/@arxiv_cl",
-        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
       }
     ]
   }
