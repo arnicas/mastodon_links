@@ -1,5 +1,243 @@
 [
   {
+    "link": "https://github.com/grantmcdermott/plot2",
+    "title": "GitHub - grantmcdermott/plot2: Lightweight extension of base R's plot function",
+    "latest": "2023-04-10T09:43:21+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@gmcd/110160835847390825",
+      "content": "<p>We all love ggplot2 (obvs), but base R plot is underrated IMO.</p><p>I finally packaged up a script I've had lying around for a while. The `plot2` <a href=\"https://mastodon.social/tags/rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rstats</span></a> \ud83d\udce6 is a lightweight extension to base R plot that automates grouped plotting and legend handling (plus some extras). <a href=\"https://github.com/grantmcdermott/plot2\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/grantmcdermott/plot</span><span class=\"invisible\">2</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@jose_eduardo",
+        "display_name": "Jos\u00e9 Eduardo Gonz\u00e1lez"
+      },
+      {
+        "url": "https://mastodon.social/@JoranJongerling",
+        "display_name": "Joran"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/alberto-guzman/quarto-dissertation",
+    "title": "GitHub - alberto-guzman/quarto-dissertation",
+    "latest": "2023-04-10T08:15:01+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@AlbertoGuzAlv/110170502529531846",
+      "content": "<p>\ud83d\udce2 Just released my <a href=\"https://fosstodon.org/tags/Quarto\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Quarto</span></a> dissertation template on GitHub! \ud83c\udf93 Based on the University of Pittsburgh LaTeX template, it's perfect for creating reproducible dissertations/theses. Check it out and contribute: <a href=\"https://github.com/alberto-guzman/quarto-dissertation\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/alberto-guzman/quar</span><span class=\"invisible\">to-dissertation</span></a> <a href=\"https://fosstodon.org/tags/AcademicTwitter\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AcademicTwitter</span></a> <a href=\"https://fosstodon.org/tags/openscience\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>openscience</span></a> <a href=\"https://fosstodon.org/tags/rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rstats</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@JoranJongerling",
+        "display_name": "Joran"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/andrewheiss/quarto-wordcount",
+    "title": "GitHub - andrewheiss/quarto-wordcount: Quarto extension for calculating accurate word counts",
+    "latest": "2023-04-10T07:47:05+00:00",
+    "last_post": {
+      "url": "https://fediscience.org/@andrew/110146498837984507",
+      "content": "<p>Counting words in <a href=\"https://fediscience.org/tags/rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rstats</span></a> markdown / <a href=\"https://fediscience.org/tags/QuartoPub\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>QuartoPub</span></a>  is hard because it's tricky to capture content like tables, captions, and references. <span class=\"h-card\"><a href=\"https://fediscience.org/@FrederikAust\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>FrederikAust</span></a></span> 's {rmdfiltr} works great for Rmd files, so I adapted it as a Quarto extension. Behold {quarto-wordcount}! <a href=\"https://github.com/andrewheiss/quarto-wordcount\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/andrewheiss/quarto-</span><span class=\"invisible\">wordcount</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@maelle",
+        "display_name": "Ma\u00eblle Salmon"
+      },
+      {
+        "url": "https://scholar.social/@lingucat",
+        "display_name": "Katja Politt"
+      },
+      {
+        "url": "https://mastodon.social/@rlesur",
+        "display_name": "Romain Lesur \ud83c\uddeb\ud83c\uddf7 \ud83c\uddec\ud83c\udde7"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/sail-sg/EditAnything",
+    "title": "GitHub - sail-sg/EditAnything",
+    "latest": "2023-04-10T07:00:04+00:00",
+    "last_post": {
+      "url": "https://die-partei.social/@hackernews/110173225226432197",
+      "content": "<p>EditAnything: Segment Anything + ControlNet + BLIP2 + Stable Diffusion - <a href=\"https://github.com/sail-sg/EditAnything\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/sail-sg/EditAnythin</span><span class=\"invisible\">g</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://die-partei.social/@hackernews",
+        "display_name": "Hackernews"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/aeluro1/geddit",
+    "title": "GitHub - aeluro1/geddit: Reddit Saved Posts Downloader",
+    "latest": "2023-04-10T06:42:24+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@python_discussions/110173155777101397",
+      "content": "<p>Comprehensive Reddit Saved Posts Downloader - retrieves almost all content ever saved</p><p><a href=\"https://github.com/aeluro1/geddit\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/aeluro1/geddit</span><span class=\"invisible\"></span></a></p><p>Discussions: <a href=\"https://discu.eu/q/https://github.com/aeluro1/geddit\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">discu.eu/q/https://github.com/</span><span class=\"invisible\">aeluro1/geddit</span></a></p><p><a href=\"https://mastodon.social/tags/programming\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>programming</span></a> <a href=\"https://mastodon.social/tags/python\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>python</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@python_discussions",
+        "display_name": "Python Weekly"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/kevmo314/magic-copy",
+    "title": "GitHub - kevmo314/magic-copy: Magic Copy is a Chrome extension that uses Meta's Segment Anything Model to extract a foreground object from an image and copy it to the clipboard.",
+    "latest": "2023-04-10T06:34:39+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@compsci_discussions/110173125316148617",
+      "content": "<p>[P] Magic Copy - Meta's Segment Anything Model in a Chrome Extension</p><p><a href=\"https://github.com/kevmo314/magic-copy\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/kevmo314/magic-copy</span><span class=\"invisible\"></span></a></p><p>Discussions: <a href=\"https://discu.eu/q/https://github.com/kevmo314/magic-copy\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">discu.eu/q/https://github.com/</span><span class=\"invisible\">kevmo314/magic-copy</span></a></p><p><a href=\"https://mastodon.social/tags/compsci\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>compsci</span></a> <a href=\"https://mastodon.social/tags/machinelearning\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>machinelearning</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@compsci_discussions",
+        "display_name": "Compsci Weekly"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/hodgesmr/LangChain-Data-Demo",
+    "title": "GitHub - hodgesmr/LangChain-Data-Demo: A Jupyter Notebook that demostrates LLM-driven voter file data engineering, using LangChain to write SQL and Python",
+    "latest": "2023-04-10T06:17:58+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@MattHodges/110164598797374137",
+      "content": "<p>\u2026 \u201corchestrator\u201d was the word I was searching for. Use the <a href=\"https://mastodon.social/tags/LLM\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>LLM</span></a> to interpret our tasks, and hand them off to the more-suitable systems.</p><p>LangChain (demo): <a href=\"https://github.com/hodgesmr/LangChain-Data-Demo\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/hodgesmr/LangChain-</span><span class=\"invisible\">Data-Demo</span></a><br>HuggingGPT: <a href=\"https://arxiv.org/abs/2303.17580\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2303.17580</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@MattHodges",
+        "display_name": "Matt Hodges"
+      },
+      {
+        "url": "https://creative.ai/@arxiv_cl",
+        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/ingyamilmolinar/doctorgpt",
+    "title": "GitHub - ingyamilmolinar/doctorgpt: DoctorGPT diagnoses your software's failures",
+    "latest": "2023-04-10T04:00:02+00:00",
+    "last_post": {
+      "url": "https://die-partei.social/@hackernews/110172517358676846",
+      "content": "<p>DoctorGPT brings GPT into production for error diagnosing - <a href=\"https://github.com/ingyamilmolinar/doctorgpt\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/ingyamilmolinar/doc</span><span class=\"invisible\">torgpt</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://die-partei.social/@hackernews",
+        "display_name": "Hackernews"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/mattdesl/canvas-sketch",
+    "title": "GitHub - mattdesl/canvas-sketch: [beta] A framework for making generative artwork in JavaScript and the browser.",
+    "latest": "2023-04-10T03:36:20.158000+00:00",
+    "last_post": {
+      "url": "https://cornerof.world/objects/d43344e3-b874-470e-8cf6-5ec71a83901b",
+      "content": "RE <span class=\"h-card\"><a class=\"u-url mention\" href=\"https://cornerof.world/users/mattdesl\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>mattdesl</span></a></span> @rmfrt: Here\u2019s my toolkit. It\u2019s dated now (due for an overhaul) but I still use it in the majority of my work. \n\n<a href=\"https://github.com/mattdesl/canvas-sketch\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">https://github.com/mattdesl/canvas-sketch</a>\n\n<a href=\"https://twitter.com/mattdesl/status/1645232458487545857\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">2023-04-10 01:09:19 UTC</a>"
+    },
+    "people": [
+      {
+        "url": "https://cornerof.world/users/mattdesl",
+        "display_name": "Matt DesLauriers"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/mattdesl/workshop-p5-intro#further-reading",
+    "title": "GitHub - mattdesl/workshop-p5-intro: Intro to Creative Coding workshop with p5.js and Tone.js",
+    "latest": "2023-04-10T03:36:19.486000+00:00",
+    "last_post": {
+      "url": "https://cornerof.world/objects/20fd3018-0064-4ce7-9095-e7bba6685a8f",
+      "content": "RE @rmfrt: The links here are a bit dated but might still be suitable! I am biased but I\u2019d say learn canvas 2D API with plain old JS/HTML or canvas-sketch, and this will equip you for much more complex work with other tools.\n\n<a href=\"https://github.com/mattdesl/workshop-p5-intro#further-reading\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">https://github.com/mattdesl/workshop-p5-intro#further-reading</a>\n\n<a href=\"https://twitter.com/mattdesl/status/1645232261367824385\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">2023-04-10 01:08:32 UTC</a>"
+    },
+    "people": [
+      {
+        "url": "https://cornerof.world/users/mattdesl",
+        "display_name": "Matt DesLauriers"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/otherjoel/tabloid",
+    "title": "GitHub - otherjoel/tabloid: \ud83d\udcf0\ud83d\ude31\u203c\ufe0f A Racket implementation of Tabloid, the clickbait programming language!",
+    "latest": "2023-04-10T00:47:16+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@shriramk/110170247356907904",
+      "content": "<p>YOU WON'T BELIEVE what it looks like to have an IDE for the TABLOID programming language!<br><a href=\"https://github.com/otherjoel/tabloid\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/otherjoel/tabloid</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://ecoevo.social/@naupaka",
+        "display_name": "Naupaka Zimmerman"
+      },
+      {
+        "url": "https://dair-community.social/@DrVeronikaCH",
+        "display_name": "Veronika Cheplygina"
+      },
+      {
+        "url": "https://vis.social/@odbol",
+        "display_name": "odbol"
+      },
+      {
+        "url": "https://mastodon.social/@gcampax",
+        "display_name": "Giovanni Campagna"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/HIBio/benchlingapi/blob/main/inst/scripts/template.R",
+    "title": "github.com/HIBio/benchlingapi/...",
+    "latest": "2023-04-09T23:44:31+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@jonocarroll/110171512614809492",
+      "content": "<p><span class=\"h-card\"><a href=\"https://fosstodon.org/@jonthegeek\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>jonthegeek</span></a></span> OpenAPI provide an R client generator <a href=\"https://openapi-generator.tech/docs/generators/r\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">openapi-generator.tech/docs/ge</span><span class=\"invisible\">nerators/r</span></a> but it's reliant on the API following the standard. When it works, it writes the help files and all.</p><p>It didn't like the yaml I was working with so I ended up extracting and rectangling the components myself, then wrote those into a template to write R files  <a href=\"https://github.com/HIBio/benchlingapi/blob/main/inst/scripts/template.R\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/HIBio/benchlingapi/</span><span class=\"invisible\">blob/main/inst/scripts/template.R</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fosstodon.org/@jonocarroll",
+        "display_name": "Jonathan Carroll"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/villares/sketch-a-day/blob/main/2023/sketch_2023_02_10/shapely_helpers.py",
+    "title": "sketch-a-day/shapely_helpers.py at main \u00b7 villares/sketch-a-day",
+    "latest": "2023-04-09T23:40:25+00:00",
+    "last_post": {
+      "url": "https://ciberlandia.pt/@villares/110171496485248304",
+      "content": "<p><span class=\"h-card\"><a href=\"https://friend.camp/@aparrish\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>aparrish</span></a></span> Oh! I have fiddled with this! My greatest challenge was things like \u00ae\u229a because I wanted the internal element with a hole...<br>I did it with shapely + py5 (py5 gets font shapes from its underlying Processing PFont). <br><a href=\"https://github.com/villares/sketch-a-day/blob/main/2023/sketch_2023_02_10/shapely_helpers.py\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/villares/sketch-a-d</span><span class=\"invisible\">ay/blob/main/2023/sketch_2023_02_10/shapely_helpers.py</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://ciberlandia.pt/@villares",
+        "display_name": "Alexandre B A Villares \ud83d\udc0d"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/source-map/source-map-rfc/pull/24",
+    "title": "Port Source Map spec to Bikeshed by mitsuhiko \u00b7 Pull Request #24 \u00b7 source-map/source-map-rfc",
+    "latest": "2023-04-09T23:05:56.089000+00:00",
+    "last_post": {
+      "url": "https://hachyderm.io/@mitsuhiko/110152111886051593",
+      "content": "<p>Taking a stab at specifying source maps. Help appreciated: <a href=\"https://github.com/source-map/source-map-rfc/pull/24\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/source-map/source-m</span><span class=\"invisible\">ap-rfc/pull/24</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mstdn.social/@willigo09",
+        "display_name": "Willi"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/gilesknap/gphotos-sync",
     "title": "GitHub - gilesknap/gphotos-sync: Google Photos and Albums backup with Google Photos Library API",
     "latest": "2023-04-09T21:47:04+00:00",
@@ -26,21 +264,6 @@
       {
         "url": "https://toot.aquilenet.fr/@rougier",
         "display_name": "Nicolas P. Rougier"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/otherjoel/tabloid",
-    "title": "GitHub - otherjoel/tabloid: \ud83d\udcf0\ud83d\ude31\u203c\ufe0f A Racket implementation of Tabloid, the clickbait programming language!",
-    "latest": "2023-04-09T20:27:03+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@shriramk/110170247356907904",
-      "content": "<p>YOU WON'T BELIEVE what it looks like to have an IDE for the TABLOID programming language!<br><a href=\"https://github.com/otherjoel/tabloid\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/otherjoel/tabloid</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://ecoevo.social/@naupaka",
-        "display_name": "Naupaka Zimmerman"
       }
     ]
   },
@@ -444,21 +667,6 @@
     ]
   },
   {
-    "link": "https://github.com/grantmcdermott/plot2",
-    "title": "GitHub - grantmcdermott/plot2: Lightweight extension of base R's plot function",
-    "latest": "2023-04-08T21:11:43+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@gmcd/110160835847390825",
-      "content": "<p>We all love ggplot2 (obvs), but base R plot is underrated IMO.</p><p>I finally packaged up a script I've had lying around for a while. The `plot2` <a href=\"https://mastodon.social/tags/rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rstats</span></a> \ud83d\udce6 is a lightweight extension to base R plot that automates grouped plotting and legend handling (plus some extras). <a href=\"https://github.com/grantmcdermott/plot2\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/grantmcdermott/plot</span><span class=\"invisible\">2</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@jose_eduardo",
-        "display_name": "Jos\u00e9 Eduardo Gonz\u00e1lez"
-      }
-    ]
-  },
-  {
     "link": "https://github.com/CU-ITSS/Web-Data-Scraping-S2023",
     "title": "GitHub - CU-ITSS/Web-Data-Scraping-S2023",
     "latest": "2023-04-08T21:05:00+00:00",
@@ -512,21 +720,6 @@
       {
         "url": "https://friend.camp/@darius",
         "display_name": "Darius Kazemi"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/hodgesmr/LangChain-Data-Demo",
-    "title": "GitHub - hodgesmr/LangChain-Data-Demo: A Jupyter Notebook that demostrates LLM-driven voter file data engineering, using LangChain to write SQL and Python",
-    "latest": "2023-04-08T18:26:15+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@MattHodges/110164598797374137",
-      "content": "<p>\u2026 \u201corchestrator\u201d was the word I was searching for. Use the <a href=\"https://mastodon.social/tags/LLM\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>LLM</span></a> to interpret our tasks, and hand them off to the more-suitable systems.</p><p>LangChain (demo): <a href=\"https://github.com/hodgesmr/LangChain-Data-Demo\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/hodgesmr/LangChain-</span><span class=\"invisible\">Data-Demo</span></a><br>HuggingGPT: <a href=\"https://arxiv.org/abs/2303.17580\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2303.17580</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@MattHodges",
-        "display_name": "Matt Hodges"
       }
     ]
   },
@@ -1390,25 +1583,6 @@
       {
         "url": "https://creative.ai/@arxiv_cl",
         "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/andrewheiss/quarto-wordcount",
-    "title": "GitHub - andrewheiss/quarto-wordcount: Quarto extension for calculating accurate word counts",
-    "latest": "2023-04-06T08:19:54+00:00",
-    "last_post": {
-      "url": "https://fediscience.org/@andrew/110146498837984507",
-      "content": "<p>Counting words in <a href=\"https://fediscience.org/tags/rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rstats</span></a> markdown / <a href=\"https://fediscience.org/tags/QuartoPub\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>QuartoPub</span></a>  is hard because it's tricky to capture content like tables, captions, and references. <span class=\"h-card\"><a href=\"https://fediscience.org/@FrederikAust\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>FrederikAust</span></a></span> 's {rmdfiltr} works great for Rmd files, so I adapted it as a Quarto extension. Behold {quarto-wordcount}! <a href=\"https://github.com/andrewheiss/quarto-wordcount\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/andrewheiss/quarto-</span><span class=\"invisible\">wordcount</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@maelle",
-        "display_name": "Ma\u00eblle Salmon"
-      },
-      {
-        "url": "https://scholar.social/@lingucat",
-        "display_name": "Katja Politt"
       }
     ]
   },
@@ -3170,208 +3344,6 @@
       {
         "url": "https://creative.ai/@arxiv_cl",
         "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/bytecodealliance/jco",
-    "title": "GitHub - bytecodealliance/jco: JavaScript tooling for working with WebAssembly Components",
-    "latest": "2023-04-01T05:36:25+00:00",
-    "last_post": {
-      "url": "https://toot.yosh.is/@yosh/110119561222854799",
-      "content": "<p>Can\u2019t tell you how excited I am for: <a href=\"https://github.com/bytecodealliance/jco\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/bytecodealliance/jc</span><span class=\"invisible\">o</span></a></p><p>On the Rust side you can produce a WASM component using the `cargo component` commands. And on the JS side you can then just do:</p><p>```js<br>import myComponent from \u201cmy-component\u201d;<br>```</p><p>\u2026which with the jco command will just work! Imo that\u2019s going to be huge for cross-language interop!</p>"
-    },
-    "people": [
-      {
-        "url": "https://social.yesterweb.org/@triptych",
-        "display_name": "Andrew Wooldridge"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/nlsandler/nqcc",
-    "title": "https://github.com/nlsandler/nqcc",
-    "latest": "2023-04-01T05:24:48+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@recursecenter/110120101069641874",
-      "content": "<p>\ud83d\udca1 NQCC \u2014 or a not-quite-C compiler \u2014 is a compiler for a subset of C that Nora Sandler worked on at RC. She also wrote a series of blog posts diving deep into various aspects of that process, which is now a book! Writing a C Compiler comes out in August and is available for preorder: <a href=\"https://nostarch.com/writing-c-compiler\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">nostarch.com/writing-c-compile</span><span class=\"invisible\">r</span></a></p><p>If you can\u2019t wait until August, you can read the series from the beginning on her blog <a href=\"https://norasandler.com/2017/11/29/Write-a-Compiler.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">norasandler.com/2017/11/29/Wri</span><span class=\"invisible\">te-a-Compiler.html</span></a> and check out the code on Github <a href=\"https://github.com/nlsandler/nqcc\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/nlsandler/nqcc</span><span class=\"invisible\"></span></a>.</p>"
-    },
-    "people": [
-      {
-        "url": "https://social.jvns.ca/@b0rk",
-        "display_name": "Julia Evans"
-      },
-      {
-        "url": "https://hachyderm.io/@palsujit",
-        "display_name": "Sujit Pal"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/twitter/the-algorithm/blob/main/trust_and_safety_models/toxicity/data/data_preprocessing.py",
-    "title": "the-algorithm/data_preprocessing.py at main \u00b7 twitter/the-algorithm",
-    "latest": "2023-04-01T04:50:00+00:00",
-    "last_post": {
-      "url": "https://journa.host/@jeremybmerrill/110119667878693259",
-      "content": "<p>mention_group = r\"(\\B@\\S+)\"</p><p>phew, good to know that I've been extracting mentions from tweets the same way that Twitter does</p><p><a href=\"https://github.com/twitter/the-algorithm/blob/main/trust_and_safety_models/toxicity/data/data_preprocessing.py\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/twitter/the-algorit</span><span class=\"invisible\">hm/blob/main/trust_and_safety_models/toxicity/data/data_preprocessing.py</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://journa.host/@jeremybmerrill",
-        "display_name": "Jeremy B. Merrill"
-      },
-      {
-        "url": "https://hci.social/@bkeegan",
-        "display_name": "Brian C. Keegan"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/mastodon/mastodon/issues/22997",
-    "title": "Clarify that you can\u2019t edit a published post\u2019s visibility \u00b7 Issue #22997 \u00b7 mastodon/mastodon",
-    "latest": "2023-04-01T04:13:19+00:00",
-    "last_post": {
-      "url": "https://scicomm.xyz/@sharoz/110121608803165387",
-      "content": "<p>Github Issues:</p><p><a href=\"https://github.com/mastodon/mastodon/issues/22997\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/mastodon/mastodon/i</span><span class=\"invisible\">ssues/22997</span></a></p><p><a href=\"https://github.com/mastodon/mastodon/issues/23034\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/mastodon/mastodon/i</span><span class=\"invisible\">ssues/23034</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://scicomm.xyz/@sharoz",
-        "display_name": "Steve Haroz (@sharoz on \ud83d\udc24)"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/mastodon/mastodon/issues/23034",
-    "title": "github.com/mastodon/mastodon/i...",
-    "latest": "2023-04-01T04:13:19+00:00",
-    "last_post": {
-      "url": "https://scicomm.xyz/@sharoz/110121608803165387",
-      "content": "<p>Github Issues:</p><p><a href=\"https://github.com/mastodon/mastodon/issues/22997\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/mastodon/mastodon/i</span><span class=\"invisible\">ssues/22997</span></a></p><p><a href=\"https://github.com/mastodon/mastodon/issues/23034\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/mastodon/mastodon/i</span><span class=\"invisible\">ssues/23034</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://scicomm.xyz/@sharoz",
-        "display_name": "Steve Haroz (@sharoz on \ud83d\udc24)"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/twitter/the-algorithm/issues/84",
-    "title": "Rewrite in Mastodon \u00b7 Issue #84 \u00b7 twitter/the-algorithm",
-    "latest": "2023-04-01T02:51:48+00:00",
-    "last_post": {
-      "url": "https://linuxrocks.online/@Linux_in_a_Bit/110119492580810579",
-      "content": "<p><span class=\"h-card\"><a href=\"https://mastodon.social/@dansup\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>dansup</span></a></span> <br>This issue is my favorite: <a href=\"https://github.com/twitter/the-algorithm/issues/84\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/twitter/the-algorit</span><span class=\"invisible\">hm/issues/84</span></a><br>:blobcatgiggle:</p>"
-    },
-    "people": [
-      {
-        "url": "https://indieweb.social/@tchambers",
-        "display_name": "Tim Chambers"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/twitter/the-algorithm/blob/7f90d0ca342b928b479b512ec51ac2c3821f5922/home-mixer/server/src/main/scala/com/twitter/home_mixer/functional_component/decorator/HomeTweetTypePredicates.scala",
-    "title": "the-algorithm/HomeTweetTypePredicates.scala at 7f90d0ca342b928b479b512ec51ac2c3821f5922 \u00b7 twitter/the-algorithm",
-    "latest": "2023-04-01T01:30:58+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@danluu/110119479819025418",
-      "content": "<p>The new stuff in the Twitter algorithm is wild. </p><p>\"author_is_elon\", \"author_is_republican\", \"author_is_democrat\", etc., are explicit terms that are special cased.</p><p><a href=\"https://github.com/twitter/the-algorithm/blob/7f90d0ca342b928b479b512ec51ac2c3821f5922/home-mixer/server/src/main/scala/com/twitter/home_mixer/functional_component/decorator/HomeTweetTypePredicates.scala\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/twitter/the-algorit</span><span class=\"invisible\">hm/blob/7f90d0ca342b928b479b512ec51ac2c3821f5922/home-mixer/server/src/main/scala/com/twitter/home_mixer/functional_component/decorator/HomeTweetTypePredicates.scala</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://indieweb.social/@tchambers",
-        "display_name": "Tim Chambers"
-      },
-      {
-        "url": "https://social.librem.one/@vincent",
-        "display_name": "Vincent Cloutier"
-      },
-      {
-        "url": "https://social.cwts.nl/@vtraag",
-        "display_name": "Vincent Traag"
-      },
-      {
-        "url": "https://mstdn.social/@stux",
-        "display_name": "s\u0442\u03c5x\u26a1"
-      },
-      {
-        "url": "https://zirk.us/@mrxmrt",
-        "display_name": "Marcus"
-      },
-      {
-        "url": "https://mstdn.social/@felwert",
-        "display_name": "Frederik Elwert"
-      },
-      {
-        "url": "https://mastodon.social/@botwiki",
-        "display_name": "Botwiki.org"
-      },
-      {
-        "url": "https://dair-community.social/@DrVeronikaCH",
-        "display_name": "Veronika Cheplygina"
-      },
-      {
-        "url": "https://hci.social/@bkeegan",
-        "display_name": "Brian C. Keegan"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/dair-ai/Prompt-Engineering-Guide",
-    "title": "GitHub - dair-ai/Prompt-Engineering-Guide: Guide and resources for prompt engineering",
-    "latest": "2023-04-01T00:59:32+00:00",
-    "last_post": {
-      "url": "https://mastodon.green/@pacoid/109899943823179447",
-      "content": "<p>\"GraphPrompt: Unifying Pre-Training and Downstream Tasks for Graph Neural Networks\"<br><a href=\"https://arxiv.org/abs/2302.08043\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2302.08043</span><span class=\"invisible\"></span></a><br>Zemin Liu, et al. (2023-02-16)</p><p>A novel pre-training and prompting framework on graphs, for the \"pre-train, fine-tune\" and \"pre-train, prompt\" approach to working with GNNs</p><p>From the excellent \"Prompt Engineering Guide\" by Elvis Savaria<br><a href=\"https://github.com/dair-ai/Prompt-Engineering-Guide\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/dair-ai/Prompt-Engi</span><span class=\"invisible\">neering-Guide</span></a></p><p><a href=\"https://mastodon.green/tags/graphDataScience\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>graphDataScience</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mas.to/@robroc",
-        "display_name": "Roberto Rocha"
-      },
-      {
-        "url": "https://die-partei.social/@hackernews",
-        "display_name": "Hackernews"
-      },
-      {
-        "url": "https://aleph.land/@mtriclot",
-        "display_name": "Mathieu Triclot"
-      },
-      {
-        "url": "https://creative.ai/@arxiv",
-        "display_name": "arXiv Highlights AI/ML \ud83d\udcdd\ud83e\udd16"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/juuh42dias",
-    "title": "juuh42dias - Overview",
-    "latest": "2023-04-01T00:27:25+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@juuh42dias/110120699771157728",
-      "content": "<p>Follow Friday:</p><p><a href=\"https://github.com/juuh42dias\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/juuh42dias</span><span class=\"invisible\"></span></a><br><a href=\"https://gitlab.com/juuh42dias\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">gitlab.com/juuh42dias</span><span class=\"invisible\"></span></a><br><a href=\"https://mastodon.social/@juuh42dias\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">mastodon.social/@juuh42dias</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://ciberlandia.pt/@villares",
-        "display_name": "Alexandre B A Villares \ud83d\udc0d"
-      }
-    ]
-  },
-  {
-    "link": "https://gitlab.com/juuh42dias",
-    "title": "https://gitlab.com/juuh42dias",
-    "latest": "2023-04-01T00:27:25+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@juuh42dias/110120699771157728",
-      "content": "<p>Follow Friday:</p><p><a href=\"https://github.com/juuh42dias\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/juuh42dias</span><span class=\"invisible\"></span></a><br><a href=\"https://gitlab.com/juuh42dias\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">gitlab.com/juuh42dias</span><span class=\"invisible\"></span></a><br><a href=\"https://mastodon.social/@juuh42dias\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">mastodon.social/@juuh42dias</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://ciberlandia.pt/@villares",
-        "display_name": "Alexandre B A Villares \ud83d\udc0d"
       }
     ]
   }
