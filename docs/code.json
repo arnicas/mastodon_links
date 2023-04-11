@@ -1,5 +1,307 @@
 [
   {
+    "link": "https://github.com/simonw/sqlite-utils/issues/235",
+    "title": "Extract columns cannot create foreign key relation: sqlite3.OperationalError: table sqlite_master may not be modified \u00b7 Issue #235 \u00b7 simonw/sqlite-utils",
+    "latest": "2023-04-11T22:02:05+00:00",
+    "last_post": {
+      "url": "https://fedi.simonwillison.net/@simon/110182434414636618",
+      "content": "<p><span class=\"h-card\"><a href=\"https://xoxo.zone/@numist\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>numist</span></a></span> do you have any idea if the python3 that ships as part of Xcode might have turned on \"defensive mode\" in SQLite at some point in the past 12 months?</p><p>I'm getting bug reports from people about a \"table sqlite_master may not be modified\" error that occurs on attempts to use PRAGMA writable_schema = 1 followed by writing to the sqlite_master database <a href=\"https://github.com/simonw/sqlite-utils/issues/235\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/simonw/sqlite-utils</span><span class=\"invisible\">/issues/235</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fedi.simonwillison.net/@simon",
+        "display_name": "Simon Willison"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/ducha-aiki/imc2023-kornia-starter-pack",
+    "title": "github.com/ducha-aiki/imc2023-...",
+    "latest": "2023-04-11T21:27:45+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@ducha_aiki/110182299427806441",
+      "content": "<p>Baseline submission notebook with all the best <br><span class=\"h-card\"><a href=\"https://sigmoid.social/@kornia_foss\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>kornia_foss</span></a></span></p><p> <a href=\"https://sigmoid.social/tags/kornia\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>kornia</span></a> image matching models:<br>- DISK<br>- LoFTR<br>- KeyNet-AffNet-HardNet</p><p>Be careful: lots of aux code to import results into colmap database.<br><a href=\"https://kaggle.com/code/eduardtrulls/imc-2023-submission-example\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">kaggle.com/code/eduardtrulls/i</span><span class=\"invisible\">mc-2023-submission-example</span></a><br>Clean local version:</p><p><a href=\"https://github.com/ducha-aiki/imc2023-kornia-starter-pack\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/ducha-aiki/imc2023-</span><span class=\"invisible\">kornia-starter-pack</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@ducha_aiki",
+        "display_name": "Dmytro Mishkin \ud83c\uddfa\ud83c\udde6"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/chaosprint/bytebeat-rs",
+    "title": "GitHub - chaosprint/bytebeat-rs: bytebeat written in rust",
+    "latest": "2023-04-11T21:12:16+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@c_discussions/110169513279090489",
+      "content": "<p>bytebeat-rs: bytebeat written in rust</p><p><a href=\"https://github.com/chaosprint/bytebeat-rs\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/chaosprint/bytebeat</span><span class=\"invisible\">-rs</span></a></p><p>Discussions: <a href=\"https://discu.eu/q/https://github.com/chaosprint/bytebeat-rs\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">discu.eu/q/https://github.com/</span><span class=\"invisible\">chaosprint/bytebeat-rs</span></a></p><p><a href=\"https://mastodon.social/tags/art\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>art</span></a> <a href=\"https://mastodon.social/tags/compsci\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>compsci</span></a> <a href=\"https://mastodon.social/tags/cprogramming\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>cprogramming</span></a> <a href=\"https://mastodon.social/tags/plt\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>plt</span></a> <a href=\"https://mastodon.social/tags/programming\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>programming</span></a> <a href=\"https://mastodon.social/tags/rustlang\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rustlang</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@compsci_discussions",
+        "display_name": "Compsci Weekly"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/SourceCode-AI/aura",
+    "title": "GitHub - SourceCode-AI/aura: Python source code auditing and static analysis on a large scale",
+    "latest": "2023-04-11T20:49:53+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@python_discussions/110182150545987302",
+      "content": "<p>Aura \u2013 Python source code auditing and static analysis on a large scale (2022)</p><p><a href=\"https://github.com/SourceCode-AI/aura\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/SourceCode-AI/aura</span><span class=\"invisible\"></span></a></p><p>Discussions: <a href=\"https://discu.eu/q/https://github.com/SourceCode-AI/aura\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">discu.eu/q/https://github.com/</span><span class=\"invisible\">SourceCode-AI/aura</span></a></p><p><a href=\"https://mastodon.social/tags/programming\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>programming</span></a> <a href=\"https://mastodon.social/tags/python\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>python</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@python_discussions",
+        "display_name": "Python Weekly"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/Torantulino/Auto-GPT",
+    "title": "GitHub - Torantulino/Auto-GPT: An experimental open-source attempt to make GPT-4 fully autonomous.",
+    "latest": "2023-04-11T20:37:08+00:00",
+    "last_post": {
+      "url": "https://social.paulkedrosky.com/@paul/110182029737691183",
+      "content": "<p>Using energy-wasting LLMs to demo autonomous AI bot to develop an Earth Day \"recipe\" (sic): Yet more proof that irony is dead.</p><p>Torantulino/Auto-GPT: An experimental open-source attempt to make GPT-4 fully autonomous. <a href=\"https://github.com/Torantulino/Auto-GPT\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/Torantulino/Auto-GP</span><span class=\"invisible\">T</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://die-partei.social/@hackernews",
+        "display_name": "Hackernews"
+      },
+      {
+        "url": "https://me.dm/@anildash",
+        "display_name": "Anil Dash"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/Jyonn/ContGCN",
+    "title": "GitHub - Jyonn/ContGCN: AAAI2023 accepted paper",
+    "latest": "2023-04-11T20:36:57+00:00",
+    "last_post": {
+      "url": "https://creative.ai/@arxiv_cl/110182099702546863",
+      "content": "<p>\ud83d\udcdd Continual Graph Convolutional Network for Text Classification \ud83d\udcda</p><p>\"Presents a continual Graph Convolutional Network (ContGCN) to generalize inferences from observed documents to unobserved documents in an online system, and design an occurrence memory module and a self-supervised contrastive learning objective to update ContGCN in a label-free manner.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/Jyonn/ContGCN\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/Jyonn/ContGCN</span><span class=\"invisible\"></span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2304.04152v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2304.04152v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://creative.ai/@arxiv_cl",
+        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/davidgiven/wordgrinder",
+    "title": "GitHub - davidgiven/wordgrinder: A word processor which gets the hell out of your way and lets you get some work done.",
+    "latest": "2023-04-11T20:10:03+00:00",
+    "last_post": {
+      "url": "https://die-partei.social/@hackernews/110181993909701890",
+      "content": "<p>Word Grinder: Terminal Based Distraction Free Word Processor - <a href=\"https://github.com/davidgiven/wordgrinder\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/davidgiven/wordgrin</span><span class=\"invisible\">der</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://die-partei.social/@hackernews",
+        "display_name": "Hackernews"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/aws-samples/semantic-search-aws-docs",
+    "title": "GitHub - aws-samples/semantic-search-aws-docs",
+    "latest": "2023-04-11T20:10:03+00:00",
+    "last_post": {
+      "url": "https://die-partei.social/@hackernews/110181993914344788",
+      "content": "<p>Show HN: Semantic Search on AWS Docs - <a href=\"https://github.com/aws-samples/semantic-search-aws-docs\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/aws-samples/semanti</span><span class=\"invisible\">c-search-aws-docs</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://die-partei.social/@hackernews",
+        "display_name": "Hackernews"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/togakangaroo/create-ob-npx",
+    "title": "GitHub - togakangaroo/create-ob-npx: Builder macro for org babel packages that delegate to npx",
+    "latest": "2023-04-11T19:31:43+00:00",
+    "last_post": {
+      "url": "https://emacs.ch/@togakangaroo/109694545685243504",
+      "content": "<p>Not on melpa yet but I created this small macro so that it's a one-liner to create org babel languages for things that have an interpreter up on npm (which is surprisingly many things). And it's sandboxed via npx. Love to hear feedback <a href=\"https://github.com/togakangaroo/create-ob-npx\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/togakangaroo/create</span><span class=\"invisible\">-ob-npx</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://social.romeov.me/@romeo",
+        "display_name": "Romeo Valentin"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/orsinium-labs/pytypest",
+    "title": "GitHub - orsinium-labs/pytypest: Testing framework that empowers pytest (with better fixtures and parametrization)",
+    "latest": "2023-04-11T19:31:39+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@python_discussions/110181842886751867",
+      "content": "<p>pytypest: testing framework that empowers pytest (with better fixtures and parametrization)</p><p><a href=\"https://github.com/orsinium-labs/pytypest\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/orsinium-labs/pytyp</span><span class=\"invisible\">est</span></a></p><p>Discussions: <a href=\"https://discu.eu/q/https://github.com/orsinium-labs/pytypest\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">discu.eu/q/https://github.com/</span><span class=\"invisible\">orsinium-labs/pytypest</span></a></p><p><a href=\"https://mastodon.social/tags/programming\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>programming</span></a> <a href=\"https://mastodon.social/tags/python\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>python</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@python_discussions",
+        "display_name": "Python Weekly"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/cthoyt/n2t-ark-resolver",
+    "title": "github.com/cthoyt/n2t-ark-reso...",
+    "latest": "2023-04-11T19:29:43+00:00",
+    "last_post": {
+      "url": "https://scholar.social/@cthoyt/110181802929817691",
+      "content": "<p>I re-implemented the Name-to-Things (N2T) ARK resolver using the `curies` Python package and wrote an explanation of how I did it here: <a href=\"https://cthoyt.com/2023/04/11/n2t-ark-resolver.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">cthoyt.com/2023/04/11/n2t-ark-</span><span class=\"invisible\">resolver.html</span></a></p><p>Code available here: <a href=\"https://github.com/cthoyt/n2t-ark-resolver\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/cthoyt/n2t-ark-reso</span><span class=\"invisible\">lver</span></a></p><p><a href=\"https://scholar.social/tags/arks\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arks</span></a> <a href=\"https://scholar.social/tags/pids\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>pids</span></a> <a href=\"https://scholar.social/tags/semanticweb\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>semanticweb</span></a> <a href=\"https://scholar.social/tags/curies\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>curies</span></a> <a href=\"https://scholar.social/tags/uris\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>uris</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fosstodon.org/@grndstt",
+        "display_name": "Pierre-Marie Allard"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/deepu099cse/Multi-Labeled-Bengali-Toxic-Comments-Classification",
+    "title": "GitHub - deepu099cse/Multi-Labeled-Bengali-Toxic-Comments-Classification: Dataset for the paper \"Interpretable Multi-Labeled Bengali Toxic Comments Classification using Deep Learning\"",
+    "latest": "2023-04-11T19:26:57+00:00",
+    "last_post": {
+      "url": "https://creative.ai/@arxiv_cl/110181824436890366",
+      "content": "<p>\ud83d\udcdd Interpretable Multi Labeled Bengali Toxic Comments Classification Using Deep Learning \ud83d\udcda\ud83d\udc7e\ud83e\udde0</p><p>\"We have prepared a manually labeled dataset consisting of 16,073 instances among which 8488 are Toxic and the remaining 7585 are not toxic.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a> <a href=\"https://creative.ai/tags/AI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AI</span></a> <a href=\"https://creative.ai/tags/LG\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>LG</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/deepu099cse/Multi-Labeled-Bengali-Toxic-Comments-Classification\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/deepu099cse/Multi-L</span><span class=\"invisible\">abeled-Bengali-Toxic-Comments-Classification</span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2304.04087v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2304.04087v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://creative.ai/@arxiv_cl",
+        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/mastodon/mastodon/issues/12265",
+    "title": "Let the admins easily setup the character limits \u00b7 Issue #12265 \u00b7 mastodon/mastodon",
+    "latest": "2023-04-11T19:16:00+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@thegradient/110181781405612326",
+      "content": "<p><span class=\"h-card\"><a href=\"https://sigmoid.social/@BenjaminHan\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>BenjaminHan</span></a></span> Following up on this - there is no great way to do this right now, but it looks like people are working on it (<a href=\"https://github.com/mastodon/mastodon/issues/12265\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/mastodon/mastodon/i</span><span class=\"invisible\">ssues/12265</span></a>), so once that is available in the mainline mastodon release we'll go ahead and up the limit.</p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@thegradient",
+        "display_name": "The Gradient"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/biobootloader/wolverine",
+    "title": "GitHub - biobootloader/wolverine",
+    "latest": "2023-04-11T19:07:13+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@python_discussions/110181746847670171",
+      "content": "<p>Show HN: Wolverine: Give your Python scripts regenerative healing abilities</p><p><a href=\"https://github.com/biobootloader/wolverine\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/biobootloader/wolve</span><span class=\"invisible\">rine</span></a></p><p>Discussions: <a href=\"https://discu.eu/q/https://github.com/biobootloader/wolverine\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">discu.eu/q/https://github.com/</span><span class=\"invisible\">biobootloader/wolverine</span></a></p><p><a href=\"https://mastodon.social/tags/programming\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>programming</span></a> <a href=\"https://mastodon.social/tags/python\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>python</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@python_discussions",
+        "display_name": "Python Weekly"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/ateucher/rmapshaper/issues",
+    "title": "github.com/ateucher/rmapshaper...",
+    "latest": "2023-04-11T18:52:22+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@andyteucher/110181688455945485",
+      "content": "<p>I've just released a new version of the {rmapshaper} \ud83d\udce6 on CRAN. This is a fairly major release, with lots of changes under the hood, but minimal user-facing changes:</p><p><a href=\"https://cran.r-project.org/web/packages/rmapshaper/news/news.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">cran.r-project.org/web/package</span><span class=\"invisible\">s/rmapshaper/news/news.html</span></a></p><p>Please give it a test drive and report any issues at <a href=\"https://github.com/ateucher/rmapshaper/issues\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/ateucher/rmapshaper</span><span class=\"invisible\">/issues</span></a></p><p><a href=\"https://fosstodon.org/tags/rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rstats</span></a> <a href=\"https://fosstodon.org/tags/rspatial\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rspatial</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fosstodon.org/@andyteucher",
+        "display_name": "Andy Teucher"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/wgryc/phasellm",
+    "title": "GitHub - wgryc/phasellm: Large language model evaluation and workflow framework from Phase AI.",
+    "latest": "2023-04-11T18:10:02+00:00",
+    "last_post": {
+      "url": "https://die-partei.social/@hackernews/110181521976967508",
+      "content": "<p>PhaseLLM: Standardized Chat LLM API (Cohere, Claude, GPT) + Evaluation Framework - <a href=\"https://github.com/wgryc/phasellm\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/wgryc/phasellm</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://die-partei.social/@hackernews",
+        "display_name": "Hackernews"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/cavi-au/Consent-O-Matic#introduction",
+    "title": "GitHub - cavi-au/Consent-O-Matic: Browser extension that automatically fills out cookie popups based on your preferences",
+    "latest": "2023-04-11T17:43:45+00:00",
+    "last_post": {
+      "url": "https://techhub.social/@dsoft/110107030226950428",
+      "content": "<p>Consent-O-Matic is a browser extension that auto-responds to all the <a href=\"https://techhub.social/tags/GDPR\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>GDPR</span></a> and similar consent popups with optimal user preferences.</p><p>Unlike the extension \"I don't care about cookies\" which just accepts all cookies, Consent-O-Matic clicks the prompts on your behalf to reject most of the cookies. You can also choose what to accept/reject in the preferences.</p><p>Available for Firefox, Chrome and others.</p><p>I've been using this on Firefox :firefox:  for quite sometime now and it works great!</p><p>Their Github page has links to official extension stores: <a href=\"https://github.com/cavi-au/Consent-O-Matic#introduction\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/cavi-au/Consent-O-M</span><span class=\"invisible\">atic#introduction</span></a></p><p><a href=\"https://techhub.social/tags/AMO\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AMO</span></a> link: <a href=\"https://addons.mozilla.org/firefox/addon/consent-o-matic/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">addons.mozilla.org/firefox/add</span><span class=\"invisible\">on/consent-o-matic/</span></a></p><p><a href=\"https://techhub.social/tags/privacy\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>privacy</span></a> <a href=\"https://techhub.social/tags/webextensions\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>webextensions</span></a> <a href=\"https://techhub.social/tags/addons\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>addons</span></a> <a href=\"https://techhub.social/tags/addon\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>addon</span></a> <a href=\"https://techhub.social/tags/extension\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>extension</span></a> <a href=\"https://techhub.social/tags/chrome\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>chrome</span></a> <a href=\"https://techhub.social/tags/firefox\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>firefox</span></a> <a href=\"https://techhub.social/tags/safari\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>safari</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://social.coop/@nicol",
+        "display_name": "Nicol Wistreich"
+      },
+      {
+        "url": "https://mamot.fr/@pierrepo",
+        "display_name": "Pierre Poulain"
+      },
+      {
+        "url": "https://alpaca.gold/@seldo",
+        "display_name": "Laurie Voss"
+      },
+      {
+        "url": "https://hachyderm.io/@schlink",
+        "display_name": "Sam Schlinkert"
+      },
+      {
+        "url": "https://infosec.exchange/@mattburgess",
+        "display_name": "Matt Burgess"
+      },
+      {
+        "url": "https://eldritch.cafe/@enkiv2",
+        "display_name": "\ud808\udc2d\ud808\udc97\ud808\udda0"
+      },
+      {
+        "url": "https://masto.nyc/@jmac",
+        "display_name": "jmac"
+      },
+      {
+        "url": "https://social.luca.run/@luca",
+        "display_name": "Luca \ud83d\udd28"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/RILAB/statements",
+    "title": "GitHub - RILAB/statements: Successful Job Applications and Grants",
+    "latest": "2023-04-11T17:13:11+00:00",
+    "last_post": {
+      "url": "https://ecoevo.social/@jrossibarra/110180754512145731",
+      "content": "<p>Recent updates to my GitHub repo of successful job applications in academia and industry. CVs, cover letters, research, DEI and teaching statements, etc.  if you\u2019re on the job market a pretty useful resource. If you\u2019ve gotten a job recently please consider contributing! <a href=\"https://github.com/RILAB/statements\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/RILAB/statements</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sciences.social/@ktaylor",
+        "display_name": "Dr. Kevin P. Taylor"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/thi-ng/blog",
     "title": "https://github.com/thi-ng/blog",
     "latest": "2023-04-11T10:01:55+00:00",
@@ -2162,37 +2464,6 @@
     ]
   },
   {
-    "link": "https://github.com/cavi-au/Consent-O-Matic#introduction",
-    "title": "GitHub - cavi-au/Consent-O-Matic: Browser extension that automatically fills out cookie popups based on your preferences",
-    "latest": "2023-04-05T09:23:52+00:00",
-    "last_post": {
-      "url": "https://techhub.social/@dsoft/110107030226950428",
-      "content": "<p>Consent-O-Matic is a browser extension that auto-responds to all the <a href=\"https://techhub.social/tags/GDPR\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>GDPR</span></a> and similar consent popups with optimal user preferences.</p><p>Unlike the extension \"I don't care about cookies\" which just accepts all cookies, Consent-O-Matic clicks the prompts on your behalf to reject most of the cookies. You can also choose what to accept/reject in the preferences.</p><p>Available for Firefox, Chrome and others.</p><p>I've been using this on Firefox :firefox:  for quite sometime now and it works great!</p><p>Their Github page has links to official extension stores: <a href=\"https://github.com/cavi-au/Consent-O-Matic#introduction\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/cavi-au/Consent-O-M</span><span class=\"invisible\">atic#introduction</span></a></p><p><a href=\"https://techhub.social/tags/AMO\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AMO</span></a> link: <a href=\"https://addons.mozilla.org/firefox/addon/consent-o-matic/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">addons.mozilla.org/firefox/add</span><span class=\"invisible\">on/consent-o-matic/</span></a></p><p><a href=\"https://techhub.social/tags/privacy\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>privacy</span></a> <a href=\"https://techhub.social/tags/webextensions\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>webextensions</span></a> <a href=\"https://techhub.social/tags/addons\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>addons</span></a> <a href=\"https://techhub.social/tags/addon\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>addon</span></a> <a href=\"https://techhub.social/tags/extension\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>extension</span></a> <a href=\"https://techhub.social/tags/chrome\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>chrome</span></a> <a href=\"https://techhub.social/tags/firefox\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>firefox</span></a> <a href=\"https://techhub.social/tags/safari\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>safari</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://social.coop/@nicol",
-        "display_name": "Nicol Wistreich"
-      },
-      {
-        "url": "https://mamot.fr/@pierrepo",
-        "display_name": "Pierre Poulain"
-      },
-      {
-        "url": "https://alpaca.gold/@seldo",
-        "display_name": "Laurie Voss"
-      },
-      {
-        "url": "https://hachyderm.io/@schlink",
-        "display_name": "Sam Schlinkert"
-      },
-      {
-        "url": "https://infosec.exchange/@mattburgess",
-        "display_name": "Matt Burgess"
-      }
-    ]
-  },
-  {
     "link": "https://github.com/qgis/QGIS/issues/52535",
     "title": "QGIS window went blank after I dropped my phone on my keyboard \u00b7 Issue #52535 \u00b7 qgis/QGIS",
     "latest": "2023-04-05T08:45:55+00:00",
@@ -3009,305 +3280,6 @@
       {
         "url": "https://mastodon.social/@gicycle",
         "display_name": "Martin Loidl"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/pytorch",
-    "title": "pytorch",
-    "latest": "2023-04-03T08:39:37+00:00",
-    "last_post": {
-      "url": "https://creative.ai/@arxiv_cl/110133980542735271",
-      "content": "<p>\ud83d\udcdd A BERT-based Unsupervised Grammatical Error Correction Framework \ud83d\udcda</p><p>\"A BERT-based unsupervised GEC framework is proposed, which contains a data flow construction module, a sentence perplexity scoring module, and an error detecting and correcting module.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/pytorch\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/pytorch</span><span class=\"invisible\"></span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2303.17367v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2303.17367v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://creative.ai/@arxiv_cl",
-        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/jug-dev/hordelib",
-    "title": "GitHub - jug-dev/hordelib: A thin wrapper around ComfyUI to allow use by AI Horde.",
-    "latest": "2023-04-03T07:27:20+00:00",
-    "last_post": {
-      "url": "https://sigmoid.social/@stablehorde/110133696279279106",
-      "content": "<p>We've started doing work to migrate out main worker code to use a different inference backend (ComfyUI) since nataili is now unmaintained. </p><p>Already out biggest hurdles appear resolved. Now it's just a matter of time.</p><p>In case you want to help, the main work is happening here: <a href=\"https://github.com/jug-dev/hordelib\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/jug-dev/hordelib</span><span class=\"invisible\"></span></a></p><p><a href=\"https://sigmoid.social/tags/aihorde\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>aihorde</span></a> <a href=\"https://sigmoid.social/tags/python\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>python</span></a> <a href=\"https://sigmoid.social/tags/comfyui\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>comfyui</span></a> <a href=\"https://sigmoid.social/tags/StableDiffusion\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>StableDiffusion</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://sigmoid.social/@stablehorde",
-        "display_name": "AI Horde"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/BjnNowak/TidyTuesday/blob/main/SC_Ultra_Distribution.R",
-    "title": "TidyTuesday/SC_Ultra_Distribution.R at main \u00b7 BjnNowak/TidyTuesday",
-    "latest": "2023-04-03T05:39:29+00:00",
-    "last_post": {
-      "url": "https://fosstodon.org/@bjnnowak/110127691204120376",
-      "content": "<p>How long to run 100 miles? An old <a href=\"https://fosstodon.org/tags/DataViz\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DataViz</span></a> for <a href=\"https://fosstodon.org/tags/Day2\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Day2</span></a> of <a href=\"https://fosstodon.org/tags/30DayChartChallenge\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>30DayChartChallenge</span></a> but I like the subject of this one, as well as the way to use the waffle plots to make a distribution curve</p><p>Data from <a href=\"https://fosstodon.org/tags/TidyTuesday\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>TidyTuesday</span></a>, <a href=\"https://fosstodon.org/tags/RStats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>RStats</span></a> code here: <a href=\"https://github.com/BjnNowak/TidyTuesday/blob/main/SC_Ultra_Distribution.R\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/BjnNowak/TidyTuesda</span><span class=\"invisible\">y/blob/main/SC_Ultra_Distribution.R</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://vis.social/@Justin_Lind",
-        "display_name": "Justin Lind"
-      },
-      {
-        "url": "https://fosstodon.org/@leeolney",
-        "display_name": "Lee Olney"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/adamhsparks/nasapower-example",
-    "title": "GitHub - adamhsparks/nasapower-example: Example using nasapower to fetch multiple seasons and geographic areas",
-    "latest": "2023-04-03T03:22:26+00:00",
-    "last_post": {
-      "url": "https://fosstodon.org/@adamhsparks/110132213947733802",
-      "content": "<p>If you use the NASA POWER global weather data and the <span class=\"h-card\"><a href=\"https://hachyderm.io/@rOpenSci\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>rOpenSci</span></a></span>  {nasapower} package, this how-to might be useful to you. \"Using nasapower with large geographic areas, e.g., states\". I just updated it this AM to use {terra} in place of {raster}. <a href=\"https://github.com/adamhsparks/nasapower-example\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/adamhsparks/nasapow</span><span class=\"invisible\">er-example</span></a> <a href=\"https://fosstodon.org/tags/RStats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>RStats</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://fosstodon.org/@JustinG",
-        "display_name": "JustinG"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/orsinium-labs/walnats",
-    "title": "GitHub - orsinium-labs/walnats: Nats-powered event-driven background jobs and microservices framework for Python.",
-    "latest": "2023-04-03T02:11:07+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@python_discussions/110132452863932834",
-      "content": "<p>walnats: Nats-powered event-driven background jobs and microservices framework for Python.</p><p><a href=\"https://github.com/orsinium-labs/walnats\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/orsinium-labs/walna</span><span class=\"invisible\">ts</span></a></p><p>Discussions: <a href=\"https://discu.eu/q/https://github.com/orsinium-labs/walnats\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">discu.eu/q/https://github.com/</span><span class=\"invisible\">orsinium-labs/walnats</span></a></p><p><a href=\"https://mastodon.social/tags/programming\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>programming</span></a> <a href=\"https://mastodon.social/tags/python\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>python</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@python_discussions",
-        "display_name": "Python Weekly"
-      }
-    ]
-  },
-  {
-    "link": "https://gist.github.com/eliot-akira/6eaecda619d0fafd1d74",
-    "title": "how-software-companies-die",
-    "latest": "2023-04-03T01:10:02+00:00",
-    "last_post": {
-      "url": "https://die-partei.social/@hackernews/110132212680516947",
-      "content": "<p>How Software Companies Die \u2013 Orson Scott Card - <a href=\"https://gist.github.com/eliot-akira/6eaecda619d0fafd1d74\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gist.github.com/eliot-akira/6e</span><span class=\"invisible\">aecda619d0fafd1d74</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://die-partei.social/@hackernews",
-        "display_name": "Hackernews"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/twitter/the-algorithm-ml/blob/main/projects/twhin/models/models.py",
-    "title": "the-algorithm-ml/models.py at main \u00b7 twitter/the-algorithm-ml",
-    "latest": "2023-04-03T00:13:42+00:00",
-    "last_post": {
-      "url": "https://recsys.social/@zippeurfou/110131991170277939",
-      "content": "<p>Here are some thought about the <a href=\"https://recsys.social/tags/Twitter\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Twitter</span></a> <a href=\"https://recsys.social/tags/recsys\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>recsys</span></a> algorithm. Not focusing on the stack. I think anyone with industry experience really does not care if it is scala, tensorflow, pytorch. A tool is a tool. <br>1. I was surprised by the simplicity of <a href=\"https://github.com/twitter/the-algorithm-ml/blob/main/projects/twhin/models/models.py\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/twitter/the-algorit</span><span class=\"invisible\">hm-ml/blob/main/projects/twhin/models/models.py</span></a>. at the same time it is interesting to see they use sgd with 2 different lr. So clearly it is not an MVP.<br>2. Multitask learning for the ranking is great. The actual aggregation of the loss still is relatively naive but it does it.</p>"
-    },
-    "people": [
-      {
-        "url": "https://recsys.social/@karlhigley",
-        "display_name": "Karl Higley"
-      },
-      {
-        "url": "https://recsys.social/@zippeurfou",
-        "display_name": "Marc"
-      }
-    ]
-  },
-  {
-    "link": "https://gist.github.com/travisbrown/f797d079e6bfb5c633d418fb11481456",
-    "title": "verified-punishments.md",
-    "latest": "2023-04-03T00:01:03+00:00",
-    "last_post": {
-      "url": "https://bird.makeup/users/travisbrown/statuses/1642528557854339075",
-      "content": "<p>Related: Twitter had said that yesterday would be the beginning of the \u201cwinding down\u201d of the legacy verification program, but so far they\u2019ve only suspended, unverified, and removed profile elements from a few dozen accounts. <a href=\"https://gist.github.com/travisbrown/f797d079e6bfb5c633d418fb11481456\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gist.github.com/travisbrown/f7</span><span class=\"invisible\">97d079e6bfb5c633d418fb11481456</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://hci.social/@bkeegan",
-        "display_name": "Brian C. Keegan"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/pyOpenSci/software-submission/issues/68",
-    "title": "crowsetta: A Python tool to work with any format for annotating animal vocalizations and bioacoustics data. \u00b7 Issue #68 \u00b7 pyOpenSci/software-submission",
-    "latest": "2023-04-02T21:25:21+00:00",
-    "last_post": {
-      "url": "https://fosstodon.org/@nicholdav/110125038059069858",
-      "content": "<p>Really proud to have Crowsetta accepted by <span class=\"h-card\"><a href=\"https://fosstodon.org/@pyOpenSci\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>pyOpenSci</span></a></span>. Huge thanks to reviewers Tessa Rhinehart &amp; scikit-maad dev Sylvain Haupert, editor Chia Marmo, &amp; parselmouth dev Yannick Jadoul for expert advice on Praat TextGrids!</p><p>My 1st <span class=\"h-card\"><a href=\"https://fosstodon.org/@joss\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>joss</span></a></span> pub too!</p><p><a href=\"https://github.com/pyOpenSci/software-submission/issues/68\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/pyOpenSci/software-</span><span class=\"invisible\">submission/issues/68</span></a></p><p>If you use tools like Audacity, Praat or Raven to annotate bioacoustics/speech data and you've been wanting to work with the annotations in <a href=\"https://fosstodon.org/tags/Python\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Python</span></a>, it just got a lot easier!</p>"
-    },
-    "people": [
-      {
-        "url": "https://dair-community.social/@trochee",
-        "display_name": "Jeremy Kahn"
-      },
-      {
-        "url": "https://social.juanlu.space/@astrojuanlu",
-        "display_name": "Juan Luis"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/piresramon/gpt-4-enem",
-    "title": "GitHub - piresramon/gpt-4-enem: Enem Challenge",
-    "latest": "2023-04-02T20:24:38+00:00",
-    "last_post": {
-      "url": "https://creative.ai/@arxiv_cl/110131090446615331",
-      "content": "<p>\ud83d\udcdd Evaluating GPT-3.5 and GPT-4 Models on Brazilian University Admission Exams \ud83d\udcda\ud83d\udc7e\ud83e\udde0</p><p>\"Language Models are used to tackle the Exame Nacional do Ensino M\\'edio (ENEM), a multidisciplinary entrance examination widely adopted by Brazilian universities.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a> <a href=\"https://creative.ai/tags/AI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AI</span></a> <a href=\"https://creative.ai/tags/LG\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>LG</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/piresramon/gpt-4-enem\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/piresramon/gpt-4-en</span><span class=\"invisible\">em</span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2303.17003v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2303.17003v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://creative.ai/@arxiv_cl",
-        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/Torantulino/Auto-GPT",
-    "title": "GitHub - Torantulino/Auto-GPT: An experimental open-source attempt to make GPT-4 fully autonomous.",
-    "latest": "2023-04-02T19:40:02+00:00",
-    "last_post": {
-      "url": "https://die-partei.social/@hackernews/110130915069407631",
-      "content": "<p>Auto-GPT: An Autonomous GPT-4 Experiment - <a href=\"https://github.com/Torantulino/Auto-GPT\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/Torantulino/Auto-GP</span><span class=\"invisible\">T</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://die-partei.social/@hackernews",
-        "display_name": "Hackernews"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/mamedev/mame",
-    "title": "https://github.com/mamedev/mame",
-    "latest": "2023-04-02T18:21:09+00:00",
-    "last_post": {
-      "url": "https://floss.social/@Le_bottin_des_jeux_linux/110130519689821072",
-      "content": "<p>\ud83d\udee0\ufe0f Title: M.A.M.E.<br>\ud83e\udd8a\ufe0f What's: A libre emulator of video game arcade cabinet, game consoles, ...<br>\ud83c\udfe1\ufe0f <a href=\"https://mamedev.org\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">mamedev.org</span><span class=\"invisible\"></span></a><br>\ud83d\udc23\ufe0f <a href=\"https://github.com/mamedev/mame\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/mamedev/mame</span><span class=\"invisible\"></span></a><br>\ud83d\udd16 <a href=\"https://floss.social/tags/LinuxEmulation\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>LinuxEmulation</span></a> <a href=\"https://floss.social/tags/Flagship\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Flagship</span></a> <a href=\"https://floss.social/tags/ArcadeMachine\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ArcadeMachine</span></a><br>\ud83d\udce6\ufe0f <a href=\"https://floss.social/tags/Libre\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Libre</span></a> <a href=\"https://floss.social/tags/Arch\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Arch</span></a> <a href=\"https://floss.social/tags/RPM\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>RPM</span></a> <a href=\"https://floss.social/tags/Deb\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Deb</span></a> <a href=\"https://floss.social/tags/Flatpak\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Flatpak</span></a> <a href=\"https://floss.social/tags/Snap\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Snap</span></a><br>\ud83d\udcd6 Our entry: <a href=\"http://www.lebottindesjeuxlinux.tuxfamily.org/en/online/lights-on/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">http://www.</span><span class=\"ellipsis\">lebottindesjeuxlinux.tuxfamily</span><span class=\"invisible\">.org/en/online/lights-on/</span></a></p><p>\ud83e\udd41\ufe0f Update: 0.253<br>\u2697\ufe0f Major upgrade \ud83e\ude99\ufe0f<br>\ud83d\udccc\ufe0f Changes: <a href=\"https://www.mamedev.org/?p=523\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">mamedev.org/?p=523</span><span class=\"invisible\"></span></a><br>\ud83d\udc18 From: <a href=\"https://mastodon.social/@holarse/110124074335991283\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">mastodon.social/@holarse/11012</span><span class=\"invisible\">4074335991283</span></a><br>\ud83d\udcf0(0.253) <a href=\"https://watch.thekitty.zone/GyIMDUwHjZs\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">watch.thekitty.zone/GyIMDUwHjZ</span><span class=\"invisible\">s</span></a></p><p>\ud83e\udd9d\ufe0f <a href=\"https://watch.thekitty.zone/JJef1ZK23MY\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">watch.thekitty.zone/JJef1ZK23M</span><span class=\"invisible\">Y</span></a><br>\ud83d\udd79\ufe0f <a href=\"https://watch.thekitty.zone/8Mr4MsJBbPo\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">watch.thekitty.zone/8Mr4MsJBbP</span><span class=\"invisible\">o</span></a><br>\ud83d\udc27 <a href=\"https://watch.thekitty.zone/Q37p6xJawI0\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">watch.thekitty.zone/Q37p6xJawI</span><span class=\"invisible\">0</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mathstodon.xyz/@yrochat",
-        "display_name": "Yannick Rochat"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/saharNooby/rwkv.cpp",
-    "title": "GitHub - saharNooby/rwkv.cpp: INT4 and FP16 inference on CPU for RWKV language model",
-    "latest": "2023-04-02T18:12:06+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@compsci_discussions/110130569328117432",
-      "content": "<p>[P] rwkv.cpp: FP16 &amp; INT4 inference on CPU for RWKV language model</p><p><a href=\"https://github.com/saharNooby/rwkv.cpp\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/saharNooby/rwkv.cpp</span><span class=\"invisible\"></span></a></p><p>Discussions: <a href=\"https://discu.eu/q/https://github.com/saharNooby/rwkv.cpp\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">discu.eu/q/https://github.com/</span><span class=\"invisible\">saharNooby/rwkv.cpp</span></a></p><p><a href=\"https://mastodon.social/tags/compsci\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>compsci</span></a> <a href=\"https://mastodon.social/tags/machinelearning\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>machinelearning</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@compsci_discussions",
-        "display_name": "Compsci Weekly"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/scripting/feedToMasto",
-    "title": "GitHub - scripting/feedToMasto: Node app that checks a list of feeds periodically, post new items to Mastodon.",
-    "latest": "2023-04-02T18:01:42+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@davew/110130528403271798",
-      "content": "<p><span class=\"h-card\"><a href=\"https://hachyderm.io/@timbray\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>timbray</span></a></span> <span class=\"h-card\"><a href=\"https://cunnin.me/@technodad\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>technodad</span></a></span> <span class=\"h-card\"><a href=\"https://sunny.garden/@winnie\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>winnie</span></a></span> </p><p>that i already have, wrote one myself. </p><p><a href=\"https://github.com/scripting/feedToMasto\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/scripting/feedToMas</span><span class=\"invisible\">to</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@davew",
-        "display_name": "Dave Winer \u2615\ufe0f"
-      }
-    ]
-  },
-  {
-    "link": "https://observablehq.com/@observablehq/introdwjavascript?utm_medium=social&amp;utm_campaign=javascriptcourse23&amp;utm_source=mastodon",
-    "title": "Course: Introduction to data wrangling and analysis in JavaScript",
-    "latest": "2023-04-02T17:58:40+00:00",
-    "last_post": {
-      "url": "https://vis.social/@observablehq/110119906605853301",
-      "content": "<p>\ud83d\ude80Level up your JavaScript skills with this upcoming course led by our very own <span class=\"h-card\"><a href=\"https://mastodon.social/@allison_horst\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>allison_horst</span></a></span> </p><p>\ud83d\udca1Ideal for newbies and seasoned folks alike! </p><p>Register for FREE by clicking the link below! </p><p><a href=\"https://observablehq.com/@observablehq/introdwjavascript?utm_medium=social&amp;utm_campaign=javascriptcourse23&amp;utm_source=mastodon\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">observablehq.com/@observablehq</span><span class=\"invisible\">/introdwjavascript?utm_medium=social&amp;utm_campaign=javascriptcourse23&amp;utm_source=mastodon</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://fosstodon.org/@tanya_shapiro",
-        "display_name": "Tanya Shapiro"
-      },
-      {
-        "url": "https://vis.social/@observablehq",
-        "display_name": ""
-      },
-      {
-        "url": "https://mastodon.social/@allison_horst",
-        "display_name": "Allison Horst  :BlobhajReach:"
-      },
-      {
-        "url": "https://mastodon.nz/@ojala",
-        "display_name": "Luis Apiolaza"
-      },
-      {
-        "url": "https://fosstodon.org/@grrrck",
-        "display_name": "Garrick Aden-Buie"
-      },
-      {
-        "url": "https://mastodon.social/@Cmastication",
-        "display_name": "JD Long \u2705"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/RolandJuno/amiga-wifi232-ntp",
-    "title": "GitHub - RolandJuno/amiga-wifi232-ntp: Set the Amiga clock by using a WiFi232 serial modem.",
-    "latest": "2023-04-02T17:31:45+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@paulrickards/110130410632126425",
-      "content": "<p>Ok, I wrote an <a href=\"https://mastodon.social/tags/AREXX\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AREXX</span></a> script that uses a <a href=\"https://mastodon.social/tags/WiFi232\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>WiFi232</span></a> modem to grab the current time from NTP and sets the <a href=\"https://mastodon.social/tags/Amiga\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Amiga</span></a> clock. First time in almost 25 years since I wrote something in AREXX!</p><p><a href=\"https://github.com/RolandJuno/amiga-wifi232-ntp\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/RolandJuno/amiga-wi</span><span class=\"invisible\">fi232-ntp</span></a></p><p><a href=\"https://mastodon.social/tags/CommodoreAmiga\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CommodoreAmiga</span></a> <a href=\"https://mastodon.social/tags/Commodore\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Commodore</span></a> <a href=\"https://mastodon.social/tags/AmigaCDTV\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AmigaCDTV</span></a> <a href=\"https://mastodon.social/tags/RetroComputing\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>RetroComputing</span></a> <a href=\"https://mastodon.social/tags/VintageComputing\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>VintageComputing</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@paulrickards",
-        "display_name": "paulrickards"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/twitter/the-algorithm/commit/ec83d01dcaebf369444d75ed04b3625a0a645eb9",
-    "title": "Remove stats collection code measuring how often Tweets from specific\u2026 \u00b7 twitter/the-algorithm@ec83d01",
-    "latest": "2023-04-02T17:24:42+00:00",
-    "last_post": {
-      "url": "https://hachyderm.io/@ygalanter/110124224281711048",
-      "content": "<p>This is hilarious, Twitter had published the algorithm that recommends/promotes tweets, and user types there were... special (one of them was \"author_is_elon\" ).</p><p>And then they they force-pushed commit to main to remove this The comments on that commit are a sight to behold. </p><p><a href=\"https://github.com/twitter/the-algorithm/commit/ec83d01dcaebf369444d75ed04b3625a0a645eb9\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/twitter/the-algorit</span><span class=\"invisible\">hm/commit/ec83d01dcaebf369444d75ed04b3625a0a645eb9</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://indieweb.social/@tchambers",
-        "display_name": "Tim Chambers"
-      },
-      {
-        "url": "https://saturation.social/@irwin",
-        "display_name": "irwin"
-      },
-      {
-        "url": "https://fediscience.org/@UlrichJunker",
-        "display_name": "Ulrich Junker"
-      },
-      {
-        "url": "https://friend.camp/@darius",
-        "display_name": "Darius Kazemi"
       }
     ]
   }
