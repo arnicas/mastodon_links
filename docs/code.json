@@ -1,5 +1,256 @@
 [
   {
+    "link": "https://gist.github.com/pbinkley/58b10e145b923716bb44dc5653b93c66",
+    "title": "Zotero lookup engine for Wayback Machine (note: it has to use the API, so it returns json)",
+    "latest": "2023-04-13T21:25:10+00:00",
+    "last_post": {
+      "url": "https://code4lib.social/@pbinkley/110193308151233824",
+      "content": "<p>I was working through some very old <a href=\"https://code4lib.social/tags/Zotero\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Zotero</span></a> entries for discussion forums that have gone offline, and I wanted a quick way to check whether urls were in the <a href=\"https://code4lib.social/tags/WaybackMachine\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>WaybackMachine</span></a>, so here's a lookup engine: <a href=\"https://gist.github.com/pbinkley/58b10e145b923716bb44dc5653b93c66\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gist.github.com/pbinkley/58b10</span><span class=\"invisible\">e145b923716bb44dc5653b93c66</span></a> .</p>"
+    },
+    "people": [
+      {
+        "url": "https://glammr.us/@ppival",
+        "display_name": "Paul R. Pival (he/him)"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/veekaybee/awesome-twitter-algo",
+    "title": "GitHub - veekaybee/awesome-twitter-algo: The release of the Twitter algorithm, annotated for recsys",
+    "latest": "2023-04-13T20:58:53+00:00",
+    "last_post": {
+      "url": "https://jawns.club/@vicki/110124629718508487",
+      "content": "<p>The Twitter algorithm dropped yesterday, and now it\u2019s time to reverse-engineer. <span class=\"h-card\"><a href=\"https://mastodon.social/@igor\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>igor</span></a></span>  and I are starting to make sense of what\u2019s actually been released, how it compares to what the prod codebase might be and giving the released code some context. </p><p>If you know <a href=\"https://jawns.club/tags/search\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>search</span></a>, <a href=\"https://jawns.club/tags/recsys\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>recsys</span></a>, or <a href=\"https://jawns.club/tags/engineering\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>engineering</span></a> and want to contribute to make what\u2019s been released actually consumable for public understanding, please join us, contributions welcome.</p><p><a href=\"https://github.com/veekaybee/awesome-twitter-algo\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/veekaybee/awesome-t</span><span class=\"invisible\">witter-algo</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://octodon.social/@craignicol",
+        "display_name": "Craig Nicol"
+      },
+      {
+        "url": "https://hci.social/@bkeegan",
+        "display_name": "Brian C. Keegan"
+      },
+      {
+        "url": "https://mastodon.thi.ng/@toxi",
+        "display_name": "Karsten Schmidt"
+      },
+      {
+        "url": "https://mastodon.social/@gvwilson",
+        "display_name": "Greg Wilson"
+      },
+      {
+        "url": "https://sigmoid.social/@roban",
+        "display_name": "Roban Hultman Kramer"
+      },
+      {
+        "url": "https://sigmoid.social/@petersforbes",
+        "display_name": "Peter Forbes"
+      },
+      {
+        "url": "https://hcommons.social/@scott_bot",
+        "display_name": "@scott_bot \ud83e\udd39"
+      },
+      {
+        "url": "https://an.errant.cloud/@ted",
+        "display_name": "Ted Han \u2605 \u97d3\u8056\u5b89"
+      },
+      {
+        "url": "https://jawns.club/@vicki",
+        "display_name": "Vicki Boykis"
+      },
+      {
+        "url": "https://mastodon.social/@ggdupont",
+        "display_name": "ggdupont"
+      },
+      {
+        "url": "https://mastodon.social/@igor",
+        "display_name": "Igor Brigadir"
+      },
+      {
+        "url": "https://social.luca.run/@luca",
+        "display_name": "Luca \ud83d\udd28"
+      }
+    ]
+  },
+  {
+    "link": "https://observablehq.com/@hrbrmstr/solar-system-plot",
+    "title": "Solar System Plot",
+    "latest": "2023-04-13T20:29:15+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@hrbrmstr/110188576919304582",
+      "content": "<p>The <span class=\"h-card\"><a href=\"https://vis.social/@observablehq\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>observablehq</span></a></span> version of my \u201cSolar System Plots\u201d has an animation option!</p><p>Randomly assigned orbits that 110% *totally* obey proper orbital mechanics.</p><p>Adding some more options then porting over the random planet names generator.</p><p><a href=\"https://observablehq.com/@hrbrmstr/solar-system-plot\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">observablehq.com/@hrbrmstr/sol</span><span class=\"invisible\">ar-system-plot</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@hrbrmstr",
+        "display_name": "boB Rudis \ud83c\uddfa\ud83c\udde6"
+      },
+      {
+        "url": "https://vis.social/@observablehq",
+        "display_name": ""
+      }
+    ]
+  },
+  {
+    "link": "https://observablehq.com/@observablehq/custom-plot-themes",
+    "title": "Custom theme elements for reuse in Observable Plot",
+    "latest": "2023-04-13T20:29:07+00:00",
+    "last_post": {
+      "url": "https://vis.social/@observablehq/110193393529794771",
+      "content": "<p>Find yourself repeatedly Googling how to make custom color schemes, update fonts, or add images &amp; logos to your Observable Plot charts?</p><p>Learn how to make your own source of reusable palettes and styles, for quick import &amp; reuse in other notebooks! \ud83c\udfa8</p><p><a href=\"https://observablehq.com/@observablehq/custom-plot-themes\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">observablehq.com/@observablehq</span><span class=\"invisible\">/custom-plot-themes</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://vis.social/@observablehq",
+        "display_name": ""
+      }
+    ]
+  },
+  {
+    "link": "https://observablehq.com/resources/cheatsheets/data-wrangling-comparisons?utm_medium=social&amp;utm_campaign=resources_promotion&amp;utm_source=mastodon",
+    "title": "observablehq.com/resources/che...",
+    "latest": "2023-04-13T20:27:36+00:00",
+    "last_post": {
+      "url": "https://vis.social/@observablehq/110193387542026864",
+      "content": "<p>\ud83d\udca1 Check out this handy notebook to quickly see several common data-wrangling functions, done in JavaScript, Python, SQL, R, and Excel. </p><p>\ud83d\udd16 One to bookmark! </p><p><a href=\"https://observablehq.com/resources/cheatsheets/data-wrangling-comparisons?utm_medium=social&amp;utm_campaign=resources_promotion&amp;utm_source=mastodon\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">observablehq.com/resources/che</span><span class=\"invisible\">atsheets/data-wrangling-comparisons?utm_medium=social&amp;utm_campaign=resources_promotion&amp;utm_source=mastodon</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://vis.social/@observablehq",
+        "display_name": ""
+      }
+    ]
+  },
+  {
+    "link": "https://gist.github.com/eliocamp/c73ab8d2c87fc9a668ea88d04ad8ca20",
+    "title": "Percentogram (histogram with bins of equal number of observations)",
+    "latest": "2023-04-13T20:15:26+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@eliocamp/110193339665811239",
+      "content": "<p>This \"percentogram\" seems like an interesting idea to play with. </p><p>Here's a <a href=\"https://mastodon.social/tags/ggplot2\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ggplot2</span></a> stat that draws one: </p><p><a href=\"https://gist.github.com/eliocamp/c73ab8d2c87fc9a668ea88d04ad8ca20\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gist.github.com/eliocamp/c73ab</span><span class=\"invisible\">8d2c87fc9a668ea88d04ad8ca20</span></a></p><p>Inspired by: <br><a href=\"https://statmodeling.stat.columbia.edu/2023/04/13/the-percentogram-a-histogram-binned-by-percentages-of-the-cumulative-distribution-rather-than-using-fixed-bin-widths/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">statmodeling.stat.columbia.edu</span><span class=\"invisible\">/2023/04/13/the-percentogram-a-histogram-binned-by-percentages-of-the-cumulative-distribution-rather-than-using-fixed-bin-widths/</span></a></p><p><a href=\"https://mastodon.social/tags/RStats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>RStats</span></a> <a href=\"https://mastodon.social/tags/datadon\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>datadon</span></a> <span class=\"h-card\"><a href=\"https://a.gup.pe/u/rstats\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>rstats</span></a></span></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@eliocamp",
+        "display_name": "Elio Campitelli"
+      }
+    ]
+  },
+  {
+    "link": "https://observablehq.com/d/7c7773fb302a9be7",
+    "title": "Minimal Spanning tree",
+    "latest": "2023-04-13T19:17:12+00:00",
+    "last_post": {
+      "url": "https://vis.social/@benmschmidt/110193110681138171",
+      "content": "<p>Oh but here's the link to the observable notebook that does the MST. <a href=\"https://observablehq.com/d/7c7773fb302a9be7\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">observablehq.com/d/7c7773fb302</span><span class=\"invisible\">a9be7</span></a> I sort of thought there might be a divide-and conquer approach on it, but not clear to me what that would be.</p>"
+    },
+    "people": [
+      {
+        "url": "https://vis.social/@benmschmidt",
+        "display_name": "Ben Schmidt"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/everythingishacked/Semaphore",
+    "title": "GitHub - everythingishacked/Semaphore: A full-body keyboard using gestures to type through computer vision",
+    "latest": "2023-04-13T18:29:24+00:00",
+    "last_post": {
+      "url": "https://stefanbohacek.online/@stefan/110191898753018954",
+      "content": "<p>This looks fun!</p><p>Semaphore, a full-body keyboard with pose detection, by Everything Is Hacked.</p><p>Full demo: <a href=\"https://www.youtube.com/watch?v=h376W93gQq4\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">youtube.com/watch?v=h376W93gQq</span><span class=\"invisible\">4</span></a><br>Source code: <a href=\"https://github.com/everythingishacked/Semaphore\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/everythingishacked/</span><span class=\"invisible\">Semaphore</span></a></p><p><a href=\"https://stefanbohacek.online/tags/Semaphore\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Semaphore</span></a> <a href=\"https://stefanbohacek.online/tags/EverythingIsHacked\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>EverythingIsHacked</span></a> <a href=\"https://stefanbohacek.online/tags/PoseDetection\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>PoseDetection</span></a> <a href=\"https://stefanbohacek.online/tags/MachineLearning\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>MachineLearning</span></a> <a href=\"https://stefanbohacek.online/tags/OpenCV\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>OpenCV</span></a> <a href=\"https://stefanbohacek.online/tags/tech\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>tech</span></a> <a href=\"https://stefanbohacek.online/tags/OpenSource\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>OpenSource</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://die-partei.social/@hackernews",
+        "display_name": "Hackernews"
+      },
+      {
+        "url": "https://hachyderm.io/@ascii_only",
+        "display_name": "ascii_only"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/Mng-dev-ai/pyrustify",
+    "title": "GitHub - Mng-dev-ai/pyrustify: A Python package written in Rust for email verification without sending any emails.",
+    "latest": "2023-04-13T18:11:55+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@python_discussions/110192853998710732",
+      "content": "<p>A Python package written in Rust for email verification without sending any emails.</p><p><a href=\"https://github.com/Mng-dev-ai/pyrustify\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/Mng-dev-ai/pyrustif</span><span class=\"invisible\">y</span></a></p><p>Discussions: <a href=\"https://discu.eu/q/https://github.com/Mng-dev-ai/pyrustify\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">discu.eu/q/https://github.com/</span><span class=\"invisible\">Mng-dev-ai/pyrustify</span></a></p><p><a href=\"https://mastodon.social/tags/programming\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>programming</span></a> <a href=\"https://mastodon.social/tags/python\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>python</span></a> <a href=\"https://mastodon.social/tags/rustlang\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rustlang</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@python_discussions",
+        "display_name": "Python Weekly"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/compling-potsdam/misc-courses/blob/master/syllabi/ss23-nlu-lit.md",
+    "title": "misc-courses/ss23-nlu-lit.md at master \u00b7 compling-potsdam/misc-courses",
+    "latest": "2023-04-13T17:30:16+00:00",
+    "last_post": {
+      "url": "https://scholar.social/@davidschlangen/110192580149576592",
+      "content": "<p>Another summer semester coming up, and another edition of my \u201cmeta NLU\u201d seminar. This year\u2019s title: \u201cNatural Language Understanding and the Meaning of ChatGPT\u201d. </p><p>Reading list (draft) here: <a href=\"https://github.com/compling-potsdam/misc-courses/blob/master/syllabi/ss23-nlu-lit.md\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/compling-potsdam/mi</span><span class=\"invisible\">sc-courses/blob/master/syllabi/ss23-nlu-lit.md</span></a> </p><p>Any lit I\u2019ve missed? Let me know.</p>"
+    },
+    "people": [
+      {
+        "url": "https://fediscience.org/@tschfflr",
+        "display_name": "Tatjana Scheffler"
+      },
+      {
+        "url": "https://tech.lgbt/@_dmh",
+        "display_name": "Dave Howcroft \ud83e\udd94"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/salesforce/CodeGen",
+    "title": "GitHub - salesforce/CodeGen: CodeGen is an open-source model for program synthesis. Trained on TPU-v4. Competitive with OpenAI Codex.",
+    "latest": "2023-04-13T17:21:05+00:00",
+    "last_post": {
+      "url": "https://creative.ai/@alexjc/110192654141262112",
+      "content": "<p>Anyone tried this Code generation model? It's apparently self-proclaimed to be competitive with Codex. <a href=\"https://github.com/salesforce/CodeGen\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/salesforce/CodeGen</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://creative.ai/@alexjc",
+        "display_name": "Alex J. Champandard \ud83c\udf31"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/abey79/vsvg",
+    "title": "GitHub - abey79/vsvg: Fast SVG viewer for plotter users",
+    "latest": "2023-04-13T17:04:11+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@abey79/110186389520315767",
+      "content": "<p><a href=\"https://mastodon.social/tags/project\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>project</span></a> update! </p><p>I'm exploring the possibility of a <a href=\"https://mastodon.social/tags/rustlang\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rustlang</span></a> rewrite of (parts of) <a href=\"https://mastodon.social/tags/vpype\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>vpype</span></a>. It happens here:</p><p><a href=\"https://github.com/abey79/vsvg\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/abey79/vsvg</span><span class=\"invisible\"></span></a></p><p>It started as a learning experiment, but is now serious enough that I call it \"vpype2\".</p><p>I have many goals for vpype2\u2014I'll write a roadmap article sometime soonish.</p><p>Lately, I worked on a GPU-accelerated viewer based on <a href=\"https://mastodon.social/tags/wgpu\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>wgpu</span></a> and <a href=\"https://mastodon.social/tags/egui\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>egui</span></a>, and it's coming along nicely. Here is some smooth zooming into some transparent lines (6k paths, 2.5M segments).</p><p><a href=\"https://mastodon.social/tags/penplotter\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>penplotter</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mas.to/@DonKarlssonSan",
+        "display_name": "DonKarlssonSan"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/bvissers/FAO-Downloader",
+    "title": "GitHub - bvissers/FAO-Downloader",
+    "latest": "2023-04-13T16:53:29+00:00",
+    "last_post": {
+      "url": "https://en.osm.town/@rafagaslinks/110180067604927129",
+      "content": "<p>This QGIS connector offers a Graphical User Interface for downloading data from the Food and Agriculture Organization (FAO) from the United Nations <a href=\"https://en.osm.town/tags/qgis\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>qgis</span></a></p><p><a href=\"https://github.com/bvissers/FAO-Downloader\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/bvissers/FAO-Downlo</span><span class=\"invisible\">ader</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fosstodon.org/@underdarkGIS",
+        "display_name": "Anita Graser \ud83c\uddea\ud83c\uddfa\ud83c\uddfa\ud83c\udde6"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/lllyasviel/ControlNet-v1-1-nightly",
     "title": "GitHub - lllyasviel/ControlNet-v1-1-nightly: Many well-tested annotators",
     "latest": "2023-04-13T10:01:37+00:00",
@@ -196,21 +447,6 @@
       {
         "url": "https://die-partei.social/@hackernews",
         "display_name": "Hackernews"
-      }
-    ]
-  },
-  {
-    "link": "https://observablehq.com/@hrbrmstr/solar-system-plot",
-    "title": "Solar System Plot",
-    "latest": "2023-04-13T00:04:12+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@hrbrmstr/110188576919304582",
-      "content": "<p>The <span class=\"h-card\"><a href=\"https://vis.social/@observablehq\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>observablehq</span></a></span> version of my \u201cSolar System Plots\u201d has an animation option!</p><p>Randomly assigned orbits that 110% *totally* obey proper orbital mechanics.</p><p>Adding some more options then porting over the random planet names generator.</p><p><a href=\"https://observablehq.com/@hrbrmstr/solar-system-plot\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">observablehq.com/@hrbrmstr/sol</span><span class=\"invisible\">ar-system-plot</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@hrbrmstr",
-        "display_name": "boB Rudis \ud83c\uddfa\ud83c\udde6"
       }
     ]
   },
@@ -440,21 +676,6 @@
       {
         "url": "https://fosstodon.org/@nowosad",
         "display_name": "Jakub Nowosad"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/everythingishacked/Semaphore",
-    "title": "GitHub - everythingishacked/Semaphore: A full-body keyboard using gestures to type through computer vision",
-    "latest": "2023-04-12T09:00:04+00:00",
-    "last_post": {
-      "url": "https://die-partei.social/@hackernews/110185021704052209",
-      "content": "<p>Semaphore: A Full-Body Keyboard - <a href=\"https://github.com/everythingishacked/Semaphore\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/everythingishacked/</span><span class=\"invisible\">Semaphore</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://die-partei.social/@hackernews",
-        "display_name": "Hackernews"
       }
     ]
   },
@@ -3071,183 +3292,6 @@
       {
         "url": "https://mastodon.social/@hrbrmstr",
         "display_name": "boB Rudis \ud83c\uddfa\ud83c\udde6"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/achousa/gpt-graph",
-    "title": "GitHub - achousa/gpt-graph: A simple text to entity-relation graph generator, powered by gpt3",
-    "latest": "2023-04-05T18:02:45+00:00",
-    "last_post": {
-      "url": "https://scholar.social/@electricarchaeo/110147519495576356",
-      "content": "<p>this is kinda neat: <a href=\"https://github.com/achousa/gpt-graph\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/achousa/gpt-graph</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://scholar.social/@electricarchaeo",
-        "display_name": "Shawn Graham"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/cocktailpeanut/dalai",
-    "title": "GitHub - cocktailpeanut/dalai: The simplest way to run LLaMA on your local machine",
-    "latest": "2023-04-05T17:30:02+00:00",
-    "last_post": {
-      "url": "https://die-partei.social/@hackernews/110147390856279002",
-      "content": "<p>Run LLaMA and Alpaca on your computer - <a href=\"https://github.com/cocktailpeanut/dalai\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/cocktailpeanut/dala</span><span class=\"invisible\">i</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://die-partei.social/@hackernews",
-        "display_name": "Hackernews"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/benmarwick/ctv-archaeology#publications-that-include-r-code",
-    "title": "GitHub - benmarwick/ctv-archaeology: CRAN Task View: Archaeological Science",
-    "latest": "2023-04-05T16:29:02+00:00",
-    "last_post": {
-      "url": "https://archaeo.social/@archpaperscode/110146988021054380",
-      "content": "<p>There are now 342 <a href=\"https://archaeo.social/tags/archaeology\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>archaeology</span></a> papers that include <a href=\"https://archaeo.social/tags/rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rstats</span></a> code, with 18 published in 2023. You can see the full list here: <a href=\"https://github.com/benmarwick/ctv-archaeology#publications-that-include-r-code\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/benmarwick/ctv-arch</span><span class=\"invisible\">aeology#publications-that-include-r-code</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://sciences.social/@ktaylor",
-        "display_name": "Dr. Kevin P. Taylor"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/opengeos",
-    "title": "Open Geospatial Software",
-    "latest": "2023-04-05T16:17:35+00:00",
-    "last_post": {
-      "url": "https://fosstodon.org/@giswqs/110146864375204984",
-      "content": "<p>The Open Geospatial Software (opengeos) GitHub organization is up and running! I have transferred 23 open-source <a href=\"https://fosstodon.org/tags/geospatial\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>geospatial</span></a> projects from my personal GitHub account to this org. We always welcome new contributors and collaborators. \ud83d\udc47 <br>GitHub: <a href=\"https://github.com/opengeos\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/opengeos</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://fosstodon.org/@underdarkGIS",
-        "display_name": "Anita Graser \ud83c\uddea\ud83c\uddfa\ud83c\uddfa\ud83c\udde6"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/qgis/QGIS/issues/52535",
-    "title": "QGIS window went blank after I dropped my phone on my keyboard \u00b7 Issue #52535 \u00b7 qgis/QGIS",
-    "latest": "2023-04-05T08:45:55+00:00",
-    "last_post": {
-      "url": "https://journa.host/@claus/110142057277100601",
-      "content": "<p>cc <span class=\"h-card\"><a href=\"https://norden.social/@cartocalypse\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>cartocalypse</span></a></span> <br><a href=\"https://github.com/qgis/QGIS/issues/52535\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/qgis/QGIS/issues/52</span><span class=\"invisible\">535</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://journa.host/@claus",
-        "display_name": "Claus Hesseling"
-      },
-      {
-        "url": "https://norden.social/@cartocalypse",
-        "display_name": ""
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/cilium/pwru",
-    "title": "GitHub - cilium/pwru: Packet, where are you? -- eBPF-based Linux kernel networking debugger",
-    "latest": "2023-04-05T07:55:02+00:00",
-    "last_post": {
-      "url": "https://die-partei.social/@hackernews/110145129851718364",
-      "content": "<p>Packet, where are you? \u2013 eBPF-based Linux kernel networking debugger - <a href=\"https://github.com/cilium/pwru\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/cilium/pwru</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://die-partei.social/@hackernews",
-        "display_name": "Hackernews"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/cvg/gluestick",
-    "title": "https://github.com/cvg/gluestick",
-    "latest": "2023-04-05T06:52:03+00:00",
-    "last_post": {
-      "url": "https://sigmoid.social/@ducha_aiki/110144882210052487",
-      "content": "<p>GlueStick: Robust Image Matching by Sticking Points and Lines Together</p><p>R\u00e9mi Pautrat, Iago Su\u00e1rez, Yifan Yu, Marc Pollefeys, Viktor Larsson</p><p>tl;dr: Line-aware SuperGlue with line-connectivity message passing.<br><a href=\"https://github.com/cvg/gluestick\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/cvg/gluestick</span><span class=\"invisible\"></span></a><br><a href=\"https://arxiv.org/abs/2304.02008\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2304.02008</span><span class=\"invisible\"></span></a></p><p><a href=\"https://sigmoid.social/tags/computervision\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>computervision</span></a> <a href=\"https://sigmoid.social/tags/deeplearning\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>deeplearning</span></a> <br><a href=\"https://sigmoid.social/tags/dmytrotweetsaboutDL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>dmytrotweetsaboutDL</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://sigmoid.social/@ducha_aiki",
-        "display_name": "Dmytro Mishkin \ud83c\uddfa\ud83c\udde6"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/biff-ai/gpt-magic",
-    "title": "GitHub - biff-ai/gpt-magic: Extend JupyterLab with GPT magic commands",
-    "latest": "2023-04-05T06:11:38+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@python_discussions/110144723275682548",
-      "content": "<p>Package gpt-magic enables in-context generation of IPython/Jupyter code cells using GPT models API. 0.2.0 adds memory with \u201c%gpt -c\u201d</p><p><a href=\"https://github.com/biff-ai/gpt-magic\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/biff-ai/gpt-magic</span><span class=\"invisible\"></span></a></p><p>Discussions: <a href=\"https://discu.eu/q/https://github.com/biff-ai/gpt-magic\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">discu.eu/q/https://github.com/</span><span class=\"invisible\">biff-ai/gpt-magic</span></a></p><p><a href=\"https://mastodon.social/tags/programming\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>programming</span></a> <a href=\"https://mastodon.social/tags/python\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>python</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@python_discussions",
-        "display_name": "Python Weekly"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/simonw/llm",
-    "title": "GitHub - simonw/llm: Access large language models from the command-line",
-    "latest": "2023-04-05T05:45:37+00:00",
-    "last_post": {
-      "url": "https://fedi.simonwillison.net/@simon/110143179406719476",
-      "content": "<p>Here's a demo of my new \"llm\" CLI tool:</p><p>pipx install llm<br>export OPENAI_API_KEY='...'<br>llm 'Ten names for cheesecakes' --stream</p><p><a href=\"https://github.com/simonw/llm\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/simonw/llm</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://sigmoid.social/@osma",
-        "display_name": "Osma Suominen"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/teslamotors/light-show",
-    "title": "GitHub - teslamotors/light-show: Tesla Light Show",
-    "latest": "2023-04-05T05:25:01+00:00",
-    "last_post": {
-      "url": "https://die-partei.social/@hackernews/110144539972411547",
-      "content": "<p>Tesla Light Show XLights - <a href=\"https://github.com/teslamotors/light-show\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/teslamotors/light-s</span><span class=\"invisible\">how</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://die-partei.social/@hackernews",
-        "display_name": "Hackernews"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/explosion/spaCy/discussions/12475",
-    "title": "Generating FastAPI endpoints from spacy models with `vetiver` \u00b7 explosion/spaCy \u00b7 Discussion #12475",
-    "latest": "2023-04-05T04:06:12+00:00",
-    "last_post": {
-      "url": "https://fosstodon.org/@isabelizimm/110097220764299427",
-      "content": "<p>I've been thinking about what it would look like to deploy a <a href=\"https://fosstodon.org/tags/spaCy\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>spaCy</span></a> model with vetiver \ud83c\udffa\ud83d\udcad if you'd like to try it out and leave feedback, I would love to hear your thoughts!</p><p><a href=\"https://github.com/explosion/spaCy/discussions/12475\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/explosion/spaCy/dis</span><span class=\"invisible\">cussions/12475</span></a></p><p><a href=\"https://fosstodon.org/tags/pydata\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>pydata</span></a> <a href=\"https://fosstodon.org/tags/nlp\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>nlp</span></a> <a href=\"https://fosstodon.org/tags/python\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>python</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://fosstodon.org/@isabelizimm",
-        "display_name": "isabel zimmerman"
-      },
-      {
-        "url": "https://fosstodon.org/@hadleywickham",
-        "display_name": "Hadley Wickham"
-      },
-      {
-        "url": "https://fosstodon.org/@katieontheridge",
-        "display_name": "Katie :rstats:"
       }
     ]
   }
