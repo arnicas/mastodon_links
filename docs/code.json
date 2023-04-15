@@ -1,5 +1,213 @@
 [
   {
+    "link": "https://github.com/opengeos/geospatial-data-catalogs",
+    "title": "GitHub - opengeos/geospatial-data-catalogs: A list of open geospatial datasets available on AWS, Earth Engine, Planetary Computer, NASA CMR, and STAC Index",
+    "latest": "2023-04-15T21:32:28+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@humus_rocks/110202968425822178",
+      "content": "<p><span class=\"h-card\"><a href=\"https://fosstodon.org/@mdsumner\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>mdsumner</span></a></span> <a href=\"https://github.com/opengeos/geospatial-data-catalogs\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/opengeos/geospatial</span><span class=\"invisible\">-data-catalogs</span></a> has a whole bunch. This is a really comprehensive set of repos that immediately came to mind from <span class=\"h-card\"><a href=\"https://fosstodon.org/@giswqs\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>giswqs</span></a></span></p>"
+    },
+    "people": [
+      {
+        "url": "https://ecoevo.social/@jebyrnes",
+        "display_name": "jebyrnes"
+      }
+    ]
+  },
+  {
+    "link": "https://codeberg.org/fediverse/fediverse-ideas",
+    "title": "fediverse-ideas",
+    "latest": "2023-04-15T21:30:50+00:00",
+    "last_post": {
+      "url": "https://mymath.rocks/objects/7c00e2e9-9caa-45e4-b242-f6f1a25f8e40",
+      "content": "<p>\ud83d\udc4d Yes! But!! It can't be THE public collection then, one would have public collections then.</p>\n<p>You should already know about <a href=\"https://codeberg.org/fediverse/fediverse-ideas\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">fediverse-ideas</a>, etc ... where such an idea can slowly take form. Sticking with as:Public is currently so much simpler.</p>\n"
+    },
+    "people": [
+      {
+        "url": "https://indieweb.social/@tchambers",
+        "display_name": "Tim Chambers"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/karpathy/randomfun/blob/master/knn_vs_svm.ipynb",
+    "title": "randomfun/knn_vs_svm.ipynb at master \u00b7 karpathy/randomfun",
+    "latest": "2023-04-15T20:29:18+00:00",
+    "last_post": {
+      "url": "https://hci.social/@jbigham/110204718863138476",
+      "content": "<p><span class=\"h-card\"><a href=\"https://hci.social/@andresmh\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>andresmh</span></a></span> many ways to create embeddings\u2026&nbsp;i'm currently using \"INSTRUCTOR\", which has good performance, runs locally (most good ones are remote, e.g., OpenAI has an embedding thing that is probably good), and my students recommend it (lulz)</p><p>then to cluster or find similar things, you can just use like cosine distance. here's a post i was reading about knn vs svm, which is neat (and has code snippets for both):<br><a href=\"https://github.com/karpathy/randomfun/blob/master/knn_vs_svm.ipynb\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/karpathy/randomfun/</span><span class=\"invisible\">blob/master/knn_vs_svm.ipynb</span></a></p><p><a href=\"https://arxiv.org/abs/2212.09741\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2212.09741</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://hci.social/@jbigham",
+        "display_name": "Jeff Bigham"
+      }
+    ]
+  },
+  {
+    "link": "https://gist.github.com/lmorchard/f1f2508a9586d8e92efd84686c029f16",
+    "title": "Substack to OPML export",
+    "latest": "2023-04-15T20:09:31+00:00",
+    "last_post": {
+      "url": "https://hackers.town/@lmorchard/110204492211400425",
+      "content": "<p>Here's a dumb trick, if you want to wean off Substack email subscriptions without entirely missing out on the content.</p><p>Go to your profile page, open the JS console, paste this code in and hit return.</p><p>If everything goes right, you should get an OPML file downloaded that can be imported into an RSS reader.</p><p>And then, when Substack disables RSS feeds, the weaning process will just take care of itself.</p><p><a href=\"https://gist.github.com/lmorchard/f1f2508a9586d8e92efd84686c029f16\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gist.github.com/lmorchard/f1f2</span><span class=\"invisible\">508a9586d8e92efd84686c029f16</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://hachyderm.io/@beardicus",
+        "display_name": "Brian Boucheron"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/mlc-ai/web-llm",
+    "title": "GitHub - mlc-ai/web-llm: Bringing large-language models and chat to web browsers. Everything runs inside the browser with no server support.",
+    "latest": "2023-04-15T19:10:02+00:00",
+    "last_post": {
+      "url": "https://die-partei.social/@hackernews/110204407167881876",
+      "content": "<p>Web LLM \u2013 WebGPU Powered Inference of Large Language Models - <a href=\"https://github.com/mlc-ai/web-llm\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/mlc-ai/web-llm</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://die-partei.social/@hackernews",
+        "display_name": "Hackernews"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/everythingishacked/Semaphore",
+    "title": "GitHub - everythingishacked/Semaphore: A full-body keyboard using gestures to type through computer vision",
+    "latest": "2023-04-15T19:01:35+00:00",
+    "last_post": {
+      "url": "https://mastodon.gassner.io/@peter/110204373910506016",
+      "content": "<p>Is this the solution to too much sitting when we <a href=\"https://mastodon.gassner.io/tags/WorkFromHome\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>WorkFromHome</span></a>?</p><p><a href=\"https://github.com/everythingishacked/Semaphore\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/everythingishacked/</span><span class=\"invisible\">Semaphore</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://die-partei.social/@hackernews",
+        "display_name": "Hackernews"
+      },
+      {
+        "url": "https://hachyderm.io/@ascii_only",
+        "display_name": "ascii_only"
+      },
+      {
+        "url": "https://mastodon.gassner.io/@peter",
+        "display_name": "Peter Gassner"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/IDEA-Research/Grounded-Segment-Anything",
+    "title": "GitHub - IDEA-Research/Grounded-Segment-Anything: Marrying Grounding DINO with Segment Anything & Stable Diffusion - Detect , Segment and Generate Anything with Text Inputs",
+    "latest": "2023-04-15T18:12:02+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@compsci_discussions/110163597181738668",
+      "content": "<p>[P] Grounded-Segment-Anything: Zero-shot Detection and Segmentation</p><p><a href=\"https://github.com/IDEA-Research/Grounded-Segment-Anything\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/IDEA-Research/Groun</span><span class=\"invisible\">ded-Segment-Anything</span></a></p><p>Discussions: <a href=\"https://discu.eu/q/https://github.com/IDEA-Research/Grounded-Segment-Anything\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">discu.eu/q/https://github.com/</span><span class=\"invisible\">IDEA-Research/Grounded-Segment-Anything</span></a></p><p><a href=\"https://mastodon.social/tags/compsci\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>compsci</span></a> <a href=\"https://mastodon.social/tags/machinelearning\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>machinelearning</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@ceperez",
+        "display_name": "Carlos E. Perez @IntuitMachine"
+      },
+      {
+        "url": "https://creative.ai/@alexjc",
+        "display_name": "Alex J. Champandard \ud83c\udf31"
+      },
+      {
+        "url": "https://mastodon.social/@compsci_discussions",
+        "display_name": "Compsci Weekly"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/vanhoefm/macstealer",
+    "title": "GitHub - vanhoefm/macstealer",
+    "latest": "2023-04-15T18:10:03+00:00",
+    "last_post": {
+      "url": "https://die-partei.social/@hackernews/110204171262179450",
+      "content": "<p>MacStealer allow for WiFi client isolation bypasses (CVE-2022-47522) - <a href=\"https://github.com/vanhoefm/macstealer\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/vanhoefm/macstealer</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@JulianOliver",
+        "display_name": "Julian Oliver"
+      },
+      {
+        "url": "https://die-partei.social/@hackernews",
+        "display_name": "Hackernews"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/oliveirabruno01/babyagi-asi",
+    "title": "GitHub - oliveirabruno01/babyagi-asi: BabyAGI: an Autonomous and Self-Improving agent, or BASI",
+    "latest": "2023-04-15T16:55:02+00:00",
+    "last_post": {
+      "url": "https://die-partei.social/@hackernews/110203876321787536",
+      "content": "<p>BabyAGI: An Autonomous and Self-Improving Agent - <a href=\"https://github.com/oliveirabruno01/babyagi-asi\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/oliveirabruno01/bab</span><span class=\"invisible\">yagi-asi</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://die-partei.social/@hackernews",
+        "display_name": "Hackernews"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/m-ender/hexagony",
+    "title": "GitHub - m-ender/hexagony: A two-dimensional, hexagonal programming language.",
+    "latest": "2023-04-15T16:40:02+00:00",
+    "last_post": {
+      "url": "https://die-partei.social/@hackernews/110203817318965459",
+      "content": "<p>Hexagony: A two-dimensional, hexagonal programming language - <a href=\"https://github.com/m-ender/hexagony\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/m-ender/hexagony</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://genart.social/@tca",
+        "display_name": "tiago"
+      },
+      {
+        "url": "https://die-partei.social/@hackernews",
+        "display_name": "Hackernews"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/microsoft/AGIEval",
+    "title": "GitHub - microsoft/AGIEval",
+    "latest": "2023-04-15T16:08:22+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@aran/110194479441042667",
+      "content": "<p>AGIEval: A Human-Centric Benchmark for Evaluating Foundation Models</p><p>GPT-4 surpasses average human perf on SAT, LSAT, and math competitions, attaining 95% on SAT Math.</p><p>repo: <a href=\"https://github.com/microsoft/AGIEval\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/microsoft/AGIEval</span><span class=\"invisible\"></span></a><br>abs: <a href=\"https://arxiv.org/abs/2304.06364\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2304.06364</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@aran",
+        "display_name": "Aran Komatsuzaki"
+      },
+      {
+        "url": "https://creative.ai/@arxiv_cl",
+        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/santiagobasulto/ipython-gpt",
+    "title": "GitHub - santiagobasulto/ipython-gpt",
+    "latest": "2023-04-15T15:40:02+00:00",
+    "last_post": {
+      "url": "https://die-partei.social/@hackernews/110203581423076228",
+      "content": "<p>Show HN: IPython-GPT, a Jupyter/IPython Interface to Chat GPT - <a href=\"https://github.com/santiagobasulto/ipython-gpt\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/santiagobasulto/ipy</span><span class=\"invisible\">thon-gpt</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://die-partei.social/@hackernews",
+        "display_name": "Hackernews"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/nightblade9/themis-games-template",
     "title": "GitHub - nightblade9/themis-games-template: Blind-accessible HTML/Javascript game template, developed and maintained by Themis Games.",
     "latest": "2023-04-15T08:34:33+00:00",
@@ -466,21 +674,6 @@
     ]
   },
   {
-    "link": "https://github.com/microsoft/AGIEval",
-    "title": "GitHub - microsoft/AGIEval",
-    "latest": "2023-04-14T01:05:17+00:00",
-    "last_post": {
-      "url": "https://sigmoid.social/@aran/110194479441042667",
-      "content": "<p>AGIEval: A Human-Centric Benchmark for Evaluating Foundation Models</p><p>GPT-4 surpasses average human perf on SAT, LSAT, and math competitions, attaining 95% on SAT Math.</p><p>repo: <a href=\"https://github.com/microsoft/AGIEval\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/microsoft/AGIEval</span><span class=\"invisible\"></span></a><br>abs: <a href=\"https://arxiv.org/abs/2304.06364\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2304.06364</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://sigmoid.social/@aran",
-        "display_name": "Aran Komatsuzaki"
-      }
-    ]
-  },
-  {
     "link": "https://github.com/rvanwijnen/spectral.js",
     "title": "GitHub - rvanwijnen/spectral.js",
     "latest": "2023-04-14T00:34:07.526000+00:00",
@@ -645,25 +838,6 @@
       {
         "url": "https://vis.social/@benmschmidt",
         "display_name": "Ben Schmidt"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/everythingishacked/Semaphore",
-    "title": "GitHub - everythingishacked/Semaphore: A full-body keyboard using gestures to type through computer vision",
-    "latest": "2023-04-13T18:29:24+00:00",
-    "last_post": {
-      "url": "https://stefanbohacek.online/@stefan/110191898753018954",
-      "content": "<p>This looks fun!</p><p>Semaphore, a full-body keyboard with pose detection, by Everything Is Hacked.</p><p>Full demo: <a href=\"https://www.youtube.com/watch?v=h376W93gQq4\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">youtube.com/watch?v=h376W93gQq</span><span class=\"invisible\">4</span></a><br>Source code: <a href=\"https://github.com/everythingishacked/Semaphore\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/everythingishacked/</span><span class=\"invisible\">Semaphore</span></a></p><p><a href=\"https://stefanbohacek.online/tags/Semaphore\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Semaphore</span></a> <a href=\"https://stefanbohacek.online/tags/EverythingIsHacked\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>EverythingIsHacked</span></a> <a href=\"https://stefanbohacek.online/tags/PoseDetection\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>PoseDetection</span></a> <a href=\"https://stefanbohacek.online/tags/MachineLearning\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>MachineLearning</span></a> <a href=\"https://stefanbohacek.online/tags/OpenCV\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>OpenCV</span></a> <a href=\"https://stefanbohacek.online/tags/tech\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>tech</span></a> <a href=\"https://stefanbohacek.online/tags/OpenSource\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>OpenSource</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://die-partei.social/@hackernews",
-        "display_name": "Hackernews"
-      },
-      {
-        "url": "https://hachyderm.io/@ascii_only",
-        "display_name": "ascii_only"
       }
     ]
   },
@@ -1961,25 +2135,6 @@
     ]
   },
   {
-    "link": "https://github.com/IDEA-Research/Grounded-Segment-Anything",
-    "title": "GitHub - IDEA-Research/Grounded-Segment-Anything: Marrying Grounding DINO with Segment Anything & Stable Diffusion - Detect , Segment and Generate Anything with Text Inputs",
-    "latest": "2023-04-10T19:50:27+00:00",
-    "last_post": {
-      "url": "https://creative.ai/@alexjc/110176254519645074",
-      "content": "<p>RT @_akhaliq@twitter.com</p><p>Grounded-Segment-Anything: Marrying Grounding DINO with Segment Anything &amp; Stable Diffusion &amp; BLIP - Automatically Detect , Segment and Generate Anything with Image and Text Inputs</p><p>github: <a href=\"https://github.com/IDEA-Research/Grounded-Segment-Anything\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/IDEA-Research/Groun</span><span class=\"invisible\">ded-Segment-Anything</span></a><br>@Gradio@twitter.com demo: <a href=\"https://github.com/IDEA-Research/Grounded-Segment-Anything/blob/main/gradio_app.py\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/IDEA-Research/Groun</span><span class=\"invisible\">ded-Segment-Anything/blob/main/gradio_app.py</span></a></p><p>\ud83d\udc26\ud83d\udd17: <a href=\"https://twitter.com/_akhaliq/status/1645115958594351106\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">twitter.com/_akhaliq/status/16</span><span class=\"invisible\">45115958594351106</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://sigmoid.social/@ceperez",
-        "display_name": "Carlos E. Perez @IntuitMachine"
-      },
-      {
-        "url": "https://creative.ai/@alexjc",
-        "display_name": "Alex J. Champandard \ud83c\udf31"
-      }
-    ]
-  },
-  {
     "link": "https://github.com/IDEA-Research/Grounded-Segment-Anything/blob/main/gradio_app.py",
     "title": "GitHub - IDEA-Research/Grounded-Segment-Anything: Marrying Grounding DINO with Segment Anything & Stable Diffusion - Detect , Segment and Generate Anything with Text Inputs",
     "latest": "2023-04-10T19:50:27+00:00",
@@ -3109,193 +3264,6 @@
       {
         "url": "https://die-partei.social/@hackernews",
         "display_name": "Hackernews"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/acerbilab/pyvbmc",
-    "title": "GitHub - acerbilab/pyvbmc: PyVBMC: Variational Bayesian Monte Carlo algorithm for posterior and model inference in Python",
-    "latest": "2023-04-07T09:12:17+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@AcerbiLuigi/110147657708113411",
-      "content": "<p>1/ PyVBMC 1.0 is out! \ud83c\udf89</p><p><a href=\"https://github.com/acerbilab/pyvbmc\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/acerbilab/pyvbmc</span><span class=\"invisible\"></span></a></p><p>A new Python package for efficient Bayesian inference.</p><p>Get a posterior distribution over model parameters + the model evidence with a small number of likelihood evaluations.</p><p>No AGI was created in the process!</p>"
-    },
-    "people": [
-      {
-        "url": "https://sigmoid.social/@troos",
-        "display_name": "Teemu Roos"
-      },
-      {
-        "url": "https://bayes.club/@twiecki",
-        "display_name": "Thomas Wiecki"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/h-a-graham/EAlidaR",
-    "title": "GitHub - h-a-graham/EAlidaR: Package to download EA liDAR data",
-    "latest": "2023-04-07T07:17:50+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@humeursdevictor/110156308179916921",
-      "content": "<p><span class=\"h-card\"><a href=\"https://fosstodon.org/@mdsumner\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>mdsumner</span></a></span> <span class=\"h-card\"><a href=\"https://fosstodon.org/@tylermorganwall\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>tylermorganwall</span></a></span> <br>Wow. I just found out about <span class=\"h-card\"><a href=\"https://fosstodon.org/@hughagraham\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>hughagraham</span></a></span>'s  <a href=\"https://github.com/h-a-graham/EAlidaR\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/h-a-graham/EAlidaR</span><span class=\"invisible\"></span></a>.<br>I will try and find something in there.</p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@humeursdevictor",
-        "display_name": "Victor Alexandre"
-      }
-    ]
-  },
-  {
-    "link": "https://codeberg.org/fediverse/fep",
-    "title": "fep",
-    "latest": "2023-04-07T05:43:30+00:00",
-    "last_post": {
-      "url": "https://social.coop/@smallcircles/110155793750124627",
-      "content": "<p><span class=\"h-card\"><a href=\"https://social.coop/@J12t\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>J12t</span></a></span> <span class=\"h-card\"><a href=\"https://cosocial.ca/@evan\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>evan</span></a></span> <span class=\"h-card\"><a href=\"https://infosec.exchange/@jamiexml\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>jamiexml</span></a></span> </p><p>I advocate 2 locations as place-to-be for helping <a href=\"https://social.coop/tags/ActivityPub\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ActivityPub</span></a> and <a href=\"https://social.coop/tags/Fediverse\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Fediverse</span></a> move forward.</p><p>Yes, the <a href=\"https://social.coop/tags/W3C\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>W3C</span></a> <a href=\"https://social.coop/tags/SWICG\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>SWICG</span></a> for the AS/AP open standards tracks and mailing list discussion. But also the <a href=\"https://social.coop/tags/SocialHub\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>SocialHub</span></a> where <a href=\"https://social.coop/tags/FEP\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>FEP</span></a>'s are discussed and a huge archive of dev discussion is collected.</p><p>For years they went hand in hand re:collab, then the SWICG turned inactive while the forum did not. Now looks like there's some split happening.</p><p><a href=\"https://socialhub.activitypub.rocks/t/ideating-organization-structure-for-the-grassroots-fediverse-wiki/3037\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">socialhub.activitypub.rocks/t/</span><span class=\"invisible\">ideating-organization-structure-for-the-grassroots-fediverse-wiki/3037</span></a></p><p><a href=\"https://codeberg.org/fediverse/fep\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">codeberg.org/fediverse/fep</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://hachyderm.io/@mnl",
-        "display_name": "mnml mnl (he/him)"
-      },
-      {
-        "url": "https://mastodon.social/@hrheingold",
-        "display_name": "Howard Rheingold"
-      },
-      {
-        "url": "https://mastodon.social/@UncensoredNews",
-        "display_name": "Climate Search Engine"
-      },
-      {
-        "url": "https://hci.social/@bkeegan",
-        "display_name": "Brian C. Keegan"
-      },
-      {
-        "url": "https://tech.lgbt/@_dmh",
-        "display_name": "Dave Howcroft \ud83e\udd94"
-      },
-      {
-        "url": "https://indieweb.social/@tchambers",
-        "display_name": "Tim Chambers"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/zouharvi/pwesuite",
-    "title": "GitHub - zouharvi/pwesuite",
-    "latest": "2023-04-07T05:03:31+00:00",
-    "last_post": {
-      "url": "https://creative.ai/@arxiv_cl/110155780061459731",
-      "content": "<p>\ud83d\udcdd PWESuite: Phonetic Word Embeddings and Tasks They Facilitate \ud83d\udcda</p><p>\"Phonetic word embeddings are built by first obtaining articulatory representations for each word using the Carnegie Mellon University Pronouncing Dictionary (CMUdict), and then learning a mapping from word tokens to the articulatory features space.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/zouharvi/pwesuite\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/zouharvi/pwesuite</span><span class=\"invisible\"></span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2304.02541v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2304.02541v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://creative.ai/@arxiv_cl",
-        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/ninjaaron/administrative-scripting-with-julia",
-    "title": "GitHub - ninjaaron/administrative-scripting-with-julia: Guide for writing shell scripts in Julia",
-    "latest": "2023-04-07T04:10:02+00:00",
-    "last_post": {
-      "url": "https://die-partei.social/@hackernews/110155569724586976",
-      "content": "<p>Administrative Scripting with Julia - <a href=\"https://github.com/ninjaaron/administrative-scripting-with-julia\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/ninjaaron/administr</span><span class=\"invisible\">ative-scripting-with-julia</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://die-partei.social/@hackernews",
-        "display_name": "Hackernews"
-      }
-    ]
-  },
-  {
-    "link": "https://gist.github.com/simonw/79755552c534cf9044b8451e184dde73",
-    "title": "crossing-puzzle.md",
-    "latest": "2023-04-07T02:56:47+00:00",
-    "last_post": {
-      "url": "https://fedi.simonwillison.net/@simon/110154253135829875",
-      "content": "<p><span class=\"h-card\"><a href=\"https://twit.social/@hasanahmsd\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>hasanahmsd</span></a></span> <span class=\"h-card\"><a href=\"https://mastodon.social/@caseynewton\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>caseynewton</span></a></span> <span class=\"h-card\"><a href=\"https://mastodon.social/@jeffjarvis\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>jeffjarvis</span></a></span> Here's something fun: I have the ChatGPT alpha that can use Python, so I posed the problem to that (using different words to avoid confusion)</p><p>&gt; Based on the depth-first search algorithm, there is no solution to this puzzle. It's impossible for the man to take the zelpug, sphang, and cnurdle across the river while obeying all three rules. Therefore, the man cannot solve this puzzle and get all three things across the river.</p><p>Transcript <a href=\"https://gist.github.com/simonw/79755552c534cf9044b8451e184dde73\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gist.github.com/simonw/7975555</span><span class=\"invisible\">2c534cf9044b8451e184dde73</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://scholar.social/@cemhend",
-        "display_name": "C. E. M. Henderson"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/containers",
-    "title": "Containers",
-    "latest": "2023-04-07T01:31:49+00:00",
-    "last_post": {
-      "url": "https://fosstodon.org/@mairin/110153025845243264",
-      "content": "<p>The newest <a href=\"https://fosstodon.org/tags/containers\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>containers</span></a> project logo for Youki is now live on the containers page at <a href=\"https://github.com/containers\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/containers</span><span class=\"invisible\"></span></a> ! This was designed by <a href=\"https://fosstodon.org/tags/Fedora\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Fedora</span></a> designer and Red Hat intern Jess Chitas in coordination with upstream. It fits in nicely with the rest of the container project logos now :) </p><p>Great job, Jess!</p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.online/@vwbusguy",
-        "display_name": "Scott Williams \ud83d\udc27"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/mlc-ai/web-stable-diffusion",
-    "title": "github.com/mlc-ai/web-stable-d...",
-    "latest": "2023-04-07T01:16:09+00:00",
-    "last_post": {
-      "url": "https://vis.social/@benmschmidt/110153023771755711",
-      "content": "<p>There are already some crazy things out there, like a version of Stable Diffusion that runs in your web browser. <a href=\"https://github.com/mlc-ai/web-stable-diffusion\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/mlc-ai/web-stable-d</span><span class=\"invisible\">iffusion</span></a>. I wrote something two years ago about why I think WebGPU makes javascript the most interesting programming language out there for data analysts/ML people. <a href=\"https://benschmidt.org/post/2020-01-15-webGPU/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">benschmidt.org/post/2020-01-15</span><span class=\"invisible\">-webGPU/</span></a> And there's lots of stuff that's become more conceivable since--for instance, a dataframe based on Apache Arrow that does massively parallel data transformations. Chat-GPT in browser.</p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.online/@vladiliescu",
-        "display_name": "Vlad Iliescu \ud83d\udc2c"
-      },
-      {
-        "url": "https://fedi.simonwillison.net/@simon",
-        "display_name": "Simon Willison"
-      },
-      {
-        "url": "https://die-partei.social/@hackernews",
-        "display_name": "Hackernews"
-      },
-      {
-        "url": "https://mastodon.social/@severo",
-        "display_name": "Sylvain Lesage"
-      },
-      {
-        "url": "https://scholar.social/@electricarchaeo",
-        "display_name": "Shawn Graham"
-      },
-      {
-        "url": "https://mastodon.social/@jose_eduardo",
-        "display_name": "Jos\u00e9 Eduardo Gonz\u00e1lez"
-      },
-      {
-        "url": "https://vis.social/@benmschmidt",
-        "display_name": "Ben Schmidt"
-      },
-      {
-        "url": "https://vis.social/@jazz",
-        "display_name": "Jasmine Otto"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/humblepenguinn/tmplt",
-    "title": "GitHub - humblepenguinn/tmplt: tmplt is a command-line interface tool that allows you to quickly and easily set up project templates for various programming languages and frameworks",
-    "latest": "2023-04-06T21:48:25+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@python_discussions/110154069176691038",
-      "content": "<p>Introducing tmplt - A User Friendly CLI Tool for Creating Projects with Templates</p><p><a href=\"https://github.com/humblepenguinn/tmplt\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/humblepenguinn/tmpl</span><span class=\"invisible\">t</span></a></p><p>Discussions: <a href=\"https://discu.eu/q/https://github.com/humblepenguinn/tmplt\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">discu.eu/q/https://github.com/</span><span class=\"invisible\">humblepenguinn/tmplt</span></a></p><p><a href=\"https://mastodon.social/tags/programming\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>programming</span></a> <a href=\"https://mastodon.social/tags/python\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>python</span></a> <a href=\"https://mastodon.social/tags/reactjs\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>reactjs</span></a> <a href=\"https://mastodon.social/tags/rustlang\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rustlang</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@python_discussions",
-        "display_name": "Python Weekly"
       }
     ]
   }
