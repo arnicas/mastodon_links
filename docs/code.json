@@ -1,5 +1,125 @@
 [
   {
+    "link": "https://github.com/nightblade9/themis-games-template",
+    "title": "GitHub - nightblade9/themis-games-template: Blind-accessible HTML/Javascript game template, developed and maintained by Themis Games.",
+    "latest": "2023-04-15T08:34:33+00:00",
+    "last_post": {
+      "url": "https://mastodon.gamedev.place/@nightblade9/110193290812505318",
+      "content": "<p>Big news for the <a href=\"https://mastodon.gamedev.place/tags/GamesForBlindGamers\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>GamesForBlindGamers</span></a> jam: there's a free template for accessible, blind-friendly HTML5/JS games! You can check it out here:</p><p><a href=\"https://github.com/nightblade9/themis-games-template\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/nightblade9/themis-</span><span class=\"invisible\">games-template</span></a></p><p>Courtesy of Themis Games and their awesome Scrabble-inspired game, Wordvoyance!</p><p>I hope this can become a community-maintained project, please check it out and spread the word!</p><p><a href=\"https://mastodon.gamedev.place/tags/GameDev\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>GameDev</span></a> <a href=\"https://mastodon.gamedev.place/tags/a11y\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>a11y</span></a> <a href=\"https://mastodon.gamedev.place/tags/accessibility\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>accessibility</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://tech.lgbt/@_dmh",
+        "display_name": "Dave Howcroft \ud83e\udd94"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/cnlohr/mini-rv32ima.git",
+    "title": "GitHub - cnlohr/mini-rv32ima: A tiny C header-only risc-v emulator.",
+    "latest": "2023-04-15T06:11:20+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@compsci_discussions/110201345197201591",
+      "content": "<p>Fun, or pure magic: RISC-V rv32ima emulator running busybox linux</p><p><a href=\"https://github.com/cnlohr/mini-rv32ima.git\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/cnlohr/mini-rv32ima</span><span class=\"invisible\">.git</span></a></p><p>Discussions: <a href=\"https://discu.eu/q/https://github.com/cnlohr/mini-rv32ima.git\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">discu.eu/q/https://github.com/</span><span class=\"invisible\">cnlohr/mini-rv32ima.git</span></a></p><p><a href=\"https://mastodon.social/tags/compsci\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>compsci</span></a> <a href=\"https://mastodon.social/tags/linux\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>linux</span></a> <a href=\"https://mastodon.social/tags/riscv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>riscv</span></a> <a href=\"https://mastodon.social/tags/unix\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>unix</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@compsci_discussions",
+        "display_name": "Compsci Weekly"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/imatge-upc/slt",
+    "title": "https://github.com/imatge-upc/slt",
+    "latest": "2023-04-15T05:25:53+00:00",
+    "last_post": {
+      "url": "https://creative.ai/@arxiv_cl/110201166451980438",
+      "content": "<p>\ud83d\udcdd Sign Language Translation From Instructional Videos \ud83d\udcda\ud83d\udd2d</p><p>\"A Transformer over I3D video features, using the reduced BLEU as a reference metric for validation, instead of the widely used BLEU score and the first open-source implementation of its kind.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a> <a href=\"https://creative.ai/tags/CV\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CV</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/imatge-upc/slt\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/imatge-upc/slt</span><span class=\"invisible\"></span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2304.06371v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2304.06371v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://creative.ai/@arxiv_cl",
+        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
+      }
+    ]
+  },
+  {
+    "link": "https://gist.github.com/mdsumner/00d15671374894fee462f12931a1e716",
+    "title": "mesh_polygons_R.md",
+    "latest": "2023-04-15T04:34:20+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@mdsumner/110200963738239861",
+      "content": "<p>a tiny sample of what we have in R for meshing polygons <a href=\"https://fosstodon.org/tags/rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rstats</span></a> with CGAL, GEOS, Triangle</p><p>(still to explore some new stuff in euclid family)</p><p><a href=\"https://gist.github.com/mdsumner/00d15671374894fee462f12931a1e716\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gist.github.com/mdsumner/00d15</span><span class=\"invisible\">671374894fee462f12931a1e716</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fosstodon.org/@mdsumner",
+        "display_name": "mdsumner"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/holepunchto/hypershell",
+    "title": "GitHub - holepunchto/hypershell: Spawn shells anywhere. Fully peer-to-peer, authenticated, and end to end encrypted",
+    "latest": "2023-04-15T02:35:01+00:00",
+    "last_post": {
+      "url": "https://die-partei.social/@hackernews/110200494609733439",
+      "content": "<p>HyperShell: Spawn shells anywhere. Fully peer-to-peer - <a href=\"https://github.com/holepunchto/hypershell\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/holepunchto/hypersh</span><span class=\"invisible\">ell</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://die-partei.social/@hackernews",
+        "display_name": "Hackernews"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/obi1kenobi/trustfall/pulse",
+    "title": "Pulse \u00b7 obi1kenobi/trustfall",
+    "latest": "2023-04-15T02:10:15+00:00",
+    "last_post": {
+      "url": "https://hachyderm.io/@predrag/110198938889357706",
+      "content": "<p>You could say it's been a busy week...</p><p>20,000 lines of bugfixes and tests merged in Trustfall!<br><a href=\"https://github.com/obi1kenobi/trustfall/pulse\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/obi1kenobi/trustfal</span><span class=\"invisible\">l/pulse</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@ayirpelle",
+        "display_name": "ayirpelle"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/facebookresearch/AnimatedDrawings",
+    "title": "GitHub - facebookresearch/AnimatedDrawings: Code to accompany \"A Method for Animating Children's Drawings of the Human Figure\"",
+    "latest": "2023-04-15T01:04:03+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@rahuldave/110200136920468365",
+      "content": "<p>RT @nonmayorpete<br>5. Meta open sources \"Animated Drawings\"</p><p>- Project brings sketches to life<br>- This continues an effort from 2021, when they first released this project and started collecting data from the public</p><p>Access: <a href=\"https://github.com/facebookresearch/AnimatedDrawings\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/facebookresearch/An</span><span class=\"invisible\">imatedDrawings</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@rahuldave",
+        "display_name": "Rahul Dave"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/hrbrmstr/its-mine",
+    "title": "GitHub - hrbrmstr/its-mine: Reclaim your macOS file extension associations.",
+    "latest": "2023-04-15T00:36:34+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@hrbrmstr/110200028793632012",
+      "content": "<p>Super alpha <a href=\"https://mastodon.social/tags/macOS\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>macOS</span></a> <a href=\"https://mastodon.social/tags/Swift\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Swift</span></a> <a href=\"https://mastodon.social/tags/CLI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CLI</span></a> to reclaim what apps open your fav file extensions. <a href=\"https://github.com/hrbrmstr/its-mine\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/hrbrmstr/its-mine</span><span class=\"invisible\"></span></a>. Improvements coming soon.</p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@hrbrmstr",
+        "display_name": "boB Rudis \ud83c\uddfa\ud83c\udde6"
+      }
+    ]
+  },
+  {
     "link": "https://gist.github.com/h-a-graham/7911bd25431cb78d47b0ac043efeb5c4",
     "title": "generates buffer along terrain surface from point",
     "latest": "2023-04-14T21:57:20+00:00",
@@ -3176,126 +3296,6 @@
       {
         "url": "https://mastodon.social/@python_discussions",
         "display_name": "Python Weekly"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/wxjiao/ParroT",
-    "title": "GitHub - wxjiao/ParroT: Proposed the ParroT framework to enhance and regulate the translation abilities during chat based on open-sourced LLMs and human written translation and evaluation data.",
-    "latest": "2023-04-06T21:33:31+00:00",
-    "last_post": {
-      "url": "https://creative.ai/@arxiv_cl/110154010547090270",
-      "content": "<p>\ud83d\udcdd ParroT: Translating During Chat Using Large Language Models \ud83d\udcda</p><p>\"ParroT reformulates translation data into the instruction-following style, and introduces a \"Hint\" field for incorporating extra requirements to regulate the translation process.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/wxjiao/ParroT\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/wxjiao/ParroT</span><span class=\"invisible\"></span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2304.02426v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2304.02426v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://creative.ai/@arxiv_cl",
-        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/sigoden/argc",
-    "title": "GitHub - sigoden/argc: An elegant command-line options, arguments and sub-commands parser for bash.",
-    "latest": "2023-04-06T21:25:59+00:00",
-    "last_post": {
-      "url": "https://hachyderm.io/@schlink/110153980954985985",
-      "content": "<p>ooo argc is </p><p>&gt; An elegant command-line options, arguments and sub-commands parser for bash. </p><p><a href=\"https://github.com/sigoden/argc\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/sigoden/argc</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://hachyderm.io/@schlink",
-        "display_name": "Sam Schlinkert"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/samfisherirl/ahk_requests.py",
-    "title": "GitHub - samfisherirl/ahk_requests.py: Download in AHK v2 via Python's Requests library, shortcutting API response data.",
-    "latest": "2023-04-06T21:01:02+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@python_discussions/110153882858780235",
-      "content": "<p>ahk_requests - HTTP Requests using Python's requests library. Easily add headers, perimeters, grab webpages or API com</p><p><a href=\"https://github.com/samfisherirl/ahk_requests.py\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/samfisherirl/ahk_re</span><span class=\"invisible\">quests.py</span></a></p><p>Discussions: <a href=\"https://discu.eu/q/https://github.com/samfisherirl/ahk_requests.py\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">discu.eu/q/https://github.com/</span><span class=\"invisible\">samfisherirl/ahk_requests.py</span></a></p><p><a href=\"https://mastodon.social/tags/autohotkey\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>autohotkey</span></a> <a href=\"https://mastodon.social/tags/programming\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>programming</span></a> <a href=\"https://mastodon.social/tags/python\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>python</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@python_discussions",
-        "display_name": "Python Weekly"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/AgileRL/AgileRL",
-    "title": "GitHub - AgileRL/AgileRL: Streamlining reinforcement learning with RLOps",
-    "latest": "2023-04-06T20:49:35+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@compsci_discussions/110079606994240546",
-      "content": "<p>[P] Reinforcement learning evolutionary hyperparameter optimization - 10x speed up</p><p><a href=\"https://github.com/AgileRL/AgileRL\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/AgileRL/AgileRL</span><span class=\"invisible\"></span></a></p><p>Discussions: <a href=\"https://discu.eu/q/https://github.com/AgileRL/AgileRL\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">discu.eu/q/https://github.com/</span><span class=\"invisible\">AgileRL/AgileRL</span></a></p><p><a href=\"https://mastodon.social/tags/compsci\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>compsci</span></a> <a href=\"https://mastodon.social/tags/machinelearning\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>machinelearning</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@compsci_discussions",
-        "display_name": "Compsci Weekly"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/blipk/pysh",
-    "title": "GitHub - blipk/pysh: bash in python",
-    "latest": "2023-04-06T20:48:10+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@python_discussions/110087156253286247",
-      "content": "<p>GitHub - blipk/pysh: bash in python</p><p><a href=\"https://github.com/blipk/pysh\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/blipk/pysh</span><span class=\"invisible\"></span></a></p><p>Discussions: <a href=\"https://discu.eu/q/https://github.com/blipk/pysh\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">discu.eu/q/https://github.com/</span><span class=\"invisible\">blipk/pysh</span></a></p><p><a href=\"https://mastodon.social/tags/programming\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>programming</span></a> <a href=\"https://mastodon.social/tags/python\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>python</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@python_discussions",
-        "display_name": "Python Weekly"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/E-xyza/Exonerate/blob/master/bench/reports/gpt-bench.md",
-    "title": "Exonerate/gpt-bench.md at master \u00b7 E-xyza/Exonerate",
-    "latest": "2023-04-06T20:35:02+00:00",
-    "last_post": {
-      "url": "https://die-partei.social/@hackernews/110153780576343939",
-      "content": "<p>Benchmarking the accuracy of GPT3.5's and GPT-4's code generation abilities - <a href=\"https://github.com/E-xyza/Exonerate/blob/master/bench/reports/gpt-bench.md\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/E-xyza/Exonerate/bl</span><span class=\"invisible\">ob/master/bench/reports/gpt-bench.md</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://die-partei.social/@hackernews",
-        "display_name": "Hackernews"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/Michael-K-Stein/SpotiFile",
-    "title": "GitHub - Michael-K-Stein/SpotiFile: Spotify scraper",
-    "latest": "2023-04-06T20:21:25+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@python_discussions/110153727017083393",
-      "content": "<p>SpotiFile : Music scraping made easy</p><p><a href=\"https://github.com/Michael-K-Stein/SpotiFile\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/Michael-K-Stein/Spo</span><span class=\"invisible\">tiFile</span></a></p><p>Discussions: <a href=\"https://discu.eu/q/https://github.com/Michael-K-Stein/SpotiFile\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">discu.eu/q/https://github.com/</span><span class=\"invisible\">Michael-K-Stein/SpotiFile</span></a></p><p><a href=\"https://mastodon.social/tags/programming\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>programming</span></a> <a href=\"https://mastodon.social/tags/python\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>python</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@python_discussions",
-        "display_name": "Python Weekly"
-      }
-    ]
-  },
-  {
-    "link": "https://observablehq.com/@observablehq/learn-observable-course-april-2023?utm_medium=social&amp;utm_campaign=learnobservable&amp;utm_source=twitter",
-    "title": "Learn Observable Workshop",
-    "latest": "2023-04-06T19:43:00+00:00",
-    "last_post": {
-      "url": "https://vis.social/@observablehq/110153576007748713",
-      "content": "<p>Try us out! Come join our 'Learn Observable' workshop with our very own Paul Buffa on April 14th at 9 AM PT / 12 PM ET. This workshop aims to provide high-level instruction to the core methods and tools that you will need to start with us!</p><p><a href=\"https://observablehq.com/@observablehq/learn-observable-course-april-2023?utm_medium=social&amp;utm_campaign=learnobservable&amp;utm_source=twitter\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">observablehq.com/@observablehq</span><span class=\"invisible\">/learn-observable-course-april-2023?utm_medium=social&amp;utm_campaign=learnobservable&amp;utm_source=twitter</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://vis.social/@observablehq",
-        "display_name": ""
       }
     ]
   }
