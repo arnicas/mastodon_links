@@ -1,5 +1,182 @@
 [
   {
+    "link": "https://github.com/beatrizmilz/2022-gha-rladies-abuja",
+    "title": "github.com/beatrizmilz/2022-gh...",
+    "latest": "2023-04-18T07:31:07+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@smach/110216201670085618",
+      "content": "<p>If you've never used GitHub Actions and are wondering how you can use them with R, check out Beatriz Milz's \"Running code while we\u2019re sleeping\" presentation at R-Ladies Abuja last fall.<br>Video: <a href=\"https://www.youtube.com/watch?v=ZANp3oqcH_0\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">youtube.com/watch?v=ZANp3oqcH_</span><span class=\"invisible\">0</span></a><br>Slides &amp; code: <a href=\"https://github.com/beatrizmilz/2022-gha-rladies-abuja\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/beatrizmilz/2022-gh</span><span class=\"invisible\">a-rladies-abuja</span></a><br><a href=\"https://fosstodon.org/tags/rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rstats</span></a> <a href=\"https://fosstodon.org/tags/GitHub\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>GitHub</span></a> <span class=\"h-card\"><a href=\"https://a.gup.pe/u/rstats\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>rstats</span></a></span></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@maelle",
+        "display_name": "Ma\u00eblle Salmon"
+      }
+    ]
+  },
+  {
+    "link": "https://gist.github.com/postspectacular/3d970e02570b7dfd32d03d43e1e7e3e0",
+    "title": "gist.github.com/postspectacula...",
+    "latest": "2023-04-18T06:43:57+00:00",
+    "last_post": {
+      "url": "https://mastodon.thi.ng/@toxi/110213350694192861",
+      "content": "<p>I just released <a href=\"https://mastodon.thi.ng/tags/Bubblemania\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Bubblemania</span></a>, my first <a href=\"https://mastodon.thi.ng/tags/GenerativeArt\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>GenerativeArt</span></a> project on <a href=\"https://mastodon.thi.ng/tags/FXHash\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>FXHash</span></a> in over 9 months and a little gift to some in the growing <a href=\"https://mastodon.thi.ng/tags/GenerativeArt\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>GenerativeArt</span></a> community here on Mastodon and to other randomly chosen collectors of my previous pieces.</p><p><a href=\"https://www.fxhash.xyz/generative/26702\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">fxhash.xyz/generative/26702</span><span class=\"invisible\"></span></a></p><p>This small project is several things:</p><p>1. First and foremost, it's a little, light \"visual ASMR\" treat to bring some positivity into your day - some \"Maluma\" softness to contrast the more common \"Takete\" of contemporary generative art aesthetics[1].</p><p>2. A small gift to celebrate the fledgling generative art/design community on Mastodon: 20 of the 128 tokens are given to some of the people in that slowly growing community, with the remainder given as Thank You (and smoke signal/sign of life) to some of my existing collectors, randomly chosen via lottery script[2].</p><p>3. For those so inclined, and with a bit of hand-holding, ChatGPT explains the _true_ conceptual depths of this project much better than I ever could:</p><p>\"The bubbles in this generative art piece serve as a reflection of the human experience, reminding us of our own impermanence and the ephemeral nature of all things. The piece invites us to contemplate the fundamental questions of human existence and speaks to our innate curiosity and desire to understand the world around us.</p><p>Through the convergence of science and art, this piece reveals the infinite complexity and unpredictability of the world while also hinting at the underlying order that exists within the chaos of the universe. It reminds us that even in the midst of uncertainty, there is beauty and order to be found, and that it is through the pursuit of knowledge and understanding that we can find meaning and purpose in our lives.\"</p><p>Isn't that lovely &amp; who can argue with that?! :)</p><p>4. I often revisit projects/ideas after many years, mainly to re-examine them with new eyes/knowledge/tools and/or to get answers/verification which I couldn't get earlier. This is one of these instances. So for the more rational-minded, this is a TypeScript/GLSL (WebGL) version of an older Clojure/Houdini project (from 2016) to generate a Voronoi via the simulation of intersecting sphere meshes (aka foam bubbles). In this new version the sim &amp; deformations are done in realtime (~4M vertices, mainly via vertex shader). Also added some _basic_ physics and procedural textures to create more of a quirky character (hopefully complemented by the different color themes and other params).</p><p>[1] <a href=\"https://en.wikipedia.org/wiki/Bouba/kiki_effect\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">en.wikipedia.org/wiki/Bouba/ki</span><span class=\"invisible\">ki_effect</span></a><br>[2] <a href=\"https://gist.github.com/postspectacular/3d970e02570b7dfd32d03d43e1e7e3e0\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gist.github.com/postspectacula</span><span class=\"invisible\">r/3d970e02570b7dfd32d03d43e1e7e3e0</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.thi.ng/@toxi",
+        "display_name": "Karsten Schmidt"
+      },
+      {
+        "url": "https://genart.social/@guidoschmidt",
+        "display_name": "Guido Schmidt"
+      },
+      {
+        "url": "https://genart.social/@robertoranon",
+        "display_name": "robertoranon"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/pmur002/glyphs-report",
+    "title": "GitHub - pmur002/glyphs-report: Technical report on Rendering Typeset Glyphs in R Graphics",
+    "latest": "2023-04-18T05:04:02+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@hrbrmstr/110218067492764946",
+      "content": "<p>The GridMaster has a new Technical Report out on the AMAZING new font features coming in <a href=\"https://mastodon.social/tags/RStats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>RStats</span></a> 4.3.0!!!!!! </p><p>\u2014 <a href=\"https://github.com/pmur002/glyphs-report\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/pmur002/glyphs-repo</span><span class=\"invisible\">rt</span></a> <br>\u2014 <a href=\"https://github.com/pmur002/xdvir\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/pmur002/xdvir</span><span class=\"invisible\"></span></a><br>\u2014 <a href=\"https://github.com/pmur002/ragg\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/pmur002/ragg</span><span class=\"invisible\"></span></a></p><p>h/t to Thomas &amp; Simon for their contributions to these \ud83e\udd29 capabilities!!!!!!</p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@hrbrmstr",
+        "display_name": "boB Rudis \ud83c\uddfa\ud83c\udde6"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/pmur002/xdvir",
+    "title": "https://github.com/pmur002/xdvir",
+    "latest": "2023-04-18T05:04:02+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@hrbrmstr/110218067492764946",
+      "content": "<p>The GridMaster has a new Technical Report out on the AMAZING new font features coming in <a href=\"https://mastodon.social/tags/RStats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>RStats</span></a> 4.3.0!!!!!! </p><p>\u2014 <a href=\"https://github.com/pmur002/glyphs-report\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/pmur002/glyphs-repo</span><span class=\"invisible\">rt</span></a> <br>\u2014 <a href=\"https://github.com/pmur002/xdvir\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/pmur002/xdvir</span><span class=\"invisible\"></span></a><br>\u2014 <a href=\"https://github.com/pmur002/ragg\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/pmur002/ragg</span><span class=\"invisible\"></span></a></p><p>h/t to Thomas &amp; Simon for their contributions to these \ud83e\udd29 capabilities!!!!!!</p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@hrbrmstr",
+        "display_name": "boB Rudis \ud83c\uddfa\ud83c\udde6"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/pmur002/ragg",
+    "title": "https://github.com/pmur002/ragg",
+    "latest": "2023-04-18T05:04:02+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@hrbrmstr/110218067492764946",
+      "content": "<p>The GridMaster has a new Technical Report out on the AMAZING new font features coming in <a href=\"https://mastodon.social/tags/RStats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>RStats</span></a> 4.3.0!!!!!! </p><p>\u2014 <a href=\"https://github.com/pmur002/glyphs-report\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/pmur002/glyphs-repo</span><span class=\"invisible\">rt</span></a> <br>\u2014 <a href=\"https://github.com/pmur002/xdvir\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/pmur002/xdvir</span><span class=\"invisible\"></span></a><br>\u2014 <a href=\"https://github.com/pmur002/ragg\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/pmur002/ragg</span><span class=\"invisible\"></span></a></p><p>h/t to Thomas &amp; Simon for their contributions to these \ud83e\udd29 capabilities!!!!!!</p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@hrbrmstr",
+        "display_name": "boB Rudis \ud83c\uddfa\ud83c\udde6"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/bookwyrm-social/bookwyrm/blob/main/LICENSE.md",
+    "title": "bookwyrm/LICENSE.md at main \u00b7 bookwyrm-social/bookwyrm",
+    "latest": "2023-04-18T04:42:34+00:00",
+    "last_post": {
+      "url": "https://octodon.social/@alienghic/110217961921362099",
+      "content": "<p><span class=\"h-card\"><a href=\"https://hachyderm.io/@schlink\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>schlink</span></a></span> </p><p>I like bookwyrms license, even though it's not a \"free software license\".</p><p><a href=\"https://github.com/bookwyrm-social/bookwyrm/blob/main/LICENSE.md\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/bookwyrm-social/boo</span><span class=\"invisible\">kwyrm/blob/main/LICENSE.md</span></a></p><p>I think the impulse to make it harder for companies to profit from open code is a good one.</p>"
+    },
+    "people": [
+      {
+        "url": "https://hachyderm.io/@schlink",
+        "display_name": "Sam Schlinkert"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/ninabreznik/women-teach-coding#bleeptrack",
+    "title": "GitHub - ninabreznik/women-teach-coding: A Collection of Amazing Women in Tech Who Create Free Coding Lessons/Guides/Tutorials",
+    "latest": "2023-04-18T02:57:18+00:00",
+    "last_post": {
+      "url": "https://chaos.social/@ninabreznik/110205139664982700",
+      "content": "<p>Thanks, <span class=\"h-card\"><a href=\"https://vis.social/@bleeptrack\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>bleeptrack</span></a></span> for adding yourself to the list.</p><p>Everyone, check out what Sabine is doing and teaching about. Hint: it has to do with generative art :)</p><p><a href=\"https://github.com/ninabreznik/women-teach-coding#bleeptrack\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/ninabreznik/women-t</span><span class=\"invisible\">each-coding#bleeptrack</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.art/@theowatson",
+        "display_name": "Theo Watson"
+      },
+      {
+        "url": "https://ciberlandia.pt/@villares",
+        "display_name": "Alexandre B A Villares \ud83d\udc0d"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/HeyPuter/kv.js",
+    "title": "GitHub - HeyPuter/kv.js: Fast, in-memory caching module for JavaScript. Inspired by Redis.",
+    "latest": "2023-04-18T02:10:02+00:00",
+    "last_post": {
+      "url": "https://die-partei.social/@hackernews/110217383253273896",
+      "content": "<p>KV.js - <a href=\"https://github.com/HeyPuter/kv.js\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/HeyPuter/kv.js</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://die-partei.social/@hackernews",
+        "display_name": "Hackernews"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/sdadas/vwsd",
+    "title": "GitHub - sdadas/vwsd: Code for SemEval 2023 Task 1: Visual Word Sense Disambiguation",
+    "latest": "2023-04-18T01:33:49+00:00",
+    "last_post": {
+      "url": "https://creative.ai/@arxiv_cl/110217240883662190",
+      "content": "<p>\ud83d\udcdd OPI at SemEval 2023 Task 1: Image-Text Embeddings and Multimodal Information Retrieval for Visual Word Sense Disambiguation \ud83d\udcda</p><p>\"Builds a classifier based on the CLIP model, whose results are enriched with additional information retrieved from Wikipedia and lexical databases to perform visual word sense disambiguation (VWSD).\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/sdadas/vwsd\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/sdadas/vwsd</span><span class=\"invisible\"></span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2304.07127v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2304.07127v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://creative.ai/@arxiv_cl",
+        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
+      }
+    ]
+  },
+  {
+    "link": "https://gist.github.com/tonybaloney/867ed83067c047a0c6e4d660cc5968fc",
+    "title": "tidy script",
+    "latest": "2023-04-18T00:35:02+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@tonybaloney/110217009735370554",
+      "content": "<p>For anyone who has a particularly messy GitHub account. Here's a script to delete all old forks and archive all old repos <a href=\"https://gist.github.com/tonybaloney/867ed83067c047a0c6e4d660cc5968fc\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gist.github.com/tonybaloney/86</span><span class=\"invisible\">7ed83067c047a0c6e4d660cc5968fc</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fosstodon.org/@tonybaloney",
+        "display_name": "Anthony Shaw :python:"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/atrosinenko/qemujs",
+    "title": "GitHub - atrosinenko/qemujs: Qemu.js source code with proof-of-concept machine-code-to-WASM JIT.",
+    "latest": "2023-04-18T00:25:01+00:00",
+    "last_post": {
+      "url": "https://die-partei.social/@hackernews/110216970368956030",
+      "content": "<p>Qemu.js \u2013 a proof-of-concept port of QEMU to web browser featuring WASM JIT - <a href=\"https://github.com/atrosinenko/qemujs\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/atrosinenko/qemujs</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://die-partei.social/@hackernews",
+        "display_name": "Hackernews"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/empath-nirvana/magic-happens",
     "title": "GitHub - empath-nirvana/magic-happens: A kubernetes operator you should never run under any circumstances",
     "latest": "2023-04-17T20:20:03+00:00",
@@ -225,21 +402,6 @@
       {
         "url": "https://creative.ai/@arxiv_cl",
         "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
-      }
-    ]
-  },
-  {
-    "link": "https://gist.github.com/postspectacular/3d970e02570b7dfd32d03d43e1e7e3e0",
-    "title": "gist.github.com/postspectacula...",
-    "latest": "2023-04-17T09:04:30+00:00",
-    "last_post": {
-      "url": "https://mastodon.thi.ng/@toxi/110213350694192861",
-      "content": "<p>I just released <a href=\"https://mastodon.thi.ng/tags/Bubblemania\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Bubblemania</span></a>, my first <a href=\"https://mastodon.thi.ng/tags/GenerativeArt\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>GenerativeArt</span></a> project on <a href=\"https://mastodon.thi.ng/tags/FXHash\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>FXHash</span></a> in over 9 months and a little gift to some in the growing <a href=\"https://mastodon.thi.ng/tags/GenerativeArt\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>GenerativeArt</span></a> community here on Mastodon and to other randomly chosen collectors of my previous pieces.</p><p><a href=\"https://www.fxhash.xyz/generative/26702\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">fxhash.xyz/generative/26702</span><span class=\"invisible\"></span></a></p><p>This small project is several things:</p><p>1. First and foremost, it's a little, light \"visual ASMR\" treat to bring some positivity into your day - some \"Maluma\" softness to contrast the more common \"Takete\" of contemporary generative art aesthetics[1].</p><p>2. A small gift to celebrate the fledgling generative art/design community on Mastodon: 20 of the 128 tokens are given to some of the people in that slowly growing community, with the remainder given as Thank You (and smoke signal/sign of life) to some of my existing collectors, randomly chosen via lottery script[2].</p><p>3. For those so inclined, and with a bit of hand-holding, ChatGPT explains the _true_ conceptual depths of this project much better than I ever could:</p><p>\"The bubbles in this generative art piece serve as a reflection of the human experience, reminding us of our own impermanence and the ephemeral nature of all things. The piece invites us to contemplate the fundamental questions of human existence and speaks to our innate curiosity and desire to understand the world around us.</p><p>Through the convergence of science and art, this piece reveals the infinite complexity and unpredictability of the world while also hinting at the underlying order that exists within the chaos of the universe. It reminds us that even in the midst of uncertainty, there is beauty and order to be found, and that it is through the pursuit of knowledge and understanding that we can find meaning and purpose in our lives.\"</p><p>Isn't that lovely &amp; who can argue with that?! :)</p><p>4. I often revisit projects/ideas after many years, mainly to re-examine them with new eyes/knowledge/tools and/or to get answers/verification which I couldn't get earlier. This is one of these instances. So for the more rational-minded, this is a TypeScript/GLSL (WebGL) version of an older Clojure/Houdini project (from 2016) to generate a Voronoi via the simulation of intersecting sphere meshes (aka foam bubbles). In this new version the sim &amp; deformations are done in realtime (~4M vertices, mainly via vertex shader). Also added some _basic_ physics and procedural textures to create more of a quirky character (hopefully complemented by the different color themes and other params).</p><p>[1] <a href=\"https://en.wikipedia.org/wiki/Bouba/kiki_effect\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">en.wikipedia.org/wiki/Bouba/ki</span><span class=\"invisible\">ki_effect</span></a><br>[2] <a href=\"https://gist.github.com/postspectacular/3d970e02570b7dfd32d03d43e1e7e3e0\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gist.github.com/postspectacula</span><span class=\"invisible\">r/3d970e02570b7dfd32d03d43e1e7e3e0</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.thi.ng/@toxi",
-        "display_name": "Karsten Schmidt"
       }
     ]
   },
@@ -732,21 +894,6 @@
       {
         "url": "https://die-partei.social/@hackernews",
         "display_name": "Hackernews"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/ninabreznik/women-teach-coding#bleeptrack",
-    "title": "GitHub - ninabreznik/women-teach-coding: A Collection of Amazing Women in Tech Who Create Free Coding Lessons/Guides/Tutorials",
-    "latest": "2023-04-16T00:24:20+00:00",
-    "last_post": {
-      "url": "https://chaos.social/@ninabreznik/110205139664982700",
-      "content": "<p>Thanks, <span class=\"h-card\"><a href=\"https://vis.social/@bleeptrack\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>bleeptrack</span></a></span> for adding yourself to the list.</p><p>Everyone, check out what Sabine is doing and teaching about. Hint: it has to do with generative art :)</p><p><a href=\"https://github.com/ninabreznik/women-teach-coding#bleeptrack\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/ninabreznik/women-t</span><span class=\"invisible\">each-coding#bleeptrack</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.art/@theowatson",
-        "display_name": "Theo Watson"
       }
     ]
   },
@@ -3137,145 +3284,6 @@
       {
         "url": "https://ciberlandia.pt/@villares",
         "display_name": "Alexandre B A Villares \ud83d\udc0d"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/source-map/source-map-rfc/pull/24",
-    "title": "Port Source Map spec to Bikeshed by mitsuhiko \u00b7 Pull Request #24 \u00b7 source-map/source-map-rfc",
-    "latest": "2023-04-09T23:05:56.089000+00:00",
-    "last_post": {
-      "url": "https://hachyderm.io/@mitsuhiko/110152111886051593",
-      "content": "<p>Taking a stab at specifying source maps. Help appreciated: <a href=\"https://github.com/source-map/source-map-rfc/pull/24\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/source-map/source-m</span><span class=\"invisible\">ap-rfc/pull/24</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mstdn.social/@willigo09",
-        "display_name": "Willi"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/gilesknap/gphotos-sync",
-    "title": "GitHub - gilesknap/gphotos-sync: Google Photos and Albums backup with Google Photos Library API",
-    "latest": "2023-04-09T21:47:04+00:00",
-    "last_post": {
-      "url": "https://hachyderm.io/@molly0xfff/110171050754549261",
-      "content": "<p>for those following along at home, <a href=\"https://github.com/gilesknap/gphotos-sync\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/gilesknap/gphotos-s</span><span class=\"invisible\">ync</span></a> seems way more promising than trying to deal with the nightmarish export format</p>"
-    },
-    "people": [
-      {
-        "url": "https://hachyderm.io/@molly0xfff",
-        "display_name": "Molly White"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/rougier/scientific-visualization-book",
-    "title": "GitHub - rougier/scientific-visualization-book: An open access book on scientific visualization using python and matplotlib",
-    "latest": "2023-04-09T21:06:49+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@fabionatali/110136928846122107",
-      "content": "<p>A work of art! And released under a Creative Commons licence, and with source code, including source of all the example figures!!<br> <a href=\"https://github.com/rougier/scientific-visualization-book\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/rougier/scientific-</span><span class=\"invisible\">visualization-book</span></a></p><p>\ud83d\ude4f\ud83d\ude4f\ud83d\ude4f <span class=\"h-card\"><a href=\"https://toot.aquilenet.fr/@rougier\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>rougier</span></a></span></p><p><a href=\"https://mastodon.social/tags/matplotlib\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>matplotlib</span></a> <a href=\"https://mastodon.social/tags/datavis\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>datavis</span></a> <a href=\"https://mastodon.social/tags/dataviz\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>dataviz</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://toot.aquilenet.fr/@rougier",
-        "display_name": "Nicolas P. Rougier"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/JuliaPlots/UnicodePlots.jl",
-    "title": "GitHub - JuliaPlots/UnicodePlots.jl: Unicode-based scientific plotting for working in the terminal",
-    "latest": "2023-04-09T19:45:02+00:00",
-    "last_post": {
-      "url": "https://die-partei.social/@hackernews/110170570890488409",
-      "content": "<p>UnicodePlots - <a href=\"https://github.com/JuliaPlots/UnicodePlots.jl\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/JuliaPlots/UnicodeP</span><span class=\"invisible\">lots.jl</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://die-partei.social/@hackernews",
-        "display_name": "Hackernews"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/Ciechan/BCMeshTransformView",
-    "title": "GitHub - Ciechan/BCMeshTransformView: Mesh transforms for UIView",
-    "latest": "2023-04-09T18:19:33+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@neilsardesai/110166863725423309",
-      "content": "<p>Installed some curtains on my windows today</p><p>(Heavily borrowed code from <a href=\"https://github.com/Ciechan/BCMeshTransformView\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/Ciechan/BCMeshTrans</span><span class=\"invisible\">formView</span></a>. Is there a modern approach to this that\u2019s easier than using Metal directly?)</p>"
-    },
-    "people": [
-      {
-        "url": "https://vis.social/@jeremystucki",
-        "display_name": "Jeremy Stucki"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/mriale/PyDPainter",
-    "title": "GitHub - mriale/PyDPainter: A usable pixel art paint program written in Python",
-    "latest": "2023-04-09T18:14:24+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@amigalove/110169646414830691",
-      "content": "<p>PyDPainter \u2013 Open-Source Deluxe Paint Clone Written in Python</p><p><a href=\"https://github.com/mriale/PyDPainter\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/mriale/PyDPainter</span><span class=\"invisible\"></span></a></p><p><a href=\"https://mastodon.social/tags/pixelar\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>pixelar</span></a> <a href=\"https://mastodon.social/tags/amiga\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>amiga</span></a> <a href=\"https://mastodon.social/tags/commodoreamiga\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>commodoreamiga</span></a> <a href=\"https://mastodon.social/tags/retro\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>retro</span></a> <a href=\"https://mastodon.social/tags/retrocomputing\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>retrocomputing</span></a> <a href=\"https://mastodon.social/tags/python\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>python</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.gamedev.place/@jurie",
-        "display_name": "Jurie Horneman"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/TodePond/DreamBerd/releases/tag/v0.9.9.9.9.9.9.9.9",
-    "title": "Release v0.9.9.9.9.9.9.9.9 \u00b7 TodePond/DreamBerd",
-    "latest": "2023-04-09T18:07:44+00:00",
-    "last_post": {
-      "url": "https://universeodon.com/@TodePond/110168530616551307",
-      "content": "<p>I am extremely **unhappy** to announce the **un-launch** of DreamBerd **back into beta**.</p><p>Also introducing some new features like immutable data, significant whitespace, and lifetimes!</p><p>Read the full release notes here (boosts greatly appreciated): <a href=\"https://github.com/TodePond/DreamBerd/releases/tag/v0.9.9.9.9.9.9.9.9\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/TodePond/DreamBerd/</span><span class=\"invisible\">releases/tag/v0.9.9.9.9.9.9.9.9</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mathstodon.xyz/@noneuclideandreamer",
-        "display_name": "Non-Euclidean Dreamer"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/facebookresearch/segment-anything",
-    "title": "GitHub - facebookresearch/segment-anything: The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.",
-    "latest": "2023-04-09T17:51:53+00:00",
-    "last_post": {
-      "url": "https://mastodon.cloud/@geobabbler/110169145251448858",
-      "content": "<p>This looks to be a potentially powerful tool from Meta. Can\u2019t wait to dig in. <a href=\"https://mastodon.cloud/tags/gischat\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>gischat</span></a> <a href=\"https://github.com/facebookresearch/segment-anything\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/facebookresearch/se</span><span class=\"invisible\">gment-anything</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://sigmoid.social/@ogrisel",
-        "display_name": "Olivier Grisel"
-      },
-      {
-        "url": "https://fosstodon.org/@underdarkGIS",
-        "display_name": "Anita Graser \ud83c\uddea\ud83c\uddfa\ud83c\uddfa\ud83c\udde6"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/mastodon/mastodon/issues",
-    "title": "Issues \u00b7 mastodon/mastodon",
-    "latest": "2023-04-09T17:28:15+00:00",
-    "last_post": {
-      "url": "https://stefanbohacek.online/@stefan/110170033029983902",
-      "content": "<p>If you're on Mastodon, you might already know that it's <a href=\"https://stefanbohacek.online/tags/opensource\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>opensource</span></a>, with folks actively reporting bugs and opening feature requests, and debating how to best implement them.</p><p><a href=\"https://github.com/mastodon/mastodon/issues\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/mastodon/mastodon/i</span><span class=\"invisible\">ssues</span></a></p><p>Similarly, many apps are open-source as well, including the official ones for Android and iOS:</p><p>- <a href=\"https://github.com/mastodon/mastodon-android/issues\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/mastodon/mastodon-a</span><span class=\"invisible\">ndroid/issues</span></a><br>- <a href=\"https://github.com/mastodon/mastodon-ios/issues\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/mastodon/mastodon-i</span><span class=\"invisible\">os/issues</span></a></p><p>You don't need programming experience to contribute in a meaningful way.</p><p><a href=\"https://stefanbohacek.online/tags/mastodon\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>mastodon</span></a> <a href=\"https://stefanbohacek.online/tags/fediverse\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>fediverse</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://stefanbohacek.online/@stefan",
-        "display_name": "Stefan Bohacek"
       }
     ]
   }
