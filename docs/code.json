@@ -1,5 +1,171 @@
 [
   {
+    "link": "https://github.com/aparrish/material-of-language",
+    "title": "GitHub - aparrish/material-of-language: Notes and notebooks for Material of Language",
+    "latest": "2023-04-19T20:37:11+00:00",
+    "last_post": {
+      "url": "https://friend.camp/@aparrish/110227399095340106",
+      "content": "<p>I have shared the notes and example code for \"Computational Letterforms and Layout\" (previously \"Material of Language\"), a course I teach at ITP on computer-generated concrete poetry and asemic writing <a href=\"https://github.com/aparrish/material-of-language\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/aparrish/material-o</span><span class=\"invisible\">f-language</span></a> the code is in python (provided as jupyter notebooks) and the notes are newly updated to use the excellent vsketch library. you can also find the reading list for the class here: <a href=\"https://cll.decontextualize.com/schedule/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">cll.decontextualize.com/schedu</span><span class=\"invisible\">le/</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@jenlowe",
+        "display_name": "Jen Lowe"
+      },
+      {
+        "url": "https://friend.camp/@aparrish",
+        "display_name": "allison"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/grambank/grambank/tree/v1.0",
+    "title": "github.com/grambank/grambank/t...",
+    "latest": "2023-04-19T19:40:41+00:00",
+    "last_post": {
+      "url": "https://mastodon.nz/@simon/110226896096697268",
+      "content": "<p>This amazing project brought to you by &gt;100 authors across many institutions who've all dedicated a lot of time and effort. </p><p>We're excited to make this resource available to the community and are looking forward to see what you come up with. Have fun! </p><p>More links:</p><p>Website:<br> <a href=\"https://grambank.clld.org\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">grambank.clld.org</span><span class=\"invisible\"></span></a></p><p>Data: <br> <a href=\"https://doi.org/10.5281/zenodo.7740140\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">doi.org/10.5281/zenodo.7740140</span><span class=\"invisible\"></span></a><br> <a href=\"https://github.com/grambank/grambank/tree/v1.0\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/grambank/grambank/t</span><span class=\"invisible\">ree/v1.0</span></a></p><p>Recipes for analysis in <a href=\"https://mastodon.nz/tags/Rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Rstats</span></a>: <br> <a href=\"https://github.com/grambank/grambank/blob/master/recipes/README.md\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/grambank/grambank/b</span><span class=\"invisible\">lob/master/recipes/README.md</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fediscience.org/@c_borstell",
+        "display_name": "Calle B\u00f6rstell"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/grambank/grambank/blob/master/recipes/README.md",
+    "title": "github.com/grambank/grambank/b...",
+    "latest": "2023-04-19T19:40:41+00:00",
+    "last_post": {
+      "url": "https://mastodon.nz/@simon/110226896096697268",
+      "content": "<p>This amazing project brought to you by &gt;100 authors across many institutions who've all dedicated a lot of time and effort. </p><p>We're excited to make this resource available to the community and are looking forward to see what you come up with. Have fun! </p><p>More links:</p><p>Website:<br> <a href=\"https://grambank.clld.org\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">grambank.clld.org</span><span class=\"invisible\"></span></a></p><p>Data: <br> <a href=\"https://doi.org/10.5281/zenodo.7740140\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">doi.org/10.5281/zenodo.7740140</span><span class=\"invisible\"></span></a><br> <a href=\"https://github.com/grambank/grambank/tree/v1.0\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/grambank/grambank/t</span><span class=\"invisible\">ree/v1.0</span></a></p><p>Recipes for analysis in <a href=\"https://mastodon.nz/tags/Rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Rstats</span></a>: <br> <a href=\"https://github.com/grambank/grambank/blob/master/recipes/README.md\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/grambank/grambank/b</span><span class=\"invisible\">lob/master/recipes/README.md</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fediscience.org/@c_borstell",
+        "display_name": "Calle B\u00f6rstell"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/JoyeBright/",
+    "title": "JoyeBright - Overview",
+    "latest": "2023-04-19T19:39:37+00:00",
+    "last_post": {
+      "url": "https://creative.ai/@arxiv_cl/110227172741812254",
+      "content": "<p>\ud83d\udcdd Tailoring Domain Adaptation for Machine Translation Quality Estimation \ud83d\udcda</p><p>\"Trains a neural quality estimation model that combines both domain adaptation and data augmentation to address the challenges of data scarcity and domain mismatch within one framework, resulting in superior performance compared to state-of-the-art baselines.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/JoyeBright/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/JoyeBright/</span><span class=\"invisible\"></span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2304.08891v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2304.08891v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://creative.ai/@arxiv_cl",
+        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/citation-style-language/styles/blob/master/REQUESTING.md#requesting-csl-styles",
+    "title": "styles/REQUESTING.md at master \u00b7 citation-style-language/styles",
+    "latest": "2023-04-19T19:07:03.636000+00:00",
+    "last_post": {
+      "url": "https://fediscience.org/@adam42smith/110227021501614869",
+      "content": "<p><span class=\"h-card\"><a href=\"https://mstdn.social/@felwert\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>felwert</span></a></span> yeah, their support was really good when I looked at it. FWIW the 2nd scenario pretty much works for Zotero, too, just takes a little time <a href=\"https://github.com/citation-style-language/styles/blob/master/REQUESTING.md#requesting-csl-styles\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/citation-style-lang</span><span class=\"invisible\">uage/styles/blob/master/REQUESTING.md#requesting-csl-styles</span></a></p><p>A consortium of ~20 German universities could fund a full-time Zotero support person in Germany that does such things for less than the combined former (!) Citavi license fees, but universities (everywhere) have a really hard time creatively investing in open solutions like that.</p>"
+    },
+    "people": [
+      {
+        "url": "https://mstdn.social/@felwert",
+        "display_name": "Frederik Elwert"
+      }
+    ]
+  },
+  {
+    "link": "https://observablehq.com/@neocartocnrs/update-layers-with-bertin",
+    "title": "Update layers with bertin",
+    "latest": "2023-04-19T18:41:05+00:00",
+    "last_post": {
+      "url": "https://vis.social/@neocarto/110213167187144069",
+      "content": "<p>Did you know that you can do this kind of stuff with bertin? <a href=\"https://vis.social/tags/JSspatial\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>JSspatial</span></a> <a href=\"https://vis.social/tags/Maps\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Maps</span></a> <a href=\"https://vis.social/tags/DataViz\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DataViz</span></a> <a href=\"https://observablehq.com/@neocartocnrs/update-layers-with-bertin\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">observablehq.com/@neocartocnrs</span><span class=\"invisible\">/update-layers-with-bertin</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://vis.social/@neocarto",
+        "display_name": "Nicolas Lambert \ud83c\udf0f"
+      },
+      {
+        "url": "https://vis.social/@seblammers",
+        "display_name": "Sebastian Lammers"
+      }
+    ]
+  },
+  {
+    "link": "http://github.com/kodemore/chili",
+    "title": "http://github.com/kodemore/chili",
+    "latest": "2023-04-19T18:11:05+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@python_discussions/110226824592984412",
+      "content": "<p>Chili - serialize/deserialize anything from/to dict/json</p><p><a href=\"http://github.com/kodemore/chili\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">http://</span><span class=\"\">github.com/kodemore/chili</span><span class=\"invisible\"></span></a></p><p>Discussions: <a href=\"https://discu.eu/q/http://github.com/kodemore/chili\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">discu.eu/q/http://github.com/k</span><span class=\"invisible\">odemore/chili</span></a></p><p><a href=\"https://mastodon.social/tags/programming\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>programming</span></a> <a href=\"https://mastodon.social/tags/python\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>python</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@python_discussions",
+        "display_name": "Python Weekly"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/mattdesl/dictionary-of-colour-combinations",
+    "title": "GitHub - mattdesl/dictionary-of-colour-combinations: palettes from A Dictionary of Colour Combinations",
+    "latest": "2023-04-19T16:49:03.748000+00:00",
+    "last_post": {
+      "url": "https://cornerof.world/objects/137ee2d1-a264-490f-aa02-1760dc8e38a8",
+      "content": "riffing on this @Yazid study with some color + cube tests.\n\nQT @Yazid: \ud835\ude9b\ud835\ude8a\ud835\ude97\ud835\ude8d\ud835\ude98\ud835\ude96(\ud835\ude8c\ud835\ude98\ud835\ude95\ud835\ude98\ud835\ude9b\ud835\ude82\ud835\ude9d\ud835\ude9e\ud835\ude8d\ud835\ude92\ud835\ude8e\ud835\ude9c)\n\nL: My 'Gestalt' + 'Swatches' palettes\nR: Wada Sanzo Dictionary of Color Combinations (JSON dataset by <span class=\"h-card\"><a class=\"u-url mention\" href=\"https://cornerof.world/users/mattdesl\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>mattdesl</span></a></span>: <a href=\"https://github.com/mattdesl/dictionary-of-colour-combinations\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">https://github.com/mattdesl/dictionary-of-colour-combinations</a>)\n\n<a href=\"https://twitter.com/mattdesl/status/1648716778720075780\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">2023-04-19 15:54:46 UTC</a>"
+    },
+    "people": [
+      {
+        "url": "https://cornerof.world/users/mattdesl",
+        "display_name": "Matt DesLauriers"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/openframeworks/openFrameworks/issues/6692",
+    "title": "OF 0.12.0 Release Checklist \u00b7 Issue #6692 \u00b7 openframeworks/openFrameworks",
+    "latest": "2023-04-19T16:46:32+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@openFrameworks/110226157642342327",
+      "content": "<p>We\u2019re almost ready to release <a href=\"https://fosstodon.org/tags/openFrameworks\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>openFrameworks</span></a> 0.12.0 \ud83c\udf89</p><p>See the current checklist here: <br><a href=\"https://github.com/openframeworks/openFrameworks/issues/6692\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/openframeworks/open</span><span class=\"invisible\">Frameworks/issues/6692</span></a></p><p>Try the nightly builds here: <br><a href=\"https://github.com/openframeworks/openFrameworks/releases/tag/nightly\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/openframeworks/open</span><span class=\"invisible\">Frameworks/releases/tag/nightly</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://genart.social/@guidoschmidt",
+        "display_name": "Guido Schmidt"
+      },
+      {
+        "url": "https://mastodon.art/@theowatson",
+        "display_name": "Theo Watson"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/openframeworks/openFrameworks/releases/tag/nightly",
+    "title": "github.com/openframeworks/open...",
+    "latest": "2023-04-19T16:46:32+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@openFrameworks/110226157642342327",
+      "content": "<p>We\u2019re almost ready to release <a href=\"https://fosstodon.org/tags/openFrameworks\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>openFrameworks</span></a> 0.12.0 \ud83c\udf89</p><p>See the current checklist here: <br><a href=\"https://github.com/openframeworks/openFrameworks/issues/6692\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/openframeworks/open</span><span class=\"invisible\">Frameworks/issues/6692</span></a></p><p>Try the nightly builds here: <br><a href=\"https://github.com/openframeworks/openFrameworks/releases/tag/nightly\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/openframeworks/open</span><span class=\"invisible\">Frameworks/releases/tag/nightly</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://genart.social/@guidoschmidt",
+        "display_name": "Guido Schmidt"
+      },
+      {
+        "url": "https://mastodon.art/@theowatson",
+        "display_name": "Theo Watson"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/huggingface/transformers",
     "title": "GitHub - huggingface/transformers: \ud83e\udd17 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.",
     "latest": "2023-04-19T09:51:31+00:00",
@@ -684,21 +850,6 @@
       {
         "url": "https://creative.ai/@arxiv_cl",
         "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
-      }
-    ]
-  },
-  {
-    "link": "https://observablehq.com/@neocartocnrs/update-layers-with-bertin",
-    "title": "Update layers with bertin",
-    "latest": "2023-04-17T08:17:50+00:00",
-    "last_post": {
-      "url": "https://vis.social/@neocarto/110213167187144069",
-      "content": "<p>Did you know that you can do this kind of stuff with bertin? <a href=\"https://vis.social/tags/JSspatial\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>JSspatial</span></a> <a href=\"https://vis.social/tags/Maps\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Maps</span></a> <a href=\"https://vis.social/tags/DataViz\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DataViz</span></a> <a href=\"https://observablehq.com/@neocartocnrs/update-layers-with-bertin\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">observablehq.com/@neocartocnrs</span><span class=\"invisible\">/update-layers-with-bertin</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://vis.social/@neocarto",
-        "display_name": "Nicolas Lambert \ud83c\udf0f"
       }
     ]
   },
@@ -3125,141 +3276,6 @@
       {
         "url": "https://sigmoid.social/@aran",
         "display_name": "Aran Komatsuzaki"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/whitead/paper-qa",
-    "title": "GitHub - whitead/paper-qa: LLM Chain for answering questions from documents with citations",
-    "latest": "2023-04-11T03:47:20+00:00",
-    "last_post": {
-      "url": "https://sigmoid.social/@aran/110178129711615852",
-      "content": "<p>RT @MilesCranmer@twitter.com</p><p>Using paperqa, I fed GPT every paper in my Zotero library and asked: \"What are some ways machine learning can be used in observational astronomy?\"</p><p>It generated the entire literature review below. Not bad at all!</p><p>with @andrewwhite01@twitter.com's <a href=\"https://github.com/whitead/paper-qa\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/whitead/paper-qa</span><span class=\"invisible\"></span></a></p><p>\ud83d\udc26\ud83d\udd17: <a href=\"https://twitter.com/MilesCranmer/status/1645304691402723328\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">twitter.com/MilesCranmer/statu</span><span class=\"invisible\">s/1645304691402723328</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://sigmoid.social/@aran",
-        "display_name": "Aran Komatsuzaki"
-      }
-    ]
-  },
-  {
-    "link": "https://codeberg.org/fediverse/fep/src/branch/main/feps/fep-9606.md",
-    "title": "fep",
-    "latest": "2023-04-11T03:45:44+00:00",
-    "last_post": {
-      "url": "https://social.coop/@smallcircles/110178027330676844",
-      "content": "<p>Hurray! The <a href=\"https://social.coop/tags/Fediverse\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Fediverse</span></a> is evolving and the <a href=\"https://social.coop/tags/FEP\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>FEP</span></a>'s keep coming \ud83c\udf89 </p><p><span class=\"h-card\"><a href=\"https://mastodon.social/@trwnh\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>trwnh</span></a></span> has just PR'ed the following enhancement proposal that deals with an improvement of the FEP process itself:</p><p><a href=\"https://social.coop/tags/ActivityPub\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ActivityPub</span></a> <br>FEP-9606: Using w3id.org/fep as a namespace for extension terms and for FEP documents </p><p>Check it out at: <a href=\"https://codeberg.org/fediverse/fep/src/branch/main/feps/fep-9606.md\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">codeberg.org/fediverse/fep/src</span><span class=\"invisible\">/branch/main/feps/fep-9606.md</span></a></p><p>And provide your feedback on <a href=\"https://social.coop/tags/SocialHub\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>SocialHub</span></a> at: <a href=\"https://socialhub.activitypub.rocks/t/fep-9606-using-w3id-org-fep-as-a-namespace-for-extension-terms-and-for-fep-documents/3098\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">socialhub.activitypub.rocks/t/</span><span class=\"invisible\">fep-9606-using-w3id-org-fep-as-a-namespace-for-extension-terms-and-for-fep-documents/3098</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://indieweb.social/@tchambers",
-        "display_name": "Tim Chambers"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/BoulderPublicData/City-Council-Minutes",
-    "title": "GitHub - BoulderPublicData/City-Council-Minutes",
-    "latest": "2023-04-11T02:58:39+00:00",
-    "last_post": {
-      "url": "https://hci.social/@bkeegan/110177938252445938",
-      "content": "<p>Here\u2019s v1 of a JSON format for capturing <a href=\"https://hci.social/tags/Boulder\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Boulder</span></a> city council meeting minutes. Feedback welcome! <a href=\"https://hci.social/tags/CivicData\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CivicData</span></a> <a href=\"https://hci.social/tags/OpenData\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>OpenData</span></a> <a href=\"https://github.com/BoulderPublicData/City-Council-Minutes\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/BoulderPublicData/C</span><span class=\"invisible\">ity-Council-Minutes</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://hci.social/@bkeegan",
-        "display_name": "Brian C. Keegan"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/pndurette/pybatchexecute",
-    "title": "GitHub - pndurette/pybatchexecute: Python package to ease interactions with Google's batchexecute batch RPC system",
-    "latest": "2023-04-11T01:29:50.460000+00:00",
-    "last_post": {
-      "url": "https://hachyderm.io/@pierrenick/110177138910623714",
-      "content": "<p>A new repo/project by me: pybatchexecute</p><p>It's a Python package that helps you make and understand those '/data/batchexecute' endpoint calls you see on all Google websites.</p><p>It will also allow you to easily decode the responses you get from them.</p><p>(This is an odd one, it was something I had started one weekend in 2021, but hadn't touched since then. So this is also a nice closure\u2014and I needed it for something else)</p><p><a href=\"https://hachyderm.io/tags/Python\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Python</span></a> <a href=\"https://hachyderm.io/tags/BatchExecute\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>BatchExecute</span></a></p><p><a href=\"https://github.com/pndurette/pybatchexecute\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/pndurette/pybatchex</span><span class=\"invisible\">ecute</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mstdn.social/@ramikrispin",
-        "display_name": "Rami Krispin :unverified:"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/Toblerity/Fiona/releases/tag/1.9.3",
-    "title": "github.com/Toblerity/Fiona/rel...",
-    "latest": "2023-04-11T01:24:31+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@sgillies/110176801941988663",
-      "content": "<p>Version 1.9.3 of your favorite <a href=\"https://mastodon.social/tags/Python\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Python</span></a> <a href=\"https://mastodon.social/tags/vector\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>vector</span></a> <a href=\"https://mastodon.social/tags/GIS\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>GIS</span></a> library is available today and includes a documentation refresh \u2728 I hope you like it!</p><p><a href=\"https://fiona.readthedocs.io/en/stable/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">fiona.readthedocs.io/en/stable</span><span class=\"invisible\">/</span></a> <a href=\"https://github.com/Toblerity/Fiona/releases/tag/1.9.3\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/Toblerity/Fiona/rel</span><span class=\"invisible\">eases/tag/1.9.3</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://fosstodon.org/@mdsumner",
-        "display_name": "mdsumner"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/ShadmanRohan/",
-    "title": "ShadmanRohan - Overview",
-    "latest": "2023-04-11T00:40:17+00:00",
-    "last_post": {
-      "url": "https://creative.ai/@arxiv_cl/110177394193556981",
-      "content": "<p>\ud83d\udcdd BenCoref: A Multi-Domain Dataset of Nominal Phrases and Pronominal Reference Annotations \ud83d\udcda</p><p>\"This relatively small dataset contains 5200 mention annotations forming 502 mention clusters within 48,569 tokens in Bengali texts gathered from 4 distinct domains.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/ShadmanRohan/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/ShadmanRohan/</span><span class=\"invisible\"></span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2304.03682v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2304.03682v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://creative.ai/@arxiv_cl",
-        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/codepo8/irregular-shape-rollover/",
-    "title": "github.com/codepo8/irregular-s...",
-    "latest": "2023-04-10T21:04:24+00:00",
-    "last_post": {
-      "url": "https://toot.cafe/@codepo8/110176545304881608",
-      "content": "<p>\ud83d\udc49\ud83c\udffc \u201eCSS Masking - Ahmad Shadeed\u201d<br>\ud83d\udd17<a href=\"https://ishadeed.com/article/css-masking/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">ishadeed.com/article/css-maski</span><span class=\"invisible\">ng/</span></a><br>\ud83d\udcac Masking will soon arrive for CSS which is a great step forward. So far, I've used canvas to fake it. <br><a href=\"https://github.com/codepo8/irregular-shape-rollover/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/codepo8/irregular-s</span><span class=\"invisible\">hape-rollover/</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://toot.cafe/@codepo8",
-        "display_name": "Chris Heilmann"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/IDEA-Research/Grounded-Segment-Anything/blob/main/gradio_app.py",
-    "title": "GitHub - IDEA-Research/Grounded-Segment-Anything: Marrying Grounding DINO with Segment Anything & Stable Diffusion - Detect , Segment and Generate Anything with Text Inputs",
-    "latest": "2023-04-10T19:50:27+00:00",
-    "last_post": {
-      "url": "https://creative.ai/@alexjc/110176254519645074",
-      "content": "<p>RT @_akhaliq@twitter.com</p><p>Grounded-Segment-Anything: Marrying Grounding DINO with Segment Anything &amp; Stable Diffusion &amp; BLIP - Automatically Detect , Segment and Generate Anything with Image and Text Inputs</p><p>github: <a href=\"https://github.com/IDEA-Research/Grounded-Segment-Anything\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/IDEA-Research/Groun</span><span class=\"invisible\">ded-Segment-Anything</span></a><br>@Gradio@twitter.com demo: <a href=\"https://github.com/IDEA-Research/Grounded-Segment-Anything/blob/main/gradio_app.py\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/IDEA-Research/Groun</span><span class=\"invisible\">ded-Segment-Anything/blob/main/gradio_app.py</span></a></p><p>\ud83d\udc26\ud83d\udd17: <a href=\"https://twitter.com/_akhaliq/status/1645115958594351106\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">twitter.com/_akhaliq/status/16</span><span class=\"invisible\">45115958594351106</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://creative.ai/@alexjc",
-        "display_name": "Alex J. Champandard \ud83c\udf31"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/baoguangsheng/gemini",
-    "title": "github.com/baoguangsheng/gemin...",
-    "latest": "2023-04-10T19:40:15+00:00",
-    "last_post": {
-      "url": "https://creative.ai/@arxiv_cl/110176214397104191",
-      "content": "<p>\ud83d\udcdd GEMINI: Controlling the Sentence-Level Writing Style for Abstractive Text Summarization \ud83d\udcda</p><p>\"An adaptive model with a rewriter module and a fuser module that mimic the sentence rewriting and sentence fusion techniques used by human experts respectively, and it adaptively chooses to rewrite a specific document sentence or generate a summary sentence from scratch.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/baoguangsheng/gemini\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/baoguangsheng/gemin</span><span class=\"invisible\">i</span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2304.03548v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2304.03548v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://creative.ai/@arxiv_cl",
-        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
       }
     ]
   }
