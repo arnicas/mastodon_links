@@ -1,5 +1,174 @@
 [
   {
+    "link": "https://github.com/huggingface/transformers",
+    "title": "GitHub - huggingface/transformers: \ud83e\udd17 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.",
+    "latest": "2023-04-19T09:51:31+00:00",
+    "last_post": {
+      "url": "https://creative.ai/@arxiv_cl/110224860241755694",
+      "content": "<p>\ud83d\udcdd Classification of US Supreme Court Cases Using BERT-Based Techniques \ud83d\udcda\ud83d\udc7e\ud83e\udde0</p><p>\"Our best result produces an accuracy of 80% on the 15 broad categories and 60% on the fine-grained 279 categories which marks an improvement of 8% and 28% respectively from previously reported SOTA results.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a> <a href=\"https://creative.ai/tags/AI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AI</span></a> <a href=\"https://creative.ai/tags/LG\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>LG</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/huggingface/transformers\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/huggingface/transfo</span><span class=\"invisible\">rmers</span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2304.08649v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2304.08649v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://creative.ai/@arxiv_cl",
+        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
+      },
+      {
+        "url": "https://creative.ai/@alexjc",
+        "display_name": "Alex J. Champandard \ud83c\udf31"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/thi-ng/umbrella/blob/develop/README.md#latest-updates",
+    "title": "github.com/thi-ng/umbrella/blo...",
+    "latest": "2023-04-19T09:40:17+00:00",
+    "last_post": {
+      "url": "https://mastodon.thi.ng/@toxi/110224816012684167",
+      "content": "<p><a href=\"https://mastodon.thi.ng/tags/ReleaseWednesday\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ReleaseWednesday</span></a> This round of releases includes (among others):</p><p>- <a href=\"https://thi.ng/timestep\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">thi.ng/timestep</span><span class=\"invisible\"></span></a> - new package for fixed timestep simulation updates, discussed in previous tweet<br>- <a href=\"https://thi.ng/api\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">thi.ng/api</span><span class=\"invisible\"></span></a> - added function to simplify typed array initialization from vector data, e.g. super useful for <a href=\"https://mastodon.thi.ng/tags/WebGL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>WebGL</span></a> / <a href=\"https://mastodon.thi.ng/tags/WASM\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>WASM</span></a> interop<br>- <a href=\"https://thi.ng/scenegraph\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">thi.ng/scenegraph</span><span class=\"invisible\"></span></a> - added .mapLocalPointToGlobal() to map local point from anywhere in the scene hierarchy to world space (e.g. useful for camera controllers, view matrix creation)</p><p>Other small additions/fixes to <a href=\"https://thi.ng/color\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">thi.ng/color</span><span class=\"invisible\"></span></a>, <a href=\"https://thi.ng/random\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">thi.ng/random</span><span class=\"invisible\"></span></a>, <a href=\"https://thi.ng/vectors\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">thi.ng/vectors</span><span class=\"invisible\"></span></a> and <a href=\"https://thi.ng/webgl\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">thi.ng/webgl</span><span class=\"invisible\"></span></a>...</p><p>Link to changelogs:</p><p><a href=\"https://github.com/thi-ng/umbrella/blob/develop/README.md#latest-updates\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/thi-ng/umbrella/blo</span><span class=\"invisible\">b/develop/README.md#latest-updates</span></a></p><p>Happy coding! \ud83e\udd29</p><p><a href=\"https://mastodon.thi.ng/tags/ThingUmbrella\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ThingUmbrella</span></a> <a href=\"https://mastodon.thi.ng/tags/TypeScript\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>TypeScript</span></a> <a href=\"https://mastodon.thi.ng/tags/OpenSource\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>OpenSource</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.thi.ng/@toxi",
+        "display_name": "Karsten Schmidt"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/skops-dev/skops",
+    "title": "GitHub - skops-dev/skops: skops is a Python library helping you share your scikit-learn based models and put them in production",
+    "latest": "2023-04-19T08:31:04+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@koaning/110224543856037209",
+      "content": "<p>If you're using scikit-learn and haven't heard of skops already, I highly recommend having a look. It's got a safer alternative for the pickle files.</p><p><a href=\"https://github.com/skops-dev/skops\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/skops-dev/skops</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fosstodon.org/@koaning",
+        "display_name": "Vincent D. Warmerdam"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/orhun/linuxwave",
+    "title": "GitHub - orhun/linuxwave: Generate music from the entropy of Linux \ud83d\udc27\ud83c\udfb5",
+    "latest": "2023-04-19T08:00:02+00:00",
+    "last_post": {
+      "url": "https://die-partei.social/@hackernews/110224421822314099",
+      "content": "<p>Linuxwave: Generate Music from the Entropy of Linux - <a href=\"https://github.com/orhun/linuxwave\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/orhun/linuxwave</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://die-partei.social/@hackernews",
+        "display_name": "Hackernews"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/heinz-jeffrey/subregular-learning",
+    "title": "GitHub - heinz-jeffrey/subregular-learning: Library for testing the learning capabilities of neural network architectures on subregular language patterns",
+    "latest": "2023-04-19T07:34:59+00:00",
+    "last_post": {
+      "url": "https://creative.ai/@arxiv_cl/110224323350453703",
+      "content": "<p>\ud83d\udcdd MLRegTest: A Benchmark for the Machine Learning of Regular Languages \ud83e\udde0\ud83d\udcda</p><p>\"The benchmark provides training, development and test sets for 1800 different types of regular languages, organized by logical complexity and choice of logical literals, which allow to measure the ability of ML systems to learn long-distance dependencies of different types.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/LG\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>LG</span></a> <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a> <a href=\"https://creative.ai/tags/FL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>FL</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/heinz-jeffrey/subregular-learning\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/heinz-jeffrey/subre</span><span class=\"invisible\">gular-learning</span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2304.07687v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2304.07687v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://creative.ai/@arxiv_cl",
+        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/amerkurev/django-docker-template",
+    "title": "GitHub - amerkurev/django-docker-template: Dockerized Django with Postgres, Gunicorn, and Traefik (with Let's Encrypt)",
+    "latest": "2023-04-19T06:10:57+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@python_discussions/110223992907001809",
+      "content": "<p>Dockerized Django with Postgres, Gunicorn, and Traefik (with Let's Encrypt)</p><p><a href=\"https://github.com/amerkurev/django-docker-template\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/amerkurev/django-do</span><span class=\"invisible\">cker-template</span></a></p><p>Discussions: <a href=\"https://discu.eu/q/https://github.com/amerkurev/django-docker-template\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">discu.eu/q/https://github.com/</span><span class=\"invisible\">amerkurev/django-docker-template</span></a></p><p><a href=\"https://mastodon.social/tags/django\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>django</span></a> <a href=\"https://mastodon.social/tags/programming\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>programming</span></a> <a href=\"https://mastodon.social/tags/python\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>python</span></a> <a href=\"https://mastodon.social/tags/webdev\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>webdev</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@python_discussions",
+        "display_name": "Python Weekly"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/yumingj/Text2Performer",
+    "title": "github.com/yumingj/Text2Perfor...",
+    "latest": "2023-04-19T04:31:41+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@aran/110223602602013924",
+      "content": "<p>Text2Performer: Text-Driven Human Video Generation</p><p>proj: <a href=\"https://yumingj.github.io/projects/Text2Performer.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">yumingj.github.io/projects/Tex</span><span class=\"invisible\">t2Performer.html</span></a><br>repo: <a href=\"https://github.com/yumingj/Text2Performer\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/yumingj/Text2Perfor</span><span class=\"invisible\">mer</span></a><br>abs: <a href=\"https://arxiv.org/abs/2304.08483\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2304.08483</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@aran",
+        "display_name": "Aran Komatsuzaki"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/LianjiaTech/BELLE",
+    "title": "GitHub - LianjiaTech/BELLE: BELLE: Be Everyone's Large Language model Engine\uff08\u5f00\u6e90\u4e2d\u6587\u5bf9\u8bdd\u5927\u6a21\u578b\uff09",
+    "latest": "2023-04-19T03:49:59+00:00",
+    "last_post": {
+      "url": "https://creative.ai/@arxiv_cl/110223438580698298",
+      "content": "<p>\ud83d\udcdd Towards Better Instruction Following Language Models for Chinese: Investigating the Impact of Training Data and Evaluation \ud83d\udcda</p><p>\"We examine the impact of training data factors on model performance, including quantity, quality and linguistic distribution, and assess the performance of various models using a evaluation set of 1000 samples, encompassing nine real-world scenarios.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/LianjiaTech/BELLE\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/LianjiaTech/BELLE</span><span class=\"invisible\"></span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2304.07854v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2304.07854v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://creative.ai/@arxiv_cl",
+        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/X-PLUG/ChatPLUG",
+    "title": "GitHub - X-PLUG/ChatPLUG: A Chinese Open-Domain Dialogue System",
+    "latest": "2023-04-19T01:50:01+00:00",
+    "last_post": {
+      "url": "https://creative.ai/@arxiv_cl/110222966862589011",
+      "content": "<p>\ud83d\udcdd ChatPLUG: Open-Domain Generative Dialogue System with Internet-Augmented Instruction Tuning for Digital Human \ud83d\udcda</p><p>\"\\modelname is pre-trained on large-scale Chinese common document corpus and dialogue data with curriculum learning so as to inject various world knowledge and dialogue abilities into ChatPLUG.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/X-PLUG/ChatPLUG\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/X-PLUG/ChatPLUG</span><span class=\"invisible\"></span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2304.07849v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2304.07849v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://creative.ai/@arxiv_cl",
+        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/GetFirefly/firefly",
+    "title": "GitHub - GetFirefly/firefly: An alternative BEAM implementation, designed for WebAssembly",
+    "latest": "2023-04-19T01:45:02+00:00",
+    "last_post": {
+      "url": "https://die-partei.social/@hackernews/110222947309411270",
+      "content": "<p>Firefly \u2013 A new compiler and runtime for BEAM languages - <a href=\"https://github.com/GetFirefly/firefly\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/GetFirefly/firefly</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://die-partei.social/@hackernews",
+        "display_name": "Hackernews"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/SIKU-BERT/sikuGPT",
+    "title": "GitHub - SIKU-BERT/sikuGPT",
+    "latest": "2023-04-19T00:34:56+00:00",
+    "last_post": {
+      "url": "https://creative.ai/@arxiv_cl/110222671643177718",
+      "content": "<p>\ud83d\udcdd SikuGPT: A Generative Pre-Trained Model for Intelligent Information Processing of Ancient Texts From the Perspective of Digital Humanities \ud83d\udcda</p><p>\"A language model based on the corpus of Siku Quanshu, and its ability to process traditional Chinese ancient texts is better than that of existing GPT-type models.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/SIKU-BERT/sikuGPT\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/SIKU-BERT/sikuGPT</span><span class=\"invisible\"></span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2304.07778v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2304.07778v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://creative.ai/@arxiv_cl",
+        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/rvs/planD",
     "title": "GitHub - rvs/planD: Plan9 from Containerspace",
     "latest": "2023-04-18T22:00:03+00:00",
@@ -500,40 +669,6 @@
       {
         "url": "https://creative.ai/@alexjc",
         "display_name": "Alex J. Champandard \ud83c\udf31"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/huggingface/transformers",
-    "title": "GitHub - huggingface/transformers: \ud83e\udd17 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.",
-    "latest": "2023-04-17T17:08:57+00:00",
-    "last_post": {
-      "url": "https://creative.ai/@alexjc/110215255639544098",
-      "content": "<p>RT @ClementDelangue@twitter.com</p><p>Looks like Hugging Face Transformers (<a href=\"https://github.com/huggingface/transformers\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/huggingface/transfo</span><span class=\"invisible\">rmers</span></a>) could become in a few weeks the second ever open-source project in AI to cross 100,000 stars on @GitHub@twitter.com thanks to our awesome community and contributors.</p><p>Any fun idea to get there faster and celebrate?</p><p>\ud83d\udc26\ud83d\udd17: <a href=\"https://twitter.com/ClementDelangue/status/1647938694630744067\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">twitter.com/ClementDelangue/st</span><span class=\"invisible\">atus/1647938694630744067</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://creative.ai/@arxiv_cl",
-        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
-      },
-      {
-        "url": "https://creative.ai/@alexjc",
-        "display_name": "Alex J. Champandard \ud83c\udf31"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/orhun/linuxwave",
-    "title": "GitHub - orhun/linuxwave: Generate music from the entropy of Linux \ud83d\udc27\ud83c\udfb5",
-    "latest": "2023-04-17T17:05:02+00:00",
-    "last_post": {
-      "url": "https://die-partei.social/@hackernews/110215240267633982",
-      "content": "<p>Linuxwave: Generate Music from the Entropy of Linux - <a href=\"https://github.com/orhun/linuxwave\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/orhun/linuxwave</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://die-partei.social/@hackernews",
-        "display_name": "Hackernews"
       }
     ]
   },
@@ -3125,169 +3260,6 @@
       {
         "url": "https://creative.ai/@arxiv_cl",
         "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/facebookresearch/faiss/wiki/Brute-force-search-without-an-index",
-    "title": "Brute force search without an index",
-    "latest": "2023-04-10T17:41:54+00:00",
-    "last_post": {
-      "url": "https://sigmoid.social/@ducha_aiki/110175749013167856",
-      "content": "<p><span class=\"h-card\"><a href=\"https://recsys.social/@ethanrosenthal\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>ethanrosenthal</span></a></span> Waaait :) <br>1) what is the dimentionality of your vector?<br>2) What is the number of queries you have?<br>E.g. for image matching, you have 2k..8k queries :)</p><p>On the other hand, why just numpy? faiss brute force search can go a loooong way<br><a href=\"https://github.com/facebookresearch/faiss/wiki/Brute-force-search-without-an-index\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/facebookresearch/fa</span><span class=\"invisible\">iss/wiki/Brute-force-search-without-an-index</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://sigmoid.social/@ducha_aiki",
-        "display_name": "Dmytro Mishkin \ud83c\uddfa\ud83c\udde6"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/quarto-dev/quarto-r/issues/95",
-    "title": "Define profiles with an argument? \u00b7 Issue #95 \u00b7 quarto-dev/quarto-r",
-    "latest": "2023-04-10T17:28:33+00:00",
-    "last_post": {
-      "url": "https://fediscience.org/@andrew/110175696555494800",
-      "content": "<p>One downside to this approach is that you have to run multiple <a href=\"https://fediscience.org/tags/quartopub\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>quartopub</span></a> commands. Eventually you'll be able to use a profile argument to `quarto::quarto_render()` (<a href=\"https://github.com/quarto-dev/quarto-r/issues/95\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/quarto-dev/quarto-r</span><span class=\"invisible\">/issues/95</span></a>), but in the meantime you can use {targets} to generate everything simultaneously <a href=\"https://fediscience.org/tags/rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rstats</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://fediscience.org/@andrew",
-        "display_name": "Andrew Heiss :rstats:"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/otherjoel/tabloid",
-    "title": "GitHub - otherjoel/tabloid: \ud83d\udcf0\ud83d\ude31\u203c\ufe0f A Racket implementation of Tabloid, the clickbait programming language!",
-    "latest": "2023-04-10T17:03:55+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@shriramk/110170247356907904",
-      "content": "<p>YOU WON'T BELIEVE what it looks like to have an IDE for the TABLOID programming language!<br><a href=\"https://github.com/otherjoel/tabloid\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/otherjoel/tabloid</span><span class=\"invisible\"></span></a><br>To be clear: the author is <span class=\"h-card\"><a href=\"https://tilde.zone/@joeld\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>joeld</span></a></span></p>"
-    },
-    "people": [
-      {
-        "url": "https://ecoevo.social/@naupaka",
-        "display_name": "Naupaka Zimmerman"
-      },
-      {
-        "url": "https://dair-community.social/@DrVeronikaCH",
-        "display_name": "Veronika Cheplygina"
-      },
-      {
-        "url": "https://vis.social/@odbol",
-        "display_name": "odbol"
-      },
-      {
-        "url": "https://mastodon.social/@gcampax",
-        "display_name": "Giovanni Campagna"
-      },
-      {
-        "url": "https://recsys.social/@Randy_Au",
-        "display_name": "Randy Au \ud83d\ude43"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/grantmcdermott/plot2",
-    "title": "GitHub - grantmcdermott/plot2: Lightweight extension of base R's plot function",
-    "latest": "2023-04-10T09:43:21+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@gmcd/110160835847390825",
-      "content": "<p>We all love ggplot2 (obvs), but base R plot is underrated IMO.</p><p>I finally packaged up a script I've had lying around for a while. The `plot2` <a href=\"https://mastodon.social/tags/rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rstats</span></a> \ud83d\udce6 is a lightweight extension to base R plot that automates grouped plotting and legend handling (plus some extras). <a href=\"https://github.com/grantmcdermott/plot2\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/grantmcdermott/plot</span><span class=\"invisible\">2</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@jose_eduardo",
-        "display_name": "Jos\u00e9 Eduardo Gonz\u00e1lez"
-      },
-      {
-        "url": "https://mastodon.social/@JoranJongerling",
-        "display_name": "Joran"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/alberto-guzman/quarto-dissertation",
-    "title": "GitHub - alberto-guzman/quarto-dissertation",
-    "latest": "2023-04-10T08:15:01+00:00",
-    "last_post": {
-      "url": "https://fosstodon.org/@AlbertoGuzAlv/110170502529531846",
-      "content": "<p>\ud83d\udce2 Just released my <a href=\"https://fosstodon.org/tags/Quarto\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Quarto</span></a> dissertation template on GitHub! \ud83c\udf93 Based on the University of Pittsburgh LaTeX template, it's perfect for creating reproducible dissertations/theses. Check it out and contribute: <a href=\"https://github.com/alberto-guzman/quarto-dissertation\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/alberto-guzman/quar</span><span class=\"invisible\">to-dissertation</span></a> <a href=\"https://fosstodon.org/tags/AcademicTwitter\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AcademicTwitter</span></a> <a href=\"https://fosstodon.org/tags/openscience\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>openscience</span></a> <a href=\"https://fosstodon.org/tags/rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rstats</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@JoranJongerling",
-        "display_name": "Joran"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/andrewheiss/quarto-wordcount",
-    "title": "GitHub - andrewheiss/quarto-wordcount: Quarto extension for calculating accurate word counts",
-    "latest": "2023-04-10T07:47:05+00:00",
-    "last_post": {
-      "url": "https://fediscience.org/@andrew/110146498837984507",
-      "content": "<p>Counting words in <a href=\"https://fediscience.org/tags/rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rstats</span></a> markdown / <a href=\"https://fediscience.org/tags/QuartoPub\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>QuartoPub</span></a>  is hard because it's tricky to capture content like tables, captions, and references. <span class=\"h-card\"><a href=\"https://fediscience.org/@FrederikAust\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>FrederikAust</span></a></span> 's {rmdfiltr} works great for Rmd files, so I adapted it as a Quarto extension. Behold {quarto-wordcount}! <a href=\"https://github.com/andrewheiss/quarto-wordcount\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/andrewheiss/quarto-</span><span class=\"invisible\">wordcount</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@maelle",
-        "display_name": "Ma\u00eblle Salmon"
-      },
-      {
-        "url": "https://scholar.social/@lingucat",
-        "display_name": "Katja Politt"
-      },
-      {
-        "url": "https://mastodon.social/@rlesur",
-        "display_name": "Romain Lesur \ud83c\uddeb\ud83c\uddf7 \ud83c\uddec\ud83c\udde7"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/sail-sg/EditAnything",
-    "title": "GitHub - sail-sg/EditAnything",
-    "latest": "2023-04-10T07:00:04+00:00",
-    "last_post": {
-      "url": "https://die-partei.social/@hackernews/110173225226432197",
-      "content": "<p>EditAnything: Segment Anything + ControlNet + BLIP2 + Stable Diffusion - <a href=\"https://github.com/sail-sg/EditAnything\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/sail-sg/EditAnythin</span><span class=\"invisible\">g</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://die-partei.social/@hackernews",
-        "display_name": "Hackernews"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/aeluro1/geddit",
-    "title": "GitHub - aeluro1/geddit: Reddit Saved Posts Downloader",
-    "latest": "2023-04-10T06:42:24+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@python_discussions/110173155777101397",
-      "content": "<p>Comprehensive Reddit Saved Posts Downloader - retrieves almost all content ever saved</p><p><a href=\"https://github.com/aeluro1/geddit\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/aeluro1/geddit</span><span class=\"invisible\"></span></a></p><p>Discussions: <a href=\"https://discu.eu/q/https://github.com/aeluro1/geddit\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">discu.eu/q/https://github.com/</span><span class=\"invisible\">aeluro1/geddit</span></a></p><p><a href=\"https://mastodon.social/tags/programming\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>programming</span></a> <a href=\"https://mastodon.social/tags/python\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>python</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@python_discussions",
-        "display_name": "Python Weekly"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/kevmo314/magic-copy",
-    "title": "GitHub - kevmo314/magic-copy: Magic Copy is a Chrome extension that uses Meta's Segment Anything Model to extract a foreground object from an image and copy it to the clipboard.",
-    "latest": "2023-04-10T06:34:39+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@compsci_discussions/110173125316148617",
-      "content": "<p>[P] Magic Copy - Meta's Segment Anything Model in a Chrome Extension</p><p><a href=\"https://github.com/kevmo314/magic-copy\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/kevmo314/magic-copy</span><span class=\"invisible\"></span></a></p><p>Discussions: <a href=\"https://discu.eu/q/https://github.com/kevmo314/magic-copy\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">discu.eu/q/https://github.com/</span><span class=\"invisible\">kevmo314/magic-copy</span></a></p><p><a href=\"https://mastodon.social/tags/compsci\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>compsci</span></a> <a href=\"https://mastodon.social/tags/machinelearning\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>machinelearning</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@compsci_discussions",
-        "display_name": "Compsci Weekly"
       }
     ]
   }
