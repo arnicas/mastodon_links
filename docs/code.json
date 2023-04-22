@@ -1,8 +1,57 @@
 [
   {
+    "link": "https://github.com/HKUST-KnowComp/CSKB-Population",
+    "title": "GitHub - HKUST-KnowComp/CSKB-Population: Codes for the EMNLP2021 paper: Benchmarking Commonsense Knowledge Base Population with an Effective Evaluation Dataset (https://aclanthology.org/2021.emnlp-main.705.pdf).",
+    "latest": "2023-04-22T09:17:25+00:00",
+    "last_post": {
+      "url": "https://creative.ai/@arxiv_cl/110241713049389614",
+      "content": "<p>\ud83d\udcdd CKBP V2: An Expert-Annotated Evaluation Set for Commonsense Knowledge Base Population \ud83d\udcda</p><p>\"The population task is formulated as a cloze test to test the knowledge about events and entities in a commonsense knowledge resource (ConceptNet).\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/HKUST-KnowComp/CSKB-Population\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/HKUST-KnowComp/CSKB</span><span class=\"invisible\">-Population</span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2304.10392v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2304.10392v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://creative.ai/@arxiv_cl",
+        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/alan-turing-institute/the-turing-way/issues/2803",
+    "title": "[WIP] The Environmental Impact of Open Research \u00b7 Issue #2803 \u00b7 alan-turing-institute/the-turing-way",
+    "latest": "2023-04-22T09:07:59+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@turingway/110241675983427278",
+      "content": "<p>Join the discussion surrounding the environmental impact of open research, an upcoming chapter for our guides: </p><p>\ud83d\udc49 <a href=\"https://github.com/alan-turing-institute/the-turing-way/issues/2803\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/alan-turing-institu</span><span class=\"invisible\">te/the-turing-way/issues/2803</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fosstodon.org/@turingway",
+        "display_name": "The Turing Way Project"
+      }
+    ]
+  },
+  {
+    "link": "https://gist.github.com/mjskay/b6b067a74c6542452d2ce49c3a4be8b4",
+    "title": "ggdist-kde-comparison.md",
+    "latest": "2023-04-22T07:45:30+00:00",
+    "last_post": {
+      "url": "https://fediscience.org/@mjskay/110238257816168996",
+      "content": "<p>Playing with a new default kernel density estimator for the <a href=\"https://fediscience.org/tags/ggdist\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ggdist</span></a> <a href=\"https://fediscience.org/tags/rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rstats</span></a> \ud83d\udce6. Thoughts?</p><p>Trying to deal with edge effects in default KDEs on bounded data. Never gonna convince everyone to use histograms or dotplots, so a better default would help...</p><p>See <a href=\"https://gist.github.com/mjskay/b6b067a74c6542452d2ce49c3a4be8b4\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gist.github.com/mjskay/b6b067a</span><span class=\"invisible\">74c6542452d2ce49c3a4be8b4</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fediscience.org/@mjskay",
+        "display_name": "Matthew Kay"
+      },
+      {
+        "url": "https://mastodon.nz/@ojala",
+        "display_name": "Luis Apiolaza"
+      }
+    ]
+  },
+  {
     "link": "https://codeberg.org/oliphant/blocklists/src/branch/main/blocklists/missing-tier0-mastodon.social.csv",
     "title": "codeberg.org/oliphant/blocklis...",
-    "latest": "2023-04-21T22:03:15+00:00",
+    "latest": "2023-04-22T07:19:38+00:00",
     "last_post": {
       "url": "https://mastodon.art/@Curator/110239062107543411",
       "content": "<p><a href=\"https://codeberg.org/oliphant/blocklists/src/branch/main/blocklists/missing-tier0-mastodon.social.csv\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">codeberg.org/oliphant/blocklis</span><span class=\"invisible\">ts/src/branch/main/blocklists/missing-tier0-mastodon.social.csv</span></a></p><p>This list by <span class=\"h-card\"><a href=\"https://oliphant.social/@oliphant\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>oliphant</span></a></span> is all the instances that mastodon.social doesn't block, that 'we' (the instances who use Oli's blocklist, which in part pulls from .art's blocklist) do block in the unified_tier0_blocklist.csv file.</p><p>You can look at those entries and then do a search on <a href=\"https://mastodon.art/about\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">mastodon.art/about</span><span class=\"invisible\"></span></a> to find the instances and see the reason we have them blocked (most of them are there). </p><p>(continued)</p>"
@@ -11,6 +60,126 @@
       {
         "url": "https://mastodon.art/@Curator",
         "display_name": "Mastodon\u2022ART \ud83c\udfa8 Curator :masto:"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/HSU-CHIA-MING/Prompt-XRE",
+    "title": "GitHub - HSU-CHIA-MING/Prompt-XRE",
+    "latest": "2023-04-22T07:17:26+00:00",
+    "last_post": {
+      "url": "https://creative.ai/@arxiv_cl/110241241244725540",
+      "content": "<p>\ud83d\udcdd Prompt-Learning for Cross-Lingual Relation Extraction \ud83d\udcda</p><p>\"Proposes a novel XRE algorithm based on Prompt-Tuning, referred to as Prompt-XRE, which is able to leverage multilingual PLMs for XRE tasks.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/HSU-CHIA-MING/Prompt-XRE\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/HSU-CHIA-MING/Promp</span><span class=\"invisible\">t-XRE</span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2304.10354v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2304.10354v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://creative.ai/@arxiv_cl",
+        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/juliarozanova/",
+    "title": "juliarozanova - Overview",
+    "latest": "2023-04-22T04:37:29+00:00",
+    "last_post": {
+      "url": "https://creative.ai/@arxiv_cl/110240612290545871",
+      "content": "<p>\ud83d\udcdd Interventional Probing in High Dimensions: An NLI Case Study \ud83d\udcda</p><p>\"Mnestic probing removes all information from the representations except the probe-selected ones, while keeping the same number of dimensions; amnesic probing removes the features as directed by learned linear probes, while keeping the same dimensionality.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/juliarozanova/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/juliarozanova/</span><span class=\"invisible\"></span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2304.10346v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2304.10346v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://creative.ai/@arxiv_cl",
+        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/imakris/glatter",
+    "title": "GitHub - imakris/glatter: An OpenGL loading library, with support for GL, GLES, EGL, GLX and WGL",
+    "latest": "2023-04-22T04:31:14+00:00",
+    "last_post": {
+      "url": "https://sunny.garden/@winnie/110240587755824936",
+      "content": "<p><span class=\"h-card\"><a href=\"https://jawns.club/@vicki\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>vicki</span></a></span> <a href=\"https://github.com/imakris/glatter\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/imakris/glatter</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sunny.garden/@winnie",
+        "display_name": "gwen windflower \ud83d\udcca\ud83e\udd37\ud83c\udffb\u200d\u2640\ud83d\udcc8"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/lugenx/ecohabit",
+    "title": "GitHub - lugenx/ecohabit: EcoHabit is a web app project that aims to create awareness of the environment and help people build environmental friendly habits.",
+    "latest": "2023-04-22T04:05:02+00:00",
+    "last_post": {
+      "url": "https://die-partei.social/@hackernews/110240484726108862",
+      "content": "<p>EcoHabit: An Open Source Project for Environmental Awareness (Earth Day Special) - <a href=\"https://github.com/lugenx/ecohabit\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/lugenx/ecohabit</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://die-partei.social/@hackernews",
+        "display_name": "Hackernews"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/debruine/faux/issues",
+    "title": "Issues \u00b7 debruine/faux",
+    "latest": "2023-04-22T03:06:56+00:00",
+    "last_post": {
+      "url": "https://tech.lgbt/@debruine/110237210055111314",
+      "content": "<p>My to-do list for the next version includes:</p><p>* add_continuous() function to add continuous predictors to mixed effects data<br>* integrate non-normal distributions to sim_design()</p><p>Please add your wishes here (or ideally as issues on <a href=\"https://github.com/debruine/faux/issues\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/debruine/faux/issue</span><span class=\"invisible\">s</span></a>)</p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@lakens",
+        "display_name": "Daniel Lakens"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/python/peps/pull/3117",
+    "title": "PEP 9999: Callable Modules by amyreese \u00b7 Pull Request #3117 \u00b7 python/peps",
+    "latest": "2023-04-22T00:22:34+00:00",
+    "last_post": {
+      "url": "https://toots.n7.gg/@amethyst/110239467711005670",
+      "content": "<p>Achievement unlocked: authored a PEP! \ud83c\udf89</p><p><a href=\"https://github.com/python/peps/pull/3117\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/python/peps/pull/31</span><span class=\"invisible\">17</span></a></p><p><a href=\"https://toots.n7.gg/tags/PyConUS\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>PyConUS</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fosstodon.org/@mariatta",
+        "display_name": "Mariatta \ud83e\udd26\ud83c\udffb\u200d\u2640\ufe0f :python:"
+      }
+    ]
+  },
+  {
+    "link": "https://gist.github.com/mdsumner/bd33f897bfb6d8fd922d115dbf3e930b",
+    "title": "palettize_readme.md",
+    "latest": "2023-04-22T00:21:18+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@mdsumner/110239604994698756",
+      "content": "<p><span class=\"h-card\"><a href=\"https://mastodon.social/@eliocamp\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>eliocamp</span></a></span> here's what I'm doing to get the right result, would love to get this working as a simple option :)</p><p><a href=\"https://gist.github.com/mdsumner/bd33f897bfb6d8fd922d115dbf3e930b\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gist.github.com/mdsumner/bd33f</span><span class=\"invisible\">897bfb6d8fd922d115dbf3e930b</span></a></p><p>(I could just use JPEG though, probably)</p>"
+    },
+    "people": [
+      {
+        "url": "https://fosstodon.org/@mdsumner",
+        "display_name": "mdsumner"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/lxk00/CLAP",
+    "title": "GitHub - lxk00/CLAP",
+    "latest": "2023-04-22T00:17:28+00:00",
+    "last_post": {
+      "url": "https://creative.ai/@arxiv_cl/110239589860830791",
+      "content": "<p>\ud83d\udcdd Effective Open Intent Classification with K-Center Contrastive Learning and Adjustable Decision Boundary \ud83d\udcda</p><p>\"A novel K-center contrastive learning and adjustable decision boundary learning method that transfers knowledge from known intents to unknown intents and determines the suitable decision condition.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/lxk00/CLAP\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/lxk00/CLAP</span><span class=\"invisible\"></span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2304.10220v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2304.10220v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://creative.ai/@arxiv_cl",
+        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
       }
     ]
   },
@@ -188,21 +357,6 @@
       {
         "url": "https://creative.ai/@arxiv_cl",
         "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
-      }
-    ]
-  },
-  {
-    "link": "https://gist.github.com/mjskay/b6b067a74c6542452d2ce49c3a4be8b4",
-    "title": "ggdist-kde-comparison.md",
-    "latest": "2023-04-21T18:38:42+00:00",
-    "last_post": {
-      "url": "https://fediscience.org/@mjskay/110238257816168996",
-      "content": "<p>Playing with a new default kernel density estimator for the <a href=\"https://fediscience.org/tags/ggdist\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ggdist</span></a> <a href=\"https://fediscience.org/tags/rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rstats</span></a> \ud83d\udce6. Thoughts?</p><p>Trying to deal with edge effects in default KDEs on bounded data. Never gonna convince everyone to use histograms or dotplots, so a better default would help...</p><p>See <a href=\"https://gist.github.com/mjskay/b6b067a74c6542452d2ce49c3a4be8b4\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gist.github.com/mjskay/b6b067a</span><span class=\"invisible\">74c6542452d2ce49c3a4be8b4</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://fediscience.org/@mjskay",
-        "display_name": "Matthew Kay"
       }
     ]
   },
@@ -3110,160 +3264,6 @@
       {
         "url": "https://creative.ai/@arxiv_cl",
         "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/ravenscroftj/turbopilot",
-    "title": "GitHub - ravenscroftj/turbopilot: Turbopilot is an open source large-language-model based code completion engine that runs locally on CPU",
-    "latest": "2023-04-12T20:19:09+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@Migueldeicaza/110186006112373237",
-      "content": "<p>TurboPilot is an open source copilot clone that you can run locally: <a href=\"https://github.com/ravenscroftj/turbopilot\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/ravenscroftj/turbop</span><span class=\"invisible\">ilot</span></a></p><p>It uses both the open source SalesForce coding model and Llama.cpp</p><p>Amazing</p>"
-    },
-    "people": [
-      {
-        "url": "https://octodon.social/@craignicol",
-        "display_name": "Craig Nicol"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/debruine/booktem",
-    "title": "GitHub - debruine/booktem: Methods Book Template",
-    "latest": "2023-04-12T19:33:45+00:00",
-    "last_post": {
-      "url": "https://tech.lgbt/@debruine/110186430413855489",
-      "content": "<p><span class=\"h-card\"><a href=\"https://akademienl.social/@chartgerink\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>chartgerink</span></a></span> I\u2019m working on an R package to make setting up books in quarto (like our <a href=\"https://tech.lgbt/tags/psyTeachR\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>psyTeachR</span></a> books) more straightforward. I spent the last week working on it with <span class=\"h-card\"><a href=\"https://mastodon.social/@lakens\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>lakens</span></a></span> and would love any further feedback. </p><p><a href=\"https://github.com/debruine/booktem\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/debruine/booktem</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@JoranJongerling",
-        "display_name": "Joran"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/andrewheiss/hex-stickers",
-    "title": "GitHub - andrewheiss/hex-stickers: \u2b21 Hex stickers for my R packages and classes",
-    "latest": "2023-04-12T19:12:00+00:00",
-    "last_post": {
-      "url": "https://fediscience.org/@andrew/110187427965580137",
-      "content": "<p>And I finally got around to updating my repository of class and package hex stickers!</p><p>Get the original Creative Commons-licensed files and templates as PNG, PDF, SVG, and Illustrator files here: <a href=\"https://github.com/andrewheiss/hex-stickers\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/andrewheiss/hex-sti</span><span class=\"invisible\">ckers</span></a> (along with little colophons explaining the design choices)</p>"
-    },
-    "people": [
-      {
-        "url": "https://fediscience.org/@andrew",
-        "display_name": "Andrew Heiss :rstats:"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/tidymodels/parsnip/releases/tag/v1.1.0",
-    "title": "github.com/tidymodels/parsnip/...",
-    "latest": "2023-04-12T18:50:40+00:00",
-    "last_post": {
-      "url": "https://fosstodon.org/@simonpcouch/110187334261855842",
-      "content": "<p>A new release of <a href=\"https://fosstodon.org/tags/rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rstats</span></a> parsnip is now on CRAN! </p><p>Among other things, this release contains changes that substantially reduces the time to `fit()` and `predict()` with the tidymodels. I wrote about those changes in my most recent blog post: <a href=\"https://www.simonpcouch.com/blog/speedups-2023/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">simonpcouch.com/blog/speedups-</span><span class=\"invisible\">2023/</span></a></p><p>The full release notes are here: <a href=\"https://github.com/tidymodels/parsnip/releases/tag/v1.1.0\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/tidymodels/parsnip/</span><span class=\"invisible\">releases/tag/v1.1.0</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://fosstodon.org/@jimgruman",
-        "display_name": "\ud83e\udde2\ud83d\udcda\ud83d\udeb5\u200d\u2642\ufe0f\u2699\ud83d\udcc8\u2615"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/gkamer8/praetor-data",
-    "title": "GitHub - gkamer8/praetor-data",
-    "latest": "2023-04-12T18:15:02+00:00",
-    "last_post": {
-      "url": "https://die-partei.social/@hackernews/110187203953772626",
-      "content": "<p>Show HN: Praetor, a lightweight finetuning data and prompt management tool - <a href=\"https://github.com/gkamer8/praetor-data\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/gkamer8/praetor-dat</span><span class=\"invisible\">a</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://die-partei.social/@hackernews",
-        "display_name": "Hackernews"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/JohnSnowLabs/spark-nlp/releases/tag/4.4.0",
-    "title": "Release John Snow Labs Spark-NLP 4.4.0: New BART for Text Translation & Summarization, new ConvNeXT Transformer for Image Classification, new Zero-Shot Text Classification by BERT, more than 4000+ state-of-the-art models, and many more! \u00b7 JohnSnowLabs/spark-nlp",
-    "latest": "2023-04-12T18:10:48+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@java_discussions/110187187300698421",
-      "content": "<p>Spark-NLP 4.4.0: New BART for Text Translation &amp; Summarization, new ConvNeXT Transformer for Image Classification, new Zero-Shot Text Classification by BERT, more than 4000+ state-of-the-art models, and many more! \u00b7 JohnSnowLabs/spark-nlp</p><p><a href=\"https://github.com/JohnSnowLabs/spark-nlp/releases/tag/4.4.0\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/JohnSnowLabs/spark-</span><span class=\"invisible\">nlp/releases/tag/4.4.0</span></a></p><p>Discussions: <a href=\"https://discu.eu/q/https://github.com/JohnSnowLabs/spark-nlp/releases/tag/4.4.0\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">discu.eu/q/https://github.com/</span><span class=\"invisible\">JohnSnowLabs/spark-nlp/releases/tag/4.4.0</span></a></p><p><a href=\"https://mastodon.social/tags/compsci\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>compsci</span></a> <a href=\"https://mastodon.social/tags/java\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>java</span></a> <a href=\"https://mastodon.social/tags/nlp\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>nlp</span></a> <a href=\"https://mastodon.social/tags/programming\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>programming</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@java_discussions",
-        "display_name": "Java Weekly"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/cran-task-views/Spatial/issues/52",
-    "title": "Seeking new maintainer for gdistance \u00b7 Issue #52 \u00b7 cran-task-views/Spatial",
-    "latest": "2023-04-12T17:08:21+00:00",
-    "last_post": {
-      "url": "https://fosstodon.org/@nowosad/110186214289853710",
-      "content": "<p>A new maintainer for the gdistance package is needed</p><p>Learn more at <a href=\"https://github.com/cran-task-views/Spatial/issues/52\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/cran-task-views/Spa</span><span class=\"invisible\">tial/issues/52</span></a></p><p><a href=\"https://fosstodon.org/tags/rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rstats</span></a> <a href=\"https://fosstodon.org/tags/rspatial\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rspatial</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://fosstodon.org/@bvancil",
-        "display_name": "Brian Vancil"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/openai/consistency_models",
-    "title": "GitHub - openai/consistency_models: Official repo for consistency models.",
-    "latest": "2023-04-12T17:00:03+00:00",
-    "last_post": {
-      "url": "https://die-partei.social/@hackernews/110186909088609946",
-      "content": "<p>OpenAI releases Consistency Model for one-step generation - <a href=\"https://github.com/openai/consistency_models\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/openai/consistency_</span><span class=\"invisible\">models</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://die-partei.social/@hackernews",
-        "display_name": "Hackernews"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/ateucher/rmapshaper/issues",
-    "title": "github.com/ateucher/rmapshaper...",
-    "latest": "2023-04-12T09:06:54+00:00",
-    "last_post": {
-      "url": "https://fosstodon.org/@andyteucher/110181688455945485",
-      "content": "<p>I've just released a new version of the {rmapshaper} \ud83d\udce6 on CRAN. This is a fairly major release, with lots of changes under the hood, but minimal user-facing changes:</p><p><a href=\"https://cran.r-project.org/web/packages/rmapshaper/news/news.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">cran.r-project.org/web/package</span><span class=\"invisible\">s/rmapshaper/news/news.html</span></a></p><p>Please give it a test drive and report any issues at <a href=\"https://github.com/ateucher/rmapshaper/issues\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/ateucher/rmapshaper</span><span class=\"invisible\">/issues</span></a></p><p><a href=\"https://fosstodon.org/tags/rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rstats</span></a> <a href=\"https://fosstodon.org/tags/rspatial\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rspatial</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://fosstodon.org/@andyteucher",
-        "display_name": "Andy Teucher"
-      },
-      {
-        "url": "https://fosstodon.org/@nowosad",
-        "display_name": "Jakub Nowosad"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/BjnNowak/TidyTuesday/blob/main/SC_BBC.R",
-    "title": "TidyTuesday/SC_BBC.R at main \u00b7 BjnNowak/TidyTuesday",
-    "latest": "2023-04-12T08:16:41+00:00",
-    "last_post": {
-      "url": "https://fosstodon.org/@bjnnowak/110184554021226293",
-      "content": "<p>Hexagons in hexagon for <a href=\"https://fosstodon.org/tags/Day12\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Day12</span></a> of <a href=\"https://fosstodon.org/tags/30DayChartChallenge\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>30DayChartChallenge</span></a> (Distribution X BBC style) !</p><p>Wheat distribution in France : soft winter wheat is by far the most cultivated crop in the country (mainly in the North, where yields are the highest)</p><p><a href=\"https://fosstodon.org/tags/RStats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>RStats</span></a> code <a href=\"https://github.com/BjnNowak/TidyTuesday/blob/main/SC_BBC.R\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/BjnNowak/TidyTuesda</span><span class=\"invisible\">y/blob/main/SC_BBC.R</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://fosstodon.org/@leeolney",
-        "display_name": "Lee Olney"
       }
     ]
   }
