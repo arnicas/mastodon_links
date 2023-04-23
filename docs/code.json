@@ -1,5 +1,224 @@
 [
   {
+    "link": "https://github.com/ron-rs/ron",
+    "title": "GitHub - ron-rs/ron: Rusty Object Notation",
+    "latest": "2023-04-23T09:30:02+00:00",
+    "last_post": {
+      "url": "https://die-partei.social/@hackernews/110247424991435271",
+      "content": "<p>Ron: Rusty Object Notation - <a href=\"https://github.com/ron-rs/ron\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/ron-rs/ron</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://die-partei.social/@hackernews",
+        "display_name": "Hackernews"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/TodePond/DreamBerd/releases/tag/v0.9.9.9.9.9.9.9.9a",
+    "title": "Release v0.9.9.9.9.9.9.9.9a \u00b7 TodePond/DreamBerd",
+    "latest": "2023-04-23T09:10:06+00:00",
+    "last_post": {
+      "url": "https://universeodon.com/@TodePond/110247346599732353",
+      "content": "<p>We invite you to review the current draft of the updated DreamBerd Trademark Policy and share any feedback you might have.</p><p>Your responses will help us ensure the DreamBerd Trademark Policy is useful for all! \ud83d\udc26</p><p><a href=\"https://github.com/TodePond/DreamBerd/releases/tag/v0.9.9.9.9.9.9.9.9a\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/TodePond/DreamBerd/</span><span class=\"invisible\">releases/tag/v0.9.9.9.9.9.9.9.9a</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://universeodon.com/@TodePond",
+        "display_name": "Lu Wilson"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/owenjonesuob/suggests",
+    "title": "GitHub - owenjonesuob/suggests: Declare when Suggested Packages are Needed",
+    "latest": "2023-04-23T07:41:16+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@owenjonesuob/109699349442127871",
+      "content": "<p>Not to be too dramatic, but the update I've just pushed for the {suggests} package makes it *over 300 times* faster \ud83c\udfc3\u200d\u2640\ufe0f</p><p>{suggests} helps to reduce your code's hard dependencies, by prompting users to install deps only when they're actually needed <a href=\"https://fosstodon.org/tags/rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rstats</span></a></p><p><a href=\"https://github.com/owenjonesuob/suggests\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/owenjonesuob/sugges</span><span class=\"invisible\">ts</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@sellorm",
+        "display_name": "Mark Sellors"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/dirkschumacher/transduceR",
+    "title": "GitHub - dirkschumacher/transduceR: transducers in R",
+    "latest": "2023-04-23T06:28:06+00:00",
+    "last_post": {
+      "url": "https://qoto.org/@johnabs/110246294939248500",
+      "content": "<p>While R isn't my favorite language of the ones I regularly use, I know you <a href=\"https://qoto.org/tags/rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rstats</span></a> people adore it, so here's a fun package you should try out:</p><p><a href=\"https://github.com/dirkschumacher/transduceR\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/dirkschumacher/tran</span><span class=\"invisible\">sduceR</span></a></p><p>If you like functional style, but want efficiency too, try out transducers, they're an amazing little tool that I'm still picking up, but they give you pipelines that don't create intermediate arrays (and composable reductions, lazy evaluation in this case, etc). Thus, they still provide clean, familiar functional syntax but with a pretty sizable  performance boost! </p><p>Here's a conceptual primer on them from Clojure as well:</p><p><a href=\"https://clojure.org/reference/transducers\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">clojure.org/reference/transduc</span><span class=\"invisible\">ers</span></a></p><p>I hope this proves useful to some of you! \ud83d\ude01</p>"
+    },
+    "people": [
+      {
+        "url": "https://fosstodon.org/@brodriguesco",
+        "display_name": "Bruno Rodrigues :rstats: :tux:"
+      },
+      {
+        "url": "https://fediscience.org/@mjskay",
+        "display_name": "Matthew Kay"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/glenrobson/iiif2annos",
+    "title": "GitHub - glenrobson/iiif2annos: OCR a IIIF images in a manifest and generate annotations",
+    "latest": "2023-04-23T06:17:03+00:00",
+    "last_post": {
+      "url": "https://hcommons.social/@julsraemy/110246666116749156",
+      "content": "<p>I haven't tested yet but here is a tool leveraging Tesseract by Glen Robson to read a <a href=\"https://hcommons.social/tags/IIIF\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>IIIF</span></a> manifest, OCR the images, create annotations and add them to a copy of the manifest (working with V2 and V3 of the Presentation API).</p><p><a href=\"https://github.com/glenrobson/iiif2annos\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/glenrobson/iiif2ann</span><span class=\"invisible\">os</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://hcommons.social/@julsraemy",
+        "display_name": "Julien A. Raemy"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/airminded/ttaships",
+    "title": "GitHub - airminded/ttaships: Twitter and Mastodon image bot",
+    "latest": "2023-04-23T05:54:55+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@AirmindedAI/110246579107059067",
+      "content": "<p>Because, why not? here\u2019s the code <a href=\"https://github.com/airminded/ttaships\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/airminded/ttaships</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@AirmindedAI",
+        "display_name": "Airminded AI"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/jina-ai/gptdeploy",
+    "title": "GitHub - jina-ai/gptdeploy: One line to create them all",
+    "latest": "2023-04-23T03:46:30+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@python_discussions/110246074124672200",
+      "content": "<p>GPT-4 Generates and Debugs Python code</p><p><a href=\"https://github.com/jina-ai/gptdeploy\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/jina-ai/gptdeploy</span><span class=\"invisible\"></span></a></p><p>Discussions: <a href=\"https://discu.eu/q/https://github.com/jina-ai/gptdeploy\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">discu.eu/q/https://github.com/</span><span class=\"invisible\">jina-ai/gptdeploy</span></a></p><p><a href=\"https://mastodon.social/tags/programming\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>programming</span></a> <a href=\"https://mastodon.social/tags/python\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>python</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@python_discussions",
+        "display_name": "Python Weekly"
+      }
+    ]
+  },
+  {
+    "link": "https://gist.github.com/yoavg/59d174608e92e845c8994ac2e234c8a9",
+    "title": "LLMs.md",
+    "latest": "2023-04-23T03:45:46+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@BenjaminHan/110246071294126731",
+      "content": "<p>7/</p><p>[3] Karthik Valmeekam, Alberto Olmo, Sarath Sreedharan, and Subbarao Kambhampati. 2022. Large Language Models Still Can\u2019t Plan (A Benchmark for LLMs on Planning and Reasoning about Change). <a href=\"http://arxiv.org/abs/2206.10498\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">http://</span><span class=\"\">arxiv.org/abs/2206.10498</span><span class=\"invisible\"></span></a></p><p>[4] Yoav Goldberg. 2023. Some remarks on Large Language Models. <a href=\"https://gist.github.com/yoavg/59d174608e92e845c8994ac2e234c8a9\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gist.github.com/yoavg/59d17460</span><span class=\"invisible\">8e92e845c8994ac2e234c8a9</span></a> (prev. discussion: <a href=\"https://sigmoid.social/@BenjaminHan/109626958540791886\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">sigmoid.social/@BenjaminHan/10</span><span class=\"invisible\">9626958540791886</span></a>)</p><p><a href=\"https://sigmoid.social/tags/GenerativeAI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>GenerativeAI</span></a> <a href=\"https://sigmoid.social/tags/NLP\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>NLP</span></a> <a href=\"https://sigmoid.social/tags/NLProc\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>NLProc</span></a> <a href=\"https://sigmoid.social/tags/Paper\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Paper</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@jacobeisenstein",
+        "display_name": "Jacob Eisenstein"
+      },
+      {
+        "url": "https://masto.ai/@brenocon",
+        "display_name": "brendan"
+      },
+      {
+        "url": "https://mastodon.social/@rrwilliams",
+        "display_name": "Ryan Williams"
+      },
+      {
+        "url": "https://sigmoid.social/@ogrisel",
+        "display_name": "Olivier Grisel"
+      },
+      {
+        "url": "https://fediscience.org/@UlrichJunker",
+        "display_name": "Ulrich Junker"
+      },
+      {
+        "url": "https://sigmoid.social/@BenjaminHan",
+        "display_name": "Benjamin Han"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/Significant-Gravitas/Auto-GPT",
+    "title": "GitHub - Significant-Gravitas/Auto-GPT: An experimental open-source attempt to make GPT-4 fully autonomous.",
+    "latest": "2023-04-23T03:44:17+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@BenjaminHan/110246065435270405",
+      "content": "<p>6/</p><p>1] Auto-GPT. 2023. <a href=\"https://github.com/Significant-Gravitas/Auto-GPT\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/Significant-Gravita</span><span class=\"invisible\">s/Auto-GPT</span></a></p><p>[2] Han Xiao. 2023. Auto-GPT Unmasked: The Hype and Hard Truths of Its Production Pitfalls. <a href=\"https://jina.ai/news/auto-gpt-unmasked-hype-hard-truths-production-pitfalls/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">jina.ai/news/auto-gpt-unmasked</span><span class=\"invisible\">-hype-hard-truths-production-pitfalls/</span></a></p><p><a href=\"https://sigmoid.social/tags/GenerativeAI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>GenerativeAI</span></a> <a href=\"https://sigmoid.social/tags/NLP\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>NLP</span></a> <a href=\"https://sigmoid.social/tags/NLProc\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>NLProc</span></a> <a href=\"https://sigmoid.social/tags/Paper\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Paper</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@BenjaminHan",
+        "display_name": "Benjamin Han"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/mdneuzerling/lambdr",
+    "title": "https://github.com/mdneuzerling/lambdr",
+    "latest": "2023-04-23T02:56:52+00:00",
+    "last_post": {
+      "url": "https://aus.social/@jimjamslam/110245839302049782",
+      "content": "<p>We're doing some backend work on Is It Hot Right Now, and I'm very happy that the R side of it has been relatively painless thanks to <span class=\"h-card\"><a href=\"https://fosstodon.org/@djnavarro\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>djnavarro</span></a></span>'s thorough guide to S3 + R and <span class=\"h-card\"><a href=\"https://neuzerling.com/@md\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>md</span></a></span>'s {lambdr} package \ud83e\udd73</p><p>\ud83d\udcd6 <a href=\"https://blog.djnavarro.net/posts/2022-03-17_using-aws-s3-in-r\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">blog.djnavarro.net/posts/2022-</span><span class=\"invisible\">03-17_using-aws-s3-in-r</span></a></p><p>\ud83d\udce6 <a href=\"https://github.com/mdneuzerling/lambdr\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/mdneuzerling/lambdr</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fosstodon.org/@djnavarro",
+        "display_name": "Danielle Navarro"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/FreedomIntelligence/LLMZoo",
+    "title": "GitHub - FreedomIntelligence/LLMZoo: \u26a1LLM Zoo is a project that provides data, models, and evaluation benchmark for large language models.\u26a1",
+    "latest": "2023-04-23T02:04:02+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@aran/110234009175488395",
+      "content": "<p>Phoenix: Democratizing ChatGPT across Languages</p><p>Releases a LLM \u2018Phoenix\u2019, achieving competitive performance on English and Chinese while excelling in low-resources languages.</p><p>repo: <a href=\"https://github.com/FreedomIntelligence/LLMZoo\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/FreedomIntelligence</span><span class=\"invisible\">/LLMZoo</span></a><br>abs: <a href=\"https://arxiv.org/abs/2304.10453\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2304.10453</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://creative.ai/@arxiv_cl",
+        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/tbiehn/thoughtloom",
+    "title": "GitHub - tbiehn/thoughtloom: ThoughtLoom is a powerful tool designed to foster creativity and enhance productivity through the use of LLMs directly from the command line. It facilitates rapid development and integration of LLM-based tools into various workflows, empowering individuals and teams to experiment, collaborate, and ultimately streamline their daily tasks.",
+    "latest": "2023-04-22T23:39:26+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@hrbrmstr/110245102622881986",
+      "content": "<p>What finally caused me to type what has been in my head for the past 4 weeks (as I\u2019ve seen an exponential increase in the # of projects that have this requirement appear) is that the $DEITY forsaken bug bounty folks have fallen for OpenAI\u2019s bait: <a href=\"https://github.com/tbiehn/thoughtloom\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/tbiehn/thoughtloom</span><span class=\"invisible\"></span></a> (scroll to the end).</p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@hrbrmstr",
+        "display_name": "boB Rudis \ud83c\uddfa\ud83c\udde6"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/sethmlarson/secure-python-package-template/#configuring-a-trusted-publisher",
+    "title": "GitHub - sethmlarson/secure-python-package-template: Template for a Python package with a secure project host and package repository configuration.",
+    "latest": "2023-04-22T23:06:00+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@sethmlarson/110244543763993507",
+      "content": "<p>I've added the new <a href=\"https://fosstodon.org/tags/PyPI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>PyPI</span></a> feature \"Trusted Publishers\" to the secure <a href=\"https://fosstodon.org/tags/Python\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Python</span></a> package template repository, you can now publish packages without credentials in <a href=\"https://fosstodon.org/tags/GitHub\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>GitHub</span></a> Actions! \ud83d\udce6 </p><p><a href=\"https://fosstodon.org/tags/PyCon\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>PyCon</span></a> <a href=\"https://fosstodon.org/tags/PyConUS\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>PyConUS</span></a></p><p><a href=\"https://github.com/sethmlarson/secure-python-package-template/#configuring-a-trusted-publisher\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/sethmlarson/secure-</span><span class=\"invisible\">python-package-template/#configuring-a-trusted-publisher</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@hrbrmstr",
+        "display_name": "boB Rudis \ud83c\uddfa\ud83c\udde6"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/EmilHvitfeldt/tutorial-ocrug-hackathon-nlp/",
     "title": "GitHub - EmilHvitfeldt/tutorial-ocrug-hackathon-nlp",
     "latest": "2023-04-22T21:57:25+00:00",
@@ -3061,209 +3280,6 @@
       {
         "url": "https://mastodon.social/@eliocamp",
         "display_name": "Elio Campitelli"
-      }
-    ]
-  },
-  {
-    "link": "https://observablehq.com/d/7c7773fb302a9be7",
-    "title": "Minimal Spanning tree",
-    "latest": "2023-04-13T19:17:12+00:00",
-    "last_post": {
-      "url": "https://vis.social/@benmschmidt/110193110681138171",
-      "content": "<p>Oh but here's the link to the observable notebook that does the MST. <a href=\"https://observablehq.com/d/7c7773fb302a9be7\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">observablehq.com/d/7c7773fb302</span><span class=\"invisible\">a9be7</span></a> I sort of thought there might be a divide-and conquer approach on it, but not clear to me what that would be.</p>"
-    },
-    "people": [
-      {
-        "url": "https://vis.social/@benmschmidt",
-        "display_name": "Ben Schmidt"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/Mng-dev-ai/pyrustify",
-    "title": "GitHub - Mng-dev-ai/pyrustify: A Python package written in Rust for email verification without sending any emails.",
-    "latest": "2023-04-13T18:11:55+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@python_discussions/110192853998710732",
-      "content": "<p>A Python package written in Rust for email verification without sending any emails.</p><p><a href=\"https://github.com/Mng-dev-ai/pyrustify\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/Mng-dev-ai/pyrustif</span><span class=\"invisible\">y</span></a></p><p>Discussions: <a href=\"https://discu.eu/q/https://github.com/Mng-dev-ai/pyrustify\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">discu.eu/q/https://github.com/</span><span class=\"invisible\">Mng-dev-ai/pyrustify</span></a></p><p><a href=\"https://mastodon.social/tags/programming\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>programming</span></a> <a href=\"https://mastodon.social/tags/python\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>python</span></a> <a href=\"https://mastodon.social/tags/rustlang\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rustlang</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@python_discussions",
-        "display_name": "Python Weekly"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/compling-potsdam/misc-courses/blob/master/syllabi/ss23-nlu-lit.md",
-    "title": "misc-courses/ss23-nlu-lit.md at master \u00b7 compling-potsdam/misc-courses",
-    "latest": "2023-04-13T17:30:16+00:00",
-    "last_post": {
-      "url": "https://scholar.social/@davidschlangen/110192580149576592",
-      "content": "<p>Another summer semester coming up, and another edition of my \u201cmeta NLU\u201d seminar. This year\u2019s title: \u201cNatural Language Understanding and the Meaning of ChatGPT\u201d. </p><p>Reading list (draft) here: <a href=\"https://github.com/compling-potsdam/misc-courses/blob/master/syllabi/ss23-nlu-lit.md\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/compling-potsdam/mi</span><span class=\"invisible\">sc-courses/blob/master/syllabi/ss23-nlu-lit.md</span></a> </p><p>Any lit I\u2019ve missed? Let me know.</p>"
-    },
-    "people": [
-      {
-        "url": "https://fediscience.org/@tschfflr",
-        "display_name": "Tatjana Scheffler"
-      },
-      {
-        "url": "https://tech.lgbt/@_dmh",
-        "display_name": "Dave Howcroft \ud83e\udd94"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/salesforce/CodeGen",
-    "title": "GitHub - salesforce/CodeGen: CodeGen is an open-source model for program synthesis. Trained on TPU-v4. Competitive with OpenAI Codex.",
-    "latest": "2023-04-13T17:21:05+00:00",
-    "last_post": {
-      "url": "https://creative.ai/@alexjc/110192654141262112",
-      "content": "<p>Anyone tried this Code generation model? It's apparently self-proclaimed to be competitive with Codex. <a href=\"https://github.com/salesforce/CodeGen\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/salesforce/CodeGen</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://creative.ai/@alexjc",
-        "display_name": "Alex J. Champandard \ud83c\udf31"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/abey79/vsvg",
-    "title": "GitHub - abey79/vsvg: Fast SVG viewer for plotter users",
-    "latest": "2023-04-13T17:04:11+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@abey79/110186389520315767",
-      "content": "<p><a href=\"https://mastodon.social/tags/project\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>project</span></a> update! </p><p>I'm exploring the possibility of a <a href=\"https://mastodon.social/tags/rustlang\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rustlang</span></a> rewrite of (parts of) <a href=\"https://mastodon.social/tags/vpype\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>vpype</span></a>. It happens here:</p><p><a href=\"https://github.com/abey79/vsvg\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/abey79/vsvg</span><span class=\"invisible\"></span></a></p><p>It started as a learning experiment, but is now serious enough that I call it \"vpype2\".</p><p>I have many goals for vpype2\u2014I'll write a roadmap article sometime soonish.</p><p>Lately, I worked on a GPU-accelerated viewer based on <a href=\"https://mastodon.social/tags/wgpu\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>wgpu</span></a> and <a href=\"https://mastodon.social/tags/egui\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>egui</span></a>, and it's coming along nicely. Here is some smooth zooming into some transparent lines (6k paths, 2.5M segments).</p><p><a href=\"https://mastodon.social/tags/penplotter\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>penplotter</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mas.to/@DonKarlssonSan",
-        "display_name": "DonKarlssonSan"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/bvissers/FAO-Downloader",
-    "title": "GitHub - bvissers/FAO-Downloader",
-    "latest": "2023-04-13T16:53:29+00:00",
-    "last_post": {
-      "url": "https://en.osm.town/@rafagaslinks/110180067604927129",
-      "content": "<p>This QGIS connector offers a Graphical User Interface for downloading data from the Food and Agriculture Organization (FAO) from the United Nations <a href=\"https://en.osm.town/tags/qgis\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>qgis</span></a></p><p><a href=\"https://github.com/bvissers/FAO-Downloader\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/bvissers/FAO-Downlo</span><span class=\"invisible\">ader</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://fosstodon.org/@underdarkGIS",
-        "display_name": "Anita Graser \ud83c\uddea\ud83c\uddfa\ud83c\uddfa\ud83c\udde6"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/lllyasviel/ControlNet-v1-1-nightly",
-    "title": "GitHub - lllyasviel/ControlNet-v1-1-nightly: Many well-tested annotators",
-    "latest": "2023-04-13T10:01:37+00:00",
-    "last_post": {
-      "url": "https://sigmoid.social/@ceperez/110190926086498014",
-      "content": "<p>Oh no! The mother of all upgrades! <br>---<br>RT @_akhaliq<br>big update</p><p>ControlNet 1.1 is here, adding Conditional Control to Text-to-Image Diffusion Models</p><p>github: <a href=\"https://github.com/lllyasviel/ControlNet-v1-1-nightly\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/lllyasviel/ControlN</span><span class=\"invisible\">et-v1-1-nightly</span></a> <br><a href=\"https://twitter.com/_akhaliq/status/1646443628955418624\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">twitter.com/_akhaliq/status/16</span><span class=\"invisible\">46443628955418624</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://sigmoid.social/@ceperez",
-        "display_name": "Carlos E. Perez @IntuitMachine"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/BjnNowak/TidyTuesday/blob/main/SC_Drought_Spiral.R",
-    "title": "TidyTuesday/SC_Drought_Spiral.R at main \u00b7 BjnNowak/TidyTuesday",
-    "latest": "2023-04-13T09:08:09+00:00",
-    "last_post": {
-      "url": "https://fosstodon.org/@bjnnowak/110178891365702510",
-      "content": "<p>Old <a href=\"https://fosstodon.org/tags/TidyTuesday\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>TidyTuesday</span></a> dataset and a spiral chart for <a href=\"https://fosstodon.org/tags/Day11\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Day11</span></a> of <a href=\"https://fosstodon.org/tags/30DayChartChallenge\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>30DayChartChallenge</span></a> (circular) : evolution of drought in California</p><p>Two multiannual drought episodes (beyond summer) are visible on the spiral</p><p><a href=\"https://fosstodon.org/tags/RStats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>RStats</span></a> code for the spiral: <a href=\"https://github.com/BjnNowak/TidyTuesday/blob/main/SC_Drought_Spiral.R\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/BjnNowak/TidyTuesda</span><span class=\"invisible\">y/blob/main/SC_Drought_Spiral.R</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://fosstodon.org/@leeolney",
-        "display_name": "Lee Olney"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/BjnNowak/TidyTuesday/blob/main/SC_Oasis.R",
-    "title": "TidyTuesday/SC_Oasis.R at main \u00b7 BjnNowak/TidyTuesday",
-    "latest": "2023-04-13T09:01:53+00:00",
-    "last_post": {
-      "url": "https://fosstodon.org/@bjnnowak/110190214173264993",
-      "content": "<p>I was at the Rock en Seine festival in 2009 during the (final) breakup between the Gallagher brothers, so I never got to see Oasis play. To make up for it, a <a href=\"https://fosstodon.org/tags/DataViz\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DataViz</span></a> on Liam and No\u00ebl's studio albums  for <a href=\"https://fosstodon.org/tags/Day13\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Day13</span></a> of <a href=\"https://fosstodon.org/tags/30DayChartChallenge\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>30DayChartChallenge</span></a></p><p>\ud83d\udd17<a href=\"https://fosstodon.org/tags/Rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Rstats</span></a> <a href=\"https://github.com/BjnNowak/TidyTuesday/blob/main/SC_Oasis.R\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/BjnNowak/TidyTuesda</span><span class=\"invisible\">y/blob/main/SC_Oasis.R</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://fosstodon.org/@leeolney",
-        "display_name": "Lee Olney"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/md-arif-shaikh/soccer",
-    "title": "GitHub - md-arif-shaikh/soccer: Emacs package to get soccer fixtures, results, standing table etc",
-    "latest": "2023-04-13T07:24:32+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@CIAvash/110190251179028497",
-      "content": "<p>Soccer - An <a href=\"https://mastodon.social/tags/Emacs\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Emacs</span></a> package for getting fixtures, results, standing table, etc for <a href=\"https://mastodon.social/tags/soccer\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>soccer</span></a> (<a href=\"https://mastodon.social/tags/football\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>football</span></a>) matches inside emacs<br><a href=\"https://github.com/md-arif-shaikh/soccer\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/md-arif-shaikh/socc</span><span class=\"invisible\">er</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://fosstodon.org/@dmolina",
-        "display_name": "dmolina"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/lifan0127/zotero-research-assistant",
-    "title": "GitHub - lifan0127/zotero-research-assistant: Zotero Research Assistant Powered by Large Language Models",
-    "latest": "2023-04-13T05:58:15+00:00",
-    "last_post": {
-      "url": "https://techhub.social/@nic221/110189830629030490",
-      "content": "<p>GitHub - lifan0127/zotero-research-assistant: Zotero Research Assistant Powered by Large Language Models <a href=\"https://github.com/lifan0127/zotero-research-assistant\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/lifan0127/zotero-re</span><span class=\"invisible\">search-assistant</span></a> <a href=\"https://techhub.social/tags/Zotero\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Zotero</span></a> <a href=\"https://techhub.social/tags/AI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AI</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@dougholton",
-        "display_name": "Doug Holton"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/CarperAI/trlx",
-    "title": "GitHub - CarperAI/trlx: A repo for distributed training of language models with Reinforcement Learning via Human Feedback (RLHF)",
-    "latest": "2023-04-13T05:52:18+00:00",
-    "last_post": {
-      "url": "https://creative.ai/@arxiv_cl/110189945738591990",
-      "content": "<p>\ud83d\udcdd RRHF: Rank Responses to Align Language Models with Human Feedback Without Tears \ud83d\udcda</p><p>\"A novel learning paradigm called Reward Reordering Human Feedback (RRHF), which scores responses generated by different sampling policies and learns to align them with human preferences through ranking loss.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/CarperAI/trlx\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/CarperAI/trlx</span><span class=\"invisible\"></span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2304.05302v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2304.05302v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://creative.ai/@arxiv_cl",
-        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/brockfanning/jekyll-get-json/issues/6",
-    "title": "Error loading JSON should abort site build \u00b7 Issue #6 \u00b7 brockfanning/jekyll-get-json",
-    "latest": "2023-04-13T05:51:11+00:00",
-    "last_post": {
-      "url": "https://fosstodon.org/@zkamvar/110187877354404429",
-      "content": "<p>Does anyone who speaks <a href=\"https://fosstodon.org/tags/Jekyll\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Jekyll</span></a>  know how to get diagnostics from a particular gem? One of my colleagues is having trouble getting jekyll-get-json to work on their new machine, but it works on the old machine and, frustratingly, no errors are produced from jekyll-get-json: <a href=\"https://github.com/brockfanning/jekyll-get-json/issues/6\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/brockfanning/jekyll</span><span class=\"invisible\">-get-json/issues/6</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://hachyderm.io/@fmic_",
-        "display_name": "Fran\u00e7ois Michonneau"
-      },
-      {
-        "url": "https://mastodon.social/@maelle",
-        "display_name": "Ma\u00eblle Salmon"
       }
     ]
   }

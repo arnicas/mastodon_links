@@ -1,5 +1,224 @@
 [
   {
+    "link": "https://arxiv.org/abs/2302.03494",
+    "title": "A Categorical Archive of ChatGPT Failures",
+    "latest": "2023-04-23T09:04:39+00:00",
+    "last_post": {
+      "url": "https://akademienl.social/@Frederik_Borgesius/110247274029512869",
+      "content": "<p>'A Categorical Archive of ChatGPT Failures', Ali Borji <a href=\"https://arxiv.org/abs/2302.03494\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2302.03494</span><span class=\"invisible\"></span></a><br>tech <a href=\"https://akademienl.social/tags/ai\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ai</span></a> <a href=\"https://akademienl.social/tags/LLM\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>LLM</span></a> <a href=\"https://akademienl.social/tags/machinelearning\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>machinelearning</span></a> <a href=\"https://akademienl.social/tags/ChatGPT\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ChatGPT</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@dougholton",
+        "display_name": "Doug Holton"
+      },
+      {
+        "url": "https://creative.ai/@arxiv",
+        "display_name": "arXiv Highlights AI/ML \ud83d\udcdd\ud83e\udd16"
+      },
+      {
+        "url": "https://creative.ai/@arxiv_cl",
+        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
+      }
+    ]
+  },
+  {
+    "link": "https://doi.org/10.21105/joss.05309",
+    "title": "https://doi.org/10.21105/joss.05309",
+    "latest": "2023-04-23T06:46:57+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@joss/110246783693616971",
+      "content": "<p>Just published in JOSS: 'Quasi-Monte Carlo Methods in Python' <a href=\"https://doi.org/10.21105/joss.05309\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">doi.org/10.21105/joss.05309</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fosstodon.org/@joss",
+        "display_name": "JOSS"
+      }
+    ]
+  },
+  {
+    "link": "https://doi.org/10.21105/joss.05155",
+    "title": "https://doi.org/10.21105/joss.05155",
+    "latest": "2023-04-23T06:23:02+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@joss/110246689680385641",
+      "content": "<p>Just published in JOSS: 'pysr3: A Python Package for Sparse Relaxed Regularized Regression' <a href=\"https://doi.org/10.21105/joss.05155\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">doi.org/10.21105/joss.05155</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fosstodon.org/@joss",
+        "display_name": "JOSS"
+      }
+    ]
+  },
+  {
+    "link": "https://doi.org/10.21105/joss.05015",
+    "title": "https://doi.org/10.21105/joss.05015",
+    "latest": "2023-04-23T06:19:55+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@joss/110246677413566775",
+      "content": "<p>Just published in JOSS: 'nnTensor: An R package for non-negative matrix/tensor decomposition' <a href=\"https://doi.org/10.21105/joss.05015\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">doi.org/10.21105/joss.05015</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fosstodon.org/@joss",
+        "display_name": "JOSS"
+      }
+    ]
+  },
+  {
+    "link": "https://arxiv.org/abs/2304.10513",
+    "title": "Why Does ChatGPT Fall Short in Answering Questions Faithfully?",
+    "latest": "2023-04-23T06:11:41+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@aran/110234036939026799",
+      "content": "<p>Why Does ChatGPT Fall Short in Answering Questions Faithfully?</p><p><a href=\"https://arxiv.org/abs/2304.10513\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2304.10513</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@aran",
+        "display_name": "Aran Komatsuzaki"
+      },
+      {
+        "url": "https://creative.ai/@arxiv_cl",
+        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
+      }
+    ]
+  },
+  {
+    "link": "https://arxiv.org/abs/2304.05970",
+    "title": "Boosted Prompt Ensembles for Large Language Models",
+    "latest": "2023-04-23T05:05:33+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@crude2refined/110246384771245717",
+      "content": "<p>Besides benefitting from cross validation, prompt engineer can also benefit from ensemble prompts or even better classic methods like boosting: <a href=\"https://arxiv.org/abs/2304.05970\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2304.05970</span><span class=\"invisible\"></span></a></p><p>It feels like deep learning is coming full circle with non-deep ML :)</p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@rich",
+        "display_name": "Rich Tong \u2764\ufe0f\ud83c\udf93"
+      },
+      {
+        "url": "https://creative.ai/@arxiv_cl",
+        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
+      }
+    ]
+  },
+  {
+    "link": "https://doi.org/10.3115/976744.976757",
+    "title": "https://doi.org/10.3115/976744.976757",
+    "latest": "2023-04-23T04:20:20+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@stacked_automation/110246207192137538",
+      "content": "<p>LFG semantics via constraints<br>(1993) : Dalrymple, Mary Lamping, John ...<br>DOI: <a href=\"https://doi.org/10.3115/976744.976757\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">doi.org/10.3115/976744.976757</span><span class=\"invisible\"></span></a><br><a href=\"https://mastodon.social/tags/semantics\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>semantics</span></a> <a href=\"https://mastodon.social/tags/LFG\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>LFG</span></a> <a href=\"https://mastodon.social/tags/linear_logic\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>linear_logic</span></a> <a href=\"https://mastodon.social/tags/NLP\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>NLP</span></a> <a href=\"https://mastodon.social/tags/my_bibtex\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>my_bibtex</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@stacked_automation",
+        "display_name": "nope"
+      }
+    ]
+  },
+  {
+    "link": "https://arxiv.org/abs/2304.10464",
+    "title": "Learning to Program with Natural Language",
+    "latest": "2023-04-23T04:11:37+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@aran/110234028827701946",
+      "content": "<p>Learning to Program with Natural Language</p><p>Outperforms the direct zero-shot test performance of ChatGPT on 10 tasks of AMPS by 18.3%.</p><p><a href=\"https://arxiv.org/abs/2304.10464\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2304.10464</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@aran",
+        "display_name": "Aran Komatsuzaki"
+      },
+      {
+        "url": "https://creative.ai/@arxiv_cl",
+        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
+      }
+    ]
+  },
+  {
+    "link": "http://arxiv.org/abs/2206.10498",
+    "title": "http://arxiv.org/abs/2206.10498",
+    "latest": "2023-04-23T03:45:46+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@BenjaminHan/110246071294126731",
+      "content": "<p>7/</p><p>[3] Karthik Valmeekam, Alberto Olmo, Sarath Sreedharan, and Subbarao Kambhampati. 2022. Large Language Models Still Can\u2019t Plan (A Benchmark for LLMs on Planning and Reasoning about Change). <a href=\"http://arxiv.org/abs/2206.10498\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">http://</span><span class=\"\">arxiv.org/abs/2206.10498</span><span class=\"invisible\"></span></a></p><p>[4] Yoav Goldberg. 2023. Some remarks on Large Language Models. <a href=\"https://gist.github.com/yoavg/59d174608e92e845c8994ac2e234c8a9\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gist.github.com/yoavg/59d17460</span><span class=\"invisible\">8e92e845c8994ac2e234c8a9</span></a> (prev. discussion: <a href=\"https://sigmoid.social/@BenjaminHan/109626958540791886\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">sigmoid.social/@BenjaminHan/10</span><span class=\"invisible\">9626958540791886</span></a>)</p><p><a href=\"https://sigmoid.social/tags/GenerativeAI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>GenerativeAI</span></a> <a href=\"https://sigmoid.social/tags/NLP\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>NLP</span></a> <a href=\"https://sigmoid.social/tags/NLProc\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>NLProc</span></a> <a href=\"https://sigmoid.social/tags/Paper\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Paper</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fediscience.org/@UlrichJunker",
+        "display_name": "Ulrich Junker"
+      },
+      {
+        "url": "https://sigmoid.social/@BenjaminHan",
+        "display_name": "Benjamin Han"
+      }
+    ]
+  },
+  {
+    "link": "https://arxiv.org/abs/2304.10453",
+    "title": "https://arxiv.org/abs/2304.10453",
+    "latest": "2023-04-23T02:04:02+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@aran/110234009175488395",
+      "content": "<p>Phoenix: Democratizing ChatGPT across Languages</p><p>Releases a LLM \u2018Phoenix\u2019, achieving competitive performance on English and Chinese while excelling in low-resources languages.</p><p>repo: <a href=\"https://github.com/FreedomIntelligence/LLMZoo\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/FreedomIntelligence</span><span class=\"invisible\">/LLMZoo</span></a><br>abs: <a href=\"https://arxiv.org/abs/2304.10453\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2304.10453</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://creative.ai/@arxiv_cl",
+        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
+      }
+    ]
+  },
+  {
+    "link": "https://arxiv.org/abs/2304.09215",
+    "title": "Saturn's Interior After the Cassini Grand Finale",
+    "latest": "2023-04-22T23:55:03+00:00",
+    "last_post": {
+      "url": "https://die-partei.social/@hackernews/110245164032633556",
+      "content": "<p>Saturn's Interior After the Cassini Grand Finale - <a href=\"https://arxiv.org/abs/2304.09215\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2304.09215</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://die-partei.social/@hackernews",
+        "display_name": "Hackernews"
+      }
+    ]
+  },
+  {
+    "link": "https://arxiv.org/abs/2304.10256v1",
+    "title": "Indian Sign Language Recognition Using Mediapipe Holistic",
+    "latest": "2023-04-22T23:37:25+00:00",
+    "last_post": {
+      "url": "https://creative.ai/@arxiv_cl/110245094731342755",
+      "content": "<p>\ud83d\udcdd Indian Sign Language Recognition Using Mediapipe Holistic \ud83d\udd2d\ud83d\udcda\ud83e\udde0</p><p>\"We will evaluate the proposed system and compare CNN and LSTM models to create a robust system for sign language recognition in order to convert Indian sign language to text or speech.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CV\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CV</span></a> <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a> <a href=\"https://creative.ai/tags/LG\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>LG</span></a></p><p>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2304.10256v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2304.10256v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://creative.ai/@arxiv_cl",
+        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
+      }
+    ]
+  },
+  {
+    "link": "http://osf.io/gcjvy/",
+    "title": "http://osf.io/gcjvy/",
+    "latest": "2023-04-22T22:52:44+00:00",
+    "last_post": {
+      "url": "https://botsin.space/@SocArXivBot/110244919043582035",
+      "content": "<p>The \"Non-Musk Effect\" at Twitter <a href=\"http://osf.io/gcjvy/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">http://</span><span class=\"\">osf.io/gcjvy/</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://botsin.space/@SocArXivBot",
+        "display_name": "SocArXiv"
+      }
+    ]
+  },
+  {
     "link": "https://arxiv.org/abs/2304.10427",
     "title": "On the Potential of Artificial Intelligence Chatbots for Data Exploration of Federated Bioinformatics Knowledge Graphs",
     "latest": "2023-04-22T19:04:17+00:00",
@@ -797,36 +1016,6 @@
     "last_post": {
       "url": "https://sigmoid.social/@aran/110234060031510779",
       "content": "<p>Contrastive Tuning: A Little Help to Make Masked Autoencoders Forget</p><p>Starting from a MAE pre-trained ViT-L/16, MAE-CT increases the ImageNet linear probing accuracy from 76.0% to 80.2% in just five hours using eight A100 GPUs.</p><p><a href=\"https://arxiv.org/abs/2304.10520\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2304.10520</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://sigmoid.social/@aran",
-        "display_name": "Aran Komatsuzaki"
-      }
-    ]
-  },
-  {
-    "link": "https://arxiv.org/abs/2304.10513",
-    "title": "Why Does ChatGPT Fall Short in Answering Questions Faithfully?",
-    "latest": "2023-04-21T00:45:17+00:00",
-    "last_post": {
-      "url": "https://sigmoid.social/@aran/110234036939026799",
-      "content": "<p>Why Does ChatGPT Fall Short in Answering Questions Faithfully?</p><p><a href=\"https://arxiv.org/abs/2304.10513\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2304.10513</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://sigmoid.social/@aran",
-        "display_name": "Aran Komatsuzaki"
-      }
-    ]
-  },
-  {
-    "link": "https://arxiv.org/abs/2304.10464",
-    "title": "Learning to Program with Natural Language",
-    "latest": "2023-04-21T00:43:13+00:00",
-    "last_post": {
-      "url": "https://sigmoid.social/@aran/110234028827701946",
-      "content": "<p>Learning to Program with Natural Language</p><p>Outperforms the direct zero-shot test performance of ChatGPT on 10 tasks of AMPS by 18.3%.</p><p><a href=\"https://arxiv.org/abs/2304.10464\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2304.10464</span><span class=\"invisible\"></span></a></p>"
     },
     "people": [
       {
@@ -3071,179 +3260,6 @@
       {
         "url": "https://indieweb.social/@tchambers",
         "display_name": "Tim Chambers"
-      }
-    ]
-  },
-  {
-    "link": "https://arxiv.org/pdf/2303.18223.pdf",
-    "title": "https://arxiv.org/pdf/2303.18223.pdf",
-    "latest": "2023-04-15T00:39:59+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@freakonometrics/110152002702437371",
-      "content": "<p>\"A Survey of Large Language Models\" <a href=\"https://arxiv.org/pdf/2303.18223.pdf\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/pdf/2303.18223.pdf</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://creative.ai/@arxiv_cl",
-        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
-      }
-    ]
-  },
-  {
-    "link": "https://arxiv.org/abs/2304.06248v1",
-    "title": "https://arxiv.org/abs/2304.06248v1",
-    "latest": "2023-04-14T19:26:04+00:00",
-    "last_post": {
-      "url": "https://creative.ai/@arxiv_cl/110198807864601429",
-      "content": "<p>\ud83d\udcdd LasUIE: Unifying Information Extraction with Latent Adaptive Structure-Aware Generative Language Model \ud83d\udcda</p><p>\"A novel structure aware GLM is proposed to fully unleash the power of syntactic knowledge for UIE, which learns rich heterogeneous structural bias that can greatly resolve the UIE crux, the long-range dependence issue and boundary identifying.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/ChocoWu/LasUIE\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/ChocoWu/LasUIE</span><span class=\"invisible\"></span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2304.06248v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2304.06248v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://creative.ai/@arxiv_cl",
-        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
-      }
-    ]
-  },
-  {
-    "link": "http://osf.io/3bqfr/",
-    "title": "http://osf.io/3bqfr/",
-    "latest": "2023-04-14T18:51:24+00:00",
-    "last_post": {
-      "url": "https://botsin.space/@SocArXivBot/110198671562967173",
-      "content": "<p>Multidisciplinary Teams, Street Outreach, and Gang Intervention: Mixed Methods Findings from a Randomized Controlled Trial in Denver <a href=\"http://osf.io/3bqfr/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">http://</span><span class=\"\">osf.io/3bqfr/</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://botsin.space/@SocArXivBot",
-        "display_name": "SocArXiv"
-      }
-    ]
-  },
-  {
-    "link": "https://doi.org/10.1177/14614448231161880",
-    "title": "doi.org/10.1177/14614448231161...",
-    "latest": "2023-04-14T18:31:57+00:00",
-    "last_post": {
-      "url": "https://social.coop/@groceryheist/110195280155724230",
-      "content": "<p>This well-written Open Access article by Shannon McGregor and <span class=\"h-card\"><a href=\"https://mastodon.social/@kreissdaniel\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>kreissdaniel</span></a></span> critiques political polarization scholarship for overlooking the tension between progress toward social justice and social cohesion.  With an important point that platforms cannot solve the underlying injustices that drive polarization. Platform's tech-solutionism for social cohesion thus ignores (and may risk undermining) struggles for progress. <a href=\"https://doi.org/10.1177/14614448231161880\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">doi.org/10.1177/14614448231161</span><span class=\"invisible\">880</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://social.luca.run/@luca",
-        "display_name": "Luca \ud83d\udd28"
-      },
-      {
-        "url": "https://social.coop/@groceryheist",
-        "display_name": "Nathan TeBlunthuis"
-      },
-      {
-        "url": "https://hci.social/@andresmh",
-        "display_name": "Andr\u00e9s Monroy-Hern\u00e1ndez"
-      }
-    ]
-  },
-  {
-    "link": "http://osf.io/3fyb9/",
-    "title": "http://osf.io/3fyb9/",
-    "latest": "2023-04-14T18:26:12+00:00",
-    "last_post": {
-      "url": "https://botsin.space/@SocArXivBot/110198572511240092",
-      "content": "<p>Doing Organizational Identity: Earnings Surprises and the Performative Atypicality Premium <a href=\"http://osf.io/3fyb9/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">http://</span><span class=\"\">osf.io/3fyb9/</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://botsin.space/@SocArXivBot",
-        "display_name": "SocArXiv"
-      }
-    ]
-  },
-  {
-    "link": "http://osf.io/h92sa/",
-    "title": "http://osf.io/h92sa/",
-    "latest": "2023-04-14T18:26:12+00:00",
-    "last_post": {
-      "url": "https://botsin.space/@SocArXivBot/110198572486286537",
-      "content": "<p>Are mining companies ready to assess and manage biodiversity-related risks? <a href=\"http://osf.io/h92sa/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">http://</span><span class=\"\">osf.io/h92sa/</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://botsin.space/@SocArXivBot",
-        "display_name": "SocArXiv"
-      }
-    ]
-  },
-  {
-    "link": "http://osf.io/xe7b9/",
-    "title": "http://osf.io/xe7b9/",
-    "latest": "2023-04-14T18:16:28+00:00",
-    "last_post": {
-      "url": "https://botsin.space/@SocArXivBot/110198534198220691",
-      "content": "<p>Early Voting Can Widen the Turnout Gap <a href=\"http://osf.io/xe7b9/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">http://</span><span class=\"\">osf.io/xe7b9/</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://botsin.space/@SocArXivBot",
-        "display_name": "SocArXiv"
-      }
-    ]
-  },
-  {
-    "link": "http://osf.io/nug4p/",
-    "title": "http://osf.io/nug4p/",
-    "latest": "2023-04-14T18:16:27+00:00",
-    "last_post": {
-      "url": "https://botsin.space/@SocArXivBot/110198534116993828",
-      "content": "<p>A scoping review on the use and acceptability of preprints <a href=\"http://osf.io/nug4p/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">http://</span><span class=\"\">osf.io/nug4p/</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://botsin.space/@SocArXivBot",
-        "display_name": "SocArXiv"
-      }
-    ]
-  },
-  {
-    "link": "http://osf.io/4yz2e/",
-    "title": "http://osf.io/4yz2e/",
-    "latest": "2023-04-14T18:16:27+00:00",
-    "last_post": {
-      "url": "https://botsin.space/@SocArXivBot/110198534161807996",
-      "content": "<p>The Many Faces of God: Astrotheology of The Bible <a href=\"http://osf.io/4yz2e/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">http://</span><span class=\"\">osf.io/4yz2e/</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://botsin.space/@SocArXivBot",
-        "display_name": "SocArXiv"
-      }
-    ]
-  },
-  {
-    "link": "https://doi.org/10.17813/1086-671X-28-1-1",
-    "title": "doi.org/10.17813/1086-671X-28-...",
-    "latest": "2023-04-14T17:34:48+00:00",
-    "last_post": {
-      "url": "https://sciences.social/@mobilization/110198057834993243",
-      "content": "<p>Pamela Oliver, Alex Hanna, and Chaeyoon Lim address problems with most protest event datasets and call for a relational approach to constructing protest event data from news sources.<br><a href=\"https://doi.org/10.17813/1086-671X-28-1-1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">doi.org/10.17813/1086-671X-28-</span><span class=\"invisible\">1-1</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://dair-community.social/@trochee",
-        "display_name": "Jeremy Kahn"
-      }
-    ]
-  },
-  {
-    "link": "https://arxiv.org/abs/2304.06186v1",
-    "title": "Using large language models for (de-)formalization and natural argumentation exercises for beginner's students",
-    "latest": "2023-04-14T17:25:56+00:00",
-    "last_post": {
-      "url": "https://creative.ai/@arxiv_cl/110198335511758136",
-      "content": "<p>\ud83d\udcdd Using Large Language Models for (De-)Formalization and Natural Argumentation Exercises for Beginner's Students \ud83d\udcda</p><p>\"Fine-tunes a language model (specifically, text-davinci-003) for each exercise type (i) and (ii).\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a></p><p>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2304.06186v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2304.06186v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://creative.ai/@arxiv_cl",
-        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
       }
     ]
   }
