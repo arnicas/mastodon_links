@@ -1,5 +1,204 @@
 [
   {
+    "link": "https://gitlab.com/-/snippets/2535398",
+    "title": "Bluesky proposal submitted by Christine Lemmer-Webber and Jay Graber, 2020-07-29 ($2535398) \u00b7 Snippets \u00b7 GitLab",
+    "latest": "2023-05-01T21:40:49+00:00",
+    "last_post": {
+      "url": "https://octodon.social/@cwebber/110295381453173519",
+      "content": "<p>I mentioned that Jay Graber and I co-authored a proposal about Bluesky when it was an internal evaluation period.  Some people have asked me to see it over time, so here, I've uploaded it publicly. <a href=\"https://gitlab.com/-/snippets/2535398\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">gitlab.com/-/snippets/2535398</span><span class=\"invisible\"></span></a></p><p>As you can see, it did outline how to do content-addressed storage + AP... and ocaps, and other things.</p><p>Here's some more feels oriented comments from a while ago though <a href=\"https://octodon.social/@cwebber/109388635079058478\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">octodon.social/@cwebber/109388</span><span class=\"invisible\">635079058478</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://indieweb.social/@tchambers",
+        "display_name": "Tim Chambers"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/WebOfTrustInfo/rwot5-boston/blob/master/final-documents/activitypub-decentralized-distributed.md",
+    "title": "rwot5-boston/activitypub-decentralized-distributed.md at master \u00b7 WebOfTrustInfo/rwot5-boston",
+    "latest": "2023-05-01T21:40:30+00:00",
+    "last_post": {
+      "url": "https://octodon.social/@cwebber/110295162365566767",
+      "content": "<p>Regarding \"AT was written because ActivityPub can't handle portable content and identity\", I wrote up stuff about this *in 2017* <a href=\"https://github.com/WebOfTrustInfo/rwot5-boston/blob/master/final-documents/activitypub-decentralized-distributed.md\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/WebOfTrustInfo/rwot</span><span class=\"invisible\">5-boston/blob/master/final-documents/activitypub-decentralized-distributed.md</span></a> and wrote a demo on how to do the portable content part <a href=\"https://gitlab.com/spritely/golem/blob/master/README.org\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gitlab.com/spritely/golem/blob</span><span class=\"invisible\">/master/README.org</span></a></p><p>Good luck to the Bluesky / AT folks, truly.  The main thing that frustrates me is this claim that AP can't do this though.  (The Bluesky folks are aware of this, we both wrote some documents about it together, so they *should* know, that's my main irritation with the FAQ item that says ActivityPub can't do it.)</p><p>But also:</p><p> - I am not currently focused on ActivityPub so maybe it's not the best question to direct at me anymore<br> - I am focused on Spritely, which will eventually loop back to AP stuff, but that's not its current focus (it's a bit more general and dare I say a bit more revolutionary to how applications are written than that)<br> - I have never been interested in making a Twitter replacement because I am not convinced a global content space is necessarily a good idea<br> - It's good that almost everyone agrees that decentralized networks are fundamentally necessary now though<br> - I am glad that AT/Bluesky is using DIDs and some other components that really might be truly useful<br> - I am not the best person to ask this question, but I guess I am one of the most obvious people to ask this question</p>"
+    },
+    "people": [
+      {
+        "url": "https://indieweb.social/@tchambers",
+        "display_name": "Tim Chambers"
+      }
+    ]
+  },
+  {
+    "link": "https://gitlab.com/spritely/golem/blob/master/README.org",
+    "title": "gitlab.com/spritely/golem/blob...",
+    "latest": "2023-05-01T21:40:30+00:00",
+    "last_post": {
+      "url": "https://octodon.social/@cwebber/110295162365566767",
+      "content": "<p>Regarding \"AT was written because ActivityPub can't handle portable content and identity\", I wrote up stuff about this *in 2017* <a href=\"https://github.com/WebOfTrustInfo/rwot5-boston/blob/master/final-documents/activitypub-decentralized-distributed.md\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/WebOfTrustInfo/rwot</span><span class=\"invisible\">5-boston/blob/master/final-documents/activitypub-decentralized-distributed.md</span></a> and wrote a demo on how to do the portable content part <a href=\"https://gitlab.com/spritely/golem/blob/master/README.org\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gitlab.com/spritely/golem/blob</span><span class=\"invisible\">/master/README.org</span></a></p><p>Good luck to the Bluesky / AT folks, truly.  The main thing that frustrates me is this claim that AP can't do this though.  (The Bluesky folks are aware of this, we both wrote some documents about it together, so they *should* know, that's my main irritation with the FAQ item that says ActivityPub can't do it.)</p><p>But also:</p><p> - I am not currently focused on ActivityPub so maybe it's not the best question to direct at me anymore<br> - I am focused on Spritely, which will eventually loop back to AP stuff, but that's not its current focus (it's a bit more general and dare I say a bit more revolutionary to how applications are written than that)<br> - I have never been interested in making a Twitter replacement because I am not convinced a global content space is necessarily a good idea<br> - It's good that almost everyone agrees that decentralized networks are fundamentally necessary now though<br> - I am glad that AT/Bluesky is using DIDs and some other components that really might be truly useful<br> - I am not the best person to ask this question, but I guess I am one of the most obvious people to ask this question</p>"
+    },
+    "people": [
+      {
+        "url": "https://indieweb.social/@tchambers",
+        "display_name": "Tim Chambers"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/socialweb-php/atproto",
+    "title": "GitHub - socialweb-php/atproto: A PHP library for integrating with and communicating over the AT Protocol",
+    "latest": "2023-05-01T21:04:14+00:00",
+    "last_post": {
+      "url": "https://phpc.social/@ramsey/110285996771355263",
+      "content": "<p>I decided to play around with the AT Protocol, so I put together a very rough &amp; very early <a href=\"https://phpc.social/tags/PHP\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>PHP</span></a> library to play around with the concepts.</p><p>If you're interested, check it out, &amp; I'd love to have others contribute to round it out and make it full-featured.</p><p>Ultimately, I\u2019d love this library to be a starting point for working on some <a href=\"https://phpc.social/tags/ActivityPub\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ActivityPub</span></a> / <a href=\"https://phpc.social/tags/ATProtocol\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ATProtocol</span></a> bridging.</p><p><a href=\"https://github.com/socialweb-php/atproto\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/socialweb-php/atpro</span><span class=\"invisible\">to</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://indieweb.social/@tchambers",
+        "display_name": "Tim Chambers"
+      },
+      {
+        "url": "https://aus.social/@KathyReid",
+        "display_name": "Kathy Reid"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/gophernicus/gophernicus",
+    "title": "GitHub - gophernicus/gophernicus: Gophernicus is a modern, full-featured (and hopefully) secure gopher daemon",
+    "latest": "2023-05-01T21:01:26+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@nulleric/110271127701496896",
+      "content": "<p>Did you know there's at least 2 \"active\" <a href=\"https://mastodon.social/tags/Gopher\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Gopher</span></a> server projects in 2023? </p><p><a href=\"https://github.com/gophernicus/gophernicus\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/gophernicus/gophern</span><span class=\"invisible\">icus</span></a></p><p><a href=\"https://github.com/michael-lazar/pygopherd\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/michael-lazar/pygop</span><span class=\"invisible\">herd</span></a></p><p><a href=\"https://mastodon.social/tags/VintageMac\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>VintageMac</span></a> <a href=\"https://mastodon.social/tags/retrocomputing\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>retrocomputing</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://macaw.social/@andypiper",
+        "display_name": "Andy Piper"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/michael-lazar/pygopherd",
+    "title": "github.com/michael-lazar/pygop...",
+    "latest": "2023-05-01T21:01:26+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@nulleric/110271127701496896",
+      "content": "<p>Did you know there's at least 2 \"active\" <a href=\"https://mastodon.social/tags/Gopher\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Gopher</span></a> server projects in 2023? </p><p><a href=\"https://github.com/gophernicus/gophernicus\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/gophernicus/gophern</span><span class=\"invisible\">icus</span></a></p><p><a href=\"https://github.com/michael-lazar/pygopherd\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/michael-lazar/pygop</span><span class=\"invisible\">herd</span></a></p><p><a href=\"https://mastodon.social/tags/VintageMac\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>VintageMac</span></a> <a href=\"https://mastodon.social/tags/retrocomputing\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>retrocomputing</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://macaw.social/@andypiper",
+        "display_name": "Andy Piper"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/ropensci/charlatan",
+    "title": "GitHub - ropensci/charlatan: Create fake data in R",
+    "latest": "2023-05-01T20:49:21+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@ivelasq3/110294043618321241",
+      "content": "<p>If you ever need to create fake data (for class, simulations, etc.), the {charlatan} package makes it really easy to create dummy data for names, phone numbers, emails, numbers, genes, &amp; more! <a href=\"https://fosstodon.org/tags/RStats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>RStats</span></a></p><p><a href=\"https://github.com/ropensci/charlatan\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/ropensci/charlatan</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fosstodon.org/@djnavarro",
+        "display_name": "Danielle Navarro"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/GoatWang/PyHackMD",
+    "title": "GitHub - GoatWang/PyHackMD",
+    "latest": "2023-05-01T19:37:27+00:00",
+    "last_post": {
+      "url": "https://ciberlandia.pt/@villares/110295111905464588",
+      "content": "<p>\"\"\"<br>there is a <a href=\"https://ciberlandia.pt/tags/python\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>python</span></a>-HackMD package in PyPI... I'll try it out! </p><p>UPDATE: It didn't work for me, so I tried PyHackMD (<a href=\"https://github.com/GoatWang/PyHackMD\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/GoatWang/PyHackMD</span><span class=\"invisible\"></span></a>) and it seems to work.<br>\"\"\"</p><p>from PyHackMD import API # <a href=\"https://github.com/GoatWang/PyHackMD\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/GoatWang/PyHackMD</span><span class=\"invisible\"></span></a></p><p># Replace &lt;ACCESS_TOKEN&gt; with your actual access token<br><a href=\"https://ciberlandia.pt/tags/access_token\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>access_token</span></a> = '&lt;ACCESS_TOKEN&gt;'<br>api = API(access_token)</p><p>data = api.get_note_list()</p><p>for note_data in data:<br>    fields = ('id', 'title', 'publishLink')<br>    print('---')<br>    for field in fields:<br>        print(note_data[field], end=' ')<br>    print()<br>    print('---')<br>    content = api.get_note(note_data['id'])['content']<br>    file_name = f'{note_data[\"permalink\"]} - {note_data[\"title\"]}.md'.replace('/', '-')<br>    with open(file_name, 'w', encoding='utf-8') as f:<br>        f.write(content)</p>"
+    },
+    "people": [
+      {
+        "url": "https://ciberlandia.pt/@villares",
+        "display_name": "Alexandre B A Villares \ud83d\udc0d"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/Topping1/whispercppGUI/releases",
+    "title": "github.com/Topping1/whispercpp...",
+    "latest": "2023-05-01T19:12:14+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@dougholton/110295012795702032",
+      "content": "<p>Here's possibly a more beginner-friendly option for Windows users: use the yt-dlg desktop app to download YouTube videos: <a href=\"https://oleksis.github.io/youtube-dl-gui/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">oleksis.github.io/youtube-dl-g</span><span class=\"invisible\">ui/</span></a><br>And use whispercppGUI to generate video transcripts: <a href=\"https://github.com/Topping1/whispercppGUI/releases\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/Topping1/whispercpp</span><span class=\"invisible\">GUI/releases</span></a><br>Optionally you can download &amp; use the medium or large GGML models here if the base one included in whispercppGUI isn't good enough: <a href=\"https://ggml.ggerganov.com/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">ggml.ggerganov.com/</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@dougholton",
+        "display_name": "Doug Holton"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/terminusdb/technical-blogs/blob/main/blogs/many_worlds.md",
+    "title": "technical-blogs/many_worlds.md at main \u00b7 terminusdb/technical-blogs",
+    "latest": "2023-05-01T17:45:03+00:00",
+    "last_post": {
+      "url": "https://die-partei.social/@hackernews/110294669938069685",
+      "content": "<p>Many Worlds: A Philosophy of Data Collaboration - <a href=\"https://github.com/terminusdb/technical-blogs/blob/main/blogs/many_worlds.md\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/terminusdb/technica</span><span class=\"invisible\">l-blogs/blob/main/blogs/many_worlds.md</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://die-partei.social/@hackernews",
+        "display_name": "Hackernews"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/zrythm",
+    "title": "https://github.com/zrythm",
+    "latest": "2023-05-01T17:33:47+00:00",
+    "last_post": {
+      "url": "https://floss.social/@Le_bottin_des_jeux_linux/110294508938562096",
+      "content": "<p>\ud83d\udee0\ufe0f Title: Zrythm<br>\ud83e\udd8a\ufe0f What's: A libre DAW<br>\ud83c\udfe1\ufe0f <a href=\"https://www.zrythm.org\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">zrythm.org</span><span class=\"invisible\"></span></a><br>\ud83d\udc23\ufe0f <a href=\"https://git.sr.ht/~alextee/zrythm-web\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">git.sr.ht/~alextee/zrythm-web</span><span class=\"invisible\"></span></a><br>\ud83d\udc23\ufe0f <a href=\"https://github.com/zrythm\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/zrythm</span><span class=\"invisible\"></span></a><br>\ud83e\udd89\ufe0f <a href=\"https://mastodon.social/web/@zrythm\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">mastodon.social/web/@zrythm</span><span class=\"invisible\"></span></a><br>\ud83d\udd16 <a href=\"https://floss.social/tags/LinuxGameDev\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>LinuxGameDev</span></a> <a href=\"https://floss.social/tags/Flagship\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Flagship</span></a> <a href=\"https://floss.social/tags/Music\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Music</span></a> <a href=\"https://floss.social/tags/DAW\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DAW</span></a><br>\ud83d\udce6\ufe0f <a href=\"https://floss.social/tags/Libre\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Libre</span></a> <a href=\"https://floss.social/tags/Arch\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Arch</span></a> <a href=\"https://floss.social/tags/RPM\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>RPM</span></a> <a href=\"https://floss.social/tags/Flatpak\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Flatpak</span></a><br>\ud83d\udcd6 Our entry: <a href=\"http://www.lebottindesjeuxlinux.tuxfamily.org/en/online/lights-on/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">http://www.</span><span class=\"ellipsis\">lebottindesjeuxlinux.tuxfamily</span><span class=\"invisible\">.org/en/online/lights-on/</span></a></p><p>\ud83e\udd41\ufe0f Update: 1.0.0-beta.4.8.1\u279c1.0.0-beta.4.9.1<br>\u2697\ufe0f New features \ud83d\udc8e<br>\ud83d\udccc\ufe0f Changes: <a href=\"https://github.com/zrythm/zrythm/blob/master/CHANGELOG.md\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/zrythm/zrythm/blob/</span><span class=\"invisible\">master/CHANGELOG.md</span></a><br>\ud83d\udc18 From: \ud83d\udcf6\ufe0f <a href=\"https://github.com/zrythm/zrythm/releases.atom\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/zrythm/zrythm/relea</span><span class=\"invisible\">ses.atom</span></a></p><p>\ud83e\udd9d\ufe0f <a href=\"https://yewtu.be/WoP8on5ChUQ\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">yewtu.be/WoP8on5ChUQ</span><span class=\"invisible\"></span></a><br>\ud83c\udfae\ufe0f <a href=\"https://yewtu.be/a4_V1-cWd1A\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">yewtu.be/a4_V1-cWd1A</span><span class=\"invisible\"></span></a><br>\ud83c\udfae\ufe0f <a href=\"https://yewtu.be/QC39dM5YeX4\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">yewtu.be/QC39dM5YeX4</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://xarxa.cloud/@andresortizmasso",
+        "display_name": "Andr\u00e9s Ortiz Mass\u00f3 \ud83d\udd25"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/zrythm/zrythm/blob/master/CHANGELOG.md",
+    "title": "github.com/zrythm/zrythm/blob/...",
+    "latest": "2023-05-01T17:33:47+00:00",
+    "last_post": {
+      "url": "https://floss.social/@Le_bottin_des_jeux_linux/110294508938562096",
+      "content": "<p>\ud83d\udee0\ufe0f Title: Zrythm<br>\ud83e\udd8a\ufe0f What's: A libre DAW<br>\ud83c\udfe1\ufe0f <a href=\"https://www.zrythm.org\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">zrythm.org</span><span class=\"invisible\"></span></a><br>\ud83d\udc23\ufe0f <a href=\"https://git.sr.ht/~alextee/zrythm-web\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">git.sr.ht/~alextee/zrythm-web</span><span class=\"invisible\"></span></a><br>\ud83d\udc23\ufe0f <a href=\"https://github.com/zrythm\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/zrythm</span><span class=\"invisible\"></span></a><br>\ud83e\udd89\ufe0f <a href=\"https://mastodon.social/web/@zrythm\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">mastodon.social/web/@zrythm</span><span class=\"invisible\"></span></a><br>\ud83d\udd16 <a href=\"https://floss.social/tags/LinuxGameDev\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>LinuxGameDev</span></a> <a href=\"https://floss.social/tags/Flagship\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Flagship</span></a> <a href=\"https://floss.social/tags/Music\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Music</span></a> <a href=\"https://floss.social/tags/DAW\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DAW</span></a><br>\ud83d\udce6\ufe0f <a href=\"https://floss.social/tags/Libre\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Libre</span></a> <a href=\"https://floss.social/tags/Arch\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Arch</span></a> <a href=\"https://floss.social/tags/RPM\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>RPM</span></a> <a href=\"https://floss.social/tags/Flatpak\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Flatpak</span></a><br>\ud83d\udcd6 Our entry: <a href=\"http://www.lebottindesjeuxlinux.tuxfamily.org/en/online/lights-on/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">http://www.</span><span class=\"ellipsis\">lebottindesjeuxlinux.tuxfamily</span><span class=\"invisible\">.org/en/online/lights-on/</span></a></p><p>\ud83e\udd41\ufe0f Update: 1.0.0-beta.4.8.1\u279c1.0.0-beta.4.9.1<br>\u2697\ufe0f New features \ud83d\udc8e<br>\ud83d\udccc\ufe0f Changes: <a href=\"https://github.com/zrythm/zrythm/blob/master/CHANGELOG.md\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/zrythm/zrythm/blob/</span><span class=\"invisible\">master/CHANGELOG.md</span></a><br>\ud83d\udc18 From: \ud83d\udcf6\ufe0f <a href=\"https://github.com/zrythm/zrythm/releases.atom\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/zrythm/zrythm/relea</span><span class=\"invisible\">ses.atom</span></a></p><p>\ud83e\udd9d\ufe0f <a href=\"https://yewtu.be/WoP8on5ChUQ\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">yewtu.be/WoP8on5ChUQ</span><span class=\"invisible\"></span></a><br>\ud83c\udfae\ufe0f <a href=\"https://yewtu.be/a4_V1-cWd1A\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">yewtu.be/a4_V1-cWd1A</span><span class=\"invisible\"></span></a><br>\ud83c\udfae\ufe0f <a href=\"https://yewtu.be/QC39dM5YeX4\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">yewtu.be/QC39dM5YeX4</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://xarxa.cloud/@andresortizmasso",
+        "display_name": "Andr\u00e9s Ortiz Mass\u00f3 \ud83d\udd25"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/zrythm/zrythm/releases.atom",
+    "title": "github.com/zrythm/zrythm/relea...",
+    "latest": "2023-05-01T17:33:47+00:00",
+    "last_post": {
+      "url": "https://floss.social/@Le_bottin_des_jeux_linux/110294508938562096",
+      "content": "<p>\ud83d\udee0\ufe0f Title: Zrythm<br>\ud83e\udd8a\ufe0f What's: A libre DAW<br>\ud83c\udfe1\ufe0f <a href=\"https://www.zrythm.org\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"\">zrythm.org</span><span class=\"invisible\"></span></a><br>\ud83d\udc23\ufe0f <a href=\"https://git.sr.ht/~alextee/zrythm-web\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">git.sr.ht/~alextee/zrythm-web</span><span class=\"invisible\"></span></a><br>\ud83d\udc23\ufe0f <a href=\"https://github.com/zrythm\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/zrythm</span><span class=\"invisible\"></span></a><br>\ud83e\udd89\ufe0f <a href=\"https://mastodon.social/web/@zrythm\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">mastodon.social/web/@zrythm</span><span class=\"invisible\"></span></a><br>\ud83d\udd16 <a href=\"https://floss.social/tags/LinuxGameDev\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>LinuxGameDev</span></a> <a href=\"https://floss.social/tags/Flagship\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Flagship</span></a> <a href=\"https://floss.social/tags/Music\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Music</span></a> <a href=\"https://floss.social/tags/DAW\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DAW</span></a><br>\ud83d\udce6\ufe0f <a href=\"https://floss.social/tags/Libre\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Libre</span></a> <a href=\"https://floss.social/tags/Arch\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Arch</span></a> <a href=\"https://floss.social/tags/RPM\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>RPM</span></a> <a href=\"https://floss.social/tags/Flatpak\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Flatpak</span></a><br>\ud83d\udcd6 Our entry: <a href=\"http://www.lebottindesjeuxlinux.tuxfamily.org/en/online/lights-on/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">http://www.</span><span class=\"ellipsis\">lebottindesjeuxlinux.tuxfamily</span><span class=\"invisible\">.org/en/online/lights-on/</span></a></p><p>\ud83e\udd41\ufe0f Update: 1.0.0-beta.4.8.1\u279c1.0.0-beta.4.9.1<br>\u2697\ufe0f New features \ud83d\udc8e<br>\ud83d\udccc\ufe0f Changes: <a href=\"https://github.com/zrythm/zrythm/blob/master/CHANGELOG.md\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/zrythm/zrythm/blob/</span><span class=\"invisible\">master/CHANGELOG.md</span></a><br>\ud83d\udc18 From: \ud83d\udcf6\ufe0f <a href=\"https://github.com/zrythm/zrythm/releases.atom\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/zrythm/zrythm/relea</span><span class=\"invisible\">ses.atom</span></a></p><p>\ud83e\udd9d\ufe0f <a href=\"https://yewtu.be/WoP8on5ChUQ\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">yewtu.be/WoP8on5ChUQ</span><span class=\"invisible\"></span></a><br>\ud83c\udfae\ufe0f <a href=\"https://yewtu.be/a4_V1-cWd1A\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">yewtu.be/a4_V1-cWd1A</span><span class=\"invisible\"></span></a><br>\ud83c\udfae\ufe0f <a href=\"https://yewtu.be/QC39dM5YeX4\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">yewtu.be/QC39dM5YeX4</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://xarxa.cloud/@andresortizmasso",
+        "display_name": "Andr\u00e9s Ortiz Mass\u00f3 \ud83d\udd25"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/Near32/ReferentialGym/",
     "title": "GitHub - Near32/ReferentialGym: This framework provides out-of-the-box implementations of Referential Games variants in order to study the emergence of artificial languages using deep learning, relying on PyTorch (https://www.pytorch.org).",
     "latest": "2023-05-01T09:03:15+00:00",
@@ -363,21 +562,6 @@
     "last_post": {
       "url": "https://mastodon.social/@MonaApp/110286109200429394",
       "content": "<p>Mona's press kit, which includes high-resolution app icons and screenshots, is now available for download: <a href=\"https://github.com/JunyuKuang/Spring-for-Twitter/releases/download/MonaBeta/MonaPressKit.zip\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/JunyuKuang/Spring-f</span><span class=\"invisible\">or-Twitter/releases/download/MonaBeta/MonaPressKit.zip</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://indieweb.social/@tchambers",
-        "display_name": "Tim Chambers"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/socialweb-php/atproto",
-    "title": "GitHub - socialweb-php/atproto: A PHP library for integrating with and communicating over the AT Protocol",
-    "latest": "2023-04-30T05:15:25+00:00",
-    "last_post": {
-      "url": "https://phpc.social/@ramsey/110285996771355263",
-      "content": "<p>I decided to play around with the AT Protocol, so I put together a very rough &amp; very early <a href=\"https://phpc.social/tags/PHP\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>PHP</span></a> library to play around with the concepts.</p><p>If you're interested, check it out, &amp; I'd love to have others contribute to round it out and make it full-featured.</p><p>Ultimately, I\u2019d love this library to be a starting point for working on some <a href=\"https://phpc.social/tags/ActivityPub\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ActivityPub</span></a> / <a href=\"https://phpc.social/tags/ATProtocol\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ATProtocol</span></a> bridging.</p><p><a href=\"https://github.com/socialweb-php/atproto\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/socialweb-php/atpro</span><span class=\"invisible\">to</span></a></p>"
     },
     "people": [
       {
@@ -3056,210 +3240,6 @@
       {
         "url": "https://universeodon.com/@TodePond",
         "display_name": "Lu Wilson"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/owenjonesuob/suggests",
-    "title": "GitHub - owenjonesuob/suggests: Declare when Suggested Packages are Needed",
-    "latest": "2023-04-23T07:41:16+00:00",
-    "last_post": {
-      "url": "https://fosstodon.org/@owenjonesuob/109699349442127871",
-      "content": "<p>Not to be too dramatic, but the update I've just pushed for the {suggests} package makes it *over 300 times* faster \ud83c\udfc3\u200d\u2640\ufe0f</p><p>{suggests} helps to reduce your code's hard dependencies, by prompting users to install deps only when they're actually needed <a href=\"https://fosstodon.org/tags/rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rstats</span></a></p><p><a href=\"https://github.com/owenjonesuob/suggests\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/owenjonesuob/sugges</span><span class=\"invisible\">ts</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@sellorm",
-        "display_name": "Mark Sellors"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/dirkschumacher/transduceR",
-    "title": "GitHub - dirkschumacher/transduceR: transducers in R",
-    "latest": "2023-04-23T06:28:06+00:00",
-    "last_post": {
-      "url": "https://qoto.org/@johnabs/110246294939248500",
-      "content": "<p>While R isn't my favorite language of the ones I regularly use, I know you <a href=\"https://qoto.org/tags/rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rstats</span></a> people adore it, so here's a fun package you should try out:</p><p><a href=\"https://github.com/dirkschumacher/transduceR\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/dirkschumacher/tran</span><span class=\"invisible\">sduceR</span></a></p><p>If you like functional style, but want efficiency too, try out transducers, they're an amazing little tool that I'm still picking up, but they give you pipelines that don't create intermediate arrays (and composable reductions, lazy evaluation in this case, etc). Thus, they still provide clean, familiar functional syntax but with a pretty sizable  performance boost! </p><p>Here's a conceptual primer on them from Clojure as well:</p><p><a href=\"https://clojure.org/reference/transducers\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">clojure.org/reference/transduc</span><span class=\"invisible\">ers</span></a></p><p>I hope this proves useful to some of you! \ud83d\ude01</p>"
-    },
-    "people": [
-      {
-        "url": "https://fosstodon.org/@brodriguesco",
-        "display_name": "Bruno Rodrigues :rstats: :tux:"
-      },
-      {
-        "url": "https://fediscience.org/@mjskay",
-        "display_name": "Matthew Kay"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/glenrobson/iiif2annos",
-    "title": "GitHub - glenrobson/iiif2annos: OCR a IIIF images in a manifest and generate annotations",
-    "latest": "2023-04-23T06:17:03+00:00",
-    "last_post": {
-      "url": "https://hcommons.social/@julsraemy/110246666116749156",
-      "content": "<p>I haven't tested yet but here is a tool leveraging Tesseract by Glen Robson to read a <a href=\"https://hcommons.social/tags/IIIF\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>IIIF</span></a> manifest, OCR the images, create annotations and add them to a copy of the manifest (working with V2 and V3 of the Presentation API).</p><p><a href=\"https://github.com/glenrobson/iiif2annos\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/glenrobson/iiif2ann</span><span class=\"invisible\">os</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://hcommons.social/@julsraemy",
-        "display_name": "Julien A. Raemy"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/airminded/ttaships",
-    "title": "GitHub - airminded/ttaships: Twitter and Mastodon image bot",
-    "latest": "2023-04-23T05:54:55+00:00",
-    "last_post": {
-      "url": "https://sigmoid.social/@AirmindedAI/110246579107059067",
-      "content": "<p>Because, why not? here\u2019s the code <a href=\"https://github.com/airminded/ttaships\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/airminded/ttaships</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://sigmoid.social/@AirmindedAI",
-        "display_name": "Airminded AI"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/jina-ai/gptdeploy",
-    "title": "GitHub - jina-ai/gptdeploy: One line to create them all",
-    "latest": "2023-04-23T03:46:30+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@python_discussions/110246074124672200",
-      "content": "<p>GPT-4 Generates and Debugs Python code</p><p><a href=\"https://github.com/jina-ai/gptdeploy\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/jina-ai/gptdeploy</span><span class=\"invisible\"></span></a></p><p>Discussions: <a href=\"https://discu.eu/q/https://github.com/jina-ai/gptdeploy\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">discu.eu/q/https://github.com/</span><span class=\"invisible\">jina-ai/gptdeploy</span></a></p><p><a href=\"https://mastodon.social/tags/programming\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>programming</span></a> <a href=\"https://mastodon.social/tags/python\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>python</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@python_discussions",
-        "display_name": "Python Weekly"
-      }
-    ]
-  },
-  {
-    "link": "https://gist.github.com/yoavg/59d174608e92e845c8994ac2e234c8a9",
-    "title": "LLMs.md",
-    "latest": "2023-04-23T03:45:46+00:00",
-    "last_post": {
-      "url": "https://sigmoid.social/@BenjaminHan/110246071294126731",
-      "content": "<p>7/</p><p>[3] Karthik Valmeekam, Alberto Olmo, Sarath Sreedharan, and Subbarao Kambhampati. 2022. Large Language Models Still Can\u2019t Plan (A Benchmark for LLMs on Planning and Reasoning about Change). <a href=\"http://arxiv.org/abs/2206.10498\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">http://</span><span class=\"\">arxiv.org/abs/2206.10498</span><span class=\"invisible\"></span></a></p><p>[4] Yoav Goldberg. 2023. Some remarks on Large Language Models. <a href=\"https://gist.github.com/yoavg/59d174608e92e845c8994ac2e234c8a9\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gist.github.com/yoavg/59d17460</span><span class=\"invisible\">8e92e845c8994ac2e234c8a9</span></a> (prev. discussion: <a href=\"https://sigmoid.social/@BenjaminHan/109626958540791886\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">sigmoid.social/@BenjaminHan/10</span><span class=\"invisible\">9626958540791886</span></a>)</p><p><a href=\"https://sigmoid.social/tags/GenerativeAI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>GenerativeAI</span></a> <a href=\"https://sigmoid.social/tags/NLP\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>NLP</span></a> <a href=\"https://sigmoid.social/tags/NLProc\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>NLProc</span></a> <a href=\"https://sigmoid.social/tags/Paper\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Paper</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@jacobeisenstein",
-        "display_name": "Jacob Eisenstein"
-      },
-      {
-        "url": "https://masto.ai/@brenocon",
-        "display_name": "brendan"
-      },
-      {
-        "url": "https://mastodon.social/@rrwilliams",
-        "display_name": "Ryan Williams"
-      },
-      {
-        "url": "https://sigmoid.social/@ogrisel",
-        "display_name": "Olivier Grisel"
-      },
-      {
-        "url": "https://fediscience.org/@UlrichJunker",
-        "display_name": "Ulrich Junker"
-      },
-      {
-        "url": "https://sigmoid.social/@BenjaminHan",
-        "display_name": "Benjamin Han"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/Significant-Gravitas/Auto-GPT",
-    "title": "GitHub - Significant-Gravitas/Auto-GPT: An experimental open-source attempt to make GPT-4 fully autonomous.",
-    "latest": "2023-04-23T03:44:17+00:00",
-    "last_post": {
-      "url": "https://sigmoid.social/@BenjaminHan/110246065435270405",
-      "content": "<p>6/</p><p>1] Auto-GPT. 2023. <a href=\"https://github.com/Significant-Gravitas/Auto-GPT\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/Significant-Gravita</span><span class=\"invisible\">s/Auto-GPT</span></a></p><p>[2] Han Xiao. 2023. Auto-GPT Unmasked: The Hype and Hard Truths of Its Production Pitfalls. <a href=\"https://jina.ai/news/auto-gpt-unmasked-hype-hard-truths-production-pitfalls/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">jina.ai/news/auto-gpt-unmasked</span><span class=\"invisible\">-hype-hard-truths-production-pitfalls/</span></a></p><p><a href=\"https://sigmoid.social/tags/GenerativeAI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>GenerativeAI</span></a> <a href=\"https://sigmoid.social/tags/NLP\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>NLP</span></a> <a href=\"https://sigmoid.social/tags/NLProc\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>NLProc</span></a> <a href=\"https://sigmoid.social/tags/Paper\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Paper</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://sigmoid.social/@BenjaminHan",
-        "display_name": "Benjamin Han"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/mdneuzerling/lambdr",
-    "title": "https://github.com/mdneuzerling/lambdr",
-    "latest": "2023-04-23T02:56:52+00:00",
-    "last_post": {
-      "url": "https://aus.social/@jimjamslam/110245839302049782",
-      "content": "<p>We're doing some backend work on Is It Hot Right Now, and I'm very happy that the R side of it has been relatively painless thanks to <span class=\"h-card\"><a href=\"https://fosstodon.org/@djnavarro\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>djnavarro</span></a></span>'s thorough guide to S3 + R and <span class=\"h-card\"><a href=\"https://neuzerling.com/@md\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>md</span></a></span>'s {lambdr} package \ud83e\udd73</p><p>\ud83d\udcd6 <a href=\"https://blog.djnavarro.net/posts/2022-03-17_using-aws-s3-in-r\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">blog.djnavarro.net/posts/2022-</span><span class=\"invisible\">03-17_using-aws-s3-in-r</span></a></p><p>\ud83d\udce6 <a href=\"https://github.com/mdneuzerling/lambdr\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/mdneuzerling/lambdr</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://fosstodon.org/@djnavarro",
-        "display_name": "Danielle Navarro"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/FreedomIntelligence/LLMZoo",
-    "title": "GitHub - FreedomIntelligence/LLMZoo: \u26a1LLM Zoo is a project that provides data, models, and evaluation benchmark for large language models.\u26a1",
-    "latest": "2023-04-23T02:04:02+00:00",
-    "last_post": {
-      "url": "https://sigmoid.social/@aran/110234009175488395",
-      "content": "<p>Phoenix: Democratizing ChatGPT across Languages</p><p>Releases a LLM \u2018Phoenix\u2019, achieving competitive performance on English and Chinese while excelling in low-resources languages.</p><p>repo: <a href=\"https://github.com/FreedomIntelligence/LLMZoo\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/FreedomIntelligence</span><span class=\"invisible\">/LLMZoo</span></a><br>abs: <a href=\"https://arxiv.org/abs/2304.10453\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2304.10453</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://creative.ai/@arxiv_cl",
-        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/tbiehn/thoughtloom",
-    "title": "GitHub - tbiehn/thoughtloom: ThoughtLoom is a powerful tool designed to foster creativity and enhance productivity through the use of LLMs directly from the command line. It facilitates rapid development and integration of LLM-based tools into various workflows, empowering individuals and teams to experiment, collaborate, and ultimately streamline their daily tasks.",
-    "latest": "2023-04-22T23:39:26+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@hrbrmstr/110245102622881986",
-      "content": "<p>What finally caused me to type what has been in my head for the past 4 weeks (as I\u2019ve seen an exponential increase in the # of projects that have this requirement appear) is that the $DEITY forsaken bug bounty folks have fallen for OpenAI\u2019s bait: <a href=\"https://github.com/tbiehn/thoughtloom\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/tbiehn/thoughtloom</span><span class=\"invisible\"></span></a> (scroll to the end).</p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@hrbrmstr",
-        "display_name": "boB Rudis \ud83c\uddfa\ud83c\udde6"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/sethmlarson/secure-python-package-template/#configuring-a-trusted-publisher",
-    "title": "GitHub - sethmlarson/secure-python-package-template: Template for a Python package with a secure project host and package repository configuration.",
-    "latest": "2023-04-22T23:06:00+00:00",
-    "last_post": {
-      "url": "https://fosstodon.org/@sethmlarson/110244543763993507",
-      "content": "<p>I've added the new <a href=\"https://fosstodon.org/tags/PyPI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>PyPI</span></a> feature \"Trusted Publishers\" to the secure <a href=\"https://fosstodon.org/tags/Python\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Python</span></a> package template repository, you can now publish packages without credentials in <a href=\"https://fosstodon.org/tags/GitHub\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>GitHub</span></a> Actions! \ud83d\udce6 </p><p><a href=\"https://fosstodon.org/tags/PyCon\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>PyCon</span></a> <a href=\"https://fosstodon.org/tags/PyConUS\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>PyConUS</span></a></p><p><a href=\"https://github.com/sethmlarson/secure-python-package-template/#configuring-a-trusted-publisher\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/sethmlarson/secure-</span><span class=\"invisible\">python-package-template/#configuring-a-trusted-publisher</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@hrbrmstr",
-        "display_name": "boB Rudis \ud83c\uddfa\ud83c\udde6"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/EmilHvitfeldt/tutorial-ocrug-hackathon-nlp/",
-    "title": "GitHub - EmilHvitfeldt/tutorial-ocrug-hackathon-nlp",
-    "latest": "2023-04-22T21:57:25+00:00",
-    "last_post": {
-      "url": "https://fosstodon.org/@emilhvitfeldt/110244051527251904",
-      "content": "<p>I just gave this lovely tutorial for our yearly SoCal hackathon!</p><p><a href=\"https://github.com/EmilHvitfeldt/tutorial-ocrug-hackathon-nlp/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/EmilHvitfeldt/tutor</span><span class=\"invisible\">ial-ocrug-hackathon-nlp/</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://fosstodon.org/@juliasilge",
-        "display_name": "Julia Silge"
       }
     ]
   }
