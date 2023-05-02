@@ -1,5 +1,69 @@
 [
   {
+    "link": "https://github.com/inishchith/2048",
+    "title": "https://github.com/inishchith/2048",
+    "latest": "2023-05-02T09:50:03+00:00",
+    "last_post": {
+      "url": "https://die-partei.social/@hackernews/110298464484330270",
+      "content": "<p>Show HN: GPT crushes my high score in 2048.io - <a href=\"https://github.com/inishchith/2048\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/inishchith/2048</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://die-partei.social/@hackernews",
+        "display_name": "Hackernews"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/nrennie/tidytuesday/tree/main/2023/2023-05-02",
+    "title": "tidytuesday/2023/2023-05-02 at main \u00b7 nrennie/tidytuesday",
+    "latest": "2023-05-02T08:01:01+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@nrennie/110298035776004719",
+      "content": "<p>Time for <a href=\"https://fosstodon.org/tags/TidyTuesday\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>TidyTuesday</span></a> again - thanks to <span class=\"h-card\"><a href=\"https://hachyderm.io/@ethanwhite\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>ethanwhite</span></a></span> for sharing the data! I tried out {ggragged} from Mikko Marttila for the first time\ud83d\udca1</p><p>I like that {ggragged} gives me two charts in one:</p><p>\ud83d\udcca bar chart of species per plot<br>\ud83d\udcc8 time series of each species over time</p><p>Code: <a href=\"https://github.com/nrennie/tidytuesday/tree/main/2023/2023-05-02\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/nrennie/tidytuesday</span><span class=\"invisible\">/tree/main/2023/2023-05-02</span></a></p><p><a href=\"https://fosstodon.org/tags/RStats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>RStats</span></a> <a href=\"https://fosstodon.org/tags/R4DS\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>R4DS</span></a> <a href=\"https://fosstodon.org/tags/DataViz\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DataViz</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fosstodon.org/@johnmackintosh",
+        "display_name": "John MacKintosh"
+      },
+      {
+        "url": "https://fosstodon.org/@nrennie",
+        "display_name": "Nicola Rennie"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/ajeetdsouza/loxcraft",
+    "title": "GitHub - ajeetdsouza/loxcraft: Language tooling for the Lox programming language.",
+    "latest": "2023-05-02T07:46:10+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@compsci_discussions/110297977321855813",
+      "content": "<p>loxcraft: a compiler, language server, and online playground for the Lox programming language</p><p><a href=\"https://github.com/ajeetdsouza/loxcraft\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/ajeetdsouza/loxcraf</span><span class=\"invisible\">t</span></a></p><p>Discussions: <a href=\"https://discu.eu/q/https://github.com/ajeetdsouza/loxcraft\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">discu.eu/q/https://github.com/</span><span class=\"invisible\">ajeetdsouza/loxcraft</span></a></p><p><a href=\"https://mastodon.social/tags/compilers\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>compilers</span></a> <a href=\"https://mastodon.social/tags/compsci\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>compsci</span></a> <a href=\"https://mastodon.social/tags/plt\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>plt</span></a> <a href=\"https://mastodon.social/tags/programming\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>programming</span></a> <a href=\"https://mastodon.social/tags/programminglanguages\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>programminglanguages</span></a> <a href=\"https://mastodon.social/tags/release\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>release</span></a> <a href=\"https://mastodon.social/tags/rustlang\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rustlang</span></a> <a href=\"https://mastodon.social/tags/webassembly\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>webassembly</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@compsci_discussions",
+        "display_name": "Compsci Weekly"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/Seif-Lat",
+    "title": "Seif-Lat - Overview",
+    "latest": "2023-05-02T03:03:19+00:00",
+    "last_post": {
+      "url": "https://creative.ai/@arxiv_cl/110296865173215815",
+      "content": "<p>\ud83d\udcdd Information Redundancy and Biases in Public Document Information Extraction Benchmarks \ud83d\udcda\ud83d\udc7e</p><p>\"Proposes to adjust the public benchmarks SROIE and FUNSD to better evaluate the generalization of models trained on them, by reducing the overlap between train and test sets, while keeping a high quality.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a> <a href=\"https://creative.ai/tags/AI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AI</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/Seif-Lat\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/Seif-Lat</span><span class=\"invisible\"></span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2304.14936v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2304.14936v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://creative.ai/@arxiv_cl",
+        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
+      }
+    ]
+  },
+  {
     "link": "https://gitlab.com/-/snippets/2535398",
     "title": "Bluesky proposal submitted by Christine Lemmer-Webber and Jay Graber, 2020-07-29 ($2535398) \u00b7 Snippets \u00b7 GitLab",
     "latest": "2023-05-01T21:40:49+00:00",
@@ -3180,66 +3244,6 @@
       {
         "url": "https://mastodon.social/@Lorenanicole",
         "display_name": "Lorena La Tigresa \ud83d\udc2f @ #PyConUS"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/halcy/Mastodon.py/issues/308",
-    "title": "How to check total status length before posting when using `status_reply` \u00b7 Issue #308 \u00b7 halcy/Mastodon.py",
-    "latest": "2023-04-23T17:09:03+00:00",
-    "last_post": {
-      "url": "https://icosahedron.website/@halcy/110249227425354849",
-      "content": "<p><a href=\"https://github.com/halcy/Mastodon.py/issues/308\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/halcy/Mastodon.py/i</span><span class=\"invisible\">ssues/308</span></a> anyone have a function that can compute mastodon status length in python? I suspect this is more involved than it should be</p>"
-    },
-    "people": [
-      {
-        "url": "https://macaw.social/@andypiper",
-        "display_name": "Andy Piper"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/zotero/translators/blob/master/Embedded%20Metadata.js",
-    "title": "github.com/zotero/translators/...",
-    "latest": "2023-04-23T16:52:03+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@jonatan/110247881270773547",
-      "content": "<p><span class=\"h-card\"><a href=\"https://fedihum.org/@christof\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>christof</span></a></span> In my experience, Highwire meta tags work best, allow for both editors and DOIs, and are also supported by Google's tools. They are treated as \"Embedded Metadata\" in the Zotero documentation (<a href=\"https://www.zotero.org/support/dev/exposing_metadata\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">zotero.org/support/dev/exposin</span><span class=\"invisible\">g_metadata</span></a>). If you run into issues with Zotero assigning the wrong entry type from a given set of tags, the \"Translator\" code can help figure out which tags lead to specific entry types (<a href=\"https://github.com/zotero/translators/blob/master/Embedded%20Metadata.js\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/zotero/translators/</span><span class=\"invisible\">blob/master/Embedded%20Metadata.js</span></a>)</p>"
-    },
-    "people": [
-      {
-        "url": "https://fedihum.org/@christof",
-        "display_name": "Christof Sch\u00f6ch (moderator)"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/ron-rs/ron",
-    "title": "GitHub - ron-rs/ron: Rusty Object Notation",
-    "latest": "2023-04-23T09:30:02+00:00",
-    "last_post": {
-      "url": "https://die-partei.social/@hackernews/110247424991435271",
-      "content": "<p>Ron: Rusty Object Notation - <a href=\"https://github.com/ron-rs/ron\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/ron-rs/ron</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://die-partei.social/@hackernews",
-        "display_name": "Hackernews"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/TodePond/DreamBerd/releases/tag/v0.9.9.9.9.9.9.9.9a",
-    "title": "Release v0.9.9.9.9.9.9.9.9a \u00b7 TodePond/DreamBerd",
-    "latest": "2023-04-23T09:10:06+00:00",
-    "last_post": {
-      "url": "https://universeodon.com/@TodePond/110247346599732353",
-      "content": "<p>We invite you to review the current draft of the updated DreamBerd Trademark Policy and share any feedback you might have.</p><p>Your responses will help us ensure the DreamBerd Trademark Policy is useful for all! \ud83d\udc26</p><p><a href=\"https://github.com/TodePond/DreamBerd/releases/tag/v0.9.9.9.9.9.9.9.9a\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/TodePond/DreamBerd/</span><span class=\"invisible\">releases/tag/v0.9.9.9.9.9.9.9.9a</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://universeodon.com/@TodePond",
-        "display_name": "Lu Wilson"
       }
     ]
   }
