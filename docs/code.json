@@ -1,5 +1,99 @@
 [
   {
+    "link": "https://github.com/turbot/steampipe-mod-mastodon-insights",
+    "title": "github.com/turbot/steampipe-mo...",
+    "latest": "2023-05-02T21:53:46+00:00",
+    "last_post": {
+      "url": "https://hachyderm.io/@davidshq/110301073305604571",
+      "content": "<p>Playing around with <span class=\"h-card\"><a href=\"https://social.coop/@judell\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>judell</span></a></span>'s plugin and mod that provides access to the <a href=\"https://hachyderm.io/tags/mastodon\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>mastodon</span></a> <a href=\"https://hachyderm.io/tags/api\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>api</span></a> using <a href=\"https://hachyderm.io/tags/steampipe\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>steampipe</span></a>. pretty cool!</p><p>Steampipe: <a href=\"https://steampipe.io/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">steampipe.io/</span><span class=\"invisible\"></span></a><br>Plugin: <a href=\"https://hub.steampipe.io/plugins/turbot/mastodon\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">hub.steampipe.io/plugins/turbo</span><span class=\"invisible\">t/mastodon</span></a><br>Mod: <a href=\"https://github.com/turbot/steampipe-mod-mastodon-insights\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/turbot/steampipe-mo</span><span class=\"invisible\">d-mastodon-insights</span></a></p><p>Curious if anyone else is using steampipe for anything?</p>"
+    },
+    "people": [
+      {
+        "url": "https://social.coop/@judell",
+        "display_name": "Jon Udell"
+      }
+    ]
+  },
+  {
+    "link": "https://gist.github.com/villares/f4f35630c28222767dd276fd08bcdbb5",
+    "title": "Backup HackMD.io Notes",
+    "latest": "2023-05-02T20:36:50+00:00",
+    "last_post": {
+      "url": "https://ciberlandia.pt/@villares/110301007750516217",
+      "content": "<p>So, these are my hacky <a href=\"https://ciberlandia.pt/tags/Python\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Python</span></a> scripts to <a href=\"https://ciberlandia.pt/tags/backup\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>backup</span></a> <a href=\"https://ciberlandia.pt/tags/HackMD\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>HackMD</span></a> notes locally, including images (<a href=\"https://ciberlandia.pt/tags/imgur\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>imgur</span></a> change of policy was the main motivation for doing this)</p><p><a href=\"https://gist.github.com/villares/f4f35630c28222767dd276fd08bcdbb5\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gist.github.com/villares/f4f35</span><span class=\"invisible\">630c28222767dd276fd08bcdbb5</span></a></p><p>I should add a third script that modifies the notes on HackMD so the image links point to some server under my control (I have to think a bit more about this).</p>"
+    },
+    "people": [
+      {
+        "url": "https://ciberlandia.pt/@villares",
+        "display_name": "Alexandre B A Villares \ud83d\udc0d"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/gorhill/uBlock/releases/tag/1.49.2",
+    "title": "Release 1.49.2 \u00b7 gorhill/uBlock",
+    "latest": "2023-05-02T19:55:03+00:00",
+    "last_post": {
+      "url": "https://die-partei.social/@hackernews/110300843435135687",
+      "content": "<p>uBlock Origin 1.49.2 Available as Thunderbird Add-On - <a href=\"https://github.com/gorhill/uBlock/releases/tag/1.49.2\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/gorhill/uBlock/rele</span><span class=\"invisible\">ases/tag/1.49.2</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://die-partei.social/@hackernews",
+        "display_name": "Hackernews"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/1rgs/jsonformer",
+    "title": "GitHub - 1rgs/jsonformer",
+    "latest": "2023-05-02T18:35:03+00:00",
+    "last_post": {
+      "url": "https://die-partei.social/@hackernews/110300528847915197",
+      "content": "<p>Jsonformer: A bulletproof way to generate structured output from LLMs - <a href=\"https://github.com/1rgs/jsonformer\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/1rgs/jsonformer</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://die-partei.social/@hackernews",
+        "display_name": "Hackernews"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/tyler-dodge/org-assistant",
+    "title": "GitHub - tyler-dodge/org-assistant: Org babel extension for Chat Assistant APIs such as ChatGPT",
+    "latest": "2023-05-02T18:35:03+00:00",
+    "last_post": {
+      "url": "https://die-partei.social/@hackernews/110300528863585967",
+      "content": "<p>Org-assistant.el \u2013 Org Babel extension for Chat Assistant APIs - <a href=\"https://github.com/tyler-dodge/org-assistant\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/tyler-dodge/org-ass</span><span class=\"invisible\">istant</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://die-partei.social/@hackernews",
+        "display_name": "Hackernews"
+      }
+    ]
+  },
+  {
+    "link": "https://observablehq.com/@mbostock/bank-failures",
+    "title": "Bank failures",
+    "latest": "2023-05-02T14:36:28+00:00",
+    "last_post": {
+      "url": "https://mastodon.green/@revkin/110299581759533237",
+      "content": "<p>This is (understatement alert) sobering. <br>---<br>RT @mbostock<br>Updated my plot of bank failures. \ud83d\ude2c <a href=\"https://observablehq.com/@mbostock/bank-failures\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">observablehq.com/@mbostock/ban</span><span class=\"invisible\">k-failures</span></a> <br><a href=\"https://twitter.com/mbostock/status/1653221977895882752\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">twitter.com/mbostock/status/16</span><span class=\"invisible\">53221977895882752</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://recsys.social/@Randy_Au",
+        "display_name": "Randy Au \ud83d\ude43"
+      },
+      {
+        "url": "https://ecoevo.social/@naupaka",
+        "display_name": "Naupaka Zimmerman"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/inishchith/2048",
     "title": "https://github.com/inishchith/2048",
     "latest": "2023-05-02T09:50:03+00:00",
@@ -3150,100 +3244,6 @@
       {
         "url": "https://mastodon.social/@atomicpoet",
         "display_name": "Chris Trottier"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/mastodon/mastodon/issues/12423",
-    "title": "Support Post Migration \u00b7 Issue #12423 \u00b7 mastodon/mastodon",
-    "latest": "2023-04-24T01:08:06+00:00",
-    "last_post": {
-      "url": "https://sfba.social/@cd24/110250786463395111",
-      "content": "<p>I\u2019m very excited to see the discussion for the <span class=\"h-card\"><a href=\"https://mastodon.social/@Mastodon\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>Mastodon</span></a></span> post migration issue has picked back up. This is probably the single largest gap between rhetoric and reality on <a href=\"https://sfba.social/tags/Mastodon\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Mastodon</span></a>. </p><p>It\u2019s anecdata, but *every singe person* I mention account migration to immediately asks \u201coh, so my posts can move with me.\u201d This is, unfortunately, immidiately followed up with disappointment that their posts stay behind. Coupled with the recent push to make mastodon.social the default for the iOS app\u2026 we need a way for users to move around SEAMLESSLY. We can make all the technical excuses we want, but if the process doesn\u2019t work it\u2019s not really account migration. </p><p>Until we have post support, we should probably say we have \u201csocial graph\u201d migration, not \u201caccount migration,\u201d or we\u2019re really just lying and setting up people to be let down.</p><p><a href=\"https://github.com/mastodon/mastodon/issues/12423\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/mastodon/mastodon/i</span><span class=\"invisible\">ssues/12423</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://vis.social/@julians",
-        "display_name": "Julian Stahnke"
-      },
-      {
-        "url": "https://mastodon.social/@atomicpoet",
-        "display_name": "Chris Trottier"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/db0/AI-Horde-CLI",
-    "title": "GitHub - db0/AI-Horde-CLI: python script integrating with the AI Horde via a command line interface",
-    "latest": "2023-04-23T23:33:59+00:00",
-    "last_post": {
-      "url": "https://sigmoid.social/@stablehorde/110250743548458326",
-      "content": "<p>I finally created a CLI for each type of horde job. I also moved them into their own repository and switched the config files to yaml</p><p>New repo here: <a href=\"https://github.com/db0/AI-Horde-CLI\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/db0/AI-Horde-CLI</span><span class=\"invisible\"></span></a></p><p>If you wanted a tool to help you script anything using free Generative AI, you can now use this solution.</p><p><a href=\"https://sigmoid.social/tags/aihorde\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>aihorde</span></a> <a href=\"https://sigmoid.social/tags/python\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>python</span></a> <a href=\"https://sigmoid.social/tags/StableDiffusion\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>StableDiffusion</span></a> <a href=\"https://sigmoid.social/tags/llm\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>llm</span></a> <a href=\"https://sigmoid.social/tags/cli\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>cli</span></a> <a href=\"https://sigmoid.social/tags/AIart\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AIart</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://sigmoid.social/@stablehorde",
-        "display_name": "AI Horde"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/enten/eaglercraft-ashes",
-    "title": "GitHub - enten/eaglercraft-ashes: Git bundles of Eaglercraft repositories for archival purposes",
-    "latest": "2023-04-23T21:30:03+00:00",
-    "last_post": {
-      "url": "https://die-partei.social/@hackernews/110250256179027344",
-      "content": "<p>Git bundles of Eaglercraft repositories disabled due to DMCA takedown - <a href=\"https://github.com/enten/eaglercraft-ashes\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/enten/eaglercraft-a</span><span class=\"invisible\">shes</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://die-partei.social/@hackernews",
-        "display_name": "Hackernews"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/mitsuhiko/rye",
-    "title": "GitHub - mitsuhiko/rye: an experimental alternative to poetry/pip/pipenv/pyenv/venv/virtualenv/pdm/hatch/\u2026",
-    "latest": "2023-04-23T19:46:05+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@python_discussions/110249847415576130",
-      "content": "<p>As if there weren't enough packaging tools already: mitsuhiko/rye: an experimental alternative to poetry/pip/pipenv/venv/virtualenv/pdm/hatch/\u2026</p><p><a href=\"https://github.com/mitsuhiko/rye\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/mitsuhiko/rye</span><span class=\"invisible\"></span></a></p><p>Discussions: <a href=\"https://discu.eu/q/https://github.com/mitsuhiko/rye\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">discu.eu/q/https://github.com/</span><span class=\"invisible\">mitsuhiko/rye</span></a></p><p><a href=\"https://mastodon.social/tags/flask\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>flask</span></a> <a href=\"https://mastodon.social/tags/programming\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>programming</span></a> <a href=\"https://mastodon.social/tags/python\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>python</span></a> <a href=\"https://mastodon.social/tags/webdev\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>webdev</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@python_discussions",
-        "display_name": "Python Weekly"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/matthewjrogers/rairtable/pull/14",
-    "title": "Refactor to migrate package to `{httr2}` (#13) and expand implementation of metadata API (#12) by elipousson \u00b7 Pull Request #14 \u00b7 matthewjrogers/rairtable",
-    "latest": "2023-04-23T19:33:08+00:00",
-    "last_post": {
-      "url": "https://dads.cool/@elipousson/110249155778950700",
-      "content": "<p>Took a few late nights but I\u2019ve got a pull request started! <a href=\"https://github.com/matthewjrogers/rairtable/pull/14\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/matthewjrogers/rair</span><span class=\"invisible\">table/pull/14</span></a></p><p>Really looking forward to using {rairtable} to build out some more tightly integrated <a href=\"https://dads.cool/tags/rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rstats</span></a> + <a href=\"https://dads.cool/tags/airtable\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>airtable</span></a> workflows.</p>"
-    },
-    "people": [
-      {
-        "url": "https://fediscience.org/@mario_angst_sci",
-        "display_name": "Mario Angst"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/optim-ally/palindromes",
-    "title": "GitHub - optim-ally/palindromes",
-    "latest": "2023-04-23T18:53:42+00:00",
-    "last_post": {
-      "url": "https://mas.to/@davidism/110248657494186262",
-      "content": "<p>The first \"weird idea\" lightning talk of the day by Ally: writing palindromic Python code. Ended with a palindrome checker that is a palindrome \ud83d\udc0d\u2194\ufe0f\ud83d\udc0d <a href=\"https://mas.to/tags/Python\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Python</span></a> <a href=\"https://mas.to/tags/PyConUS\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>PyConUS</span></a> <span class=\"h-card\"><a href=\"https://chirp.social/@PyConUS\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>PyConUS</span></a></span> <a href=\"https://github.com/optim-ally/palindromes\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/optim-ally/palindro</span><span class=\"invisible\">mes</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@Lorenanicole",
-        "display_name": "Lorena La Tigresa \ud83d\udc2f @ #PyConUS"
       }
     ]
   }

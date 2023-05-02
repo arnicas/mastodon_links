@@ -1,5 +1,100 @@
 [
   {
+    "link": "https://dl.acm.org/doi/10.1145/3582932",
+    "title": "From Online World to Metaverse: The Future of Online Games and Games Research: Games: Research and Practice: Vol 1, No 1",
+    "latest": "2023-05-02T20:56:07+00:00",
+    "last_post": {
+      "url": "https://social.yesterweb.org/@triptych/110301083572989326",
+      "content": "<p><a href=\"https://social.yesterweb.org/tags/mmo\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>mmo</span></a> <a href=\"https://social.yesterweb.org/tags/metaverse\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>metaverse</span></a> <a href=\"https://social.yesterweb.org/tags/worlds\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>worlds</span></a> <a href=\"https://social.yesterweb.org/tags/gaming\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>gaming</span></a> <a href=\"https://dl.acm.org/doi/10.1145/3582932\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">dl.acm.org/doi/10.1145/3582932</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://social.yesterweb.org/@triptych",
+        "display_name": "Andrew Wooldridge"
+      }
+    ]
+  },
+  {
+    "link": "https://arxiv.org/abs/2212.10754",
+    "title": "CORRPUS: Detecting Story Inconsistencies via Codex-Bootstrapped Neurosymbolic Reasoning",
+    "latest": "2023-05-02T18:54:40+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@laramar/110300606031169968",
+      "content": "<p>Next, in Findings of ACL, there's \"CoRRPUS: Codex-Leveraged Structured Representations for Neurosymbolic Story Understanding\" by Yijiang River Dong, myself, &amp; <span class=\"h-card\"><a href=\"https://hci.social/@ccb\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>ccb</span></a></span> </p><p>I've mentioned this work before, but now it's published! Here, we used code-based <a href=\"https://sigmoid.social/tags/LLMs\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>LLMs</span></a> like Codex (RIP) to provide structure in story understanding, which we saw helps the LLM figure out what characters are doing better!</p><p><a href=\"https://arxiv.org/abs/2212.10754\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2212.10754</span><span class=\"invisible\"></span></a></p><p>2/2 <a href=\"https://sigmoid.social/tags/ACL2023\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ACL2023</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@Riedl",
+        "display_name": "Mark Riedl"
+      },
+      {
+        "url": "https://fediscience.org/@UlrichJunker",
+        "display_name": "Ulrich Junker"
+      },
+      {
+        "url": "https://sigmoid.social/@laramar",
+        "display_name": "Lara J. Martin"
+      }
+    ]
+  },
+  {
+    "link": "https://doi.org/10.4126/FRL01-006441397",
+    "title": "doi.org/10.4126/FRL01-00644139...",
+    "latest": "2023-05-02T18:26:47+00:00",
+    "last_post": {
+      "url": "https://baudigital.social/@KWermbter/110297692210110404",
+      "content": "<p>Was macht eigentlich ein <a href=\"https://baudigital.social/tags/DataSteward\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DataSteward</span></a>? \ud83e\udd14 Das Projekt \"Projekt DataStew \u2013 Data Stewardship in deutschen akademischen Forschungsinstitutionen\" (ZB MED &amp; USB K\u00f6ln), das nun seinen Abschlussbericht vorgelegt hat, kommt zu dem Schluss: \"...eine allgemeing\u00fcltige Definition des Berufsbildes Data Steward kann es nicht geben...\" Nichtsdestotrotz lassen sich prototypische Profile und Anforderungen an Data Stewards bestimmen. Der Bericht ist hier nachzulesen: <a href=\"https://doi.org/10.4126/FRL01-006441397\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">doi.org/10.4126/FRL01-00644139</span><span class=\"invisible\">7</span></a> <a href=\"https://baudigital.social/tags/FDM\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>FDM</span></a> <a href=\"https://baudigital.social/tags/datastewardship\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>datastewardship</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@hauschke",
+        "display_name": "hauschke"
+      }
+    ]
+  },
+  {
+    "link": "https://arxiv.org/abs/2305.00118",
+    "title": "Speak, Memory: An Archaeology of Books Known to ChatGPT/GPT-4",
+    "latest": "2023-05-02T18:13:31+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@dbamman/110296360888966443",
+      "content": "<p>New paper out today, asking: What books has ChatGPT/GPT-4 *memorized*? A LOT. Harry Potter, Pride &amp; Prejudice, 1984, LotR, Hunger Games, GoT, 50 Shades of Grey, Dune. Memorization is linked to web popularity--lots of old classics + new sci-fi/fantasy. This is a problem since some downstream tasks in NLP/DH do better on memorized books than non-memorized ones, leading to test contamination for questions in cultural analytics when the set of memorized books is unknown. <a href=\"https://arxiv.org/abs/2305.00118\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2305.00118</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@dbamman",
+        "display_name": "David Bamman"
+      },
+      {
+        "url": "https://fediscience.org/@UlrichJunker",
+        "display_name": "Ulrich Junker"
+      },
+      {
+        "url": "https://creative.ai/@alexjc",
+        "display_name": "Alex J. Champandard \ud83c\udf31"
+      },
+      {
+        "url": "https://fedihum.org/@christof",
+        "display_name": "Christof Sch\u00f6ch (moderator)"
+      }
+    ]
+  },
+  {
+    "link": "https://journals.sagepub.com/doi/10.1177/14614448231161880",
+    "title": "journals.sagepub.com/doi/10.11...",
+    "latest": "2023-05-02T17:45:31+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@tzimmer_history/110300305756282900",
+      "content": "<p>In \u201cA review and provocation: On polarization and platforms\u201d (just published and available online!) Shannon McGregor and Daniel Kreiss review the political science literature and formulate a fundamental critique of the polarization narrative and the normative assumptions on which it is built: </p><p><a href=\"https://journals.sagepub.com/doi/10.1177/14614448231161880\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">journals.sagepub.com/doi/10.11</span><span class=\"invisible\">77/14614448231161880</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://hci.social/@bkeegan",
+        "display_name": "Brian C. Keegan"
+      }
+    ]
+  },
+  {
     "link": "https://arxiv.org/abs/2205.10271",
     "title": "https://arxiv.org/abs/2205.10271",
     "latest": "2023-05-02T09:17:25+00:00",
@@ -300,21 +395,6 @@
       {
         "url": "https://creative.ai/@arxiv_cl",
         "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
-      }
-    ]
-  },
-  {
-    "link": "https://arxiv.org/abs/2305.00118",
-    "title": "Speak, Memory: An Archaeology of Books Known to ChatGPT/GPT-4",
-    "latest": "2023-05-02T00:55:05+00:00",
-    "last_post": {
-      "url": "https://sigmoid.social/@dbamman/110296360888966443",
-      "content": "<p>New paper out today, asking: What books has ChatGPT/GPT-4 *memorized*? A LOT. Harry Potter, Pride &amp; Prejudice, 1984, LotR, Hunger Games, GoT, 50 Shades of Grey, Dune. Memorization is linked to web popularity--lots of old classics + new sci-fi/fantasy. This is a problem since some downstream tasks in NLP/DH do better on memorized books than non-memorized ones, leading to test contamination for questions in cultural analytics when the set of memorized books is unknown. <a href=\"https://arxiv.org/abs/2305.00118\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2305.00118</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://sigmoid.social/@dbamman",
-        "display_name": "David Bamman"
       }
     ]
   },
@@ -3111,66 +3191,6 @@
     "last_post": {
       "url": "https://botsin.space/@SocArXivBot/110264383936033197",
       "content": "<p>English Teachers' Use of Multiple Modalities <a href=\"http://osf.io/8pn2f/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">http://</span><span class=\"\">osf.io/8pn2f/</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://botsin.space/@SocArXivBot",
-        "display_name": "SocArXiv"
-      }
-    ]
-  },
-  {
-    "link": "http://osf.io/x2k68/",
-    "title": "http://osf.io/x2k68/",
-    "latest": "2023-04-26T09:22:54+00:00",
-    "last_post": {
-      "url": "https://botsin.space/@SocArXivBot/110264383832376592",
-      "content": "<p>A Corpus-based Pronunciation Teaching Model: A Conceptual Paper <a href=\"http://osf.io/x2k68/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">http://</span><span class=\"\">osf.io/x2k68/</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://botsin.space/@SocArXivBot",
-        "display_name": "SocArXiv"
-      }
-    ]
-  },
-  {
-    "link": "http://osf.io/tvdq5/",
-    "title": "http://osf.io/tvdq5/",
-    "latest": "2023-04-26T09:22:54+00:00",
-    "last_post": {
-      "url": "https://botsin.space/@SocArXivBot/110264383893166795",
-      "content": "<p>Exploring Gifted Secondary School Students' Needs for English Learning in Saudi Arabia <a href=\"http://osf.io/tvdq5/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">http://</span><span class=\"\">osf.io/tvdq5/</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://botsin.space/@SocArXivBot",
-        "display_name": "SocArXiv"
-      }
-    ]
-  },
-  {
-    "link": "http://osf.io/2vt4p/",
-    "title": "http://osf.io/2vt4p/",
-    "latest": "2023-04-26T09:22:53+00:00",
-    "last_post": {
-      "url": "https://botsin.space/@SocArXivBot/110264383775833576",
-      "content": "<p>Efficacy of Problem-Based Learning Strategy to Enhance EFL Learners' Paragraph Writing and Grammar Skills <a href=\"http://osf.io/2vt4p/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">http://</span><span class=\"\">osf.io/2vt4p/</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://botsin.space/@SocArXivBot",
-        "display_name": "SocArXiv"
-      }
-    ]
-  },
-  {
-    "link": "http://osf.io/snf6w/",
-    "title": "http://osf.io/snf6w/",
-    "latest": "2023-04-26T09:22:53+00:00",
-    "last_post": {
-      "url": "https://botsin.space/@SocArXivBot/110264383806745184",
-      "content": "<p>Multimodal Resources and Students' Motivation in English for Specific Purposes <a href=\"http://osf.io/snf6w/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">http://</span><span class=\"\">osf.io/snf6w/</span><span class=\"invisible\"></span></a></p>"
     },
     "people": [
       {
