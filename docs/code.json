@@ -1,5 +1,262 @@
 [
   {
+    "link": "https://github.com/ronilaukkarinen/mastodon-bird-ui",
+    "title": "github.com/ronilaukkarinen/mas...",
+    "latest": "2023-05-03T21:49:39+00:00",
+    "last_post": {
+      "url": "https://mementomori.social/@rolle/110000108493812574",
+      "content": "<p>I have created a Twitter-inspired UI theme for Mastodon. I call it Mastodon Bird UI.</p><p>Demo available on my instance: <a href=\"https://mementomori.social\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">mementomori.social</span><span class=\"invisible\"></span></a></p><p>Background and origin in the blog post: \"The day I decided to build my own \u201cTwitter\u201d\" <a href=\"https://rolle.design/the-day-i-decided-to-build-my-own-twitter\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">rolle.design/the-day-i-decided</span><span class=\"invisible\">-to-build-my-own-twitter</span></a></p><p>Source code and installation instructions: <a href=\"https://github.com/ronilaukkarinen/mastodon-bird-ui\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/ronilaukkarinen/mas</span><span class=\"invisible\">todon-bird-ui</span></a></p><p><a href=\"https://mementomori.social/tags/MastoAdmin\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>MastoAdmin</span></a> <a href=\"https://mementomori.social/tags/CSS\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CSS</span></a> <a href=\"https://mementomori.social/tags/UI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>UI</span></a> <a href=\"https://mementomori.social/tags/UIDesign\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>UIDesign</span></a> <a href=\"https://mementomori.social/tags/Mastodon\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Mastodon</span></a> <a href=\"https://mementomori.social/tags/OpenSource\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>OpenSource</span></a> <a href=\"https://mementomori.social/tags/MastodonBirdUI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>MastodonBirdUI</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://octodon.social/@craignicol",
+        "display_name": "Craig Nicol"
+      },
+      {
+        "url": "https://indieweb.social/@tchambers",
+        "display_name": "Tim Chambers"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/OSGeo/gdal/pull/7656",
+    "title": "- Added fixes for the OGC API Tiles driver by doublebyte1 \u00b7 Pull Request #7656 \u00b7 OSGeo/gdal",
+    "latest": "2023-05-03T21:37:10+00:00",
+    "last_post": {
+      "url": "https://noc.social/@doublebyte/110299835972246240",
+      "content": "<p><span class=\"h-card\"><a href=\"https://fosstodon.org/@qgis\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>qgis</span></a></span> <span class=\"h-card\"><a href=\"https://mapstodon.space/@elpaso\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>elpaso</span></a></span> with this <a href=\"https://noc.social/tags/GDAL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>GDAL</span></a> fix, you can add <a href=\"https://noc.social/tags/OGC\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>OGC</span></a> API (raster) tiles in <a href=\"https://noc.social/tags/QGIS\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>QGIS</span></a>, in addition to OGC API maps and coverages \ud83d\ude04 <a href=\"https://github.com/OSGeo/gdal/pull/7656\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/OSGeo/gdal/pull/765</span><span class=\"invisible\">6</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fosstodon.org/@underdarkGIS",
+        "display_name": "Anita Graser \ud83c\uddea\ud83c\uddfa\ud83c\uddfa\ud83c\udde6"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/rom1504/img2dataset/issues/293",
+    "title": "Please make this tool \"opt-in\" by default \u00b7 Issue #293 \u00b7 rom1504/img2dataset",
+    "latest": "2023-05-03T21:26:11+00:00",
+    "last_post": {
+      "url": "https://creative.ai/@alexjc/110306864116529271",
+      "content": "<p>For context, to emphasize the achievement:</p><p>1 billion opt-outs is equivalent to 5 (five) robots.txt files on stock-image websites!</p><p>Except the people making the datasets and tools believe they have a moral right to break regulations, conventions, and ToS: <a href=\"https://github.com/rom1504/img2dataset/issues/293\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/rom1504/img2dataset</span><span class=\"invisible\">/issues/293</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://dair-community.social/@trochee",
+        "display_name": "Jeremy Kahn"
+      },
+      {
+        "url": "https://code4lib.social/@coral",
+        "display_name": "Coral \ud83e\udd89"
+      },
+      {
+        "url": "https://tech.lgbt/@_dmh",
+        "display_name": "Dave Howcroft \ud83e\udd94"
+      },
+      {
+        "url": "https://dair-community.social/@alex",
+        "display_name": "Alex Hanna"
+      },
+      {
+        "url": "https://mastodon.social/@hugovk",
+        "display_name": "hugovk"
+      },
+      {
+        "url": "https://mastodon.online/@manuchis",
+        "display_name": "manuchis"
+      },
+      {
+        "url": "https://creative.ai/@alexjc",
+        "display_name": "Alex J. Champandard \ud83c\udf31"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/abertsch72/unlimiformer",
+    "title": "GitHub - abertsch72/unlimiformer: Public repo for the preprint \"Unlimiformer: Long-Range Transformers with Unlimited Length Input\"",
+    "latest": "2023-05-03T20:25:38+00:00",
+    "last_post": {
+      "url": "https://creative.ai/@arxiv_cl/110306625988102071",
+      "content": "<p>\ud83d\udcdd Unlimiformer: Long-Range Transformers with Unlimited Length Input \ud83d\udcda</p><p>\"Unlimiformer can be seen as an extension of a pretrained encoder-decoder transformer model, such as BART or Longformer, that enables summarizing even 350k token long books without any input truncation.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/abertsch72/unlimiformer\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/abertsch72/unlimifo</span><span class=\"invisible\">rmer</span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2305.01625v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2305.01625v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://creative.ai/@arxiv_cl",
+        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/GDQuest/godot-procedural-generation",
+    "title": "GitHub - GDQuest/godot-procedural-generation: Procedural generation algorithms and demos for the Godot game engine",
+    "latest": "2023-05-03T19:59:10+00:00",
+    "last_post": {
+      "url": "https://infosec.exchange/@andygeorge/110306521948004808",
+      "content": "<p>woooooooooooooooooooooooooooooo <a href=\"https://infosec.exchange/tags/Godot4\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Godot4</span></a> port of <a href=\"https://github.com/GDQuest/godot-procedural-generation\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/GDQuest/godot-proce</span><span class=\"invisible\">dural-generation</span></a> appears to have been done. time to go play around? <a href=\"https://infosec.exchange/tags/gamedev\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>gamedev</span></a> <a href=\"https://infosec.exchange/tags/godotengine\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>godotengine</span></a> <a href=\"https://infosec.exchange/tags/godot\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>godot</span></a> <a href=\"https://infosec.exchange/tags/gdquest\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>gdquest</span></a> <a href=\"https://infosec.exchange/tags/proceduralgeneration\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>proceduralgeneration</span></a> <a href=\"https://infosec.exchange/tags/procgen\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>procgen</span></a> <a href=\"https://infosec.exchange/tags/yolo\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>yolo</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://infosec.exchange/@andygeorge",
+        "display_name": "andy george"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/davidel/pyxhdl",
+    "title": "GitHub - davidel/pyxhdl: Python Frontend For VHDL And Verilog",
+    "latest": "2023-05-03T19:46:12+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@python_discussions/110306470977479057",
+      "content": "<p>PyXHDL - Python Frontend For VHDL And Verilog</p><p><a href=\"https://github.com/davidel/pyxhdl\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/davidel/pyxhdl</span><span class=\"invisible\"></span></a></p><p>Discussions: <a href=\"https://discu.eu/q/https://github.com/davidel/pyxhdl\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">discu.eu/q/https://github.com/</span><span class=\"invisible\">davidel/pyxhdl</span></a></p><p><a href=\"https://mastodon.social/tags/programming\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>programming</span></a> <a href=\"https://mastodon.social/tags/python\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>python</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@python_discussions",
+        "display_name": "Python Weekly"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/Efficient-Scalable-Machine-Learning/EvNN",
+    "title": "github.com/Efficient-Scalable-...",
+    "latest": "2023-05-03T19:29:24+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@anandsubramoney/110303639653135063",
+      "content": "<p>Come attend my talk on \"Efficient recurrent architectures through activity sparsity and sparse back-propagation through time\" in the Auditorium at 10:00am and come by the poster session at 11:30am @ <a href=\"https://sigmoid.social/tags/ICLR2023\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ICLR2023</span></a></p><p>Paper: <a href=\"https://openreview.net/forum?id=lJdOlWg8td\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">openreview.net/forum?id=lJdOlW</span><span class=\"invisible\">g8td</span></a><br>Code: <a href=\"https://github.com/Efficient-Scalable-Machine-Learning/EvNN\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/Efficient-Scalable-</span><span class=\"invisible\">Machine-Learning/EvNN</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fediscience.org/@UlrichJunker",
+        "display_name": "Ulrich Junker"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/explosion/spacy-vscode",
+    "title": "GitHub - explosion/spacy-vscode: spaCy extension for Visual Studio Code",
+    "latest": "2023-05-03T19:05:04+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@explosion/110305052161316452",
+      "content": "<p>We released our new VS Code extension for working with spaCy v3 config files! \ud83c\udf89</p><p>v1.0 provides config validation and hover features for variables, registered functions, and section headings. Check out the repo for info on how to install and test it out!</p><p><a href=\"https://github.com/explosion/spacy-vscode\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/explosion/spacy-vsc</span><span class=\"invisible\">ode</span></a></p><p>To learn more about how our config system works and why we created it, check out this video on spaCy v3 design concepts!</p><p><a href=\"https://youtu.be/BWhh3r6W-qE\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">youtu.be/BWhh3r6W-qE</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@ines",
+        "display_name": "Ines Montani"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/chpollin/Teaching/tree/master/InfoMod",
+    "title": "Teaching/InfoMod at master \u00b7 chpollin/Teaching",
+    "latest": "2023-05-03T19:02:27.025000+00:00",
+    "last_post": {
+      "url": "https://fedihum.org/@offenesMA/110305485472431830",
+      "content": "<p>Ich <span class=\"h-card\"><a href=\"https://fedihum.org/@chpollin\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>chpollin</span></a></span> unterrichte auch am ZIM in Graz zum Thema Semantic Web. Meine Lehrmaterialien k\u00f6nnen gerne verwendet werden. Es gibt Folien und Screencasts zu <a href=\"https://fedihum.org/tags/RDF\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>RDF</span></a>, <a href=\"https://fedihum.org/tags/RDFS\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>RDFS</span></a>, <a href=\"https://fedihum.org/tags/SPARQL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>SPARQL</span></a> und <a href=\"https://fedihum.org/tags/Ontology\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Ontology</span></a>: <a href=\"https://github.com/chpollin/Teaching/tree/master/InfoMod\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/chpollin/Teaching/t</span><span class=\"invisible\">ree/master/InfoMod</span></a></p><p>Screencasts auf YouTube: <a href=\"https://youtu.be/reLxbnYVZbY\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">youtu.be/reLxbnYVZbY</span><span class=\"invisible\"></span></a></p><p>(alle CC-BY)</p>"
+    },
+    "people": [
+      {
+        "url": "https://mstdn.social/@felwert",
+        "display_name": "Frederik Elwert"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/hpcaitech/ColossalAI",
+    "title": "github.com/hpcaitech/ColossalA...",
+    "latest": "2023-05-03T17:44:09+00:00",
+    "last_post": {
+      "url": "https://creative.ai/@alexjc/110305991056510256",
+      "content": "<p>RT @XueFz@twitter.com</p><p>Glad to share our new ACL paper. <a href=\"https://creative.ai/tags/ACL2023\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ACL2023</span></a></p><p>A Simple but Useful Transformer Training System for Very Long Sequence </p><p>Paper: <a href=\"https://arxiv.org/abs/2105.13120\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2105.13120</span><span class=\"invisible\"></span></a><br>Code: <a href=\"https://github.com/hpcaitech/ColossalAI\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/hpcaitech/ColossalA</span><span class=\"invisible\">I</span></a><br>Video: <a href=\"https://www.youtube.com/watch?v=HLLVKb7Cszs\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">youtube.com/watch?v=HLLVKb7Csz</span><span class=\"invisible\">s</span></a></p><p>1/N <a href=\"https://twitter.com/rasbt/status/1588610792311529472\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">twitter.com/rasbt/status/15886</span><span class=\"invisible\">10792311529472</span></a></p><p>\ud83d\udc26\ud83d\udd17: <a href=\"https://twitter.com/XueFz/status/1653811286571098112\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">twitter.com/XueFz/status/16538</span><span class=\"invisible\">11286571098112</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://creative.ai/@alexjc",
+        "display_name": "Alex J. Champandard \ud83c\udf31"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/bluesky-social/atproto/blob/0b70f50eb44bf6a936115f0e24690a42585b69a6/packages/pds/src/labeler/hive.ts#L83",
+    "title": "github.com/bluesky-social/atpr...",
+    "latest": "2023-05-03T17:38:51+00:00",
+    "last_post": {
+      "url": "https://circumstances.run/@davidgerard/110303972798576262",
+      "content": "<p>how the extremely open bluesky protocol works, that everyone should freely copy and use:</p><p>by running all posts through a proprietary third-party AI moderation service, <a href=\"https://thehive.ai/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">thehive.ai/</span><span class=\"invisible\"></span></a></p><p>lol</p><p><a href=\"https://github.com/bluesky-social/atproto/blob/0b70f50eb44bf6a936115f0e24690a42585b69a6/packages/pds/src/labeler/hive.ts#L83\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/bluesky-social/atpr</span><span class=\"invisible\">oto/blob/0b70f50eb44bf6a936115f0e24690a42585b69a6/packages/pds/src/labeler/hive.ts#L83</span></a></p><p>dig this, the nazis are just another kind of content and not people you fucking kick:</p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@gvwilson",
+        "display_name": "Greg Wilson"
+      },
+      {
+        "url": "https://mastodon.social/@atomicpoet",
+        "display_name": "Chris Trottier"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/CodesForNlp/OTIEA",
+    "title": "GitHub - CodesForNlp/OTIEA",
+    "latest": "2023-05-03T17:35:40+00:00",
+    "last_post": {
+      "url": "https://creative.ai/@arxiv_cl/110305957653817448",
+      "content": "<p>\ud83d\udcdd OTIEA:Ontology-enhanced Triple Intrinsic-Correlation for Cross-Lingual Entity Alignment \ud83d\udcda</p><p>\"The intrinsic correlations among entity, relation and ontology are mined in ontology-enhanced triple encoder by triple-aware attention mechanism, and role diversity can be further fused in triple-aware entity decoder.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/CodesForNlp/OTIEA\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/CodesForNlp/OTIEA</span><span class=\"invisible\"></span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2305.01561v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2305.01561v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://creative.ai/@arxiv_cl",
+        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/AlgebraicJulia/StockFlow.jl",
+    "title": "GitHub - AlgebraicJulia/StockFlow.jl",
+    "latest": "2023-05-03T17:10:01+00:00",
+    "last_post": {
+      "url": "https://mathstodon.xyz/@johncarlosbaez/110305522694441429",
+      "content": "<p>Xiaoyan Li, Sophie Libkind, Nate Osgood, Eric Redekopp and I have been creating software for modeling the spread of disease... with the help of category theory!   </p><p>Lots of epidemiologists use \"stock-flow diagrams'' to describe ordinary differential equation (ODE) models of disease dynamics.  We've created two tools to help them.</p><p>The first, called StockFlow.jl, is based on category theory and written in Julia:</p><p><a href=\"https://github.com/AlgebraicJulia/StockFlow.jl\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/AlgebraicJulia/Stoc</span><span class=\"invisible\">kFlow.jl</span></a></p><p>The second, called ModelCollab, runs on web browsers and serves as a graphical user interface for StockFlow.jl:</p><p><a href=\"https://github.com/UofS-CEPHIL/modelcollab\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/UofS-CEPHIL/modelco</span><span class=\"invisible\">llab</span></a></p><p>Using ModelCollab requires no knowledge of Julia or category theory.  This feature should be useful in \"participatory modeling'', an approach where models are built with the help of diverse stakeholders.  But as we keep introducing new features in StockFlow.jl, it takes time to implement them in ModelCollab.</p><p>But what's a stock-flow diagram, and what does our software let you do with them?</p><p>The picture here shows an example: a simple disease model where Susceptible people become Infective, then Recovered, then Susceptible again.</p><p>The boxes are \"stocks\" and the double-edged arrows are \"flows\".   There are also blue \"links\" from stocks to \"variables\", and from stocks and variables to flows.  </p><p>This picture doesn't show the formulas that say exactly how the variables depend on stocks, and how the flows depend on stocks and variables.  So, this picture doesn't show the whole thing.  It's really just what they call a \"system structure diagram\": a stock-flow diagram missing the quantitative information that you need to get a system of ODEs from it.</p><p>A stock-flow diagram uniquely specifies a system of first-order ODEs. </p><p>(1/n)</p>"
+    },
+    "people": [
+      {
+        "url": "https://universeodon.com/@eclogiter",
+        "display_name": "Pet Rock"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/UofS-CEPHIL/modelcollab",
+    "title": "github.com/UofS-CEPHIL/modelco...",
+    "latest": "2023-05-03T17:10:01+00:00",
+    "last_post": {
+      "url": "https://mathstodon.xyz/@johncarlosbaez/110305522694441429",
+      "content": "<p>Xiaoyan Li, Sophie Libkind, Nate Osgood, Eric Redekopp and I have been creating software for modeling the spread of disease... with the help of category theory!   </p><p>Lots of epidemiologists use \"stock-flow diagrams'' to describe ordinary differential equation (ODE) models of disease dynamics.  We've created two tools to help them.</p><p>The first, called StockFlow.jl, is based on category theory and written in Julia:</p><p><a href=\"https://github.com/AlgebraicJulia/StockFlow.jl\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/AlgebraicJulia/Stoc</span><span class=\"invisible\">kFlow.jl</span></a></p><p>The second, called ModelCollab, runs on web browsers and serves as a graphical user interface for StockFlow.jl:</p><p><a href=\"https://github.com/UofS-CEPHIL/modelcollab\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/UofS-CEPHIL/modelco</span><span class=\"invisible\">llab</span></a></p><p>Using ModelCollab requires no knowledge of Julia or category theory.  This feature should be useful in \"participatory modeling'', an approach where models are built with the help of diverse stakeholders.  But as we keep introducing new features in StockFlow.jl, it takes time to implement them in ModelCollab.</p><p>But what's a stock-flow diagram, and what does our software let you do with them?</p><p>The picture here shows an example: a simple disease model where Susceptible people become Infective, then Recovered, then Susceptible again.</p><p>The boxes are \"stocks\" and the double-edged arrows are \"flows\".   There are also blue \"links\" from stocks to \"variables\", and from stocks and variables to flows.  </p><p>This picture doesn't show the formulas that say exactly how the variables depend on stocks, and how the flows depend on stocks and variables.  So, this picture doesn't show the whole thing.  It's really just what they call a \"system structure diagram\": a stock-flow diagram missing the quantitative information that you need to get a system of ODEs from it.</p><p>A stock-flow diagram uniquely specifies a system of first-order ODEs. </p><p>(1/n)</p>"
+    },
+    "people": [
+      {
+        "url": "https://universeodon.com/@eclogiter",
+        "display_name": "Pet Rock"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/CodesForNlp/TTEA",
+    "title": "GitHub - CodesForNlp/TTEA: Codes for Articles TTEA",
+    "latest": "2023-05-03T16:55:37+00:00",
+    "last_post": {
+      "url": "https://creative.ai/@arxiv_cl/110305800167027111",
+      "content": "<p>\ud83d\udcdd Type-Enhanced Ensemble Triple Representation via Triple-Aware Attention for Cross-Lingual Entity Alignment \ud83d\udcda\ud83d\udc7e</p><p>\"A novel framework TTEA is proposed to generate triple-enhanced entity representation by mining the relevance of triple elements via embedding-based methods, which pays little attention to triple indivisibility and entity role diversity.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a> <a href=\"https://creative.ai/tags/AI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AI</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/CodesForNlp/TTEA\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/CodesForNlp/TTEA</span><span class=\"invisible\"></span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2305.01556v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2305.01556v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://creative.ai/@arxiv_cl",
+        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/odileeds/hexmaps/tree/gh-pages/maps/uk-wards-2022#editing",
     "title": "hexmaps/maps/uk-wards-2022 at gh-pages \u00b7 odileeds/hexmaps",
     "latest": "2023-05-03T09:46:37+00:00",
@@ -2963,255 +3220,6 @@
       {
         "url": "https://fosstodon.org/@brodriguesco",
         "display_name": "Bruno Rodrigues :rstats: :tux:"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/iglu-contest/gridworld/blob/",
-    "title": "github.com/iglu-contest/gridwo...",
-    "latest": "2023-04-24T19:23:19+00:00",
-    "last_post": {
-      "url": "https://creative.ai/@arxiv_cl/110255420147602548",
-      "content": "<p>\ud83d\udcdd Improving Grounded Language Understanding in a Collaborative Environment by Interacting with Agents Through Help Feedback \ud83d\udcda\ud83d\udc7e</p><p>\"We explore these directions using the challenging task defined by the IGLU competition, an interactive grounded language understanding task in a MineCraft-like world.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a> <a href=\"https://creative.ai/tags/AI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AI</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/iglu-contest/gridworld/blob/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/iglu-contest/gridwo</span><span class=\"invisible\">rld/blob/</span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2304.10750v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2304.10750v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://creative.ai/@arxiv_cl",
-        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/python-organizers/conferences",
-    "title": "GitHub - python-organizers/conferences: List of Python Conferences around the World",
-    "latest": "2023-04-24T18:47:41+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@jonafato/110255067036173570",
-      "content": "<p>A bunch of Python conference organizers have been collecting some key info about conferences at <a href=\"https://github.com/python-organizers/conferences\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/python-organizers/c</span><span class=\"invisible\">onferences</span></a> for some years now. If you're a Python conference organizer, I want you to know that this repository exists as a community resource.</p>"
-    },
-    "people": [
-      {
-        "url": "https://sfba.social/@loldja",
-        "display_name": "Lauren Oldja"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/phw/peek/issues/1191",
-    "title": "ANNOUNCEMENT: Deprecating the Peek project \u00b7 Issue #1191 \u00b7 phw/peek",
-    "latest": "2023-04-24T18:42:26+00:00",
-    "last_post": {
-      "url": "https://ciberlandia.pt/@villares/110255259388575082",
-      "content": "<p>Today I learned that the maintainer of <a href=\"https://ciberlandia.pt/tags/Peek\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Peek</span></a>, the <a href=\"https://ciberlandia.pt/tags/GIFRecording\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>GIFRecording</span></a> tool, stopped working on it in January. It wasn't working in my computer for a while. <a href=\"https://github.com/phw/peek/issues/1191\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/phw/peek/issues/119</span><span class=\"invisible\">1</span></a> This is a bit sad, but one has to be grateful for the time while it worked. Wonderful interface. Lots of my skech-a-day posts, tutorials and support sessions with students benefited from a <a href=\"https://ciberlandia.pt/tags/GIF\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>GIF</span></a> made with it.</p><p>I've been using Blue Recorder on and off and decided to try <a href=\"https://ciberlandia.pt/tags/pypeek\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>pypeek</span></a> <a href=\"https://github.com/firatkiral/pypeek\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/firatkiral/pypeek</span><span class=\"invisible\"></span></a> today, it looks promising.</p><p>I also have some PNG to GIF <a href=\"https://ciberlandia.pt/tags/Pillow\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Pillow</span></a> scripts to use with <a href=\"https://ciberlandia.pt/tags/py5\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>py5</span></a> <a href=\"https://github.com/villares/sketch-a-day/blob/main/admin_scripts/pngs_to_gif.py\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/villares/sketch-a-d</span><span class=\"invisible\">ay/blob/main/admin_scripts/pngs_to_gif.py</span></a> because it gives me more control than using the py5 export tool: <a href=\"https://py5coding.org/reference/py5tools_animated_gif.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">py5coding.org/reference/py5too</span><span class=\"invisible\">ls_animated_gif.html</span></a><br>(I like to decide myself when to add frames, start, stop, skip)</p>"
-    },
-    "people": [
-      {
-        "url": "https://ciberlandia.pt/@villares",
-        "display_name": "Alexandre B A Villares \ud83d\udc0d"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/firatkiral/pypeek",
-    "title": "https://github.com/firatkiral/pypeek",
-    "latest": "2023-04-24T18:42:26+00:00",
-    "last_post": {
-      "url": "https://ciberlandia.pt/@villares/110255259388575082",
-      "content": "<p>Today I learned that the maintainer of <a href=\"https://ciberlandia.pt/tags/Peek\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Peek</span></a>, the <a href=\"https://ciberlandia.pt/tags/GIFRecording\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>GIFRecording</span></a> tool, stopped working on it in January. It wasn't working in my computer for a while. <a href=\"https://github.com/phw/peek/issues/1191\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/phw/peek/issues/119</span><span class=\"invisible\">1</span></a> This is a bit sad, but one has to be grateful for the time while it worked. Wonderful interface. Lots of my skech-a-day posts, tutorials and support sessions with students benefited from a <a href=\"https://ciberlandia.pt/tags/GIF\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>GIF</span></a> made with it.</p><p>I've been using Blue Recorder on and off and decided to try <a href=\"https://ciberlandia.pt/tags/pypeek\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>pypeek</span></a> <a href=\"https://github.com/firatkiral/pypeek\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/firatkiral/pypeek</span><span class=\"invisible\"></span></a> today, it looks promising.</p><p>I also have some PNG to GIF <a href=\"https://ciberlandia.pt/tags/Pillow\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Pillow</span></a> scripts to use with <a href=\"https://ciberlandia.pt/tags/py5\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>py5</span></a> <a href=\"https://github.com/villares/sketch-a-day/blob/main/admin_scripts/pngs_to_gif.py\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/villares/sketch-a-d</span><span class=\"invisible\">ay/blob/main/admin_scripts/pngs_to_gif.py</span></a> because it gives me more control than using the py5 export tool: <a href=\"https://py5coding.org/reference/py5tools_animated_gif.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">py5coding.org/reference/py5too</span><span class=\"invisible\">ls_animated_gif.html</span></a><br>(I like to decide myself when to add frames, start, stop, skip)</p>"
-    },
-    "people": [
-      {
-        "url": "https://ciberlandia.pt/@villares",
-        "display_name": "Alexandre B A Villares \ud83d\udc0d"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/villares/sketch-a-day/blob/main/admin_scripts/pngs_to_gif.py",
-    "title": "github.com/villares/sketch-a-d...",
-    "latest": "2023-04-24T18:42:26+00:00",
-    "last_post": {
-      "url": "https://ciberlandia.pt/@villares/110255259388575082",
-      "content": "<p>Today I learned that the maintainer of <a href=\"https://ciberlandia.pt/tags/Peek\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Peek</span></a>, the <a href=\"https://ciberlandia.pt/tags/GIFRecording\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>GIFRecording</span></a> tool, stopped working on it in January. It wasn't working in my computer for a while. <a href=\"https://github.com/phw/peek/issues/1191\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/phw/peek/issues/119</span><span class=\"invisible\">1</span></a> This is a bit sad, but one has to be grateful for the time while it worked. Wonderful interface. Lots of my skech-a-day posts, tutorials and support sessions with students benefited from a <a href=\"https://ciberlandia.pt/tags/GIF\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>GIF</span></a> made with it.</p><p>I've been using Blue Recorder on and off and decided to try <a href=\"https://ciberlandia.pt/tags/pypeek\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>pypeek</span></a> <a href=\"https://github.com/firatkiral/pypeek\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/firatkiral/pypeek</span><span class=\"invisible\"></span></a> today, it looks promising.</p><p>I also have some PNG to GIF <a href=\"https://ciberlandia.pt/tags/Pillow\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Pillow</span></a> scripts to use with <a href=\"https://ciberlandia.pt/tags/py5\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>py5</span></a> <a href=\"https://github.com/villares/sketch-a-day/blob/main/admin_scripts/pngs_to_gif.py\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/villares/sketch-a-d</span><span class=\"invisible\">ay/blob/main/admin_scripts/pngs_to_gif.py</span></a> because it gives me more control than using the py5 export tool: <a href=\"https://py5coding.org/reference/py5tools_animated_gif.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">py5coding.org/reference/py5too</span><span class=\"invisible\">ls_animated_gif.html</span></a><br>(I like to decide myself when to add frames, start, stop, skip)</p>"
-    },
-    "people": [
-      {
-        "url": "https://ciberlandia.pt/@villares",
-        "display_name": "Alexandre B A Villares \ud83d\udc0d"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/godotengine/godot/pull/76211",
-    "title": "Add script formatter, comment parsing in parser, and editor settings by RolandMarchand \u00b7 Pull Request #76211 \u00b7 godotengine/godot",
-    "latest": "2023-04-24T18:17:12+00:00",
-    "last_post": {
-      "url": "https://techhub.social/@gdquest/110243441615689244",
-      "content": "<p>Our teammate Roland is completing the work on the GDScript code formatter.</p><p>We really want this essential code productivity tool in Godot 4.1. It'll allow you to instantly format your GDScript files, following the official style guide.</p><p>Pull request: <a href=\"https://github.com/godotengine/godot/pull/76211\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/godotengine/godot/p</span><span class=\"invisible\">ull/76211</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://social.yesterweb.org/@triptych",
-        "display_name": "Andrew Wooldridge"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/OBASKTools",
-    "title": "OBASKTools",
-    "latest": "2023-04-24T18:07:06+00:00",
-    "last_post": {
-      "url": "https://genomic.social/@biocuration2023/110254528321946982",
-      "content": "<p>OBASK tools from David are available at <a href=\"https://github.com/OBASKTools\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/OBASKTools</span><span class=\"invisible\"></span></a> <a href=\"https://genomic.social/tags/biocuration2023\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>biocuration2023</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://fosstodon.org/@grndstt",
-        "display_name": "Pierre-Marie Allard"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/OSGeo/gdal/pull/7389",
-    "title": "OpenFileGDB: add read-only support for raster datasets by rouault \u00b7 Pull Request #7389 \u00b7 OSGeo/gdal",
-    "latest": "2023-04-24T17:38:19+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@EvenRouault/109993230083314079",
-      "content": "<p>Big news. <span class=\"h-card\"><a href=\"https://mastodon.social/@gdal\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>gdal</span></a></span> 3.7.0 will let you open &amp; convert raster datasets stored as Esri FileGeodatabase. Of course, @qgis<br> using this GDAL version will benefit from that new capability.<br><a href=\"https://github.com/OSGeo/gdal/pull/7389\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/OSGeo/gdal/pull/738</span><span class=\"invisible\">9</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://fosstodon.org/@mdsumner",
-        "display_name": "mdsumner"
-      },
-      {
-        "url": "https://fosstodon.org/@underdarkGIS",
-        "display_name": "Anita Graser \ud83c\uddea\ud83c\uddfa\ud83c\uddfa\ud83c\udde6"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/ropensci-review-tools/babelquarto",
-    "title": "github.com/ropensci-review-too...",
-    "latest": "2023-04-24T17:34:55+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@maelle/110236069118629004",
-      "content": "<p>\ud83c\udf10 Want to render a multilingual Quarto book like <span class=\"h-card\"><a href=\"https://hachyderm.io/@rOpenSci\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>rOpenSci</span></a></span> dev guide's dev version? <a href=\"https://devdevguide.netlify.app\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">devdevguide.netlify.app</span><span class=\"invisible\"></span></a></p><p>Check out our experimental <a href=\"https://mastodon.social/tags/RStats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>RStats</span></a> {babelquarto} package <a href=\"https://github.com/ropensci-review-tools/babelquarto\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/ropensci-review-too</span><span class=\"invisible\">ls/babelquarto</span></a> </p><p>\u26a0\ufe0f  Proceed with caution, as noted it's experimental. \ud83d\ude05 </p><p><span class=\"h-card\"><a href=\"https://fosstodon.org/@yabellini\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>yabellini</span></a></span> <span class=\"h-card\"><a href=\"https://mastodon.social/@eliocamp\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>eliocamp</span></a></span> <span class=\"h-card\"><a href=\"https://fosstodon.org/@paocorrales\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>paocorrales</span></a></span> (is this the \"babelteam\" \ud83d\ude09 )</p>"
-    },
-    "people": [
-      {
-        "url": "https://mstdn.social/@dataandme",
-        "display_name": "Mara Averick"
-      },
-      {
-        "url": "https://mastodon.social/@maelle",
-        "display_name": "Ma\u00eblle Salmon"
-      },
-      {
-        "url": "https://chaos.social/@noatamir",
-        "display_name": "Noa :python: \ud83c\udff3\ufe0f\u200d\ud83c\udf08"
-      },
-      {
-        "url": "https://fosstodon.org/@juliesquid",
-        "display_name": "Dr. Julia Stewart Lowndes"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/archiki/ReCEval",
-    "title": "GitHub - archiki/ReCEval",
-    "latest": "2023-04-24T17:33:18+00:00",
-    "last_post": {
-      "url": "https://creative.ai/@arxiv_cl/110254987542594147",
-      "content": "<p>\ud83d\udcdd ReCEval: Evaluating Reasoning Chains via Correctness and Informativeness \ud83d\udcda\ud83d\udc7e\ud83e\udde0</p><p>\"Proposes ReCEval, a framework that evaluates reasoning chains through two key properties: (1) correctness, i,e, each step makes a valid inference based on the information contained within the step, preceding steps, and input context, and (2) informativeness, i.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a> <a href=\"https://creative.ai/tags/AI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AI</span></a> <a href=\"https://creative.ai/tags/LG\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>LG</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/archiki/ReCEval\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/archiki/ReCEval</span><span class=\"invisible\"></span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2304.10703v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2304.10703v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://creative.ai/@arxiv_cl",
-        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/tox-dev/tox/pull/2992",
-    "title": "Feature: suppress step timings for verbosity=1 #2891 by nedbat \u00b7 Pull Request #2992 \u00b7 tox-dev/tox",
-    "latest": "2023-04-24T17:30:20+00:00",
-    "last_post": {
-      "url": "https://hachyderm.io/@nedbat/110254975902024253",
-      "content": "<p>PyCon sprint achievement unlocked: I got a pull request merged into tox: <a href=\"https://github.com/tox-dev/tox/pull/2992\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/tox-dev/tox/pull/29</span><span class=\"invisible\">92</span></a><br><a href=\"https://hachyderm.io/tags/PyConUs\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>PyConUs</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://hachyderm.io/@nedbat",
-        "display_name": "Ned Batchelder"
-      }
-    ]
-  },
-  {
-    "link": "https://codeberg.org/fediverse/fediverse-ideas/issues/1",
-    "title": "Web-based protocol handlers",
-    "latest": "2023-04-24T09:39:50+00:00",
-    "last_post": {
-      "url": "https://mymath.rocks/objects/dfbc176b-9b21-4f43-b14f-b323386ce550",
-      "content": "<p>Good morning. It still looks like rain, it's also time to get my \ud83d\udca1 thinking about comment control, showing all replies, account migration, reducing server load, federating likes, and what not out of my brain. It's a true incompatible to the current FediVerse ActivityPub extension.</p>\n<p>Before the list, lots of good stuff happening for <a href=\"https://codeberg.org/fediverse/fediverse-ideas/issues/1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">Web-based protocol handlers @ fediverse-ideas</a>. I'll also be adding <a href=\"https://codeberg.org/fediverse/fediverse-ideas/issues/27\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">this</a> to fediverse-ideas.</p>\n<p>\ud83d\udca1A Conversation is a new type of ActivityPub object, that is Hosted by a single Actor.</p>\n<p>\ud83d\udca1Actors Contribute to the Conversation by sending the the corresponding content to the Host.</p>\n<p>\ud83d\udca1The Host's task is to distribute and store the Conversation. Host may aggregate stuff before distributing, e.g. for emoji reactions.</p>\n<p>\ud83d\udca1Host has \"moderation privilege\". Contributors are allowed to invite actors to contribute.</p>\n<p>\ud83d\udca1Contributors may \"walk away\" and start the conversation elsewhere.</p>\n<p>\ud83d\udca1\ud83d\udee0\ufe0f Contributions are signed. Contributions can be updated including the attributedTo field with proper signatures (allows for portable accounts).</p>\n<p>\ud83d\udca1\ud83d\udee0\ufe0f Contributions' ids are assigned by the user as a globally unique fragment to the conversation.</p>\n"
-    },
-    "people": [
-      {
-        "url": "https://indieweb.social/@tchambers",
-        "display_name": "Tim Chambers"
-      }
-    ]
-  },
-  {
-    "link": "https://codeberg.org/fediverse/fediverse-ideas/issues/27",
-    "title": "https://codeberg.org/fediverse/fediverse-ideas/issues/27",
-    "latest": "2023-04-24T09:39:50+00:00",
-    "last_post": {
-      "url": "https://mymath.rocks/objects/dfbc176b-9b21-4f43-b14f-b323386ce550",
-      "content": "<p>Good morning. It still looks like rain, it's also time to get my \ud83d\udca1 thinking about comment control, showing all replies, account migration, reducing server load, federating likes, and what not out of my brain. It's a true incompatible to the current FediVerse ActivityPub extension.</p>\n<p>Before the list, lots of good stuff happening for <a href=\"https://codeberg.org/fediverse/fediverse-ideas/issues/1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">Web-based protocol handlers @ fediverse-ideas</a>. I'll also be adding <a href=\"https://codeberg.org/fediverse/fediverse-ideas/issues/27\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">this</a> to fediverse-ideas.</p>\n<p>\ud83d\udca1A Conversation is a new type of ActivityPub object, that is Hosted by a single Actor.</p>\n<p>\ud83d\udca1Actors Contribute to the Conversation by sending the the corresponding content to the Host.</p>\n<p>\ud83d\udca1The Host's task is to distribute and store the Conversation. Host may aggregate stuff before distributing, e.g. for emoji reactions.</p>\n<p>\ud83d\udca1Host has \"moderation privilege\". Contributors are allowed to invite actors to contribute.</p>\n<p>\ud83d\udca1Contributors may \"walk away\" and start the conversation elsewhere.</p>\n<p>\ud83d\udca1\ud83d\udee0\ufe0f Contributions are signed. Contributions can be updated including the attributedTo field with proper signatures (allows for portable accounts).</p>\n<p>\ud83d\udca1\ud83d\udee0\ufe0f Contributions' ids are assigned by the user as a globally unique fragment to the conversation.</p>\n"
-    },
-    "people": [
-      {
-        "url": "https://indieweb.social/@tchambers",
-        "display_name": "Tim Chambers"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/dblalock/bolt",
-    "title": "https://github.com/dblalock/bolt",
-    "latest": "2023-04-24T09:36:00+00:00",
-    "last_post": {
-      "url": "https://tech.lgbt/@jesper/110253110724458781",
-      "content": "<p>\ud83d\udcbb bolt (2.3 k \u2b50)</p><p>Boost your matrix and vector operations by 10x with bolt \u26a1\ud83d\ude80</p><p>Check out dblalock's library for lightning-fast linear algebra computations and streamline your machine learning workflows.</p><p>With bolt, you can accelerate your linear algebra computations and save precious time and computational resources in your machine learning projects.</p><p>My newsletter subscribers learned about this 10 months ago!<br><a href=\"https://dramsch.net/newsletter\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">dramsch.net/newsletter</span><span class=\"invisible\"></span></a></p><p>Check it out here:<br><a href=\"https://github.com/dblalock/bolt\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/dblalock/bolt</span><span class=\"invisible\"></span></a></p><p><a href=\"https://tech.lgbt/tags/LateToTheParty\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>LateToTheParty</span></a> <a href=\"https://tech.lgbt/tags/Python\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Python</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://tech.lgbt/@jesper",
-        "display_name": "Jesper Dr.amsch :v_enby:"
-      }
-    ]
-  },
-  {
-    "link": "https://gist.github.com/mjskay/b6b067a74c6542452d2ce49c3a4be8b4",
-    "title": "ggdist-kde-comparison.md",
-    "latest": "2023-04-24T08:20:58+00:00",
-    "last_post": {
-      "url": "https://fediscience.org/@mjskay/110238257816168996",
-      "content": "<p>Playing with a new default kernel density estimator for the <a href=\"https://fediscience.org/tags/ggdist\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ggdist</span></a> <a href=\"https://fediscience.org/tags/rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rstats</span></a> \ud83d\udce6. Thoughts?</p><p>Trying to deal with edge effects in default KDEs on bounded data. Never gonna convince everyone to use histograms or dotplots, so a better default would help...</p><p>See <a href=\"https://gist.github.com/mjskay/b6b067a74c6542452d2ce49c3a4be8b4\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gist.github.com/mjskay/b6b067a</span><span class=\"invisible\">74c6542452d2ce49c3a4be8b4</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://fediscience.org/@mjskay",
-        "display_name": "Matthew Kay"
-      },
-      {
-        "url": "https://mastodon.nz/@ojala",
-        "display_name": "Luis Apiolaza"
-      },
-      {
-        "url": "https://vis.social/@lane",
-        "display_name": "Lane Harrison"
       }
     ]
   }
