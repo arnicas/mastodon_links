@@ -1,5 +1,144 @@
 [
   {
+    "link": "https://github.com/pudnax/voidin/tree/main",
+    "title": "GitHub - pudnax/voidin: wgpu and stuff",
+    "latest": "2023-05-05T21:57:23+00:00",
+    "last_post": {
+      "url": "https://mastodon.gamedev.place/@panna_pudi/110318311431824725",
+      "content": "<p><span class=\"h-card\"><a href=\"https://mastodon.gamedev.place/@siebencorgie\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>siebencorgie</span></a></span> This is what I wanted to do with rust-gpu, but convenient hot-reloading won<br><span class=\"h-card\"><a href=\"https://icosahedron.website/@slerpy\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>slerpy</span></a></span> How are you familiar with wgpu? It's full GPU driven renderer with frustum culling w/o roundtrip to CPU :x <br><a href=\"https://github.com/pudnax/voidin/tree/main\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/pudnax/voidin/tree/</span><span class=\"invisible\">main</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.gamedev.place/@panna_pudi",
+        "display_name": "Pudi \ud83c\udf6e"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/tldraw/tldraw",
+    "title": "GitHub - tldraw/tldraw: a very good whiteboard",
+    "latest": "2023-05-05T20:36:17+00:00",
+    "last_post": {
+      "url": "https://mas.to/@steveruizok/110317684420337712",
+      "content": "<p>After over a year in the oven, we just moved the new <span class=\"h-card\"><a href=\"https://mas.to/@tldraw\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>tldraw</span></a></span> onto GitHub! <a href=\"https://github.com/tldraw/tldraw\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/tldraw/tldraw</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://universeodon.com/@TodePond",
+        "display_name": "Lu Wilson"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/susam/mintotp",
+    "title": "GitHub - susam/mintotp: Minimal TOTP generator in 20 lines of Python",
+    "latest": "2023-05-05T19:48:03+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@python_discussions/109189504089768871",
+      "content": "<p>MinTOTP \u2013 Minimal TOTP generator in 20 lines of Python</p><p><a href=\"https://github.com/susam/mintotp\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/susam/mintotp</span><span class=\"invisible\"></span></a></p><p>Discussions: <a href=\"https://discu.eu/q/https://github.com/susam/mintotp\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">discu.eu/q/https://github.com/</span><span class=\"invisible\">susam/mintotp</span></a></p><p><a href=\"https://mastodon.social/tags/compsci\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>compsci</span></a> <a href=\"https://mastodon.social/tags/cryptography\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>cryptography</span></a> <a href=\"https://mastodon.social/tags/netsec\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>netsec</span></a> <a href=\"https://mastodon.social/tags/programming\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>programming</span></a> <a href=\"https://mastodon.social/tags/python\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>python</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@python_discussions",
+        "display_name": "Python Weekly"
+      }
+    ]
+  },
+  {
+    "link": "https://codeberg.org/calckey/calckey/issues/10033",
+    "title": "codeberg.org/calckey/calckey/i...",
+    "latest": "2023-05-05T18:44:20+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@atomicpoet/110317552291329657",
+      "content": "<p>If you're trying to sign up for <a href=\"https://calckey.social\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">calckey.social</span><span class=\"invisible\"></span></a>, you may have noticed there's a notice saying that registrations are disabled *above* the registration form. This notice is not accurate.</p><p>It is actually a bug, and I've filed it as one in the repo:</p><p><a href=\"https://codeberg.org/calckey/calckey/issues/10033\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">codeberg.org/calckey/calckey/i</span><span class=\"invisible\">ssues/10033</span></a></p><p>If you want to join <a href=\"https://calckey.social\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">calckey.social</span><span class=\"invisible\"></span></a>, *ignore* that notice and continue with your registration.</p><p>Here's a screenshot of the bug in question.</p><p>See also: <a href=\"https://calckey.social/notes/9eegkseedn\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">calckey.social/notes/9eegkseed</span><span class=\"invisible\">n</span></a></p><p><span class=\"h-card\"><a href=\"https://venera.social/profile/fediversenews\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>fediversenews</span></a></span></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@atomicpoet",
+        "display_name": "Chris Trottier"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/MalwareTech/BlueLiteBlocker",
+    "title": "GitHub - MalwareTech/BlueLiteBlocker: A Chrome & Firefox extension for filtering out tweets from Twitter Blue users based on if they follow you and their follower count.",
+    "latest": "2023-05-05T18:31:45+00:00",
+    "last_post": {
+      "url": "https://infosec.exchange/@malwaretech/110257022140569369",
+      "content": "<p>I published the source code for my Twitter Blue blocking extension to GitHub. Looking for some developers to test and provide feedback before I provide prepackaged version. </p><p><a href=\"https://github.com/MalwareTech/BlueLiteBlocker\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/MalwareTech/BlueLit</span><span class=\"invisible\">eBlocker</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.online/@vladiliescu",
+        "display_name": "Vlad Iliescu \ud83d\udc2c"
+      },
+      {
+        "url": "https://sigmoid.social/@vukosi",
+        "display_name": "Vukosi Marivate"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/idolpx/meatloaf-specialty",
+    "title": "GitHub - idolpx/meatloaf-specialty: Meatloaf for FujiNet",
+    "latest": "2023-05-05T17:58:03+00:00",
+    "last_post": {
+      "url": "https://oldbytes.space/@linker3000/110308613345047293",
+      "content": "<p>Hey UK Commodore 64 folks, I'm looking out for a cheap-as-possible working C64 (SIDless or not, appearance not important) to see if I can help out on the 'Meatloaf-specialty' project developing an IEC modem/network adapter. Anyone?</p><p><a href=\"https://github.com/idolpx/meatloaf-specialty\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/idolpx/meatloaf-spe</span><span class=\"invisible\">cialty</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.me.uk/@garius",
+        "display_name": "John Bull"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/eugeneyan/open-llms",
+    "title": "GitHub - eugeneyan/open-llms: A list of open LLMs available for commercial use",
+    "latest": "2023-05-05T17:24:55+00:00",
+    "last_post": {
+      "url": "https://recsys.social/@eugeneyan/110317240003506682",
+      "content": "<p>Started a list of open-source LLMs with commercial licenses so you can fine-tune your own applications. Contributions welcome! \ud83d\ude4f</p><p><a href=\"https://github.com/eugeneyan/open-llms\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/eugeneyan/open-llms</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://recsys.social/@eugeneyan",
+        "display_name": "Eugene Yan"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/nedbat/coveragepy/issues/1617#issuecomment-1535647011",
+    "title": "Uncovered branches are reported if generator iterators are not exhausted \u00b7 Issue #1617 \u00b7 nedbat/coveragepy",
+    "latest": "2023-05-05T17:22:57+00:00",
+    "last_post": {
+      "url": "https://hachyderm.io/@coveragepy/110317224769178482",
+      "content": "<p>Should coverage.py report a missing branch if a comprehension doesn't run to completion?  <a href=\"https://github.com/nedbat/coveragepy/issues/1617#issuecomment-1535647011\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/nedbat/coveragepy/i</span><span class=\"invisible\">ssues/1617#issuecomment-1535647011</span></a></p><p>Would it be better if instead of \"2-&gt;exit\" it said \"completion(2)\" ?</p>"
+    },
+    "people": [
+      {
+        "url": "https://hachyderm.io/@nedbat",
+        "display_name": "Ned Batchelder"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/ropensci/software-review/issues/576",
+    "title": "github.com/ropensci/software-r...",
+    "latest": "2023-05-05T17:10:30+00:00",
+    "last_post": {
+      "url": "https://hachyderm.io/@rOpenSci/110317160394178392",
+      "content": "<p>rOpenSci is proud to welcome a new package to our software suite!\ud83c\udf89</p><p>CRediTas: Generate CRediT Author Statements by <span class=\"h-card\"><a href=\"https://fosstodon.org/@jospueyo\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>jospueyo</span></a></span></p><p>Docs: <a href=\"https://docs.ropensci.org/CRediTas\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">docs.ropensci.org/CRediTas</span><span class=\"invisible\"></span></a><br>Peer review: <a href=\"https://github.com/ropensci/software-review/issues/576\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/ropensci/software-r</span><span class=\"invisible\">eview/issues/576</span></a></p><p>\ud83d\ude4f Thank you to reviewers @whereisjoao@twitter.com and Marcelo S. Perlin!</p><p><a href=\"https://hachyderm.io/tags/RStats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>RStats</span></a>  <br><span class=\"h-card\"><a href=\"https://a.gup.pe/u/rstats\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>rstats</span></a></span></p>"
+    },
+    "people": [
+      {
+        "url": "https://ecoevo.social/@naupaka",
+        "display_name": "Naupaka Zimmerman"
+      }
+    ]
+  },
+  {
     "link": "https://observablehq.com/@cartographie/manipuler-les-tableau-de-donnees",
     "title": "Manipuler les tableau de donn\u00e9es",
     "latest": "2023-05-05T08:38:28+00:00",
@@ -3117,145 +3256,6 @@
       {
         "url": "https://datasci.social/@mszll",
         "display_name": "Michael Szell"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/UKPLab/sentence-transformers",
-    "title": "GitHub - UKPLab/sentence-transformers: Multilingual Sentence & Image Embeddings with BERT",
-    "latest": "2023-04-27T06:16:53+00:00",
-    "last_post": {
-      "url": "https://creative.ai/@arxiv_cl/110269314701930810",
-      "content": "<p>\ud83d\udcdd Compressing Sentence Representation with Maximum Coding Rate Reduction \ud83d\udcda\ud83e\udde0</p><p>\"Proposes a method based on Maximum Coding Rate Reduction (MCR2) objective to learn a projection on top of pre-trained Sentence-BERT model to achieve comparable results with fewer parameters and smaller sentence embeddings.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a> <a href=\"https://creative.ai/tags/LG\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>LG</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/UKPLab/sentence-transformers\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/UKPLab/sentence-tra</span><span class=\"invisible\">nsformers</span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2304.12674v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2304.12674v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://creative.ai/@arxiv_cl",
-        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/simonw/shot-scraper/releases/tag/1.2",
-    "title": "Release 1.2 \u00b7 simonw/shot-scraper",
-    "latest": "2023-04-27T03:06:27+00:00",
-    "last_post": {
-      "url": "https://fedi.simonwillison.net/@simon/110268565893727623",
-      "content": "<p>New release of shot-scraper - my browser automation CLI tool for taking screenshots, scraping web pages with JavaScript and more</p><p><a href=\"https://github.com/simonw/shot-scraper/releases/tag/1.2\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/simonw/shot-scraper</span><span class=\"invisible\">/releases/tag/1.2</span></a></p><p>Here's the full shot-scraper documentation: <a href=\"https://shot-scraper.datasette.io/en/stable/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">shot-scraper.datasette.io/en/s</span><span class=\"invisible\">table/</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://fedi.simonwillison.net/@simon",
-        "display_name": "Simon Willison"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/BlueLiteBlocker/BlueLiteBlocker",
-    "title": "github.com/BlueLiteBlocker/Blu...",
-    "latest": "2023-04-27T02:15:58+00:00",
-    "last_post": {
-      "url": "https://brokentoys.social/@lum/110268367436751550",
-      "content": "<p>this may be of some passing interest <br>---<br>RT @BlueLiteBlocker<br>BlueLiteBlocker v0.0.0.5<br>Filter tweets from Twitter Blue users you don't follow based on follower count.</p><p>Firefox: <a href=\"https://addons.mozilla.org/en-US/firefox/addon/blueliteblocker/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">addons.mozilla.org/en-US/firef</span><span class=\"invisible\">ox/addon/blueliteblocker/</span></a><br>Chrome: <a href=\"https://chrome.google.com/webstore/detail/blueliteblocker/gimbefnamedicgajjballjjhanhnpjce\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">chrome.google.com/webstore/det</span><span class=\"invisible\">ail/blueliteblocker/gimbefnamedicgajjballjjhanhnpjce</span></a><br>Source Code: <a href=\"https://github.com/BlueLiteBlocker/BlueLiteBlocker\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/BlueLiteBlocker/Blu</span><span class=\"invisible\">eLiteBlocker</span></a> <br><a href=\"https://twitter.com/BlueLiteBlocker/status/1651390277918298112\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">twitter.com/BlueLiteBlocker/st</span><span class=\"invisible\">atus/1651390277918298112</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://brokentoys.social/@lum",
-        "display_name": "Scott Jennings"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/microsoft/table-transformer",
-    "title": "GitHub - microsoft/table-transformer: Table Transformer (TATR) is a deep learning model for extracting tables from unstructured documents (PDFs and images). This is also the official repository for the PubTables-1M dataset and GriTS evaluation metric.",
-    "latest": "2023-04-26T22:00:03+00:00",
-    "last_post": {
-      "url": "https://die-partei.social/@hackernews/110267361066899477",
-      "content": "<p>Microsoft TableTransformer - <a href=\"https://github.com/microsoft/table-transformer\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/microsoft/table-tra</span><span class=\"invisible\">nsformer</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://die-partei.social/@hackernews",
-        "display_name": "Hackernews"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/996icu/996.ICU",
-    "title": "GitHub - 996icu/996.ICU: Repo for counting stars and contributing. Press F to pay respect to glorious developers.",
-    "latest": "2023-04-26T21:55:32+00:00",
-    "last_post": {
-      "url": "https://fosstodon.org/@donmccurdy/110265841469657561",
-      "content": "<p>Today I learned: the third most popular repository on GitHub is a collection of resources for developers affected by the 996 (9am-9pm, 6 days) work week.</p><p><a href=\"https://github.com/996icu/996.ICU\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/996icu/996.ICU</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://vis.social/@maarten",
-        "display_name": "Maarten Lambrechts"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/fatiando/pooch",
-    "title": "https://github.com/fatiando/pooch",
-    "latest": "2023-04-26T21:52:40+00:00",
-    "last_post": {
-      "url": "https://tech.lgbt/@jesper/110225351450170874",
-      "content": "<p>\ud83d\udcbb pooch (455\u2b50)</p><p>Tired of manually downloading data files for your projects? \ud83d\udc36\ud83d\udcc2</p><p>Check out Pooch by Fatiando!</p><p>This Python library automates the download and storage of your data, making it easy to manage and access in your code.</p><p>My newsletter subscribers learned about this 10 months ago!<br><a href=\"https://dramsch.net/newsletter\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">dramsch.net/newsletter</span><span class=\"invisible\"></span></a></p><p>Check it out here:<br><a href=\"https://github.com/fatiando/pooch\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/fatiando/pooch</span><span class=\"invisible\"></span></a></p><p><a href=\"https://tech.lgbt/tags/LateToTheParty\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>LateToTheParty</span></a> <a href=\"https://tech.lgbt/tags/DataScience\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DataScience</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://tech.lgbt/@jesper",
-        "display_name": "Jesper Dr.amsch :v_enby:"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/deepdoctection/deepdoctection",
-    "title": "GitHub - deepdoctection/deepdoctection: A Repo For Document AI",
-    "latest": "2023-04-26T21:45:02+00:00",
-    "last_post": {
-      "url": "https://die-partei.social/@hackernews/110267302079681044",
-      "content": "<p>DeepDoctection - <a href=\"https://github.com/deepdoctection/deepdoctection\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/deepdoctection/deep</span><span class=\"invisible\">doctection</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://die-partei.social/@hackernews",
-        "display_name": "Hackernews"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/mlfoundations/open_clip/blob/db53d2702adf426b8b3f6748cb7ef231a08ab027/tutorials/int8_tutorial.ipynb",
-    "title": "github.com/mlfoundations/open_...",
-    "latest": "2023-04-26T20:58:58+00:00",
-    "last_post": {
-      "url": "https://sigmoid.social/@aran/110267120880055172",
-      "content": "<p>RT @Tim_Dettmers@twitter.com</p><p>Our work on loss spikes and stable 8-bit CLIP training is the largest Int8 training to date (1B). We introduce the SwitchBack layers and StableAdamW to ensure stability at these scales. Work with the awesome @Mitchnw@twitter.com</p><p>Paper: <a href=\"https://arxiv.org/abs/2304.13013\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2304.13013</span><span class=\"invisible\"></span></a><br>Colab:  <a href=\"https://github.com/mlfoundations/open_clip/blob/db53d2702adf426b8b3f6748cb7ef231a08ab027/tutorials/int8_tutorial.ipynb\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/mlfoundations/open_</span><span class=\"invisible\">clip/blob/db53d2702adf426b8b3f6748cb7ef231a08ab027/tutorials/int8_tutorial.ipynb</span></a></p><p>\ud83d\udc26\ud83d\udd17: <a href=\"https://twitter.com/Tim_Dettmers/status/1651258930683838465\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">twitter.com/Tim_Dettmers/statu</span><span class=\"invisible\">s/1651258930683838465</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://sigmoid.social/@aran",
-        "display_name": "Aran Komatsuzaki"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/microsoft/JARVIS",
-    "title": "GitHub - microsoft/JARVIS: JARVIS, a system to connect LLMs with ML community",
-    "latest": "2023-04-26T20:22:32+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@jeffjarvis/110266977639351290",
-      "content": "<p><span class=\"h-card\"><a href=\"https://journa.host/@dankennedy_nu\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>dankennedy_nu</span></a></span> <span class=\"h-card\"><a href=\"https://journa.host/@pilhofer\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>pilhofer</span></a></span> <span class=\"h-card\"><a href=\"https://journa.host/@NUjournalism\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>NUjournalism</span></a></span> <br>Don't you know that I'm AI?<br><a href=\"https://github.com/microsoft/JARVIS\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/microsoft/JARVIS</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://sigmoid.social/@ceperez",
-        "display_name": "Carlos E. Perez @IntuitMachine"
-      },
-      {
-        "url": "https://mastodon.social/@jeffjarvis",
-        "display_name": "Jeff Jarvis"
       }
     ]
   }
