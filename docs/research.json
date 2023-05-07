@@ -1,5 +1,96 @@
 [
   {
+    "link": "https://arxiv.org/pdf/2206.07682.pdf",
+    "title": "https://arxiv.org/pdf/2206.07682.pdf",
+    "latest": "2023-05-07T20:56:10+00:00",
+    "last_post": {
+      "url": "https://mastodon.uno/@PietroTerna/110329394912664242",
+      "content": "<p>Emergent Abilities of Large Language Models<br>Scaling up language models has been shown to predictably improve performance and sample efficiency on a wide range of downstream tasks. This paper instead discusses an unpredictable phenomenon that we refer to as emergent abilities of large language models. We consider an ability to be emergent if it is not present in smaller models but is present in larger models.<br><a href=\"https://arxiv.org/pdf/2206.07682.pdf\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/pdf/2206.07682.pdf</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://creative.ai/@arxiv_cl",
+        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
+      }
+    ]
+  },
+  {
+    "link": "https://arxiv.org/abs/2305.02317",
+    "title": "Visual Chain of Thought: Bridging Logical Gaps with Multimodal Infillings",
+    "latest": "2023-05-07T18:42:08+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@aran/110307616154617481",
+      "content": "<p>Visual Chain of Thought: Bridging Logical Gaps with Multimodal Infillings</p><p>Presents VCoT, a novel method that leverages chain of thought prompting with vision-language grounding to recursively bridge the logical gaps within sequential data</p><p><a href=\"https://arxiv.org/abs/2305.02317\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2305.02317</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@aran",
+        "display_name": "Aran Komatsuzaki"
+      },
+      {
+        "url": "https://creative.ai/@arxiv_cl",
+        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
+      }
+    ]
+  },
+  {
+    "link": "https://arxiv.org/abs/2303.17651",
+    "title": "https://arxiv.org/abs/2303.17651",
+    "latest": "2023-05-07T18:20:52+00:00",
+    "last_post": {
+      "url": "https://z2h.dev/@volkan/110328783911026053",
+      "content": "<p>Iterative Refinement with Self-Feedback</p><p>SELF-REFINE, a framework improving LLM outputs using iterative feedback, emulates human text refinement. It doesn't need supervised training or reinforcement learning, functioning with one LLM. In 7 diverse tasks, SELF-REFINE surpasses direct generation, with outputs favored by humans and automated metrics, outperforming GPT-3.5 and GPT-4.</p><p><a href=\"https://arxiv.org/abs/2303.17651\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2303.17651</span><span class=\"invisible\"></span></a></p><p><a href=\"https://z2h.dev/tags/research\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>research</span></a> <a href=\"https://z2h.dev/tags/AI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AI</span></a> <a href=\"https://z2h.dev/tags/ML\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ML</span></a> <a href=\"https://z2h.dev/tags/LLM\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>LLM</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@aran",
+        "display_name": "Aran Komatsuzaki"
+      },
+      {
+        "url": "https://creative.ai/@arxiv_cl",
+        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
+      }
+    ]
+  },
+  {
+    "link": "https://arxiv.org/abs/2009.12240",
+    "title": "Weird AI Yankovic: Generating Parody Lyrics",
+    "latest": "2023-05-07T16:29:16+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@Riedl/110328345839214159",
+      "content": "<p><span class=\"h-card\"><a href=\"https://hci.social/@jbigham\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>jbigham</span></a></span> <span class=\"h-card\"><a href=\"https://idf.social/@Ian\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>Ian</span></a></span> <span class=\"h-card\"><a href=\"https://hci.social/@amyjko\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>amyjko</span></a></span> <a href=\"https://arxiv.org/abs/2009.12240\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2009.12240</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@Riedl",
+        "display_name": "Mark Riedl"
+      }
+    ]
+  },
+  {
+    "link": "https://arxiv.org/abs/2305.00944",
+    "title": "Poisoning Language Models During Instruction Tuning",
+    "latest": "2023-05-07T15:47:48+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@compsci_discussions/110328182736960926",
+      "content": "<p>[R] Poisoning Language Models During Instruction Tuning</p><p><a href=\"https://arxiv.org/abs/2305.00944\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2305.00944</span><span class=\"invisible\"></span></a></p><p>Discussions: <a href=\"https://discu.eu/q/https://arxiv.org/abs/2305.00944\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">discu.eu/q/https://arxiv.org/a</span><span class=\"invisible\">bs/2305.00944</span></a></p><p><a href=\"https://mastodon.social/tags/compsci\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>compsci</span></a> <a href=\"https://mastodon.social/tags/machinelearning\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>machinelearning</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://creative.ai/@alexjc",
+        "display_name": "Alex J. Champandard \ud83c\udf31"
+      },
+      {
+        "url": "https://creative.ai/@arxiv_cl",
+        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
+      },
+      {
+        "url": "https://mastodon.social/@compsci_discussions",
+        "display_name": "Compsci Weekly"
+      }
+    ]
+  },
+  {
     "link": "https://www.nature.com/articles/d41586-023-01487-y",
     "title": "\u2018Remarkable\u2019 AI tool designs mRNA vaccines that are more potent and stable",
     "latest": "2023-05-07T04:55:03+00:00",
@@ -775,25 +866,6 @@
       "content": "<p>\ud83d\udcdd Entity Tracking in Language Models \ud83d\udcda</p><p>\"Pretraining on large amounts of text corpora and code helps models learn to track entities in text, but large-scale pretraining alone does not make this capacity surface.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a></p><p>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2305.02363v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2305.02363v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
     },
     "people": [
-      {
-        "url": "https://creative.ai/@arxiv_cl",
-        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
-      }
-    ]
-  },
-  {
-    "link": "https://arxiv.org/abs/2305.00944",
-    "title": "Poisoning Language Models During Instruction Tuning",
-    "latest": "2023-05-05T06:40:33+00:00",
-    "last_post": {
-      "url": "https://mastodon.hk/@siuying/110305052612172443",
-      "content": "<p>[2305.00944] Poisoning Language Models During Instruction Tuning <a href=\"https://arxiv.org/abs/2305.00944\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2305.00944</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://creative.ai/@alexjc",
-        "display_name": "Alex J. Champandard \ud83c\udf31"
-      },
       {
         "url": "https://creative.ai/@arxiv_cl",
         "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
@@ -1594,21 +1666,6 @@
     ]
   },
   {
-    "link": "https://arxiv.org/abs/2305.02317",
-    "title": "Visual Chain of Thought: Bridging Logical Gaps with Multimodal Infillings",
-    "latest": "2023-05-04T00:37:26+00:00",
-    "last_post": {
-      "url": "https://sigmoid.social/@aran/110307616154617481",
-      "content": "<p>Visual Chain of Thought: Bridging Logical Gaps with Multimodal Infillings</p><p>Presents VCoT, a novel method that leverages chain of thought prompting with vision-language grounding to recursively bridge the logical gaps within sequential data</p><p><a href=\"https://arxiv.org/abs/2305.02317\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2305.02317</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://sigmoid.social/@aran",
-        "display_name": "Aran Komatsuzaki"
-      }
-    ]
-  },
-  {
     "link": "https://arxiv.org/abs/2305.02309",
     "title": "https://arxiv.org/abs/2305.02309",
     "latest": "2023-05-04T00:36:20+00:00",
@@ -1976,21 +2033,6 @@
     "last_post": {
       "url": "https://creative.ai/@arxiv_cl/110303597726508243",
       "content": "<p>\ud83d\udcdd Company Classification Using Zero-Shot Learning \ud83d\udcda\ud83e\udde0</p><p>\"Uses pre-trained transformer models such as BERT and RoBERTa to extract features from company descriptions, which are then classified into relevant categories using zero-shot learning without the need for training data for each category.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a> <a href=\"https://creative.ai/tags/LG\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>LG</span></a></p><p>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2305.01028v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2305.01028v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://creative.ai/@arxiv_cl",
-        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
-      }
-    ]
-  },
-  {
-    "link": "https://arxiv.org/pdf/2206.07682.pdf",
-    "title": "https://arxiv.org/pdf/2206.07682.pdf",
-    "latest": "2023-05-03T07:31:51+00:00",
-    "last_post": {
-      "url": "https://functional.cafe/@alois/110303583142683654",
-      "content": "<p>Reading of the day \"Emergent Abilities of Large Language Models\". \ud83e\uded6<br><a href=\"https://arxiv.org/pdf/2206.07682.pdf\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/pdf/2206.07682.pdf</span><span class=\"invisible\"></span></a></p>"
     },
     "people": [
       {
@@ -3145,36 +3187,6 @@
     "last_post": {
       "url": "https://botsin.space/@SocArXivBot/110283047929544630",
       "content": "<p>ADAM SMITH ON PUBLIC PROVISION OF EDUCATION <a href=\"http://osf.io/xrzmk/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">http://</span><span class=\"\">osf.io/xrzmk/</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://botsin.space/@SocArXivBot",
-        "display_name": "SocArXiv"
-      }
-    ]
-  },
-  {
-    "link": "http://osf.io/nw5rk/",
-    "title": "http://osf.io/nw5rk/",
-    "latest": "2023-04-29T16:29:24+00:00",
-    "last_post": {
-      "url": "https://botsin.space/@SocArXivBot/110283047854232235",
-      "content": "<p>What's Not to See? Foucault on Invisible Political Economy in Adam Smith and Adam Ferguson <a href=\"http://osf.io/nw5rk/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">http://</span><span class=\"\">osf.io/nw5rk/</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://botsin.space/@SocArXivBot",
-        "display_name": "SocArXiv"
-      }
-    ]
-  },
-  {
-    "link": "http://osf.io/rqhau/",
-    "title": "http://osf.io/rqhau/",
-    "latest": "2023-04-29T16:29:23+00:00",
-    "last_post": {
-      "url": "https://botsin.space/@SocArXivBot/110283047792483628",
-      "content": "<p>How Can I Liberate the Slaves?\" The Neglected Tradition of Developmental Abolitionism <a href=\"http://osf.io/rqhau/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">http://</span><span class=\"\">osf.io/rqhau/</span><span class=\"invisible\"></span></a></p>"
     },
     "people": [
       {
