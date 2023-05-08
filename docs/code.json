@@ -1,5 +1,193 @@
 [
   {
+    "link": "https://github.com/ZhengxiangShi/PowerfulPromptFT",
+    "title": "github.com/ZhengxiangShi/Power...",
+    "latest": "2023-05-08T21:12:58+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@aran/110312515022885739",
+      "content": "<p>Don't Stop Pretraining? Make Prompt-based Fine-tuning Powerful Learner</p><p>Proposes Prompt-based Continued Pre-training, which consistently improves the performance of prompt-based fine-tuning (up to 20.1% absolute).</p><p>Paper: <a href=\"https://arxiv.org/abs/2305.01711\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2305.01711</span><span class=\"invisible\"></span></a><br>Code: <a href=\"https://github.com/ZhengxiangShi/PowerfulPromptFT\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/ZhengxiangShi/Power</span><span class=\"invisible\">fulPromptFT</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@aran",
+        "display_name": "Aran Komatsuzaki"
+      },
+      {
+        "url": "https://creative.ai/@arxiv_cl",
+        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/jhorneman/amberstar",
+    "title": "GitHub - jhorneman/amberstar: Historical source code and documents related to Amberstar, the role-playing game developed by Thalion Software GmbH, and published for the Atari ST in 1992.",
+    "latest": "2023-05-08T20:59:42+00:00",
+    "last_post": {
+      "url": "https://mastodon.gamedev.place/@jurie/110335071497845127",
+      "content": "<p>With gracious help from <span class=\"h-card\"><a href=\"https://birb.stream/users/a1exh\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>a1exh</span></a></span> and Nico Bendlin, you can now read the source code of Amberstar, the first game I ever worked on. It came out over 30 years ago and the run-time was written entirely in 68000 assembler. <a href=\"https://mastodon.gamedev.place/tags/AtariST\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AtariST</span></a> <a href=\"https://mastodon.gamedev.place/tags/CRPG\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CRPG</span></a> <a href=\"https://mastodon.gamedev.place/tags/GameHistory\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>GameHistory</span></a> <a href=\"https://mastodon.gamedev.place/tags/68K\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>68K</span></a> <a href=\"https://mastodon.gamedev.place/tags/Thalion\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Thalion</span></a> <a href=\"https://github.com/jhorneman/amberstar\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/jhorneman/amberstar</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.gamedev.place/@jurie",
+        "display_name": "Jurie Horneman"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/fnl/segtok",
+    "title": "GitHub - fnl/segtok: Segtok v2 is here: https://github.com/fnl/syntok -- A rule-based sentence segmenter (splitter) and a word tokenizer using orthographic features.",
+    "latest": "2023-05-08T20:41:05+00:00",
+    "last_post": {
+      "url": "https://creative.ai/@arxiv_cl/110334998295380724",
+      "content": "<p>\ud83d\udcdd CiteCaseLAW: Citation Worthiness Detection in Caselaw for Legal Assistive Writing \ud83d\udcda\ud83e\udde0</p><p>\"Introduces a labeled dataset of 178M sentences for citation-worthiness detection in the legal domain from the Caselaw Access Project (CAP).\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a> <a href=\"https://creative.ai/tags/LG\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>LG</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/fnl/segtok\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/fnl/segtok</span><span class=\"invisible\"></span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2305.03508v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2305.03508v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://creative.ai/@arxiv_cl",
+        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/itl-ed/ns-arch",
+    "title": "GitHub - itl-ed/ns-arch: A Neurosymbolic Architecture for Interactive Symbol Grounding",
+    "latest": "2023-05-08T19:41:05+00:00",
+    "last_post": {
+      "url": "https://creative.ai/@arxiv_cl/110334762396044128",
+      "content": "<p>\ud83d\udcdd Interactive Acquisition of Fine-Grained Visual Concepts by Exploiting Semantics of Generic Characterizations in Discourse \ud83d\udcda</p><p>\"Composed of two interacting neural modules: a (1) referential learner which grounds the novel words, and (2) pragmatic inference module which infers the meaning of these grounded concepts.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/itl-ed/ns-arch\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/itl-ed/ns-arch</span><span class=\"invisible\"></span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2305.03461v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2305.03461v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://creative.ai/@arxiv_cl",
+        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/armandrotaru/",
+    "title": "armandrotaru - Overview",
+    "latest": "2023-05-08T19:17:04+00:00",
+    "last_post": {
+      "url": "https://creative.ai/@arxiv_cl/110334667955438771",
+      "content": "<p>\ud83d\udcdd LMs Stand Their Ground: Investigating the Effect of Embodiment in Figurative Language Interpretation by Language Models \ud83d\udcda</p><p>\"Language models conceptualise embodied concepts to a degree which facilitates the interpretation of figurative language in a better fashion when the action of the figurative sentence is more embodied.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/armandrotaru/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/armandrotaru/</span><span class=\"invisible\"></span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2305.03445v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2305.03445v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://creative.ai/@arxiv_cl",
+        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/grantmcdermott/quarto-revealjs-clean",
+    "title": "GitHub - grantmcdermott/quarto-revealjs-clean: A minimal and elegant presentation theme for Quarto Reveal.js",
+    "latest": "2023-05-08T18:04:47.090000+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@gmcd/110333752265873436",
+      "content": "<p>I've been using <a href=\"https://mastodon.social/tags/QuartoPub\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>QuartoPub</span></a> Revealjs for presentations lately and it's fantastic. But none of the themes quite fit my aesthetic preferences.</p><p>So I've ported a modern Beamer theme template that I like a lot. Repo + demo slides available here: <a href=\"https://github.com/grantmcdermott/quarto-revealjs-clean\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/grantmcdermott/quar</span><span class=\"invisible\">to-revealjs-clean</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mstdn.social/@felwert",
+        "display_name": "Frederik Elwert"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/DataDog/malicious-software-packages-dataset/blob/main/samples/pypi/2023-05-07-colopym2-v0.0.1.zip",
+    "title": "malicious-software-packages-dataset/2023-05-07-colopym2-v0.0.1.zip at main \u00b7 DataDog/malicious-software-packages-dataset",
+    "latest": "2023-05-08T17:18:21+00:00",
+    "last_post": {
+      "url": "https://infosec.exchange/@christophetd/110333503872177995",
+      "content": "<p>PyPI package \"colorpym2\" published yesterday, watching the clipboard waiting for something that looks like a cryptocurrency address, overwriting it with the attacker's own. </p><p>Also steal various sensitive information and establishes persistence</p><p>Sample: <a href=\"https://github.com/DataDog/malicious-software-packages-dataset/blob/main/samples/pypi/2023-05-07-colopym2-v0.0.1.zip\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/DataDog/malicious-s</span><span class=\"invisible\">oftware-packages-dataset/blob/main/samples/pypi/2023-05-07-colopym2-v0.0.1.zip</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@rrmutt",
+        "display_name": "rrmutt"
+      }
+    ]
+  },
+  {
+    "link": "https://codeberg.org/",
+    "title": "https://codeberg.org",
+    "latest": "2023-05-08T17:14:25+00:00",
+    "last_post": {
+      "url": "https://toot.cafe/@JesseSkinner/110334185686268764",
+      "content": "<p>Ooh Codeberg looks like a very cool non-profit, free alternative to GitHub etc.:</p><p><a href=\"https://codeberg.org/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">codeberg.org/</span><span class=\"invisible\"></span></a></p><p>Hat tip to <span class=\"h-card\"><a href=\"https://mastodon.ar.al/@aral\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>aral</span></a></span> (I discovered it from a link Aral posted earlier.)</p>"
+    },
+    "people": [
+      {
+        "url": "https://social.yesterweb.org/@triptych",
+        "display_name": "Andrew Wooldridge"
+      },
+      {
+        "url": "https://toot.cafe/@JesseSkinner",
+        "display_name": "Jesse Skinner :javascript:"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/OpenAPC/openapc-de",
+    "title": "GitHub - OpenAPC/openapc-de: Collect and disseminate information on fee-based Open Access publishing",
+    "latest": "2023-05-08T17:05:30+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@eliocamp/110334150617354230",
+      "content": "<p>There are a million different lists of wages per country. Are there any somewhat comprehensive list of journals' <a href=\"https://mastodon.social/tags/APC\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>APC</span></a> out there? I've found this one: <a href=\"https://github.com/OpenAPC/openapc-de\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/OpenAPC/openapc-de</span><span class=\"invisible\"></span></a>,  but it's of APCs payed by institutions, and I think it's more relevant to have APCs listed by publishers.</p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@eliocamp",
+        "display_name": "Elio Campitelli"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/vadimdemedes/ink",
+    "title": "GitHub - vadimdemedes/ink: \ud83c\udf08 React for interactive command-line apps",
+    "latest": "2023-05-08T17:05:04+00:00",
+    "last_post": {
+      "url": "https://die-partei.social/@hackernews/110334148879800773",
+      "content": "<p>Ink: React for interactive command-line apps - <a href=\"https://github.com/vadimdemedes/ink\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/vadimdemedes/ink</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://die-partei.social/@hackernews",
+        "display_name": "Hackernews"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/NixOS/nixpkgs/blob/master/nixos/modules/installer/cd-dvd/installation-cd-minimal-new-kernel-no-zfs.nix",
+    "title": "nixpkgs/installation-cd-minimal-new-kernel-no-zfs.nix at master \u00b7 NixOS/nixpkgs",
+    "latest": "2023-05-08T16:49:29+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@dwf/110334087630011384",
+      "content": "<p>Stashing this here in the hope it's useful to someone:</p><p>If you want recent <a href=\"https://sigmoid.social/tags/NixOS\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>NixOS</span></a> running on a 32-bit armv6l <a href=\"https://sigmoid.social/tags/RaspberryPi\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>RaspberryPi</span></a> Zero (W) but have failed to build an armv6l-linux image against a recent nixpkgs on an x86_64 host (in particular using flakes),</p><p>a) stop using qemu to do it<br>b) set nixpkgs.hostPlatform.system = \"armv6l-linux\" and nixpkgs.buildPlatform.system = \"x86_64-linux\" in the nixosSystem target<br>c) disable zfs with this one weird trick <a href=\"https://github.com/NixOS/nixpkgs/blob/master/nixos/modules/installer/cd-dvd/installation-cd-minimal-new-kernel-no-zfs.nix\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/NixOS/nixpkgs/blob/</span><span class=\"invisible\">master/nixos/modules/installer/cd-dvd/installation-cd-minimal-new-kernel-no-zfs.nix</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@dwf",
+        "display_name": "David Warde-Farley"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/antoinelrnld/modlog",
+    "title": "GitHub - antoinelrnld/modlog",
+    "latest": "2023-05-08T16:41:05+00:00",
+    "last_post": {
+      "url": "https://creative.ai/@arxiv_cl/110334054587542018",
+      "content": "<p>\ud83d\udcdd MindGames: Targeting Theory of Mind in Large Language Models with Dynamic Epistemic Modal Logic \ud83d\udcda\ud83d\udc7e</p><p>\"Uses dynamic epistemic logic (DEL), a formal theory of knowledge, to generate more intricate problems than in prior studies and express these problems using natural language.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a> <a href=\"https://creative.ai/tags/AI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AI</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/antoinelrnld/modlog\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/antoinelrnld/modlog</span><span class=\"invisible\"></span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2305.03353v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2305.03353v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://creative.ai/@arxiv_cl",
+        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/TodePond/Arroost",
     "title": "GitHub - TodePond/Arroost: arrows in arrows in arrows",
     "latest": "2023-05-08T09:19:47+00:00",
@@ -304,21 +492,6 @@
       {
         "url": "https://ravenation.club/@AlgoCompSynth",
         "display_name": "AlgoCompSynth by znmeb #MaskUp"
-      }
-    ]
-  },
-  {
-    "link": "https://codeberg.org/",
-    "title": "https://codeberg.org",
-    "latest": "2023-05-07T20:13:32+00:00",
-    "last_post": {
-      "url": "https://social.yesterweb.org/@triptych/110329227667872338",
-      "content": "<p>I have an account on <a href=\"https://codeberg.org\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">codeberg.org</span><span class=\"invisible\"></span></a> now --&gt; <a href=\"https://codeberg.org/triptych\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">codeberg.org/triptych</span><span class=\"invisible\"></span></a> not much there yet except some forked repos. Still thinking about how to use it.</p>"
-    },
-    "people": [
-      {
-        "url": "https://social.yesterweb.org/@triptych",
-        "display_name": "Andrew Wooldridge"
       }
     ]
   },
@@ -1222,21 +1395,6 @@
       {
         "url": "https://creative.ai/@arxiv_cl",
         "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/ZhengxiangShi/PowerfulPromptFT",
-    "title": "github.com/ZhengxiangShi/Power...",
-    "latest": "2023-05-04T21:23:17+00:00",
-    "last_post": {
-      "url": "https://sigmoid.social/@aran/110312515022885739",
-      "content": "<p>Don't Stop Pretraining? Make Prompt-based Fine-tuning Powerful Learner</p><p>Proposes Prompt-based Continued Pre-training, which consistently improves the performance of prompt-based fine-tuning (up to 20.1% absolute).</p><p>Paper: <a href=\"https://arxiv.org/abs/2305.01711\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2305.01711</span><span class=\"invisible\"></span></a><br>Code: <a href=\"https://github.com/ZhengxiangShi/PowerfulPromptFT\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/ZhengxiangShi/Power</span><span class=\"invisible\">fulPromptFT</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://sigmoid.social/@aran",
-        "display_name": "Aran Komatsuzaki"
       }
     ]
   },
@@ -3042,156 +3200,6 @@
       {
         "url": "https://indieweb.social/@tchambers",
         "display_name": "Tim Chambers"
-      }
-    ]
-  },
-  {
-    "link": "https://codeberg.org/arnelson/fep-fffd/src/branch/fep-fffd/feps/fep-fffd.md",
-    "title": "fep-fffd",
-    "latest": "2023-04-29T23:38:27+00:00",
-    "last_post": {
-      "url": "https://mastodon.online/@arnelson/110284734953108510",
-      "content": "<p>While developing Tapir, I realized something: if I'm going to support multiple protocols (at least AP and Nostr but probably more), it'll encounter duplicate messages from AP&lt;-&gt;Nostr bridges. Shouldn't there be a way to recognize and merge these duplicates?</p><p>That idea led to FEP-fffd: Proxy Objects. <a href=\"https://codeberg.org/arnelson/fep-fffd/src/branch/fep-fffd/feps/fep-fffd.md\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">codeberg.org/arnelson/fep-fffd</span><span class=\"invisible\">/src/branch/fep-fffd/feps/fep-fffd.md</span></a></p><p><a href=\"https://mastodon.online/tags/ActivityPub\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ActivityPub</span></a> <a href=\"https://mastodon.online/tags/Fediverse\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Fediverse</span></a> <a href=\"https://mastodon.online/tags/Nostr\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Nostr</span></a> <a href=\"https://mastodon.online/tags/FEP\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>FEP</span></a> <a href=\"https://mastodon.online/tags/Tapir\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Tapir</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.online/@arnelson",
-        "display_name": "Adam Nelson"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/vpavlenko/study-music",
-    "title": "GitHub - vpavlenko/study-music: An \"awesome music theory\" kinda wiki",
-    "latest": "2023-04-29T21:50:02+00:00",
-    "last_post": {
-      "url": "https://die-partei.social/@hackernews/110284308664081756",
-      "content": "<p>Awesome Music Theory: books, links, videos, research, visuals, composition - <a href=\"https://github.com/vpavlenko/study-music\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/vpavlenko/study-mus</span><span class=\"invisible\">ic</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://die-partei.social/@hackernews",
-        "display_name": "Hackernews"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/henryiii/flake8-errmsg/pull/11",
-    "title": "README: Fix RunetimeError typo by hugovk \u00b7 Pull Request #11 \u00b7 henryiii/flake8-errmsg",
-    "latest": "2023-04-29T21:13:54+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@hugovk/110284166577395825",
-      "content": "<p>Typo of the day: \"RunetimeError\"</p><p><a href=\"https://github.com/henryiii/flake8-errmsg/pull/11\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/henryiii/flake8-err</span><span class=\"invisible\">msg/pull/11</span></a></p><p><a href=\"https://mastodon.social/tags/TypoOfTheDay\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>TypoOfTheDay</span></a> <a href=\"https://mastodon.social/tags/DiffusionBee\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DiffusionBee</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@hugovk",
-        "display_name": "hugovk"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/nanos/FediFetcher/releases/tag/v4.2.1",
-    "title": "Release v4.2.1 \u00b7 nanos/FediFetcher",
-    "latest": "2023-04-29T21:11:36+00:00",
-    "last_post": {
-      "url": "https://mstdn.thms.uk/@michael/110278195787145010",
-      "content": "<p><a href=\"https://mstdn.thms.uk/tags/FediFetcher\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>FediFetcher</span></a> is now on v4.2.1:</p><p>New in this release, you can now fetch replies to any posts you've favourited, as suggested by <span class=\"h-card\"><a href=\"https://coldrick.me.uk/@eddie\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>eddie</span></a></span> </p><p>For full details, see the release page:</p><p><a href=\"https://github.com/nanos/FediFetcher/releases/tag/v4.2.1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/nanos/FediFetcher/r</span><span class=\"invisible\">eleases/tag/v4.2.1</span></a></p><p><a href=\"https://mstdn.thms.uk/tags/mastodon\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>mastodon</span></a> <a href=\"https://mstdn.thms.uk/tags/mastoadmin\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>mastoadmin</span></a> <a href=\"https://mstdn.thms.uk/tags/fediadmin\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>fediadmin</span></a> <a href=\"https://mstdn.thms.uk/tags/SingleUserInstance\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>SingleUserInstance</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://indieweb.social/@tchambers",
-        "display_name": "Tim Chambers"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/mastodon/mastodon/tree/v0.7/app/controllers/api",
-    "title": "mastodon/app/controllers/api at v0.7 \u00b7 mastodon/mastodon",
-    "latest": "2023-04-29T20:11:58+00:00",
-    "last_post": {
-      "url": "https://fedified.com/@DataDrivenMD/110282971564604797",
-      "content": "<p>TIL: Mastodon didn't have blocking functionality until v0.7, which was released ~7 months after the project was founded</p><p><a href=\"https://github.com/mastodon/mastodon/tree/v0.7/app/controllers/api\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/mastodon/mastodon/t</span><span class=\"invisible\">ree/v0.7/app/controllers/api</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@mmasnick",
-        "display_name": "Mike Masnick \u2705"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/stanfordnlp/string2string",
-    "title": "GitHub - stanfordnlp/string2string: String-to-String Algorithms for Natural Language Processing",
-    "latest": "2023-04-29T19:56:28+00:00",
-    "last_post": {
-      "url": "https://creative.ai/@arxiv_cl/110283862102711976",
-      "content": "<p>\ud83d\udcdd String2string: A Modern Python Library for String-to-String Algorithms \ud83d\udcda</p><p>\"The library provides a comprehensive suite of efficient algorithms for a broad range of string-to-string problems, ranging from string alignment problems, to lexical and semantic search, and similarity analysis.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a> <a href=\"https://creative.ai/tags/DL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DL</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/stanfordnlp/string2string\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/stanfordnlp/string2</span><span class=\"invisible\">string</span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2304.14395v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2304.14395v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://creative.ai/@arxiv_cl",
-        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/zeux/meshoptimizer/releases/tag/v0.19",
-    "title": "Release v0.19 \u00b7 zeux/meshoptimizer",
-    "latest": "2023-04-29T18:40:36+00:00",
-    "last_post": {
-      "url": "https://mastodon.gamedev.place/@zeux/110283563769582066",
-      "content": "<p>Unrelated to the previous blog post, but meshoptimizer 0.19 is released!</p><p>This is a smaller release than usual, but it has a few nice perf/efficiency improvements to several algorithms as well as a few gltfpack changes.</p><p>No significant improvements to simplification yet :( this algorithm continues to be my nemesis. Hopefully things will happen in 0.20!</p><p><a href=\"https://github.com/zeux/meshoptimizer/releases/tag/v0.19\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/zeux/meshoptimizer/</span><span class=\"invisible\">releases/tag/v0.19</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.gamedev.place/@zeux",
-        "display_name": "Arseny Kapoulkine"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/curai/",
-    "title": "Curai",
-    "latest": "2023-04-29T18:16:30+00:00",
-    "last_post": {
-      "url": "https://creative.ai/@arxiv_cl/110283469007852844",
-      "content": "<p>\ud83d\udcdd CONSCENDI: A Contrastive and Scenario-Guided Distillation Approach to Guardrail Models for Virtual Assistants \ud83d\udcda\ud83d\udc7e\ud83e\udde0</p><p>\"Generates training data for a guardrail model by prompting GPT-4 to write rule-violating and rule-conforming examples for a given task and rule.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a> <a href=\"https://creative.ai/tags/AI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AI</span></a> <a href=\"https://creative.ai/tags/LG\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>LG</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/curai/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/curai/</span><span class=\"invisible\"></span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2304.14364v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2304.14364v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://creative.ai/@arxiv_cl",
-        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/goncalomb/sane-wasm",
-    "title": "GitHub - goncalomb/sane-wasm: A WebAssembly port of the SANE API.",
-    "latest": "2023-04-29T17:50:03+00:00",
-    "last_post": {
-      "url": "https://die-partei.social/@hackernews/110283364958304344",
-      "content": "<p>WebAssembly+WebUSB port of the SANE scanner library - <a href=\"https://github.com/goncalomb/sane-wasm\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/goncalomb/sane-wasm</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://die-partei.social/@hackernews",
-        "display_name": "Hackernews"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/OPENER-next/OpenStop",
-    "title": "GitHub - OPENER-next/OpenStop: App for collecting OpenStreetMap-compliant accessibility data in public transport",
-    "latest": "2023-04-29T16:53:13+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@habi/110283059687510586",
-      "content": "<p><span class=\"h-card\"><a href=\"https://ubuntu.social/@popey\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>popey</span></a></span> <span class=\"h-card\"><a href=\"https://en.osm.town/@watmildon\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>watmildon</span></a></span> <span class=\"h-card\"><a href=\"https://chaos.social/@alexcg\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>alexcg</span></a></span> <span class=\"h-card\"><a href=\"https://mastodon.social/@streetcomplete\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>streetcomplete</span></a></span> <span class=\"h-card\"><a href=\"https://en.osm.town/@openstreetmap\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>openstreetmap</span></a></span> <a href=\"https://github.com/OPENER-next/OpenStop\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/OPENER-next/OpenSto</span><span class=\"invisible\">p</span></a> is also something comparable. For a subset of public transport things and unfortunately only in German at the moment.</p>"
-    },
-    "people": [
-      {
-        "url": "https://chaos.social/@alexcg",
-        "display_name": "Alex C-G :python:"
       }
     ]
   }
