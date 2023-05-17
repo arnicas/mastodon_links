@@ -1,5 +1,260 @@
 [
   {
+    "link": "https://codeberg.org/orson/orson/releases",
+    "title": "orson",
+    "latest": "2023-05-17T09:55:18+00:00",
+    "last_post": {
+      "url": "https://post.lurk.org/@Lemmy/110383419799196663",
+      "content": "<p>Orson update.</p><p>Orson beta update 0.5.1 is a maintenance release which fixes some issues with the desktop version of the software.<br>To update a previous version, just overwrite it with the new one.</p><p>- Fix database initialisation error resulting in read-only interactions.<br>- Fix Mac desktop installer compatibility with versions of MacOS prior to 11, by updating sharp image library.<br>- Fix background size in Map content manager.</p><p>See: <a href=\"https://codeberg.org/orson/orson/releases\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">codeberg.org/orson/orson/relea</span><span class=\"invisible\">ses</span></a></p><p>The login password for the desktop app is 'owner'. (Passwords will be updateable in a future release.)</p><p>If you try to install the desktop version and experience any problems please drop me a line!</p><p><a href=\"https://post.lurk.org/tags/research\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>research</span></a> <a href=\"https://post.lurk.org/tags/notebook\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>notebook</span></a> <a href=\"https://post.lurk.org/tags/digitalhumanities\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>digitalhumanities</span></a> <a href=\"https://post.lurk.org/tags/culturalheritage\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>culturalheritage</span></a> <a href=\"https://post.lurk.org/tags/documentation\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>documentation</span></a> <a href=\"https://post.lurk.org/tags/knowledge\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>knowledge</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://post.lurk.org/@Lemmy",
+        "display_name": "Lemmy"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/zkat/miette",
+    "title": "GitHub - zkat/miette: Fancy extension for std: :Error with pretty, detailed diagnostic printing.",
+    "latest": "2023-05-17T09:27:08+00:00",
+    "last_post": {
+      "url": "https://strangeobject.space/@james/110383187765193148",
+      "content": "<p>Well I just saw a demo of <span class=\"h-card\"><a href=\"https://toot.cat/@zkat\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>zkat</span></a></span>'s Miette and holy shit is beautiful. I need to continue learning Rust, but do it badly, so I can stare at beautiful error messages all day.</p><p><a href=\"https://strangeobject.space/tags/rust\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rust</span></a></p><p><a href=\"https://github.com/zkat/miette\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/zkat/miette</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@ada",
+        "display_name": "Ada Rose Cannon"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/mastodon/mastodon/pull/25019",
+    "title": "Add hCaptcha support by ClearlyClaire \u00b7 Pull Request #25019 \u00b7 mastodon/mastodon",
+    "latest": "2023-05-17T08:41:31+00:00",
+    "last_post": {
+      "url": "https://mstdn.thms.uk/@michael/110382945604080941",
+      "content": "<p>PSA: It looks like mastodon.social has implemented hCAPTCHA on their signups yesterday.</p><p>So, if you have limited / suspended mastodon.social because of the spam issue, you may wish to reconsider this.</p><p>This will also likely mean that spammers will move to different instances (already seeing them targeting mastodon.world).</p><p>You may wish to consider implementing hCAPTCHA yourself to protect your own instance, and here is the relevant PR:</p><p><a href=\"https://github.com/mastodon/mastodon/pull/25019\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/mastodon/mastodon/p</span><span class=\"invisible\">ull/25019</span></a></p><p>The reason I'm suggesting this, is because if you are a small/medium instance with open registrations, and spammers find and abuse your instance, I imagine that other instances will limit/suspend your instance without hesitation, given how willing some were to limit/suspend the much larger mastodon.social.</p><p>But do note this comment on the PR:</p><p><p>\u201cTo give some context to people seeing this: this is an emergency feature backport from Glitch SOC to help mitigating an ongoing spam wave, this feature may not make it in a next release, or with significative changes.\u201d</p></p><p><a href=\"https://mstdn.thms.uk/tags/MastoAdmin\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>MastoAdmin</span></a> <a href=\"https://mstdn.thms.uk/tags/FediAdmin\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>FediAdmin</span></a> <a href=\"https://mstdn.thms.uk/tags/fediblock\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>fediblock</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@micron",
+        "display_name": "Martin"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/simoncozens/wasm-examples/commit/d0420534c95f2f2e1e9727c75f8769679e3a740d",
+    "title": "More encouragement \u00b7 simoncozens/wasm-examples@d042053",
+    "latest": "2023-05-17T08:40:12+00:00",
+    "last_post": {
+      "url": "https://vis.social/@xeophin/110383124466364178",
+      "content": "<p>LB: The world needs more git commits like this: <a href=\"https://github.com/simoncozens/wasm-examples/commit/d0420534c95f2f2e1e9727c75f8769679e3a740d\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/simoncozens/wasm-ex</span><span class=\"invisible\">amples/commit/d0420534c95f2f2e1e9727c75f8769679e3a740d</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://vis.social/@xeophin",
+        "display_name": "Kaspar Manz"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/simoncozens/wasm-examples",
+    "title": "GitHub - simoncozens/wasm-examples",
+    "latest": "2023-05-17T08:39:28+00:00",
+    "last_post": {
+      "url": "https://typo.social/@jenskutilek/110362819010071783",
+      "content": "<p>I heard you like fonts and rasterizers, so you now can put your own rasterizer into your font \ud83e\udd2f<br><span class=\"h-card\"><a href=\"https://typo.social/@simoncozens\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>simoncozens</span></a></span> never ceases to amaze!<br><a href=\"https://github.com/simoncozens/wasm-examples\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/simoncozens/wasm-ex</span><span class=\"invisible\">amples</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://vis.social/@xeophin",
+        "display_name": "Kaspar Manz"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/Yuliang-Liu/MultimodalOCR",
+    "title": "GitHub - Yuliang-Liu/MultimodalOCR: On the Hidden Mystery of OCR in Large Multimodal Models (Evaluation Pipeline)",
+    "latest": "2023-05-17T08:32:52+00:00",
+    "last_post": {
+      "url": "https://creative.ai/@arxiv_cl/110383095638673629",
+      "content": "<p>\ud83d\udcdd On the Hidden Mystery of OCR in Large Multimodal Models \ud83d\udd2d\ud83d\udcda</p><p>\"Conducts a comprehensive study of publicly available multimodal models, evaluating their performance in text recognition, text-based visual question answering, and key information extraction from images with text.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CV\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CV</span></a> <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/Yuliang-Liu/MultimodalOCR\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/Yuliang-Liu/Multimo</span><span class=\"invisible\">dalOCR</span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2305.07895v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2305.07895v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://creative.ai/@arxiv_cl",
+        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/FreddieNIU/Prompt-QA",
+    "title": "GitHub - FreddieNIU/Prompt-QA: Prompt_based linear-probing fine-tuning on cross-domain QA",
+    "latest": "2023-05-17T08:08:53+00:00",
+    "last_post": {
+      "url": "https://creative.ai/@arxiv_cl/110383001325760159",
+      "content": "<p>\ud83d\udcdd Learning to Generalize for Cross-Domain QA \ud83d\udcda\ud83d\udc7e</p><p>\"First initialized with the output weights of a trained prompt-based classifier on source data and then fine-tuned on the target data, which is the linear probing then finetuning strategy.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a> <a href=\"https://creative.ai/tags/AI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AI</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/FreddieNIU/Prompt-QA\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/FreddieNIU/Prompt-Q</span><span class=\"invisible\">A</span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2305.08208v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2305.08208v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://creative.ai/@arxiv_cl",
+        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/CreativeInquiry/FriendlyDockerMLTutorial",
+    "title": "GitHub - CreativeInquiry/FriendlyDockerMLTutorial: The Docker meets Machine Learning Tutorial You've Been Wanting!",
+    "latest": "2023-05-17T08:04:03+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@bndktgrs/110382982347361007",
+      "content": "<p>Just got a nice PR on my 4 years old tutorial on <a href=\"https://mastodon.social/tags/ML\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ML</span></a> meets <a href=\"https://mastodon.social/tags/Docker\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Docker</span></a>. The PR adds a GPUs with Docker Compose section. Thanks!</p><p>\"Get ML Stuff Running, Using Docker \u2013 A Friendly Tutorial for Artist and Designers\"<br><a href=\"https://github.com/CreativeInquiry/FriendlyDockerMLTutorial\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/CreativeInquiry/Fri</span><span class=\"invisible\">endlyDockerMLTutorial</span></a></p><p>PS. Wrote the tut as part of my residency at the STUDIO for Creative Inquiry at CMU. Very fond memories of this special time. \ud83d\ude4f <span class=\"h-card\"><a href=\"https://mstdn.social/@golan\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>golan</span></a></span></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@bndktgrs",
+        "display_name": "Benedikt Gro\u00df"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/Wilfred/difftastic/releases/tag/0.47.0",
+    "title": "Release 0.47.0 \u00b7 Wilfred/difftastic",
+    "latest": "2023-05-17T07:55:28+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@wilfredh/110382159904170381",
+      "content": "<p>I've released difftastic 0.47! In this release:</p><p>* Language detection is now completely overridable. You can do things like DFT_OVERRIDE='*.json:yaml' to treat all .json files as YAML.<br>* Added support for the Solidity language.</p><p><a href=\"https://github.com/Wilfred/difftastic/releases/tag/0.47.0\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/Wilfred/difftastic/</span><span class=\"invisible\">releases/tag/0.47.0</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://framapiaf.org/@fcodvpt",
+        "display_name": "Fran\u00e7oise Conil"
+      }
+    ]
+  },
+  {
+    "link": "https://gitlab.com/gitlab-org/gitlab-web-ide/-/issues/153",
+    "title": "Remove runtime dependency on `vscode-cdn.net` (#153) \u00b7 Issues \u00b7 GitLab.org / gitlab-web-ide \u00b7 GitLab",
+    "latest": "2023-05-17T07:36:23+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@dleberre/110382605514745435",
+      "content": "<p>People hosting a 15.11 version of gitlab may want to disable vscode_web_ide feature flag: <a href=\"https://gitlab.com/gitlab-org/gitlab-web-ide/-/issues/153\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gitlab.com/gitlab-org/gitlab-w</span><span class=\"invisible\">eb-ide/-/issues/153</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://framapiaf.org/@fcodvpt",
+        "display_name": "Fran\u00e7oise Conil"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/relikd/baRSS",
+    "title": "GitHub - relikd/baRSS: Menu Bar RSS reader for macOS",
+    "latest": "2023-05-17T04:03:42.211000+00:00",
+    "last_post": {
+      "url": "https://a.farook.org/objects/1f6b03aa-5b27-4ea2-a165-5318cac1f064",
+      "content": "Every week for the past few weeks I\u2019ve been working on a mini side project each week \ud83d\ude42<br><br>This week, it was a site/feed checker. I have been using the excellent baRSS (<a href=\"https://github.com/relikd/baRSS\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">https://github.com/relikd/baRSS</a>) for at least a couple of years now to monitor updates to a few RSS feeds I follow.<br><br>But this week I realized that I might also want to follow updates to non-RSS feed items, for example, a list of posts on a forum. I realized that there was no solution to do that \u2014 at least, not the way I wanted it to work \u2026<br><br>So I started work on a quick-and-dirty replacement to baRSS in Swift that would do both jobs at once \u2014 monitor RSS feeds, and monitor a given site for updates to a set of items identified by an xpath.<br><br>The basic implementation took only about a day of work and it is working quite nicely, if I do say so myself \ud83d\ude42 Plus, when I compared memory usage, my implementation uses like 25% of the memory that baRSS did \u2014 granted, baRSS was written in ObjectiveC and my implementation was SwiftUI, but I didn\u2019t expect that huge a difference in memory usage \u2026<br><br>I do have more things to do \u2014 add a Settings screen (currently all settings are hardcoded) and add a xpath tester so that you can easily figure out if the correct data would be extracted for a given site, to name a few. But I\u2019m happy enough with the basic functionality for the time being \u2026<br><br><a class=\"hashtag\" href=\"https://a.farook.org/tag/rss\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#RSS</a> <a class=\"hashtag\" href=\"https://a.farook.org/tag/swiftui\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#SwiftUI</a> <a class=\"hashtag\" href=\"https://a.farook.org/tag/macos\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#macOS</a> <a class=\"hashtag\" href=\"https://a.farook.org/tag/coding\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#Coding</a>"
+    },
+    "people": [
+      {
+        "url": "https://a.farook.org/users/f",
+        "display_name": "Fahim Farook"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/Unbabel/COMET",
+    "title": "GitHub - Unbabel/COMET: A Neural Framework for MT Evaluation",
+    "latest": "2023-05-17T03:20:53+00:00",
+    "last_post": {
+      "url": "https://creative.ai/@arxiv_cl/110381868851165874",
+      "content": "<p>\ud83d\udcdd Towards Understanding and Improving Knowledge Distillation for Neural Machine Translation \ud83d\udcda\ud83d\udc7e</p><p>\"Proposes a novel method named Top-1 Information Enhanced Knowledge Distillation (TIE-KD), which aims to address two limitations of the vanilla word-level KD method: (1) lacking the special treatment on the crucial top-1 information.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a> <a href=\"https://creative.ai/tags/AI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AI</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/Unbabel/COMET\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/Unbabel/COMET</span><span class=\"invisible\"></span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2305.08096v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2305.08096v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://creative.ai/@arxiv_cl",
+        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/QiushiSun/BBT-RGB",
+    "title": "GitHub - QiushiSun/BBT-RGB",
+    "latest": "2023-05-17T02:20:50+00:00",
+    "last_post": {
+      "url": "https://creative.ai/@arxiv_cl/110381632774706853",
+      "content": "<p>\ud83d\udcdd Make Prompt-Based Black-Box Tuning Colorful: Boosting Model Generalization From Three Orthogonal Perspectives \ud83d\udcda\ud83d\udc7e</p><p>\"Works by improving the initialization, searching for better prompts and using a novel verbalizer construction method to automatically generate labels from input texts for few shot settings for gradient free optimization of task specific language models.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a> <a href=\"https://creative.ai/tags/AI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AI</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/QiushiSun/BBT-RGB\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/QiushiSun/BBT-RGB</span><span class=\"invisible\"></span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2305.08088v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2305.08088v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://creative.ai/@arxiv_cl",
+        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/google/cld3",
+    "title": "GitHub - google/cld3",
+    "latest": "2023-05-17T01:56:51+00:00",
+    "last_post": {
+      "url": "https://creative.ai/@arxiv_cl/110381538411792497",
+      "content": "<p>\ud83d\udcdd Multilingual Previously Fact-Checked Claim Retrieval \ud83d\udcda</p><p>\"Collects 28k posts in 27 languages from social media, 206k fact-checks in 39 languages written by professional fact-checkers, as well as 31k connections between these two groups.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/google/cld3\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/google/cld3</span><span class=\"invisible\"></span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2305.07991v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2305.07991v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://creative.ai/@arxiv_cl",
+        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/thu-coai/PICL",
+    "title": "GitHub - thu-coai/PICL: Code for ACL2023 paper: Pre-Training to Learn in Context",
+    "latest": "2023-05-17T01:04:28+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@aran/110381332490398862",
+      "content": "<p>Pre-Training to Learn in Context</p><p>Proposes PICL, a framework to enhance the LMs' in-context learning ability by pre-training on \"intrinsic tasks\" in the general plain-text corpus using the simple LM objective.</p><p>repo: <a href=\"https://github.com/thu-coai/PICL\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/thu-coai/PICL</span><span class=\"invisible\"></span></a><br>abs: <a href=\"https://arxiv.org/abs/2305.09137\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2305.09137</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@aran",
+        "display_name": "Aran Komatsuzaki"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/khuangaf/ZeroFEC",
+    "title": "GitHub - khuangaf/ZeroFEC: Official implementation of the ACL 2023 paper: \"Zero-shot Faithful Factual Error Correction\"",
+    "latest": "2023-05-17T00:32:53+00:00",
+    "last_post": {
+      "url": "https://creative.ai/@arxiv_cl/110381208257507934",
+      "content": "<p>\ud83d\udcdd Zero-Shot Faithful Factual Error Correction \ud83d\udcda</p><p>\"Formulates questions about input claims, looks for correct answers in the given evidence, and assesses the faithfulness of each correction based on its consistency with the evidence.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/khuangaf/ZeroFEC\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/khuangaf/ZeroFEC</span><span class=\"invisible\"></span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2305.07982v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2305.07982v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://creative.ai/@arxiv_cl",
+        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/chockenberry/XMLProcessor",
+    "title": "GitHub - chockenberry/XMLProcessor: A simple XML parser for Swift.",
+    "latest": "2023-05-17T00:14:34+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@chockenberry/110381136223773955",
+      "content": "<p>If you've ever needed to deal with legacy XML, and would rather do it with JSON, here's a lightweight solution:</p><p><a href=\"https://github.com/chockenberry/XMLProcessor\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/chockenberry/XMLPro</span><span class=\"invisible\">cessor</span></a></p><p>The sample SwiftUI app reads an XML feed, grabs some Markdown text for the article, then uses Foundation to convert it into an AttributedString (using both inline and presentation intents).</p><p>And if you\u2019re looking for a <span class=\"h-card\"><a href=\"https://mastodon.social/@daringfireball\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>daringfireball</span></a></span> app with pink accent colors, it's got that, too.</p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@chockenberry",
+        "display_name": "Craig Hockenberry"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/calebdwilliams/element-internals-polyfill",
     "title": "github.com/calebdwilliams/elem...",
     "latest": "2023-05-16T21:40:57+00:00",
@@ -2872,273 +3127,6 @@
     "last_post": {
       "url": "https://creative.ai/@arxiv_cl/110335989324551631",
       "content": "<p>\ud83d\udcdd Context-Aware Semantic Similarity Measurement for Unsupervised Word Sense Disambiguation \ud83d\udcda\ud83d\udc7e</p><p>\"Introduces a new context-aware approach to unsupervised word sense disambiguation that provides a flexible mechanism for incorporating contextual information into the similarity measurement process by leveraging the contextual similarity between word senses.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a> <a href=\"https://creative.ai/tags/AI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AI</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/jorge-martinez-gil/uwsd\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/jorge-martinez-gil/</span><span class=\"invisible\">uwsd</span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2305.03520v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2305.03520v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://creative.ai/@arxiv_cl",
-        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/open-mmlab/Multimodal-GPT",
-    "title": "GitHub - open-mmlab/Multimodal-GPT: Multimodal-GPT",
-    "latest": "2023-05-09T00:50:13+00:00",
-    "last_post": {
-      "url": "https://sigmoid.social/@aran/110335977955364104",
-      "content": "<p>MultiModal-GPT: A Vision and Language Model for Dialogue with Humans</p><p>repo: <a href=\"https://github.com/open-mmlab/Multimodal-GPT\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/open-mmlab/Multimod</span><span class=\"invisible\">al-GPT</span></a><br>abs: <a href=\"https://arxiv.org/abs/2305.04790\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2305.04790</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://sigmoid.social/@aran",
-        "display_name": "Aran Komatsuzaki"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/susam/devil",
-    "title": "GitHub - susam/devil: Emacs minor mode that intercepts and translates keystrokes to provide a modifier-free editing experience",
-    "latest": "2023-05-08T23:30:53+00:00",
-    "last_post": {
-      "url": "https://mastodon.online/@arialdo/110335436012741924",
-      "content": "<p>Evil <a href=\"https://mastodon.online/tags/Emacs\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Emacs</span></a> users have now the change to be diabolical with Devil</p><p><a href=\"https://github.com/susam/devil\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/susam/devil</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@dabeaz",
-        "display_name": "David Beazley"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/huggingface/transformers",
-    "title": "GitHub - huggingface/transformers: \ud83e\udd17 Transformers: State-of-the-art Machine Learning for Pytorch, TensorFlow, and JAX.",
-    "latest": "2023-05-08T23:29:06+00:00",
-    "last_post": {
-      "url": "https://creative.ai/@arxiv_cl/110335658998693803",
-      "content": "<p>\ud83d\udcdd Few-Shot Domain-Adaptive Visually-Fused Event Detection From Text \ud83d\udcda\ud83d\udc7e</p><p>\"Relies on an imaginator, which is trained on text-only data points and can generate images from text descriptions in the absence of visual context for training the event detection model.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a> <a href=\"https://creative.ai/tags/AI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AI</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/huggingface/transformers\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/huggingface/transfo</span><span class=\"invisible\">rmers</span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2305.03517v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2305.03517v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://creative.ai/@arxiv_cl",
-        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
-      },
-      {
-        "url": "https://creative.ai/@alexjc",
-        "display_name": "Alex J. Champandard \ud83c\udf31"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/dfm/snakemake-staging",
-    "title": "github.com/dfm/snakemake-stagi...",
-    "latest": "2023-05-08T23:23:45+00:00",
-    "last_post": {
-      "url": "https://fosstodon.org/@dfm/110335637956155580",
-      "content": "<p>As part of my <a href=\"https://show-your.work\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">show-your.work</span><span class=\"invisible\"></span></a> development, I've just released a new library for \"staging out\" computationally expensive (or otherwise inaccessible) rules in a <a href=\"https://snakemake.readthedocs.io\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">snakemake.readthedocs.io</span><span class=\"invisible\"></span></a> workflow: <a href=\"https://github.com/dfm/snakemake-staging\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/dfm/snakemake-stagi</span><span class=\"invisible\">ng</span></a></p><p>If you use <a href=\"https://fosstodon.org/tags/snakemake\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>snakemake</span></a>, please check it out and let me know what you think!</p>"
-    },
-    "people": [
-      {
-        "url": "https://fosstodon.org/@dfm",
-        "display_name": "Dan F-M"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/ZhengxiangShi/PowerfulPromptFT",
-    "title": "github.com/ZhengxiangShi/Power...",
-    "latest": "2023-05-08T21:12:58+00:00",
-    "last_post": {
-      "url": "https://sigmoid.social/@aran/110312515022885739",
-      "content": "<p>Don't Stop Pretraining? Make Prompt-based Fine-tuning Powerful Learner</p><p>Proposes Prompt-based Continued Pre-training, which consistently improves the performance of prompt-based fine-tuning (up to 20.1% absolute).</p><p>Paper: <a href=\"https://arxiv.org/abs/2305.01711\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2305.01711</span><span class=\"invisible\"></span></a><br>Code: <a href=\"https://github.com/ZhengxiangShi/PowerfulPromptFT\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/ZhengxiangShi/Power</span><span class=\"invisible\">fulPromptFT</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://sigmoid.social/@aran",
-        "display_name": "Aran Komatsuzaki"
-      },
-      {
-        "url": "https://creative.ai/@arxiv_cl",
-        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/jhorneman/amberstar",
-    "title": "GitHub - jhorneman/amberstar: Historical source code and documents related to Amberstar, the role-playing game developed by Thalion Software GmbH, and published for the Atari ST in 1992.",
-    "latest": "2023-05-08T20:59:42+00:00",
-    "last_post": {
-      "url": "https://mastodon.gamedev.place/@jurie/110335071497845127",
-      "content": "<p>With gracious help from <span class=\"h-card\"><a href=\"https://birb.stream/users/a1exh\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>a1exh</span></a></span> and Nico Bendlin, you can now read the source code of Amberstar, the first game I ever worked on. It came out over 30 years ago and the run-time was written entirely in 68000 assembler. <a href=\"https://mastodon.gamedev.place/tags/AtariST\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AtariST</span></a> <a href=\"https://mastodon.gamedev.place/tags/CRPG\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CRPG</span></a> <a href=\"https://mastodon.gamedev.place/tags/GameHistory\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>GameHistory</span></a> <a href=\"https://mastodon.gamedev.place/tags/68K\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>68K</span></a> <a href=\"https://mastodon.gamedev.place/tags/Thalion\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Thalion</span></a> <a href=\"https://github.com/jhorneman/amberstar\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/jhorneman/amberstar</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.gamedev.place/@jurie",
-        "display_name": "Jurie Horneman"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/fnl/segtok",
-    "title": "GitHub - fnl/segtok: Segtok v2 is here: https://github.com/fnl/syntok -- A rule-based sentence segmenter (splitter) and a word tokenizer using orthographic features.",
-    "latest": "2023-05-08T20:41:05+00:00",
-    "last_post": {
-      "url": "https://creative.ai/@arxiv_cl/110334998295380724",
-      "content": "<p>\ud83d\udcdd CiteCaseLAW: Citation Worthiness Detection in Caselaw for Legal Assistive Writing \ud83d\udcda\ud83e\udde0</p><p>\"Introduces a labeled dataset of 178M sentences for citation-worthiness detection in the legal domain from the Caselaw Access Project (CAP).\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a> <a href=\"https://creative.ai/tags/LG\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>LG</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/fnl/segtok\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/fnl/segtok</span><span class=\"invisible\"></span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2305.03508v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2305.03508v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://creative.ai/@arxiv_cl",
-        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/itl-ed/ns-arch",
-    "title": "GitHub - itl-ed/ns-arch: A Neurosymbolic Architecture for Interactive Symbol Grounding",
-    "latest": "2023-05-08T19:41:05+00:00",
-    "last_post": {
-      "url": "https://creative.ai/@arxiv_cl/110334762396044128",
-      "content": "<p>\ud83d\udcdd Interactive Acquisition of Fine-Grained Visual Concepts by Exploiting Semantics of Generic Characterizations in Discourse \ud83d\udcda</p><p>\"Composed of two interacting neural modules: a (1) referential learner which grounds the novel words, and (2) pragmatic inference module which infers the meaning of these grounded concepts.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/itl-ed/ns-arch\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/itl-ed/ns-arch</span><span class=\"invisible\"></span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2305.03461v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2305.03461v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://creative.ai/@arxiv_cl",
-        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/armandrotaru/",
-    "title": "armandrotaru - Overview",
-    "latest": "2023-05-08T19:17:04+00:00",
-    "last_post": {
-      "url": "https://creative.ai/@arxiv_cl/110334667955438771",
-      "content": "<p>\ud83d\udcdd LMs Stand Their Ground: Investigating the Effect of Embodiment in Figurative Language Interpretation by Language Models \ud83d\udcda</p><p>\"Language models conceptualise embodied concepts to a degree which facilitates the interpretation of figurative language in a better fashion when the action of the figurative sentence is more embodied.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/armandrotaru/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/armandrotaru/</span><span class=\"invisible\"></span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2305.03445v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2305.03445v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://creative.ai/@arxiv_cl",
-        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/DataDog/malicious-software-packages-dataset/blob/main/samples/pypi/2023-05-07-colopym2-v0.0.1.zip",
-    "title": "malicious-software-packages-dataset/2023-05-07-colopym2-v0.0.1.zip at main \u00b7 DataDog/malicious-software-packages-dataset",
-    "latest": "2023-05-08T17:18:21+00:00",
-    "last_post": {
-      "url": "https://infosec.exchange/@christophetd/110333503872177995",
-      "content": "<p>PyPI package \"colorpym2\" published yesterday, watching the clipboard waiting for something that looks like a cryptocurrency address, overwriting it with the attacker's own. </p><p>Also steal various sensitive information and establishes persistence</p><p>Sample: <a href=\"https://github.com/DataDog/malicious-software-packages-dataset/blob/main/samples/pypi/2023-05-07-colopym2-v0.0.1.zip\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/DataDog/malicious-s</span><span class=\"invisible\">oftware-packages-dataset/blob/main/samples/pypi/2023-05-07-colopym2-v0.0.1.zip</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@rrmutt",
-        "display_name": "rrmutt"
-      }
-    ]
-  },
-  {
-    "link": "https://codeberg.org/",
-    "title": "https://codeberg.org",
-    "latest": "2023-05-08T17:14:25+00:00",
-    "last_post": {
-      "url": "https://toot.cafe/@JesseSkinner/110334185686268764",
-      "content": "<p>Ooh Codeberg looks like a very cool non-profit, free alternative to GitHub etc.:</p><p><a href=\"https://codeberg.org/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">codeberg.org/</span><span class=\"invisible\"></span></a></p><p>Hat tip to <span class=\"h-card\"><a href=\"https://mastodon.ar.al/@aral\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>aral</span></a></span> (I discovered it from a link Aral posted earlier.)</p>"
-    },
-    "people": [
-      {
-        "url": "https://social.yesterweb.org/@triptych",
-        "display_name": "Andrew Wooldridge"
-      },
-      {
-        "url": "https://toot.cafe/@JesseSkinner",
-        "display_name": "Jesse Skinner :javascript:"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/OpenAPC/openapc-de",
-    "title": "GitHub - OpenAPC/openapc-de: Collect and disseminate information on fee-based Open Access publishing",
-    "latest": "2023-05-08T17:05:30+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@eliocamp/110334150617354230",
-      "content": "<p>There are a million different lists of wages per country. Are there any somewhat comprehensive list of journals' <a href=\"https://mastodon.social/tags/APC\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>APC</span></a> out there? I've found this one: <a href=\"https://github.com/OpenAPC/openapc-de\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/OpenAPC/openapc-de</span><span class=\"invisible\"></span></a>,  but it's of APCs payed by institutions, and I think it's more relevant to have APCs listed by publishers.</p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@eliocamp",
-        "display_name": "Elio Campitelli"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/vadimdemedes/ink",
-    "title": "GitHub - vadimdemedes/ink: \ud83c\udf08 React for interactive command-line apps",
-    "latest": "2023-05-08T17:05:04+00:00",
-    "last_post": {
-      "url": "https://die-partei.social/@hackernews/110334148879800773",
-      "content": "<p>Ink: React for interactive command-line apps - <a href=\"https://github.com/vadimdemedes/ink\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/vadimdemedes/ink</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://die-partei.social/@hackernews",
-        "display_name": "Hackernews"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/NixOS/nixpkgs/blob/master/nixos/modules/installer/cd-dvd/installation-cd-minimal-new-kernel-no-zfs.nix",
-    "title": "nixpkgs/installation-cd-minimal-new-kernel-no-zfs.nix at master \u00b7 NixOS/nixpkgs",
-    "latest": "2023-05-08T16:49:29+00:00",
-    "last_post": {
-      "url": "https://sigmoid.social/@dwf/110334087630011384",
-      "content": "<p>Stashing this here in the hope it's useful to someone:</p><p>If you want recent <a href=\"https://sigmoid.social/tags/NixOS\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>NixOS</span></a> running on a 32-bit armv6l <a href=\"https://sigmoid.social/tags/RaspberryPi\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>RaspberryPi</span></a> Zero (W) but have failed to build an armv6l-linux image against a recent nixpkgs on an x86_64 host (in particular using flakes),</p><p>a) stop using qemu to do it<br>b) set nixpkgs.hostPlatform.system = \"armv6l-linux\" and nixpkgs.buildPlatform.system = \"x86_64-linux\" in the nixosSystem target<br>c) disable zfs with this one weird trick <a href=\"https://github.com/NixOS/nixpkgs/blob/master/nixos/modules/installer/cd-dvd/installation-cd-minimal-new-kernel-no-zfs.nix\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/NixOS/nixpkgs/blob/</span><span class=\"invisible\">master/nixos/modules/installer/cd-dvd/installation-cd-minimal-new-kernel-no-zfs.nix</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://sigmoid.social/@dwf",
-        "display_name": "David Warde-Farley"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/antoinelrnld/modlog",
-    "title": "GitHub - antoinelrnld/modlog",
-    "latest": "2023-05-08T16:41:05+00:00",
-    "last_post": {
-      "url": "https://creative.ai/@arxiv_cl/110334054587542018",
-      "content": "<p>\ud83d\udcdd MindGames: Targeting Theory of Mind in Large Language Models with Dynamic Epistemic Modal Logic \ud83d\udcda\ud83d\udc7e</p><p>\"Uses dynamic epistemic logic (DEL), a formal theory of knowledge, to generate more intricate problems than in prior studies and express these problems using natural language.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a> <a href=\"https://creative.ai/tags/AI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AI</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/antoinelrnld/modlog\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/antoinelrnld/modlog</span><span class=\"invisible\"></span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2305.03353v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2305.03353v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://creative.ai/@arxiv_cl",
-        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/TodePond/Arroost",
-    "title": "GitHub - TodePond/Arroost: arrows in arrows in arrows",
-    "latest": "2023-05-08T09:19:47+00:00",
-    "last_post": {
-      "url": "https://universeodon.com/@TodePond/110332319349409709",
-      "content": "<p>wrote up a readme for ARROOST<br><a href=\"https://github.com/TodePond/Arroost\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/TodePond/Arroost</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://universeodon.com/@TodePond",
-        "display_name": "Lu Wilson"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/facebookresearch/DPR",
-    "title": "GitHub - facebookresearch/DPR: Dense Passage Retriever - is a set of tools and models for open domain Q&A task.",
-    "latest": "2023-05-08T09:05:05+00:00",
-    "last_post": {
-      "url": "https://creative.ai/@arxiv_cl/110332261551212177",
-      "content": "<p>\ud83d\udcdd Chain-of-Skills: A Configurable Model for Open-Domain Question Answering \ud83d\udcda</p><p>\"Modular retriever is a multitask retriever trained in a modular way, where individual retriever modules correspond to key retrieval skills that can be reused across datasets.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/facebookresearch/DPR\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/facebookresearch/DP</span><span class=\"invisible\">R</span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2305.03130v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2305.03130v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
     },
     "people": [
       {
