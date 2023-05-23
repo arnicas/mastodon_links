@@ -1,5 +1,215 @@
 [
   {
+    "link": "https://github.com/enblacar/SCpubr",
+    "title": "GitHub - enblacar/SCpubr: Generate high quality, publication ready visualizations for single cell transcriptomics data.",
+    "latest": "2023-05-23T22:02:06+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@eliocamp/110420251552032568",
+      "content": "<p><span class=\"h-card\"><a href=\"https://fediscience.org/@mjskay\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>mjskay</span></a></span> This is a ggnewscale revdep that failed, so I wanted to check it out. I just bailed out before it finished installing all the dependencies. I'll take my chances with CRAN.</p><p>Link: <a href=\"https://github.com/enblacar/SCpubr\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/enblacar/SCpubr</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@eliocamp",
+        "display_name": "Elio Campitelli"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/sts10/orchard-street-wordlists",
+    "title": "GitHub - sts10/orchard-street-wordlists: New wordlists for generating strong passphrases",
+    "latest": "2023-05-23T21:39:44+00:00",
+    "last_post": {
+      "url": "https://hachyderm.io/@schlink/110418195660583643",
+      "content": "<p>Excited to announce that one of my Orchard Street Wordlists is now available to Strongbox users!</p><p><a href=\"https://github.com/strongbox-password-safe/Strongbox/blob/master/resources/wordlists/orchard-street-medium.txt\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/strongbox-password-</span><span class=\"invisible\">safe/Strongbox/blob/master/resources/wordlists/orchard-street-medium.txt</span></a></p><p><a href=\"https://strongboxsafe.com/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">strongboxsafe.com/</span><span class=\"invisible\"></span></a></p><p>All of my Orchard Street Wordlists are available here: <br><a href=\"https://github.com/sts10/orchard-street-wordlists\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/sts10/orchard-stree</span><span class=\"invisible\">t-wordlists</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://hachyderm.io/@schlink",
+        "display_name": "Sam Schlinkert"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/strongbox-password-safe/Strongbox/blob/master/resources/wordlists/orchard-street-medium.txt",
+    "title": "github.com/strongbox-password-...",
+    "latest": "2023-05-23T21:39:44+00:00",
+    "last_post": {
+      "url": "https://hachyderm.io/@schlink/110418195660583643",
+      "content": "<p>Excited to announce that one of my Orchard Street Wordlists is now available to Strongbox users!</p><p><a href=\"https://github.com/strongbox-password-safe/Strongbox/blob/master/resources/wordlists/orchard-street-medium.txt\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/strongbox-password-</span><span class=\"invisible\">safe/Strongbox/blob/master/resources/wordlists/orchard-street-medium.txt</span></a></p><p><a href=\"https://strongboxsafe.com/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">strongboxsafe.com/</span><span class=\"invisible\"></span></a></p><p>All of my Orchard Street Wordlists are available here: <br><a href=\"https://github.com/sts10/orchard-street-wordlists\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/sts10/orchard-stree</span><span class=\"invisible\">t-wordlists</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://hachyderm.io/@schlink",
+        "display_name": "Sam Schlinkert"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/mastodon/mastodon/issues/787",
+    "title": "No user-land garbage collection of Redux state \u00b7 Issue #787 \u00b7 mastodon/mastodon",
+    "latest": "2023-05-23T21:06:07+00:00",
+    "last_post": {
+      "url": "https://functional.cafe/@chris__martin/110420020244473407",
+      "content": "<p>Great evidence that you can just leak all the memory you want and your product can still be good enough for a lot of purposes, gonna go ahead and be a bit sad anyway that this issue has been open for six years <a href=\"https://github.com/mastodon/mastodon/issues/787\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/mastodon/mastodon/i</span><span class=\"invisible\">ssues/787</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://feed.hella.cheap/@bob",
+        "display_name": "bob"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/eliocamp/mountr",
+    "title": "GitHub - eliocamp/mountr: Mount remote folders using sshfs from R",
+    "latest": "2023-05-23T21:03:37+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@eliocamp/110420021596805662",
+      "content": "<p>I've just remembered I'd made the mountr <a href=\"https://mastodon.social/tags/RStats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>RStats</span></a> package, which uses SSHFS to mount remote folders through ssh. Past me was very considerate to present me and took their time writing documentation so it was very easy to remember how it worked. </p><p><a href=\"https://github.com/eliocamp/mountr\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/eliocamp/mountr</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@eliocamp",
+        "display_name": "Elio Campitelli"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/DanielBalsam/surv_ai",
+    "title": "GitHub - DanielBalsam/surv_ai: A framework to empower quantitative modeling using Large Language Models (LLMs)",
+    "latest": "2023-05-23T19:46:40+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@compsci_discussions/110419719021713471",
+      "content": "<p>[P] surv_ai: An Open Source Framework for Modeling and Comparative Analysis using AI Agents, Inspired by Classical Ensemble Classifiers</p><p><a href=\"https://github.com/DanielBalsam/surv_ai\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/DanielBalsam/surv_a</span><span class=\"invisible\">i</span></a></p><p>Discussions: <a href=\"https://discu.eu/q/https://github.com/DanielBalsam/surv_ai\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">discu.eu/q/https://github.com/</span><span class=\"invisible\">DanielBalsam/surv_ai</span></a></p><p><a href=\"https://mastodon.social/tags/compsci\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>compsci</span></a> <a href=\"https://mastodon.social/tags/machinelearning\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>machinelearning</span></a> <a href=\"https://mastodon.social/tags/programming\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>programming</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@compsci_discussions",
+        "display_name": "Compsci Weekly"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/1Blademaster/pydocuchat",
+    "title": "GitHub - 1Blademaster/pydocuchat",
+    "latest": "2023-05-23T19:46:02+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@python_discussions/110419716493023044",
+      "content": "<p>Asking questions on my own PDFs via the command line</p><p><a href=\"https://github.com/1Blademaster/pydocuchat\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/1Blademaster/pydocu</span><span class=\"invisible\">chat</span></a></p><p>Discussions: <a href=\"https://discu.eu/q/https://github.com/1Blademaster/pydocuchat\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">discu.eu/q/https://github.com/</span><span class=\"invisible\">1Blademaster/pydocuchat</span></a></p><p><a href=\"https://mastodon.social/tags/programming\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>programming</span></a> <a href=\"https://mastodon.social/tags/python\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>python</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@python_discussions",
+        "display_name": "Python Weekly"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/google/comprehensive-rust",
+    "title": "GitHub - google/comprehensive-rust: This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust to everyone.",
+    "latest": "2023-05-23T19:10:02+00:00",
+    "last_post": {
+      "url": "https://die-partei.social/@hackernews/110419574940726638",
+      "content": "<p>Comprehensive Rust: course used by the Android team at Google - <a href=\"https://github.com/google/comprehensive-rust\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/google/comprehensiv</span><span class=\"invisible\">e-rust</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://die-partei.social/@hackernews",
+        "display_name": "Hackernews"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/cisnlp/Glot500",
+    "title": "GitHub - cisnlp/Glot500: Glot500: Scaling Multilingual Corpora and Language Models to 500+ Languages",
+    "latest": "2023-05-23T18:42:10+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@aran/110419465347473367",
+      "content": "<p>Glot500: Scaling Multilingual Corpora and Language Models to 500 Languages</p><p>repo: <a href=\"https://github.com/cisnlp/Glot500\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/cisnlp/Glot500</span><span class=\"invisible\"></span></a><br>abs: <a href=\"https://arxiv.org/abs/2305.12182\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2305.12182</span><span class=\"invisible\"></span></a><br>HuggingFace: <a href=\"https://huggingface.co/cis-lmu/glot500-base\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">huggingface.co/cis-lmu/glot500</span><span class=\"invisible\">-base</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@aran",
+        "display_name": "Aran Komatsuzaki"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/aiwaves-cn/RecurrentGPT",
+    "title": "GitHub - aiwaves-cn/RecurrentGPT",
+    "latest": "2023-05-23T18:42:00+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@aran/110419464719235327",
+      "content": "<p>RT @wangchunshu@twitter.com</p><p>Thanks a lot for sharing @arankomatsuzaki@twitter.com !<br>Checkout our online demo and write your own fictions at <a href=\"https://aiwaves.org/recurrentgpt\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">aiwaves.org/recurrentgpt</span><span class=\"invisible\"></span></a>. An interactive fiction version available at <a href=\"https://aiwaves.org/interactivefiction\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">aiwaves.org/interactivefiction</span><span class=\"invisible\"></span></a> (WIP). The code is available at <a href=\"https://github.com/aiwaves-cn/RecurrentGPT\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/aiwaves-cn/Recurren</span><span class=\"invisible\">tGPT</span></a>, customize it as you wish! <a href=\"https://twitter.com/arankomatsuzaki/status/1660815714985603072\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">twitter.com/arankomatsuzaki/st</span><span class=\"invisible\">atus/1660815714985603072</span></a></p><p>\ud83d\udc26\ud83d\udd17: <a href=\"https://twitter.com/wangchunshu/status/1660874927644479488\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">twitter.com/wangchunshu/status</span><span class=\"invisible\">/1660874927644479488</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@aran",
+        "display_name": "Aran Komatsuzaki"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/zhengzangw/Sequence-Scheduling",
+    "title": "github.com/zhengzangw/Sequence...",
+    "latest": "2023-05-23T18:41:53+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@aran/110419464272109741",
+      "content": "<p>RT @zhengzangw@twitter.com</p><p>Can we use <a href=\"https://sigmoid.social/tags/LLM\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>LLM</span></a> to speed up <a href=\"https://sigmoid.social/tags/LLM\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>LLM</span></a> inference? \ud83d\udd25Excited to share our new work: Response Length Perception and Sequence Scheduling: An LLM-Empowered LLM Inference Pipeline.\ud83e\uddf54</p><p>ArXiv: <a href=\"https://arxiv.org/abs/2305.13144\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2305.13144</span><span class=\"invisible\"></span></a><br>Blog: <a href=\"https://zhengzangw.github.io/blogs/seqsch/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">zhengzangw.github.io/blogs/seq</span><span class=\"invisible\">sch/</span></a><br>Code: <a href=\"https://github.com/zhengzangw/Sequence-Scheduling\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/zhengzangw/Sequence</span><span class=\"invisible\">-Scheduling</span></a></p><p>\ud83d\udc26\ud83d\udd17: <a href=\"https://twitter.com/zhengzangw/status/1660833269972074496\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">twitter.com/zhengzangw/status/</span><span class=\"invisible\">1660833269972074496</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@aran",
+        "display_name": "Aran Komatsuzaki"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/SimonHalvdansson/Harmonic-HN",
+    "title": "GitHub - SimonHalvdansson/Harmonic-HN: An Android client for Hacker News",
+    "latest": "2023-05-23T18:25:02+00:00",
+    "last_post": {
+      "url": "https://die-partei.social/@hackernews/110419397994439327",
+      "content": "<p>Show HN: I'm open sourcing Harmonic, the Android Hacker News client - <a href=\"https://github.com/SimonHalvdansson/Harmonic-HN\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/SimonHalvdansson/Ha</span><span class=\"invisible\">rmonic-HN</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://die-partei.social/@hackernews",
+        "display_name": "Hackernews"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/scripting/feedToMasto",
+    "title": "GitHub - scripting/feedToMasto: Node app that checks a list of feeds periodically, post new items to Mastodon.",
+    "latest": "2023-05-23T17:18:50+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@davew/110419137699689710",
+      "content": "<p><span class=\"h-card\"><a href=\"https://indieweb.social/@tchambers\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>tchambers</span></a></span> <span class=\"h-card\"><a href=\"https://venera.social/profile/activitypubblueskybridge\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>activitypubblueskybridge</span></a></span> </p><p>yes, this is the one i wrote, also posts to bluesky and wordpress.</p><p><a href=\"https://github.com/scripting/feedToMasto\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/scripting/feedToMas</span><span class=\"invisible\">to</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@davew",
+        "display_name": "Dave Winer \u2615\ufe0f"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/hmlendea/mastodon-rss-bot",
+    "title": "GitHub - hmlendea/mastodon-rss-bot: Mastodon bot that posts the entries from any RSS feed",
+    "latest": "2023-05-23T17:17:12+00:00",
+    "last_post": {
+      "url": "https://indieweb.social/@tchambers/110419131240810349",
+      "content": "<p><span class=\"h-card\"><a href=\"https://mastodon.social/@davew\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>davew</span></a></span> </p><p>Not sure this qualifies, but it is the main way I've seen to get RSS content into the Mastodon post form.... There are a number of solutions like this: <a href=\"https://github.com/hmlendea/mastodon-rss-bot\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/hmlendea/mastodon-r</span><span class=\"invisible\">ss-bot</span></a></p><p>cc: <span class=\"h-card\"><a href=\"https://venera.social/profile/activitypubblueskybridge\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>activitypubblueskybridge</span></a></span></p>"
+    },
+    "people": [
+      {
+        "url": "https://indieweb.social/@tchambers",
+        "display_name": "Tim Chambers"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/facebookresearch/fairseq/",
     "title": "GitHub - facebookresearch/fairseq: Facebook AI Research Sequence-to-Sequence Toolkit written in Python.",
     "latest": "2023-05-23T09:40:09+00:00",
@@ -259,21 +469,6 @@
       {
         "url": "https://creative.ai/@arxiv_cl",
         "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/aiwaves-cn/RecurrentGPT",
-    "title": "GitHub - aiwaves-cn/RecurrentGPT",
-    "latest": "2023-05-23T01:12:07+00:00",
-    "last_post": {
-      "url": "https://sigmoid.social/@aran/110415336394152761",
-      "content": "<p>RecurrentGPT: Interactive Generation of (Arbitrarily) Long Text</p><p>Generates a paragraph at each timestep and updates its language-based long-short term memory stored on the hard drive and the prompt, respectively. </p><p>repo: <a href=\"https://github.com/aiwaves-cn/RecurrentGPT\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/aiwaves-cn/Recurren</span><span class=\"invisible\">tGPT</span></a> <br>abs: <a href=\"https://arxiv.org/abs/2305.13304\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2305.13304</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://sigmoid.social/@aran",
-        "display_name": "Aran Komatsuzaki"
       }
     ]
   },
@@ -2985,209 +3180,6 @@
       {
         "url": "https://ciberlandia.pt/@villares",
         "display_name": "Alexandre B A Villares \ud83d\udc0d"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/zwegner/x86-sat",
-    "title": "GitHub - zwegner/x86-sat: Basic SAT model of x86 instructions using Z3, autogenerated from Intel docs",
-    "latest": "2023-05-16T03:46:21+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@compsci_discussions/110376306680257546",
-      "content": "<p>x86-sat: Basic SAT model of x86 instructions using Z3, autogenerated from Intel docs</p><p><a href=\"https://github.com/zwegner/x86-sat\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/zwegner/x86-sat</span><span class=\"invisible\"></span></a></p><p>Discussions: <a href=\"https://discu.eu/q/https://github.com/zwegner/x86-sat\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">discu.eu/q/https://github.com/</span><span class=\"invisible\">zwegner/x86-sat</span></a></p><p><a href=\"https://mastodon.social/tags/asm\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>asm</span></a> <a href=\"https://mastodon.social/tags/assembly\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>assembly</span></a> <a href=\"https://mastodon.social/tags/compilers\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>compilers</span></a> <a href=\"https://mastodon.social/tags/compsci\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>compsci</span></a> <a href=\"https://mastodon.social/tags/formalmethods\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>formalmethods</span></a> <a href=\"https://mastodon.social/tags/programming\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>programming</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@compsci_discussions",
-        "display_name": "Compsci Weekly"
-      }
-    ]
-  },
-  {
-    "link": "https://gist.github.com/MiguelGuthridge/43b1a60fe83530edf4e00970fb83b738",
-    "title": "pip install *",
-    "latest": "2023-05-16T03:45:53+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@python_discussions/110376304872509309",
-      "content": "<p>I've created a simple script to install all the Python packages</p><p><a href=\"https://gist.github.com/MiguelGuthridge/43b1a60fe83530edf4e00970fb83b738\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gist.github.com/MiguelGuthridg</span><span class=\"invisible\">e/43b1a60fe83530edf4e00970fb83b738</span></a></p><p>Discussions: <a href=\"https://discu.eu/q/https://gist.github.com/MiguelGuthridge/43b1a60fe83530edf4e00970fb83b738\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">discu.eu/q/https://gist.github</span><span class=\"invisible\">.com/MiguelGuthridge/43b1a60fe83530edf4e00970fb83b738</span></a></p><p><a href=\"https://mastodon.social/tags/programmerhumor\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>programmerhumor</span></a> <a href=\"https://mastodon.social/tags/programming\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>programming</span></a> <a href=\"https://mastodon.social/tags/python\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>python</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@python_discussions",
-        "display_name": "Python Weekly"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/dll-wu/IS-CSE",
-    "title": "GitHub - dll-wu/IS-CSE: This repositoy contains the official implementation of AAAI 2023 paper: Instance Smoothed Contrastive Learning for Unsupervised Sentence Embedding",
-    "latest": "2023-05-16T03:36:47+00:00",
-    "last_post": {
-      "url": "https://creative.ai/@arxiv_cl/110376269090475669",
-      "content": "<p>\ud83d\udcdd Instance Smoothed Contrastive Learning for Unsupervised Sentence Embedding \ud83d\udcda\ud83e\udde0</p><p>\"We retrieve embeddings from a dynamic memory buffer according to the semantic similarity to get a positive embedding group, and then embeddings in the group are aggregated by a self-attention operation to produce a smoothed instance embedding for further analysis.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a> <a href=\"https://creative.ai/tags/LG\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>LG</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/dll-wu/IS-CSE\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/dll-wu/IS-CSE</span><span class=\"invisible\"></span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2305.07424v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2305.07424v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://creative.ai/@arxiv_cl",
-        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/eth-sri/lmql",
-    "title": "GitHub - eth-sri/lmql: A query language for programming (large) language models.",
-    "latest": "2023-05-16T03:25:02+00:00",
-    "last_post": {
-      "url": "https://die-partei.social/@hackernews/110376222891295541",
-      "content": "<p>LMQL: A query language for programming (large) language models - <a href=\"https://github.com/eth-sri/lmql\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/eth-sri/lmql</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://die-partei.social/@hackernews",
-        "display_name": "Hackernews"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/hat-open/hat-syslog",
-    "title": "GitHub - hat-open/hat-syslog: Syslog Server and tools",
-    "latest": "2023-05-15T23:20:02+00:00",
-    "last_post": {
-      "url": "https://die-partei.social/@hackernews/110375259517749892",
-      "content": "<p>Show HN: Hat-syslog \u2013 Syslog Server with real time web UI - <a href=\"https://github.com/hat-open/hat-syslog\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/hat-open/hat-syslog</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://die-partei.social/@hackernews",
-        "display_name": "Hackernews"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/allenai/feb",
-    "title": "GitHub - allenai/feb: Code associated with the paper: \"Few-Shot Self-Rationalization with Natural Language Prompts\"",
-    "latest": "2023-05-15T22:51:47+00:00",
-    "last_post": {
-      "url": "https://creative.ai/@arxiv_cl/110375148432889931",
-      "content": "<p>\ud83d\udcdd ZARA: Improving Few-Shot Self-Rationalization for Small Language Models \ud83d\udcda</p><p>\"By automatically generating pseudo-parallel data for self-training with zero-shot natural language inference (NLI), which has been demonstrated to be able to reduce the problem of plausibility judgement.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/allenai/feb\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/allenai/feb</span><span class=\"invisible\"></span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2305.07355v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2305.07355v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://creative.ai/@arxiv_cl",
-        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/H-M-H/Weylus",
-    "title": "GitHub - H-M-H/Weylus: Use your tablet as graphic tablet/touch screen on your computer.",
-    "latest": "2023-05-15T21:56:55+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@eliocamp/110374932682083872",
-      "content": "<p>A few days ago I found Weylus, with which you can use your tablet/phone as a drawing tablet. I used it to draw the inpainting areas for this image, since it's more comfortable than using the mouse. </p><p><a href=\"https://github.com/H-M-H/Weylus\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/H-M-H/Weylus</span><span class=\"invisible\"></span></a></p><p><a href=\"https://mastodon.social/@eliocamp/110374906604034899\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">mastodon.social/@eliocamp/1103</span><span class=\"invisible\">74906604034899</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@eliocamp",
-        "display_name": "Elio Campitelli"
-      }
-    ]
-  },
-  {
-    "link": "https://codeberg.org/fediverse/fep/src/commit/0c2bbbe6b157f052a1b3109354a7574e2d45058f/feps/fep-fffd.md",
-    "title": "fep",
-    "latest": "2023-05-15T21:54:37+00:00",
-    "last_post": {
-      "url": "https://mastodon.online/@arnelson/110374923658966617",
-      "content": "<p>Just pushed an extensive update to FEP-fffd (Proxy Objects), which explains the process of merging posts with their proxies and removes the need for extra context entries. This should hopefully be the final syntax for this feature.</p><p><a href=\"https://codeberg.org/fediverse/fep/src/commit/0c2bbbe6b157f052a1b3109354a7574e2d45058f/feps/fep-fffd.md\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">codeberg.org/fediverse/fep/src</span><span class=\"invisible\">/commit/0c2bbbe6b157f052a1b3109354a7574e2d45058f/feps/fep-fffd.md</span></a></p><p><a href=\"https://mastodon.online/tags/FEP\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>FEP</span></a> <a href=\"https://mastodon.online/tags/Fediverse\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Fediverse</span></a> <a href=\"https://mastodon.online/tags/ActivityPub\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ActivityPub</span></a> <a href=\"https://mastodon.online/tags/Nostr\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Nostr</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.online/@arnelson",
-        "display_name": "Adam Nelson"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/CalMatter/ca-form-700-data",
-    "title": "github.com/CalMatter/ca-form-7...",
-    "latest": "2023-05-15T20:58:37+00:00",
-    "last_post": {
-      "url": "https://journa.host/@jeremiak/110374703426730833",
-      "content": "<p>And today <span class=\"h-card\"><a href=\"https://awscommunity.social/@CalMatters\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>CalMatters</span></a></span> is releasing the <a href=\"https://journa.host/tags/FPPC\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>FPPC</span></a> data we used to report this story as CSV files so other journalists, researchers, &amp; just plain ol' regular people can analyze the stock trades, gifts received, &amp; trips taken by <a href=\"https://journa.host/tags/California\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>California</span></a> <a href=\"https://journa.host/tags/legislators\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>legislators</span></a> in 2022.</p><p>If you end up looking through it/using it please gimme a holler!</p><p><a href=\"https://github.com/CalMatter/ca-form-700-data\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/CalMatter/ca-form-7</span><span class=\"invisible\">00-data</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://journa.host/@jeremiak",
-        "display_name": "Jeremia Kimelman"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/bluesky-social/social-app",
-    "title": "GitHub - bluesky-social/social-app: The Bluesky Social application for Web, iOS, and Android",
-    "latest": "2023-05-15T20:55:31+00:00",
-    "last_post": {
-      "url": "https://genart.social/@tca/110374691210499629",
-      "content": "<p>Bluesky app code is now public (MIT License).<br><a href=\"https://genart.social/tags/bluesky\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>bluesky</span></a> <a href=\"https://genart.social/tags/github\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>github</span></a> <br><a href=\"https://github.com/bluesky-social/social-app\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/bluesky-social/soci</span><span class=\"invisible\">al-app</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://sfba.social/@morgandawn",
-        "display_name": "morgandawn"
-      },
-      {
-        "url": "https://indieweb.social/@tchambers",
-        "display_name": "Tim Chambers"
-      },
-      {
-        "url": "https://genart.social/@tca",
-        "display_name": "tiago"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/tombosc/cpae/blob/",
-    "title": "https://github.com/tombosc/cpae/blob/",
-    "latest": "2023-05-15T20:51:45+00:00",
-    "last_post": {
-      "url": "https://creative.ai/@arxiv_cl/110374676443617570",
-      "content": "<p>\ud83d\udcdd Multi-Relational Hyperbolic Word Embeddings From Natural Language Definitions \ud83d\udcda\ud83e\udde0</p><p>\"A multi-relational neural approach that learns to embed definitions from a corpus of text definitions by jointly mapping defined and defining terms along with their corresponding semantic relations.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a> <a href=\"https://creative.ai/tags/LG\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>LG</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/tombosc/cpae/blob/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/tombosc/cpae/blob/</span><span class=\"invisible\"></span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2305.07303v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2305.07303v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://creative.ai/@arxiv_cl",
-        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/Hungreeee/steamcrawl",
-    "title": "GitHub - Hungreeee/steamcrawl: A package that helps extract Steam store and community market data as pandas DataFrame for better readability and usability for research purposes. The package makes queries to different Steam APIs, then cleans and extracts the important variables from the JSON object result and returns a pandas DataFrame.",
-    "latest": "2023-05-15T19:46:36+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@python_discussions/110374420249157903",
-      "content": "<p>A Python package to retrieve data from Steam</p><p><a href=\"https://github.com/Hungreeee/steamcrawl\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/Hungreeee/steamcraw</span><span class=\"invisible\">l</span></a></p><p>Discussions: <a href=\"https://discu.eu/q/https://github.com/Hungreeee/steamcrawl\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">discu.eu/q/https://github.com/</span><span class=\"invisible\">Hungreeee/steamcrawl</span></a></p><p><a href=\"https://mastodon.social/tags/programming\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>programming</span></a> <a href=\"https://mastodon.social/tags/python\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>python</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@python_discussions",
-        "display_name": "Python Weekly"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/r-lib/actions",
-    "title": "GitHub - r-lib/actions: GitHub Actions for the R community",
-    "latest": "2023-05-15T18:53:42+00:00",
-    "last_post": {
-      "url": "https://genomic.social/@datascience/110372113709033425",
-      "content": "<p>GitHub Actions for the R language: Makes automatic testing of your R package much easier and making sure your package works on different OS and R versions is a matter of just a few lines of yaml: <a href=\"https://github.com/r-lib/actions\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/r-lib/actions</span><span class=\"invisible\"></span></a> <a href=\"https://genomic.social/tags/rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rstats</span></a> <a href=\"https://genomic.social/tags/ci\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ci</span></a> <a href=\"https://genomic.social/tags/testing\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>testing</span></a> <a href=\"https://genomic.social/tags/github\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>github</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://fosstodon.org/@hadleywickham",
-        "display_name": "Hadley Wickham"
       }
     ]
   }
