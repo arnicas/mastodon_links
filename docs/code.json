@@ -1,5 +1,234 @@
 [
   {
+    "link": "https://github.com/lancedb/lance",
+    "title": "GitHub - lancedb/lance: Modern columnar data format for ML and LLMs implemented in Rust. Convert from parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, with more integrations coming..",
+    "latest": "2023-05-31T21:55:04+00:00",
+    "last_post": {
+      "url": "https://die-partei.social/@hackernews/110465522337449378",
+      "content": "<p>[Show HN] Lance is a Rust-based alternative to Parquet for ML data - <a href=\"https://github.com/lancedb/lance\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/lancedb/lance</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://die-partei.social/@hackernews",
+        "display_name": "Hackernews"
+      }
+    ]
+  },
+  {
+    "link": "https://codeberg.org/teddit/teddit",
+    "title": "teddit",
+    "latest": "2023-05-31T21:55:03+00:00",
+    "last_post": {
+      "url": "https://die-partei.social/@hackernews/110465522323346738",
+      "content": "<p>Teddit \u2013 An alternative Reddit front-end focused on privacy - <a href=\"https://codeberg.org/teddit/teddit\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">codeberg.org/teddit/teddit</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://die-partei.social/@hackernews",
+        "display_name": "Hackernews"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/thunlp/RobTest",
+    "title": "GitHub - thunlp/RobTest: Source code for ACL 2023 Findings paper",
+    "latest": "2023-05-31T21:52:39+00:00",
+    "last_post": {
+      "url": "https://creative.ai/@arxiv_cl/110465512888307895",
+      "content": "<p>\ud83d\udcdd From Adversarial Arms Race to Model-Centric Evaluation: Motivating a Unified Automatic Robustness Evaluation Framework \ud83d\udcda\ud83e\udde0</p><p>\"We first determine robustness evaluation dimensions based on model capabilities, which cover both task-specific capabilities in each NLP task (i\\_task) and universal capabilities across all NLP tasks (i\\_gen).\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a> <a href=\"https://creative.ai/tags/CR\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CR</span></a> <a href=\"https://creative.ai/tags/LG\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>LG</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/thunlp/RobTest\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/thunlp/RobTest</span><span class=\"invisible\"></span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2305.18503v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2305.18503v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://creative.ai/@arxiv_cl",
+        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/patricia-gallardo/hello-world-ebpf",
+    "title": "GitHub - patricia-gallardo/hello-world-ebpf",
+    "latest": "2023-05-31T21:34:42+00:00",
+    "last_post": {
+      "url": "https://social.vivaldi.net/@Patricia/110459790575611889",
+      "content": "<p>I tried to make a Hello World using eBPF in C. Using Conan and CMake. I get some runtime eBPF errors (you have to run it as root) but I don\u2019t know enough about eBPF to know why. Anybody have an idea?<br><a href=\"https://github.com/patricia-gallardo/hello-world-ebpf\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/patricia-gallardo/h</span><span class=\"invisible\">ello-world-ebpf</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://social.vivaldi.net/@Patricia",
+        "display_name": "Patricia Aas"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/wragge/trove-data-guide/issues",
+    "title": "Issues \u00b7 wragge/trove-data-guide",
+    "latest": "2023-05-31T21:11:22+00:00",
+    "last_post": {
+      "url": "https://hcommons.social/@wragge/110461776533857485",
+      "content": "<p>Ok, I've moved all my notes about the Trove Data Guide from a Google Doc to a series of GitHub issues. This way I can add further notes as I go, documenting the development process, and relate the issues to specific tasks to keep myself on track. Hmm I might also investigate GitHub's Project tool...  <a href=\"https://github.com/wragge/trove-data-guide/issues\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/wragge/trove-data-g</span><span class=\"invisible\">uide/issues</span></a> <a href=\"https://hcommons.social/tags/dayOfDH2023\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>dayOfDH2023</span></a>. <a href=\"https://hcommons.social/tags/dayOfDH\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>dayOfDH</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fedihum.org/@christof",
+        "display_name": "Christof Sch\u00f6ch"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/isawnyu/pleiades_wayback",
+    "title": "GitHub - isawnyu/pleiades_wayback: A script to help ensure all Pleiades place pages get a snapshot at archive.org after they've been changed.",
+    "latest": "2023-05-31T21:09:01+00:00",
+    "last_post": {
+      "url": "https://scholar.social/@telliott/110463668603360412",
+      "content": "<p>The <a href=\"https://scholar.social/tags/PleiadesGazetteer\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>PleiadesGazetteer</span></a> <span class=\"h-card\"><a href=\"https://mastodon.archive.org/@internetarchive\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>internetarchive</span></a></span> bot usually takes a few hours to run since I've built in generous crawl delays and generously increasing retry delays when 5xx errors are encountered.</p><p>I use requests.sessions with customized settings (including \"Retry\" from urllib3.util.retry) and some try/except behaviors in loops paired with the good old python \"sleep\" function to make it all happen. I'm not in a hurry; I'd rather the script not fail too often.</p><p><a href=\"https://github.com/isawnyu/pleiades_wayback\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/isawnyu/pleiades_wa</span><span class=\"invisible\">yback</span></a></p><p><a href=\"https://scholar.social/tags/DayOfDH2023\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DayOfDH2023</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fedihum.org/@christof",
+        "display_name": "Christof Sch\u00f6ch"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/kalanicraig/community-archive-jekyll",
+    "title": "GitHub - kalanicraig/community-archive-jekyll",
+    "latest": "2023-05-31T21:03:28+00:00",
+    "last_post": {
+      "url": "https://hcommons.social/@teamseaslug/110465094733805451",
+      "content": "<p>Happy <a href=\"https://hcommons.social/tags/DayofDH2023\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DayofDH2023</span></a> !</p><p>I don't have anything to share, so I want to shout out some of the excellent work by my colleagues at <span class=\"h-card\"><a href=\"https://hcommons.social/@IDAH\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>IDAH</span></a></span> .</p><p>First, of course, is something that <span class=\"h-card\"><a href=\"https://hcommons.social/@kalanicraig\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>kalanicraig</span></a></span> has been putting together for the past year or so. A community archiving page built with Jekyll, that is a minimal computing answer to creating collections by and for underserved communities.</p><p>Here's the current github page: <a href=\"https://github.com/kalanicraig/community-archive-jekyll\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/kalanicraig/communi</span><span class=\"invisible\">ty-archive-jekyll</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fedihum.org/@christof",
+        "display_name": "Christof Sch\u00f6ch"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/pixelfed/pixelfed/releases/tag/v0.11.8",
+    "title": "Release v0.11.8 \u00b7 pixelfed/pixelfed",
+    "latest": "2023-05-31T20:47:54+00:00",
+    "last_post": {
+      "url": "https://dmv.community/@jcrabapple/110459182806640393",
+      "content": "<p>pixtagram.social is now on <a href=\"https://dmv.community/tags/pixelfed\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>pixelfed</span></a> 11.8!</p><p>Major highlight:<br>- post editing</p><p><a href=\"https://github.com/pixelfed/pixelfed/releases/tag/v0.11.8\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/pixelfed/pixelfed/r</span><span class=\"invisible\">eleases/tag/v0.11.8</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://indieweb.social/@tchambers",
+        "display_name": "Tim Chambers"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/reddit-archive/reddit",
+    "title": "GitHub - reddit-archive/reddit: historical code from reddit.com",
+    "latest": "2023-05-31T19:55:02+00:00",
+    "last_post": {
+      "url": "https://die-partei.social/@hackernews/110465050403818040",
+      "content": "<p>Old Reddit is open source - <a href=\"https://github.com/reddit-archive/reddit\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/reddit-archive/redd</span><span class=\"invisible\">it</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://die-partei.social/@hackernews",
+        "display_name": "Hackernews"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/benwbrum/fromthepage/releases/tag/v23.5.4",
+    "title": "Release May 2023 Point Release 3 \u00b7 benwbrum/fromthepage",
+    "latest": "2023-05-31T19:49:00+00:00",
+    "last_post": {
+      "url": "https://hcommons.social/@benwbrum/110464762191128568",
+      "content": "<p><a href=\"https://hcommons.social/tags/dayofdh2023\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>dayofdh2023</span></a> continues with a lunch break followed by releasing the fixes and features we developed over the last couple of days.  <a href=\"https://hcommons.social/tags/FromThePage\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>FromThePage</span></a> is open-source, so first we deploy to the SAAS fromthepage.com as a last verification step, then we merge into the main branch and cut a new release:  <a href=\"https://github.com/benwbrum/fromthepage/releases/tag/v23.5.4\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/benwbrum/fromthepag</span><span class=\"invisible\">e/releases/tag/v23.5.4</span></a></p><p>Our friends at the University of Texas-Austin Libraries have been testing these releases, including accessibility and security scans, so they're the first people we email about the release.</p>"
+    },
+    "people": [
+      {
+        "url": "https://fedihum.org/@christof",
+        "display_name": "Christof Sch\u00f6ch"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/randallpittman/resistor-business-cards",
+    "title": "GitHub - randallpittman/resistor-business-cards: Resistor Code Business Cards for Resistor Organization",
+    "latest": "2023-05-31T19:47:18+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@python_discussions/110465019968594856",
+      "content": "<p>Python script to create business-card-sized images for organizing resistors in a three-ring binder</p><p><a href=\"https://github.com/randallpittman/resistor-business-cards\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/randallpittman/resi</span><span class=\"invisible\">stor-business-cards</span></a></p><p>Discussions: <a href=\"https://discu.eu/q/https://github.com/randallpittman/resistor-business-cards\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">discu.eu/q/https://github.com/</span><span class=\"invisible\">randallpittman/resistor-business-cards</span></a></p><p><a href=\"https://mastodon.social/tags/electronics\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>electronics</span></a> <a href=\"https://mastodon.social/tags/programming\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>programming</span></a> <a href=\"https://mastodon.social/tags/python\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>python</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@python_discussions",
+        "display_name": "Python Weekly"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/socialfoundations/tttlm",
+    "title": "GitHub - socialfoundations/tttlm: Test-time-training on nearest neighbors for large language models",
+    "latest": "2023-05-31T19:22:39+00:00",
+    "last_post": {
+      "url": "https://creative.ai/@arxiv_cl/110464923068078056",
+      "content": "<p>\ud83d\udcdd Test-Time Training on Nearest Neighbors for Large Language Models \ud83d\udcda\ud83e\udde0</p><p>\"At test time, a language model queries its index to retrieve the $n$ most relevant neighbors of the query (e), fine tunes itself on the retrieved neighbors (f), and uses the fine tuned weights to make the next prediction (g).\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a> <a href=\"https://creative.ai/tags/LG\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>LG</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/socialfoundations/tttlm\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/socialfoundations/t</span><span class=\"invisible\">ttlm</span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2305.18466v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2305.18466v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://creative.ai/@arxiv_cl",
+        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/christianp/aperiodic-monotile",
+    "title": "GitHub - christianp/aperiodic-monotile: Smith, Myers, Kaplan and Goodman-Strauss's aperiodic monotile, in a variety of formats",
+    "latest": "2023-05-31T17:56:49+00:00",
+    "last_post": {
+      "url": "https://mathstodon.xyz/@christianp/110462485741954763",
+      "content": "<p>I've updated my repository of files representing the aperiodic monotiles to include the new 'spectre' shape found by Smith, <span class=\"h-card\"><a href=\"https://mathstodon.xyz/@jsm28\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>jsm28</span></a></span>, <span class=\"h-card\"><a href=\"https://mathstodon.xyz/@csk\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>csk</span></a></span> and <span class=\"h-card\"><a href=\"https://mathstodon.xyz/@Chaimgoodmanstrauss\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>Chaimgoodmanstrauss</span></a></span> : <a href=\"https://github.com/christianp/aperiodic-monotile\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/christianp/aperiodi</span><span class=\"invisible\">c-monotile</span></a></p><p>I've also made an interactive tool to draw the whole family: <a href=\"https://somethingorotherwhatever.com/aperiodic-monotile/interactive.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">somethingorotherwhatever.com/a</span><span class=\"invisible\">periodic-monotile/interactive.html</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fosstodon.org/@mdsumner",
+        "display_name": "mdsumner"
+      },
+      {
+        "url": "https://mathstodon.xyz/@csk",
+        "display_name": "Craig S. Kaplan"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/THUNLP/modularity-analysis",
+    "title": "github.com/THUNLP/modularity-a...",
+    "latest": "2023-05-31T17:22:39+00:00",
+    "last_post": {
+      "url": "https://creative.ai/@arxiv_cl/110464451185713856",
+      "content": "<p>\ud83d\udcdd Emergent Modularity in Pre-Trained Transformers \ud83d\udcda\ud83e\udde0</p><p>\"Works because of the modular structure and the functional experts that each module works for its corresponding function, and perturbing the activations of functional experts significantly affects the corresponding function.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a> <a href=\"https://creative.ai/tags/LG\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>LG</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/THUNLP/modularity-analysis\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/THUNLP/modularity-a</span><span class=\"invisible\">nalysis</span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2305.18390v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2305.18390v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://creative.ai/@arxiv_cl",
+        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/opinionscience/BERTransfer",
+    "title": "GitHub - opinionscience/BERTransfer: A BERT-based application for reusable text classification at scale",
+    "latest": "2023-05-31T16:47:26+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@MaartenGr/110464312700221373",
+      "content": "<p>Easily share your topic modeling on the Hugging Face Hub! After a great collaboration with @huggingface and inspired by the work at <a href=\"https://github.com/opinionscience/BERTransfer\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/opinionscience/BERT</span><span class=\"invisible\">ransfer</span></a>, you can now also perform inference on the model pages. </p><p>Try it out yourself:</p><p><a href=\"https://huggingface.co/MaartenGr/BERTopic_Wikipedia\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">huggingface.co/MaartenGr/BERTo</span><span class=\"invisible\">pic_Wikipedia</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fosstodon.org/@MaartenGr",
+        "display_name": "Maarten Grootendorst"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/riccardotommasini/imkg",
     "title": "github.com/riccardotommasini/i...",
     "latest": "2023-05-31T09:08:46+00:00",
@@ -270,21 +499,6 @@
       {
         "url": "https://creative.ai/@arxiv_cl",
         "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/patricia-gallardo/hello-world-ebpf",
-    "title": "GitHub - patricia-gallardo/hello-world-ebpf",
-    "latest": "2023-05-30T21:37:24+00:00",
-    "last_post": {
-      "url": "https://social.vivaldi.net/@Patricia/110459790575611889",
-      "content": "<p>I tried to make a Hello World using eBPF in C. Using Conan and CMake. I get some runtime eBPF errors (you have to run it as root) but I don\u2019t know enough about eBPF to know why. Anybody have an idea?<br><a href=\"https://github.com/patricia-gallardo/hello-world-ebpf\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/patricia-gallardo/h</span><span class=\"invisible\">ello-world-ebpf</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://social.vivaldi.net/@Patricia",
-        "display_name": "Patricia Aas"
       }
     ]
   },
@@ -2930,220 +3144,6 @@
       {
         "url": "https://sigmoid.social/@snifffe",
         "display_name": "Snifffe"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/paypal/Iguanas",
-    "title": "https://github.com/paypal/Iguanas",
-    "latest": "2023-05-24T16:37:28+00:00",
-    "last_post": {
-      "url": "https://tech.lgbt/@jesper/110424637348174452",
-      "content": "<p>\ud83d\udcbb Iguanas (64\u2b50)</p><p>Master rule-based learning like a pro \ud83e\udd16\ud83d\udcaa </p><p>with PayPal's comprehensive resources.</p><p>Learn how to build effective rule-based systems for large-scale data analysis and automate decision-making processes with this tool from PayPal's data science team.</p><p>My newsletter subscribers learned about this 16 months ago!<br><a href=\"https://dramsch.net/newsletter\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">dramsch.net/newsletter</span><span class=\"invisible\"></span></a></p><p>Check it out here:<br><a href=\"https://github.com/paypal/Iguanas\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/paypal/Iguanas</span><span class=\"invisible\"></span></a></p><p><a href=\"https://tech.lgbt/tags/MachineLearning\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>MachineLearning</span></a> <a href=\"https://tech.lgbt/tags/LateToTheParty\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>LateToTheParty</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://tech.lgbt/@jesper",
-        "display_name": "Jesper Dr.amsch :v_enby:"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/superseriousbusiness/gotosocial/releases/tag/v0.9.0",
-    "title": "https://github.com/superseriousbusiness/gotosocial/releases/tag/v0.9.0",
-    "latest": "2023-05-24T16:31:11+00:00",
-    "last_post": {
-      "url": "https://gts.superseriousbusiness.org/@gotosocial/statuses/01H175GET2SX4M6V3FQHWEFM9C",
-      "content": "<p>Heya, we did the thing!</p><p>GoToSocial v0.9.0 Spicy Sloth is out now \ud83c\udf36\ufe0f \ud83d\udd25</p><p>This release was fun to work on, and we hope you enjoy using it! The project is slowly and steadily maturing and getting better :gtspat:</p><p>Big thank you to all contributors, folks who opened issues, instance admins who let us know weird stuff was happening, people who seem to like the code, and people who <a href=\"https://opencollective.com/gotosocial\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">give us money to write the code</a>!</p><p>You can get the release from here: <a href=\"https://github.com/superseriousbusiness/gotosocial/releases/tag/v0.9.0\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">https://github.com/superseriousbusiness/gotosocial/releases/tag/v0.9.0</a></p> <p>Highlights:</p><p>PROFILE FIELDS will now be federated. This means you can set key/value fields on your profile, just like other Fedi softwares already have, and they will federate in and out properly! It may take up to 2 days to start seeing fields on remote profiles, be patient ;)<br>Kickass new layout for web view of profiles, including fields!<br>Initial support for request tracing (<a href=\"https://github.com/superseriousbusiness/gotosocial/blob/main/docs/configuration/observability.md\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">https://github.com/superseriousbusiness/gotosocial/blob/main/docs/configuration/observability.md</a>)<br>\"Subscribe\" to an account you follow to receive notifications when they create a new post! (AKA \"click the bell\" functionality.) Very useful for catching posts of followed accounts who don't post very often.<br>Automatic remote status refetching to get up-to-date replies + edits.<br>Performance improvements for message sending: you can now configure the rate at which messages will be federated outwards, better spacing out CPU usage and avoiding issues with rate-limiting.<br>Lots of caching performance improvements; things should feel generally snappier.<br>Suspend accounts from right within the admin panel by clicking through from reports.<br>We added a whole bunch of trans rights to the code \ud83c\udff3\ufe0f\u200d\u26a7\ufe0f The code has so much trans rights in it now. If you don't like trans rights, you won't like this code.</p>"
-    },
-    "people": [
-      {
-        "url": "https://fosstodon.org/@dylanvanassche",
-        "display_name": "Dylan Van Assche"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/superseriousbusiness/gotosocial/blob/main/docs/configuration/observability.md",
-    "title": "https://github.com/superseriousbusiness/gotosocial/blob/main/docs/configuration/observability.md",
-    "latest": "2023-05-24T16:31:11+00:00",
-    "last_post": {
-      "url": "https://gts.superseriousbusiness.org/@gotosocial/statuses/01H175GET2SX4M6V3FQHWEFM9C",
-      "content": "<p>Heya, we did the thing!</p><p>GoToSocial v0.9.0 Spicy Sloth is out now \ud83c\udf36\ufe0f \ud83d\udd25</p><p>This release was fun to work on, and we hope you enjoy using it! The project is slowly and steadily maturing and getting better :gtspat:</p><p>Big thank you to all contributors, folks who opened issues, instance admins who let us know weird stuff was happening, people who seem to like the code, and people who <a href=\"https://opencollective.com/gotosocial\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">give us money to write the code</a>!</p><p>You can get the release from here: <a href=\"https://github.com/superseriousbusiness/gotosocial/releases/tag/v0.9.0\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">https://github.com/superseriousbusiness/gotosocial/releases/tag/v0.9.0</a></p> <p>Highlights:</p><p>PROFILE FIELDS will now be federated. This means you can set key/value fields on your profile, just like other Fedi softwares already have, and they will federate in and out properly! It may take up to 2 days to start seeing fields on remote profiles, be patient ;)<br>Kickass new layout for web view of profiles, including fields!<br>Initial support for request tracing (<a href=\"https://github.com/superseriousbusiness/gotosocial/blob/main/docs/configuration/observability.md\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">https://github.com/superseriousbusiness/gotosocial/blob/main/docs/configuration/observability.md</a>)<br>\"Subscribe\" to an account you follow to receive notifications when they create a new post! (AKA \"click the bell\" functionality.) Very useful for catching posts of followed accounts who don't post very often.<br>Automatic remote status refetching to get up-to-date replies + edits.<br>Performance improvements for message sending: you can now configure the rate at which messages will be federated outwards, better spacing out CPU usage and avoiding issues with rate-limiting.<br>Lots of caching performance improvements; things should feel generally snappier.<br>Suspend accounts from right within the admin panel by clicking through from reports.<br>We added a whole bunch of trans rights to the code \ud83c\udff3\ufe0f\u200d\u26a7\ufe0f The code has so much trans rights in it now. If you don't like trans rights, you won't like this code.</p>"
-    },
-    "people": [
-      {
-        "url": "https://fosstodon.org/@dylanvanassche",
-        "display_name": "Dylan Van Assche"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/microsoft/win32-app-isolation",
-    "title": "GitHub - microsoft/win32-app-isolation",
-    "latest": "2023-05-24T16:30:04+00:00",
-    "last_post": {
-      "url": "https://die-partei.social/@hackernews/110424608218783976",
-      "content": "<p>Win32 App Isolation - <a href=\"https://github.com/microsoft/win32-app-isolation\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/microsoft/win32-app</span><span class=\"invisible\">-isolation</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://die-partei.social/@hackernews",
-        "display_name": "Hackernews"
-      }
-    ]
-  },
-  {
-    "link": "https://codeberg.org/fediverse/fep/src/branch/main/feps/fep-8b32.md",
-    "title": "fep",
-    "latest": "2023-05-24T09:50:48+00:00",
-    "last_post": {
-      "url": "https://mymath.rocks/objects/5e2d945e-36d1-46d8-b17d-b225a9f6081d",
-      "content": "<p>Good morning. I'm back at having blue sky envy due yo my current lack of its key feature: sunshine. Anyway, I want to give the second case, where I believe <a href=\"https://codeberg.org/fediverse/fep/src/branch/main/feps/fep-8b32.md\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">fep-8b32</a> can improve the Fediverse. There are probably more and collecting them might be helpful ...</p>\n<p>Anyway, consider Alice on server Abel (having few followers) writing something great,  and Bob having a lot of followers on S different servers Announces it (aka boost, aka retweet, ...). What happens now: Bob's server delivers Bob's Announce to his followers on the S different servers. This announce contains the URI of Alice's post as the object property. Now every single one of the S servers will query Abel to get Alice's post.</p>\n<p>This means: Anybody wanting to host a Fediverse server needs to be able, at a minimum, to handle \"number of instances in the Fediverse\" many requests as a peak load. With a growing Fediverse this is a bad requirement. With fep-8b32, Bob would be able to embed a signed copy of Alice's post, reducing the number of queries Alice's server needs to handle significantly.</p>\n"
-    },
-    "people": [
-      {
-        "url": "https://indieweb.social/@tchambers",
-        "display_name": "Tim Chambers"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/clp-research/clembench",
-    "title": "GitHub - clp-research/clembench: A Framework for the Systematic Evaluation of Chat-Optimized Language Models as Conversational Agents and an Extensible Benchmark",
-    "latest": "2023-05-24T09:37:36+00:00",
-    "last_post": {
-      "url": "https://creative.ai/@arxiv_cl/110422986361169984",
-      "content": "<p>\ud83d\udcdd Clembench: Using Game Play to Evaluate Chat-Optimized Language Models as Conversational Agents \ud83d\udcda</p><p>\"Presents a general framework for implementing and evaluating games with LLMs, including five concrete games as an exemplary set of settings to probe a range of capabilities (e.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/clp-research/clembench\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/clp-research/clembe</span><span class=\"invisible\">nch</span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2305.13455v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2305.13455v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://creative.ai/@arxiv_cl",
-        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/shacharKZ/",
-    "title": "shacharKZ - Overview",
-    "latest": "2023-05-24T09:27:36+00:00",
-    "last_post": {
-      "url": "https://creative.ai/@arxiv_cl/110422947048051474",
-      "content": "<p>\ud83d\udcdd Interpreting Transformer's Attention Dynamic Memory and Visualizing the Semantic Information Flow of GPT \ud83d\udcda</p><p>\"Our visualization tool is created on top of the attention mechanism to visualize the flow of information inside the model by analyzing the tokens projected from the attention heads and memory values.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/shacharKZ/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/shacharKZ/</span><span class=\"invisible\"></span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2305.13417v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2305.13417v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://creative.ai/@arxiv_cl",
-        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/Alsace08/SumCoT",
-    "title": "GitHub - Alsace08/SumCoT: Code and Data Repo for ACL'23 Paper \"Element-aware Summary and Summary Chain-of-Thought (SumCoT)\"",
-    "latest": "2023-05-24T08:37:34+00:00",
-    "last_post": {
-      "url": "https://creative.ai/@arxiv_cl/110422750300473291",
-      "content": "<p>\ud83d\udcdd Element-Aware Summarization with Large Language Models: Expert-Aligned Evaluation and Chain-of-Thought Method \ud83d\udcda</p><p>\"Proposes a Summary Chain-of-Thought (SumCoT) technique to elicit LLMs to generate summaries step by step, which helps them integrate more fine-grained details of source documents into the final summaries that correlate with human writing mindset.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/Alsace08/SumCoT\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/Alsace08/SumCoT</span><span class=\"invisible\"></span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2305.13412v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2305.13412v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://creative.ai/@arxiv_cl",
-        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/UniversalDependencies/UD_",
-    "title": "github.com/UniversalDependenci...",
-    "latest": "2023-05-24T08:07:31+00:00",
-    "last_post": {
-      "url": "https://creative.ai/@arxiv_cl/110422632150721880",
-      "content": "<p>\ud83d\udcdd GATology for Linguistics: What Syntactic Dependencies It Knows \ud83d\udcda</p><p>\"A graph neural network which is a strategy for modeling and representing explicit syntactic knowledge, and can work with pre-trained models such as BERT in downstream tasks.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/UniversalDependencies/UD_\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/UniversalDependenci</span><span class=\"invisible\">es/UD_</span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2305.13403v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2305.13403v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://creative.ai/@arxiv_cl",
-        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/rohankishore/Aura-Text",
-    "title": "GitHub - rohankishore/Aura-Text: Aura Text is a versatile and powerful text editor powered by QScintilla that provides all the necessary tools for developers. It is build using PySide6 and Python.",
-    "latest": "2023-05-24T07:45:57+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@python_discussions/110422547359876632",
-      "content": "<p>Code editor made with QScintilla and PyQt6</p><p><a href=\"https://github.com/rohankishore/Aura-Text\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/rohankishore/Aura-T</span><span class=\"invisible\">ext</span></a></p><p>Discussions: <a href=\"https://discu.eu/q/https://github.com/rohankishore/Aura-Text\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">discu.eu/q/https://github.com/</span><span class=\"invisible\">rohankishore/Aura-Text</span></a></p><p><a href=\"https://mastodon.social/tags/programming\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>programming</span></a> <a href=\"https://mastodon.social/tags/python\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>python</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@python_discussions",
-        "display_name": "Python Weekly"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/DianDYu/language",
-    "title": "https://github.com/DianDYu/language",
-    "latest": "2023-05-24T07:37:32+00:00",
-    "last_post": {
-      "url": "https://creative.ai/@arxiv_cl/110422514226278980",
-      "content": "<p>\ud83d\udcdd A Study of Conceptual Language Similarity: Comparison and Evaluation \ud83d\udcda</p><p>\"The conceptual similarity is based on the hypothesis that two languages are similar if they encode the meanings of concepts using similar linguistic structures, such as word order and verbal inflection.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/DianDYu/language\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/DianDYu/language</span><span class=\"invisible\"></span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2305.13401v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2305.13401v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://creative.ai/@arxiv_cl",
-        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/librick/ic1101",
-    "title": "GitHub - librick/ic1101: Reverse engineering of a 2021 Honda Civic headunit",
-    "latest": "2023-05-24T07:15:02+00:00",
-    "last_post": {
-      "url": "https://die-partei.social/@hackernews/110422425791387670",
-      "content": "<p>Show HN: Honda Civic Infotainment Reverse-Engineering - <a href=\"https://github.com/librick/ic1101\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/librick/ic1101</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://die-partei.social/@hackernews",
-        "display_name": "Hackernews"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/joouha/euporie",
-    "title": "GitHub - joouha/euporie: Jupyter notebooks in the terminal",
-    "latest": "2023-05-24T03:46:04+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@python_discussions/110421604047764332",
-      "content": "<p>I'm building a new web browser</p><p><a href=\"https://github.com/joouha/euporie\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/joouha/euporie</span><span class=\"invisible\"></span></a></p><p>Discussions: <a href=\"https://discu.eu/q/https://github.com/joouha/euporie\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">discu.eu/q/https://github.com/</span><span class=\"invisible\">joouha/euporie</span></a></p><p><a href=\"https://mastodon.social/tags/commandline\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>commandline</span></a> <a href=\"https://mastodon.social/tags/programming\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>programming</span></a> <a href=\"https://mastodon.social/tags/python\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>python</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@python_discussions",
-        "display_name": "Python Weekly"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/simonw/llm",
-    "title": "GitHub - simonw/llm: Access large language models from the command-line",
-    "latest": "2023-05-24T02:34:00+00:00",
-    "last_post": {
-      "url": "https://fedi.simonwillison.net/@simon/110421320695586834",
-      "content": "<p>`cat llm/cli.py | llm --system 'Write a full set of pytest tests for the resolve_template() function, each test should have a name that reflects what branch is being tested' -s -4`</p><p>Hacking on <a href=\"https://github.com/simonw/llm\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/simonw/llm</span><span class=\"invisible\"></span></a> using llm</p><p>(This works way better than I expected it would.)</p>"
-    },
-    "people": [
-      {
-        "url": "https://sigmoid.social/@osma",
-        "display_name": "Osma Suominen"
-      },
-      {
-        "url": "https://fedi.simonwillison.net/@simon",
-        "display_name": "Simon Willison"
       }
     ]
   }
