@@ -1,5 +1,258 @@
 [
   {
+    "link": "https://github.com/McGill-NLP/length-generalization",
+    "title": "GitHub - McGill-NLP/length-generalization: Code for the paper \"The Impact of Positional Encoding on Length Generalization in Transformers\"",
+    "latest": "2023-06-01T21:43:23+00:00",
+    "last_post": {
+      "url": "https://creative.ai/@arxiv_cl/110471138718982351",
+      "content": "<p>\ud83d\udcdd The Impact of Positional Encoding on Length Generalization in Transformers \ud83d\udcda\ud83d\udc7e\ud83e\udde0</p><p>\"NoPE can represent both absolute and relative PEs, but when trained with SGD, it resembles T5's relative PE attention patterns and achieves good performance on downstream length generalization tasks.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a> <a href=\"https://creative.ai/tags/AI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AI</span></a> <a href=\"https://creative.ai/tags/LG\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>LG</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/McGill-NLP/length-generalization\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/McGill-NLP/length-g</span><span class=\"invisible\">eneralization</span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2305.19466v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2305.19466v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://creative.ai/@arxiv_cl",
+        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/foone/VGAPride",
+    "title": "GitHub - foone/VGAPride: An MS-DOS application for showing Pride Flags",
+    "latest": "2023-06-01T21:09:36+00:00",
+    "last_post": {
+      "url": "https://dosgame.club/@lunarloony/110470824627066829",
+      "content": "<p>Hey, it's <a href=\"https://dosgame.club/tags/PrideMonth\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>PrideMonth</span></a> - why not treat your DOS computer to a nice display? Courtesy of the ever-wonderful <span class=\"h-card\"><a href=\"https://digipres.club/@foone\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>foone</span></a></span> </p><p><a href=\"https://github.com/foone/VGAPride\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/foone/VGAPride</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://digipres.club/@foone",
+        "display_name": "Foone\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/selenashe/ScoNe",
+    "title": "https://github.com/selenashe/ScoNe",
+    "latest": "2023-06-01T20:13:20+00:00",
+    "last_post": {
+      "url": "https://creative.ai/@arxiv_cl/110470784670845552",
+      "content": "<p>\ud83d\udcdd ScoNe: Benchmarking Negation Reasoning in Language Models with Fine-Tuning and in-Context Learning \ud83d\udcda\ud83e\udde0</p><p>\"Creates a new challenge test set, containing contrast sets of six examples with up to two negations where either zero, one, or both negative morphemes affect the NLI label.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a> <a href=\"https://creative.ai/tags/LG\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>LG</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/selenashe/ScoNe\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/selenashe/ScoNe</span><span class=\"invisible\"></span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2305.19426v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2305.19426v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://creative.ai/@arxiv_cl",
+        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/night-chen/DyGen",
+    "title": "GitHub - night-chen/DyGen: [KDD'23] This is the code repo for our KDD'23 paper \"DyGen: Learning from Noisy Labels via Dynamics-Enhanced Generative Modeling\".",
+    "latest": "2023-06-01T18:58:21+00:00",
+    "last_post": {
+      "url": "https://creative.ai/@arxiv_cl/110470489822874292",
+      "content": "<p>\ud83d\udcdd DyGen: Learning From Noisy Labels via Dynamics-Enhanced Generative Modeling \ud83d\udcda\ud83e\udde0</p><p>\"DyGen uses the variational auto-encoding framework to infer the posterior distributions of true labels from noisy labels and training dynamics and uses a co-regularization mechanism to minimize the impact of potentially noisy labels and priors.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a> <a href=\"https://creative.ai/tags/LG\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>LG</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/night-chen/DyGen\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/night-chen/DyGen</span><span class=\"invisible\"></span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2305.19395v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2305.19395v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://creative.ai/@arxiv_cl",
+        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/michenriksen/drawio-threatmodeling",
+    "title": "github.com/michenriksen/drawio...",
+    "latest": "2023-06-01T18:29:57+00:00",
+    "last_post": {
+      "url": "https://infosec.exchange/@timb_machine/110469981129376328",
+      "content": "<p>Interesting links of the week:</p><p>* <a href=\"https://wasmer.io/posts/announcing-wasix\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">wasmer.io/posts/announcing-was</span><span class=\"invisible\">ix</span></a> - POSIX on WASM<br>* <a href=\"https://xorvoid.com/sectorc.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">xorvoid.com/sectorc.html</span><span class=\"invisible\"></span></a> - a 512 byte C compiler<br>* <a href=\"https://security.apple.com/blog/what-if-we-had-sockpuppet-in-ios16/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">security.apple.com/blog/what-i</span><span class=\"invisible\">f-we-had-sockpuppet-in-ios16/</span></a> - Apple's analysis of kalloc_type on OS X<br>* <a href=\"https://cryptolyzer.readthedocs.io/en/latest/changelog/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">cryptolyzer.readthedocs.io/en/</span><span class=\"invisible\">latest/changelog/</span></a> - analyse your cryptographic profile<br>* <a href=\"https://blog.trailofbits.com/2023/05/23/trusted-publishing-a-new-benchmark-for-packaging-security/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">blog.trailofbits.com/2023/05/2</span><span class=\"invisible\">3/trusted-publishing-a-new-benchmark-for-packaging-security/</span></a> - how Trail of Bits have been improving Python packaging<br>* <a href=\"https://becomingahacker.org/a-comparative-overview-of-selinux-apparmor-yama-tomoyo-linux-and-smack-bf7f0a1789cf\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">becomingahacker.org/a-comparat</span><span class=\"invisible\">ive-overview-of-selinux-apparmor-yama-tomoyo-linux-and-smack-bf7f0a1789cf</span></a> - <span class=\"h-card\"><a href=\"https://infosec.exchange/@omarsantos\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>omarsantos</span></a></span> looks at Linux's kernel hardening options<br>* <a href=\"https://seanpesce.blogspot.com/2023/05/bypassing-selinux-with-initmodule.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">seanpesce.blogspot.com/2023/05</span><span class=\"invisible\">/bypassing-selinux-with-initmodule.html</span></a> - bypassing SELinux with init_module()<br>* <a href=\"https://www.microsoft.com/en-us/security/blog/2023/05/30/new-macos-vulnerability-migraine-could-bypass-system-integrity-protection/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">microsoft.com/en-us/security/b</span><span class=\"invisible\">log/2023/05/30/new-macos-vulnerability-migraine-could-bypass-system-integrity-protection/</span></a> - Microsoft attacks Apple<br>* <a href=\"https://arxiv.org/abs/2305.15507\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2305.15507</span><span class=\"invisible\"></span></a> - manipulating LLM with name based misdirection<br>* <a href=\"https://blogs.sap.com/2023/05/11/ai-powered-password-testing-for-abap-stack/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">blogs.sap.com/2023/05/11/ai-po</span><span class=\"invisible\">wered-password-testing-for-abap-stack/</span></a> - using AI to attack passwords on SAP<br>* <a href=\"https://cloudcar.canbushack.com/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">cloudcar.canbushack.com/</span><span class=\"invisible\"></span></a> - how would you like to hack a virtual car?<br>* <a href=\"https://www.mitre.org/news-insights/publication/threat-assessment-and-remediation-analysis-tara\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">mitre.org/news-insights/public</span><span class=\"invisible\">ation/threat-assessment-and-remediation-analysis-tara</span></a> - MITRE's TARA methodology for threat modelling ICS and SCADA systems<br>* <a href=\"https://github.com/michenriksen/drawio-threatmodeling\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/michenriksen/drawio</span><span class=\"invisible\">-threatmodeling</span></a> - threat modelling with draw.io<br>* <a href=\"https://github.com/outflanknl/RedELK-workshop/blob/main/Labmanual_RedELK-workshop_x33fcon_may2023.pdf\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/outflanknl/RedELK-w</span><span class=\"invisible\">orkshop/blob/main/Labmanual_RedELK-workshop_x33fcon_may2023.pdf</span></a> - Outflank's RedELK training<br>* <a href=\"https://permiso.io/blog/s/unmasking-guivil-new-cloud-threat-actor/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">permiso.io/blog/s/unmasking-gu</span><span class=\"invisible\">ivil-new-cloud-threat-actor/</span></a> - malicious penguins in the cloud<br>* <a href=\"https://www.cadosecurity.com/legion-an-aws-credential-harvester-and-smtp-hijacker/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">cadosecurity.com/legion-an-aws</span><span class=\"invisible\">-credential-harvester-and-smtp-hijacker/</span></a> - more penguins<br>* <a href=\"https://www.cadosecurity.com/updates-to-legion-a-cloud-credential-harvester-and-smtp-hijacker/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">cadosecurity.com/updates-to-le</span><span class=\"invisible\">gion-a-cloud-credential-harvester-and-smtp-hijacker/</span></a> - even more penguins<br>* <a href=\"https://www.lacework.com/blog/androxghost-the-python-malware-exploiting-your-aws-keys/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">lacework.com/blog/androxghost-</span><span class=\"invisible\">the-python-malware-exploiting-your-aws-keys/</span></a> - pythons and penguins<br>* <a href=\"https://permiso.io/blog/s/legion-mass-spam-attacks-in-aws/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">permiso.io/blog/s/legion-mass-</span><span class=\"invisible\">spam-attacks-in-aws/</span></a> - erm, more penguins?<br>* <a href=\"https://blogs.jpcert.or.jp/en/2023/05/gobrat.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">blogs.jpcert.or.jp/en/2023/05/</span><span class=\"invisible\">gobrat.html</span></a> - another penguin attack<br>* <a href=\"https://eforensicsmag.com/installing-autopsy-4-6-0-on-linux-by-christian-kisutsa/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">eforensicsmag.com/installing-a</span><span class=\"invisible\">utopsy-4-6-0-on-linux-by-christian-kisutsa/</span></a> - performing DFIR on Linux with autopsy<br>* <a href=\"https://github.com/mthcht/ThreatHunting-Keywords\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/mthcht/ThreatHuntin</span><span class=\"invisible\">g-Keywords</span></a> - a keyword focussed approach to threat hunting<br>* <a href=\"https://spectrum.ieee.org/amp/mirai-botnet-2659993631\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">spectrum.ieee.org/amp/mirai-bo</span><span class=\"invisible\">tnet-2659993631</span></a> - the history of Mirai<br>* <a href=\"https://plumspace.com/wp-content/uploads/plumspace_smart_sfp_applications_en.pdf\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">plumspace.com/wp-content/uploa</span><span class=\"invisible\">ds/plumspace_smart_sfp_applications_en.pdf</span></a> - an SFP more powerful than my first ARM box</p><p><a href=\"https://infosec.exchange/tags/security\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>security</span></a>, <a href=\"https://infosec.exchange/tags/research\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>research</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://hackers.town/@fbz",
+        "display_name": "fbz"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/outflanknl/RedELK-workshop/blob/main/Labmanual_RedELK-workshop_x33fcon_may2023.pdf",
+    "title": "github.com/outflanknl/RedELK-w...",
+    "latest": "2023-06-01T18:29:57+00:00",
+    "last_post": {
+      "url": "https://infosec.exchange/@timb_machine/110469981129376328",
+      "content": "<p>Interesting links of the week:</p><p>* <a href=\"https://wasmer.io/posts/announcing-wasix\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">wasmer.io/posts/announcing-was</span><span class=\"invisible\">ix</span></a> - POSIX on WASM<br>* <a href=\"https://xorvoid.com/sectorc.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">xorvoid.com/sectorc.html</span><span class=\"invisible\"></span></a> - a 512 byte C compiler<br>* <a href=\"https://security.apple.com/blog/what-if-we-had-sockpuppet-in-ios16/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">security.apple.com/blog/what-i</span><span class=\"invisible\">f-we-had-sockpuppet-in-ios16/</span></a> - Apple's analysis of kalloc_type on OS X<br>* <a href=\"https://cryptolyzer.readthedocs.io/en/latest/changelog/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">cryptolyzer.readthedocs.io/en/</span><span class=\"invisible\">latest/changelog/</span></a> - analyse your cryptographic profile<br>* <a href=\"https://blog.trailofbits.com/2023/05/23/trusted-publishing-a-new-benchmark-for-packaging-security/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">blog.trailofbits.com/2023/05/2</span><span class=\"invisible\">3/trusted-publishing-a-new-benchmark-for-packaging-security/</span></a> - how Trail of Bits have been improving Python packaging<br>* <a href=\"https://becomingahacker.org/a-comparative-overview-of-selinux-apparmor-yama-tomoyo-linux-and-smack-bf7f0a1789cf\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">becomingahacker.org/a-comparat</span><span class=\"invisible\">ive-overview-of-selinux-apparmor-yama-tomoyo-linux-and-smack-bf7f0a1789cf</span></a> - <span class=\"h-card\"><a href=\"https://infosec.exchange/@omarsantos\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>omarsantos</span></a></span> looks at Linux's kernel hardening options<br>* <a href=\"https://seanpesce.blogspot.com/2023/05/bypassing-selinux-with-initmodule.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">seanpesce.blogspot.com/2023/05</span><span class=\"invisible\">/bypassing-selinux-with-initmodule.html</span></a> - bypassing SELinux with init_module()<br>* <a href=\"https://www.microsoft.com/en-us/security/blog/2023/05/30/new-macos-vulnerability-migraine-could-bypass-system-integrity-protection/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">microsoft.com/en-us/security/b</span><span class=\"invisible\">log/2023/05/30/new-macos-vulnerability-migraine-could-bypass-system-integrity-protection/</span></a> - Microsoft attacks Apple<br>* <a href=\"https://arxiv.org/abs/2305.15507\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2305.15507</span><span class=\"invisible\"></span></a> - manipulating LLM with name based misdirection<br>* <a href=\"https://blogs.sap.com/2023/05/11/ai-powered-password-testing-for-abap-stack/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">blogs.sap.com/2023/05/11/ai-po</span><span class=\"invisible\">wered-password-testing-for-abap-stack/</span></a> - using AI to attack passwords on SAP<br>* <a href=\"https://cloudcar.canbushack.com/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">cloudcar.canbushack.com/</span><span class=\"invisible\"></span></a> - how would you like to hack a virtual car?<br>* <a href=\"https://www.mitre.org/news-insights/publication/threat-assessment-and-remediation-analysis-tara\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">mitre.org/news-insights/public</span><span class=\"invisible\">ation/threat-assessment-and-remediation-analysis-tara</span></a> - MITRE's TARA methodology for threat modelling ICS and SCADA systems<br>* <a href=\"https://github.com/michenriksen/drawio-threatmodeling\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/michenriksen/drawio</span><span class=\"invisible\">-threatmodeling</span></a> - threat modelling with draw.io<br>* <a href=\"https://github.com/outflanknl/RedELK-workshop/blob/main/Labmanual_RedELK-workshop_x33fcon_may2023.pdf\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/outflanknl/RedELK-w</span><span class=\"invisible\">orkshop/blob/main/Labmanual_RedELK-workshop_x33fcon_may2023.pdf</span></a> - Outflank's RedELK training<br>* <a href=\"https://permiso.io/blog/s/unmasking-guivil-new-cloud-threat-actor/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">permiso.io/blog/s/unmasking-gu</span><span class=\"invisible\">ivil-new-cloud-threat-actor/</span></a> - malicious penguins in the cloud<br>* <a href=\"https://www.cadosecurity.com/legion-an-aws-credential-harvester-and-smtp-hijacker/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">cadosecurity.com/legion-an-aws</span><span class=\"invisible\">-credential-harvester-and-smtp-hijacker/</span></a> - more penguins<br>* <a href=\"https://www.cadosecurity.com/updates-to-legion-a-cloud-credential-harvester-and-smtp-hijacker/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">cadosecurity.com/updates-to-le</span><span class=\"invisible\">gion-a-cloud-credential-harvester-and-smtp-hijacker/</span></a> - even more penguins<br>* <a href=\"https://www.lacework.com/blog/androxghost-the-python-malware-exploiting-your-aws-keys/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">lacework.com/blog/androxghost-</span><span class=\"invisible\">the-python-malware-exploiting-your-aws-keys/</span></a> - pythons and penguins<br>* <a href=\"https://permiso.io/blog/s/legion-mass-spam-attacks-in-aws/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">permiso.io/blog/s/legion-mass-</span><span class=\"invisible\">spam-attacks-in-aws/</span></a> - erm, more penguins?<br>* <a href=\"https://blogs.jpcert.or.jp/en/2023/05/gobrat.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">blogs.jpcert.or.jp/en/2023/05/</span><span class=\"invisible\">gobrat.html</span></a> - another penguin attack<br>* <a href=\"https://eforensicsmag.com/installing-autopsy-4-6-0-on-linux-by-christian-kisutsa/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">eforensicsmag.com/installing-a</span><span class=\"invisible\">utopsy-4-6-0-on-linux-by-christian-kisutsa/</span></a> - performing DFIR on Linux with autopsy<br>* <a href=\"https://github.com/mthcht/ThreatHunting-Keywords\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/mthcht/ThreatHuntin</span><span class=\"invisible\">g-Keywords</span></a> - a keyword focussed approach to threat hunting<br>* <a href=\"https://spectrum.ieee.org/amp/mirai-botnet-2659993631\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">spectrum.ieee.org/amp/mirai-bo</span><span class=\"invisible\">tnet-2659993631</span></a> - the history of Mirai<br>* <a href=\"https://plumspace.com/wp-content/uploads/plumspace_smart_sfp_applications_en.pdf\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">plumspace.com/wp-content/uploa</span><span class=\"invisible\">ds/plumspace_smart_sfp_applications_en.pdf</span></a> - an SFP more powerful than my first ARM box</p><p><a href=\"https://infosec.exchange/tags/security\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>security</span></a>, <a href=\"https://infosec.exchange/tags/research\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>research</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://hackers.town/@fbz",
+        "display_name": "fbz"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/mthcht/ThreatHunting-Keywords",
+    "title": "github.com/mthcht/ThreatHuntin...",
+    "latest": "2023-06-01T18:29:57+00:00",
+    "last_post": {
+      "url": "https://infosec.exchange/@timb_machine/110469981129376328",
+      "content": "<p>Interesting links of the week:</p><p>* <a href=\"https://wasmer.io/posts/announcing-wasix\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">wasmer.io/posts/announcing-was</span><span class=\"invisible\">ix</span></a> - POSIX on WASM<br>* <a href=\"https://xorvoid.com/sectorc.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">xorvoid.com/sectorc.html</span><span class=\"invisible\"></span></a> - a 512 byte C compiler<br>* <a href=\"https://security.apple.com/blog/what-if-we-had-sockpuppet-in-ios16/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">security.apple.com/blog/what-i</span><span class=\"invisible\">f-we-had-sockpuppet-in-ios16/</span></a> - Apple's analysis of kalloc_type on OS X<br>* <a href=\"https://cryptolyzer.readthedocs.io/en/latest/changelog/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">cryptolyzer.readthedocs.io/en/</span><span class=\"invisible\">latest/changelog/</span></a> - analyse your cryptographic profile<br>* <a href=\"https://blog.trailofbits.com/2023/05/23/trusted-publishing-a-new-benchmark-for-packaging-security/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">blog.trailofbits.com/2023/05/2</span><span class=\"invisible\">3/trusted-publishing-a-new-benchmark-for-packaging-security/</span></a> - how Trail of Bits have been improving Python packaging<br>* <a href=\"https://becomingahacker.org/a-comparative-overview-of-selinux-apparmor-yama-tomoyo-linux-and-smack-bf7f0a1789cf\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">becomingahacker.org/a-comparat</span><span class=\"invisible\">ive-overview-of-selinux-apparmor-yama-tomoyo-linux-and-smack-bf7f0a1789cf</span></a> - <span class=\"h-card\"><a href=\"https://infosec.exchange/@omarsantos\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>omarsantos</span></a></span> looks at Linux's kernel hardening options<br>* <a href=\"https://seanpesce.blogspot.com/2023/05/bypassing-selinux-with-initmodule.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">seanpesce.blogspot.com/2023/05</span><span class=\"invisible\">/bypassing-selinux-with-initmodule.html</span></a> - bypassing SELinux with init_module()<br>* <a href=\"https://www.microsoft.com/en-us/security/blog/2023/05/30/new-macos-vulnerability-migraine-could-bypass-system-integrity-protection/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">microsoft.com/en-us/security/b</span><span class=\"invisible\">log/2023/05/30/new-macos-vulnerability-migraine-could-bypass-system-integrity-protection/</span></a> - Microsoft attacks Apple<br>* <a href=\"https://arxiv.org/abs/2305.15507\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2305.15507</span><span class=\"invisible\"></span></a> - manipulating LLM with name based misdirection<br>* <a href=\"https://blogs.sap.com/2023/05/11/ai-powered-password-testing-for-abap-stack/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">blogs.sap.com/2023/05/11/ai-po</span><span class=\"invisible\">wered-password-testing-for-abap-stack/</span></a> - using AI to attack passwords on SAP<br>* <a href=\"https://cloudcar.canbushack.com/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">cloudcar.canbushack.com/</span><span class=\"invisible\"></span></a> - how would you like to hack a virtual car?<br>* <a href=\"https://www.mitre.org/news-insights/publication/threat-assessment-and-remediation-analysis-tara\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">mitre.org/news-insights/public</span><span class=\"invisible\">ation/threat-assessment-and-remediation-analysis-tara</span></a> - MITRE's TARA methodology for threat modelling ICS and SCADA systems<br>* <a href=\"https://github.com/michenriksen/drawio-threatmodeling\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/michenriksen/drawio</span><span class=\"invisible\">-threatmodeling</span></a> - threat modelling with draw.io<br>* <a href=\"https://github.com/outflanknl/RedELK-workshop/blob/main/Labmanual_RedELK-workshop_x33fcon_may2023.pdf\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/outflanknl/RedELK-w</span><span class=\"invisible\">orkshop/blob/main/Labmanual_RedELK-workshop_x33fcon_may2023.pdf</span></a> - Outflank's RedELK training<br>* <a href=\"https://permiso.io/blog/s/unmasking-guivil-new-cloud-threat-actor/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">permiso.io/blog/s/unmasking-gu</span><span class=\"invisible\">ivil-new-cloud-threat-actor/</span></a> - malicious penguins in the cloud<br>* <a href=\"https://www.cadosecurity.com/legion-an-aws-credential-harvester-and-smtp-hijacker/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">cadosecurity.com/legion-an-aws</span><span class=\"invisible\">-credential-harvester-and-smtp-hijacker/</span></a> - more penguins<br>* <a href=\"https://www.cadosecurity.com/updates-to-legion-a-cloud-credential-harvester-and-smtp-hijacker/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">cadosecurity.com/updates-to-le</span><span class=\"invisible\">gion-a-cloud-credential-harvester-and-smtp-hijacker/</span></a> - even more penguins<br>* <a href=\"https://www.lacework.com/blog/androxghost-the-python-malware-exploiting-your-aws-keys/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">lacework.com/blog/androxghost-</span><span class=\"invisible\">the-python-malware-exploiting-your-aws-keys/</span></a> - pythons and penguins<br>* <a href=\"https://permiso.io/blog/s/legion-mass-spam-attacks-in-aws/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">permiso.io/blog/s/legion-mass-</span><span class=\"invisible\">spam-attacks-in-aws/</span></a> - erm, more penguins?<br>* <a href=\"https://blogs.jpcert.or.jp/en/2023/05/gobrat.html\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">blogs.jpcert.or.jp/en/2023/05/</span><span class=\"invisible\">gobrat.html</span></a> - another penguin attack<br>* <a href=\"https://eforensicsmag.com/installing-autopsy-4-6-0-on-linux-by-christian-kisutsa/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">eforensicsmag.com/installing-a</span><span class=\"invisible\">utopsy-4-6-0-on-linux-by-christian-kisutsa/</span></a> - performing DFIR on Linux with autopsy<br>* <a href=\"https://github.com/mthcht/ThreatHunting-Keywords\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/mthcht/ThreatHuntin</span><span class=\"invisible\">g-Keywords</span></a> - a keyword focussed approach to threat hunting<br>* <a href=\"https://spectrum.ieee.org/amp/mirai-botnet-2659993631\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">spectrum.ieee.org/amp/mirai-bo</span><span class=\"invisible\">tnet-2659993631</span></a> - the history of Mirai<br>* <a href=\"https://plumspace.com/wp-content/uploads/plumspace_smart_sfp_applications_en.pdf\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">plumspace.com/wp-content/uploa</span><span class=\"invisible\">ds/plumspace_smart_sfp_applications_en.pdf</span></a> - an SFP more powerful than my first ARM box</p><p><a href=\"https://infosec.exchange/tags/security\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>security</span></a>, <a href=\"https://infosec.exchange/tags/research\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>research</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://hackers.town/@fbz",
+        "display_name": "fbz"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/cyrusvahidi/jtfs-gpu",
+    "title": "GitHub - cyrusvahidi/jtfs-gpu: code for the paper \"Differentiable Time-Frequency Scattering on GPU\" \ud83c\udf0a",
+    "latest": "2023-06-01T18:15:03+00:00",
+    "last_post": {
+      "url": "https://die-partei.social/@hackernews/110470319552903724",
+      "content": "<p>Differentiable Time-Frequency Scattering on GPU - <a href=\"https://github.com/cyrusvahidi/jtfs-gpu\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/cyrusvahidi/jtfs-gp</span><span class=\"invisible\">u</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://die-partei.social/@hackernews",
+        "display_name": "Hackernews"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/richarddmorey/surveyjsR",
+    "title": "GitHub - richarddmorey/surveyjsR: R package for using surveyjs surveys in Rmarkdown",
+    "latest": "2023-06-01T18:08:40+00:00",
+    "last_post": {
+      "url": "https://tech.lgbt/@richarddmorey/110470290518229880",
+      "content": "<p>I haven't posted a lot, but I thought people might be interested in this project I started: {surveyjsR}, for implementing surveyjs in Rmarkdown via htmlwidgets. I plan to use it for generating exercises. Early days, but if you're interested maybe you can help out or try it. See it on GitHub: <a href=\"https://github.com/richarddmorey/surveyjsR\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/richarddmorey/surve</span><span class=\"invisible\">yjsR</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://scicomm.xyz/@sharoz",
+        "display_name": "Steve Haroz (@sharoz on \ud83d\udc24)"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/Lexpedite/lawmirror",
+    "title": "GitHub - Lexpedite/lawmirror",
+    "latest": "2023-06-01T17:52:45+00:00",
+    "last_post": {
+      "url": "https://law.builders/@lexpedite/110470119992286856",
+      "content": "<p>Prototype WYSIWYM web editor for <a href=\"https://law.builders/tags/AkomaNtoso\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AkomaNtoso</span></a> (aka <a href=\"https://law.builders/tags/LegalDocML\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>LegalDocML</span></a>): <a href=\"https://github.com/Lexpedite/lawmirror\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/Lexpedite/lawmirror</span><span class=\"invisible\"></span></a></p><p>think \"google docs for laws\"</p><p>Please boost, and feedback welcome.</p><p>pinging <span class=\"h-card\"><a href=\"https://mastodon.nz/@verbman\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>verbman</span></a></span> </p><p><a href=\"https://law.builders/tags/RulesAsCode\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>RulesAsCode</span></a> <a href=\"https://law.builders/tags/LegalTech\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>LegalTech</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://esq.social/@icymi_law",
+        "display_name": "ICYMI (Law)"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/explosion/spacy-llm",
+    "title": "GitHub - explosion/spacy-llm: \ud83e\udd99 Integrating LLMs into structured NLP pipelines",
+    "latest": "2023-06-01T17:48:34+00:00",
+    "last_post": {
+      "url": "https://scholar.social/@electricarchaeo/110470215433075214",
+      "content": "<p><span class=\"h-card\"><a href=\"https://scholar.social/@telliott\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>telliott</span></a></span> <span class=\"h-card\"><a href=\"https://scholar.social/@ekansa\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>ekansa</span></a></span> and of course this <a href=\"https://github.com/explosion/spacy-llm\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/explosion/spacy-llm</span><span class=\"invisible\"></span></a> potentially would\u2019ve worked for my use case and saved me some cash</p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@danieldk",
+        "display_name": "Dani\u00ebl de Kok"
+      },
+      {
+        "url": "https://sigmoid.social/@ryanwesslen",
+        "display_name": "Ryan Wesslen"
+      },
+      {
+        "url": "https://sigmoid.social/@explosion",
+        "display_name": "Explosion \ud83d\udca5"
+      },
+      {
+        "url": "https://fosstodon.org/@ljvmiranda",
+        "display_name": "Lj V. Miranda"
+      },
+      {
+        "url": "https://fedihum.org/@naudgnit",
+        "display_name": "Tinghui Duan \u6bb5\u5ead\u8f89 \ud83c\udf0e"
+      },
+      {
+        "url": "https://scholar.social/@electricarchaeo",
+        "display_name": "Shawn Graham"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/GlaireDaggers/Pretty-Fast-Video",
+    "title": "GitHub - GlaireDaggers/Pretty-Fast-Video: Designed as successor to Pretty-Good-Video for improved codec structure, API design & performance",
+    "latest": "2023-06-01T17:24:47+00:00",
+    "last_post": {
+      "url": "https://peoplemaking.games/@glassbottommeg/110470121909358626",
+      "content": "<p>Things with ffmpeg and h.264/265 are dire enough that the solution people are arriving at is to literally build around the whole mess: <a href=\"https://github.com/GlaireDaggers/Pretty-Fast-Video\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/GlaireDaggers/Prett</span><span class=\"invisible\">y-Fast-Video</span></a></p><p>We're at a phase where to built recorders into your game, you pretty much have to use a post-264/265 codec, which yes means almost no players will natively support it, because that solution is STILL simpler than the alternative. And will get simpler, as these post-264/265 codecs gain steam, and hopefully we bury the patent trolls and dance on their graves.</p><p>EDIT: (also, as <span class=\"h-card\"><a href=\"https://tech.lgbt/@Kye\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>Kye</span></a></span> points out, this is in part why we moved to a world where the OS or GPU driver itself tends to have built-in recorders, and we all just use those instead- that was the other logical dodge)</p>"
+    },
+    "people": [
+      {
+        "url": "https://peoplemaking.games/@glassbottommeg",
+        "display_name": "Megan Fox"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/cmudig/falcon-vis",
+    "title": "GitHub - cmudig/falcon-vis: Cross-filter millions (or even billions) of data entries with no interaction delay",
+    "latest": "2023-06-01T17:24:22+00:00",
+    "last_post": {
+      "url": "https://vis.social/@dom/110470120231673126",
+      "content": "<p>Donny has released an improved version of Falcon that can be used as a library.</p><p>Falcon enables fast linked interactions between charts. Learn more at <a href=\"https://github.com/cmudig/falcon-vis\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/cmudig/falcon-vis</span><span class=\"invisible\"></span></a>.</p>"
+    },
+    "people": [
+      {
+        "url": "https://vis.social/@mikebrondbjerg",
+        "display_name": "Mike Brondbjerg"
+      },
+      {
+        "url": "https://vis.social/@dom",
+        "display_name": "Dominik Moritz"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/mine-cetinkaya-rundel/quarto-for-academics",
+    "title": "github.com/mine-cetinkaya-rund...",
+    "latest": "2023-06-01T16:59:02+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@Posit/110470020629680463",
+      "content": "<p>Quarto for Academics.<br>@minebocek with a video and blog post highlighting some of Quarto\u2019s features that are especially useful for academics, as educators &amp; as researchers.<br>Blog: <a href=\"https://quarto.org/docs/blog/posts/2023-05-22-quarto-for-academics/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">quarto.org/docs/blog/posts/202</span><span class=\"invisible\">3-05-22-quarto-for-academics/</span></a><br>Video: <a href=\"https://www.youtube.com/watch?v=EbAAmrB0luA\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://www.</span><span class=\"ellipsis\">youtube.com/watch?v=EbAAmrB0lu</span><span class=\"invisible\">A</span></a><br>Repo: <a href=\"https://github.com/mine-cetinkaya-rundel/quarto-for-academics\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/mine-cetinkaya-rund</span><span class=\"invisible\">el/quarto-for-academics</span></a><br><a href=\"https://fosstodon.org/tags/pydata\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>pydata</span></a> <a href=\"https://fosstodon.org/tags/rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rstats</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@edzer",
+        "display_name": "Edzer Pebesma"
+      },
+      {
+        "url": "https://fosstodon.org/@Posit",
+        "display_name": "Posit"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/obsidian-tasks-group/obsidian-tasks",
+    "title": "GitHub - obsidian-tasks-group/obsidian-tasks: Task management for the Obsidian knowledge base.",
+    "latest": "2023-06-01T16:49:03+00:00",
+    "last_post": {
+      "url": "https://scholar.social/@telliott/110469981370640371",
+      "content": "<p>It turns out that the \"tasks\" plugin does everything I could want.</p><p><a href=\"https://github.com/obsidian-tasks-group/obsidian-tasks\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/obsidian-tasks-grou</span><span class=\"invisible\">p/obsidian-tasks</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://scholar.social/@telliott",
+        "display_name": "Tom Elliott"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/InfuseAI/piperider/releases/tag/v0.26.0",
     "title": "Release v0.26.0 \u00b7 InfuseAI/piperider",
     "latest": "2023-06-01T09:36:01+00:00",
@@ -2915,235 +3168,6 @@
       {
         "url": "https://creative.ai/@arxiv_cl",
         "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/rspatial/terra/issues/1160",
-    "title": "unknown geom type: reading (mixed) Unknown fails \u00b7 Issue #1160 \u00b7 rspatial/terra",
-    "latest": "2023-05-25T04:28:13+00:00",
-    "last_post": {
-      "url": "https://fosstodon.org/@mdsumner/110427432127899758",
-      "content": "<p>nice, {terra} can now read from VRT-that-includes SQL dialect and spatial function query setting</p><p><a href=\"https://github.com/rspatial/terra/issues/1160\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/rspatial/terra/issu</span><span class=\"invisible\">es/1160</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://fosstodon.org/@mdsumner",
-        "display_name": "Michael Sumner"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/DevoAllen/INDust",
-    "title": "https://github.com/DevoAllen/INDust",
-    "latest": "2023-05-25T03:27:33+00:00",
-    "last_post": {
-      "url": "https://creative.ai/@arxiv_cl/110427193570555033",
-      "content": "<p>\ud83d\udcdd Self-Critique Prompting with Large Language Models for Inductive Instructions \ud83d\udcda</p><p>\"Self-Critique prompting enables models to not only self-criticize but also self-correct, which shows promising results in handling inductive instructions under zero-shot and few-shot settings.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/DevoAllen/INDust\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/DevoAllen/INDust</span><span class=\"invisible\"></span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2305.13733v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2305.13733v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://creative.ai/@arxiv_cl",
-        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/SparkJiao/MERIt-v2",
-    "title": "https://github.com/SparkJiao/MERIt-v2",
-    "latest": "2023-05-25T02:27:33+00:00",
-    "last_post": {
-      "url": "https://creative.ai/@arxiv_cl/110426957620405347",
-      "content": "<p>\ud83d\udcdd LogicLLM: Exploring Self-Supervised Logic-Enhanced Training for Large Language Models \ud83d\udcda</p><p>\"The proposed LogicLLM first incorporates logical knowledge through self-supervised post-training and activates it via in-context learning with an auto-regressive objective variant of MERIt.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/SparkJiao/MERIt-v2\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/SparkJiao/MERIt-v2</span><span class=\"invisible\"></span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2305.13718v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2305.13718v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://creative.ai/@arxiv_cl",
-        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/hgaurav2k/JEEBench",
-    "title": "GitHub - hgaurav2k/JEEBench: Repository for the code and dataset for the paper: \"Have LLMs Advanced enough? Towards  Harder Problem Solving Benchmarks For Large Language Models\"",
-    "latest": "2023-05-25T02:00:32+00:00",
-    "last_post": {
-      "url": "https://sigmoid.social/@aran/110426851381371703",
-      "content": "<p>Have LLMs Advanced Enough? A Challenging Problem Solving Benchmark For Large Language Models</p><p>Presents JEEBench, a benchmark w/ 450 pre-engineering math, physics and chemistry problems from the IIT JEE-Advanced Exam</p><p>repo: <a href=\"https://github.com/hgaurav2k/JEEBench\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/hgaurav2k/JEEBench</span><span class=\"invisible\"></span></a><br>abs: <a href=\"https://arxiv.org/abs/2305.15074\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2305.15074</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://sigmoid.social/@aran",
-        "display_name": "Aran Komatsuzaki"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/luohongyin/SAIL\u2026",
-    "title": "https://github.com/luohongyin/SAIL\u2026",
-    "latest": "2023-05-25T01:48:27+00:00",
-    "last_post": {
-      "url": "https://sigmoid.social/@aran/110426803918577727",
-      "content": "<p>SAIL: Search-Augmented Instruction Learning</p><p>- Releases SAIL-7B, a model finetuned on complex search results generated by in-house and external search engines</p><p>- SAIL-7b outperforms search-augmented ChatGPT and Vicuna</p><p>proj: <a href=\"https://openlsr.org/sail-7b\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">openlsr.org/sail-7b</span><span class=\"invisible\"></span></a><br>repo: <a href=\"https://github.com/luohongyin/SAIL\u2026\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/luohongyin/SAIL\u2026</span><span class=\"invisible\"></span></a> <a href=\"https://twitter.com/i/web/status/1661549549901553665\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">twitter.com/i/web/status/16615</span><span class=\"invisible\">49549901553665</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://sigmoid.social/@aran",
-        "display_name": "Aran Komatsuzaki"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/Heidelberg-NLP/ancient-language-models",
-    "title": "GitHub - Heidelberg-NLP/ancient-language-models",
-    "latest": "2023-05-25T01:07:33+00:00",
-    "last_post": {
-      "url": "https://creative.ai/@arxiv_cl/110426643096373835",
-      "content": "<p>\ud83d\udcdd Exploring Large Language Models for Classical Philology \ud83d\udcda</p><p>\"Creates four language models for Ancient Greek that vary along two dimensions: Explores encoder-only and encoder-decoder architectures using two model types, RoBERTa and T5.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/Heidelberg-NLP/ancient-language-models\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/Heidelberg-NLP/anci</span><span class=\"invisible\">ent-language-models</span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2305.13698v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2305.13698v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://creative.ai/@arxiv_cl",
-        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/observablehq/plot/blob/main/CHANGELOG.md#067",
-    "title": "plot/CHANGELOG.md at main \u00b7 observablehq/plot",
-    "latest": "2023-05-25T00:45:46+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@hrbrmstr/110426557433353883",
-      "content": "<p>ZOMGOSH THE CHANGELOG TODAY FOR <span class=\"h-card\"><a href=\"https://vis.social/@observablehq\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>observablehq</span></a></span> Plot!!!!</p><p><a href=\"https://github.com/observablehq/plot/blob/main/CHANGELOG.md#067\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/observablehq/plot/b</span><span class=\"invisible\">lob/main/CHANGELOG.md#067</span></a> \ud83d\udc40 \ud83d\udc40 \ud83d\udc40 \ud83d\udc40</p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@hrbrmstr",
-        "display_name": "boB Rudis \ud83c\uddfa\ud83c\udde6"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/newsapps/beeswithmachineguns",
-    "title": "GitHub - newsapps/beeswithmachineguns: A utility for arming (creating) many bees (micro EC2 instances) to attack (load test) targets (web applications).",
-    "latest": "2023-05-24T23:11:19+00:00",
-    "last_post": {
-      "url": "https://monogram.org/@brianboyer/110426186004854072",
-      "content": "<p>Sudden and huge increases in concurrent users is an interesting challenge to prepare for <a href=\"https://github.com/newsapps/beeswithmachineguns\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/newsapps/beeswithma</span><span class=\"invisible\">chineguns</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://monogram.org/@brianboyer",
-        "display_name": "Brian Boyer"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/antlr/grammars-v4",
-    "title": "https://github.com/antlr/grammars-v4",
-    "latest": "2023-05-24T23:07:29+00:00",
-    "last_post": {
-      "url": "https://creative.ai/@arxiv_cl/110426170945203225",
-      "content": "<p>\ud83d\udcdd Error Detection for Text-to-SQL Semantic Parsing \ud83d\udcda</p><p>\"Based on pre-trained language model of code and is enhanced with structural features learned by graph neural networks to detect erroneous SQL query predictions on the fly without access to the parser.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/antlr/grammars-v4\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/antlr/grammars-v4</span><span class=\"invisible\"></span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2305.13683v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2305.13683v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://creative.ai/@arxiv_cl",
-        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/Automattic/wordpress-activitypub/pull/342",
-    "title": "prepare pseudo users like a blog wide user. by pfefferle \u00b7 Pull Request #342 \u00b7 Automattic/wordpress-activitypub",
-    "latest": "2023-05-24T21:57:48+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@pfefferle/110425836576562310",
-      "content": "<p>Btw. If you want to follow the progress: <a href=\"https://github.com/Automattic/wordpress-activitypub/pull/342\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/Automattic/wordpres</span><span class=\"invisible\">s-activitypub/pull/342</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://indieweb.social/@tchambers",
-        "display_name": "Tim Chambers"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/rstudio/vetiver-r/actions",
-    "title": "Actions \u00b7 rstudio/vetiver-r",
-    "latest": "2023-05-24T21:52:21+00:00",
-    "last_post": {
-      "url": "https://fosstodon.org/@juliasilge/110423988562410843",
-      "content": "<p><span class=\"h-card\"><a href=\"https://mapstodon.space/@josiah\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>josiah</span></a></span> It's like a broom situation, sort of, with a lot in Suggests for all the model types.</p><p>Three or four minutes seems about right!<br><a href=\"https://github.com/rstudio/vetiver-r/actions\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/rstudio/vetiver-r/a</span><span class=\"invisible\">ctions</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mapstodon.space/@josiah",
-        "display_name": "Josiah :rstat:"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/Automattic/wordpress-activitypub/issues/1",
-    "title": "Catchall-Account \u00b7 Issue #1 \u00b7 Automattic/wordpress-activitypub",
-    "latest": "2023-05-24T21:38:50+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@pfefferle/110422213725766877",
-      "content": "<p>RE: ActivityPub Plugin for WordPress: let's assume I would work on a feature that would allow you to follow a complete blog, what would be the best identifier for that account? `@feed@example.org`? `@blog@example.com`?<br>What are your ideas?</p><p><a href=\"https://github.com/Automattic/wordpress-activitypub/issues/1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/Automattic/wordpres</span><span class=\"invisible\">s-activitypub/issues/1</span></a></p><p><a href=\"https://mastodon.social/tags/activitypub\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>activitypub</span></a> <a href=\"https://mastodon.social/tags/wordpress\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>wordpress</span></a> <a href=\"https://mastodon.social/tags/plugin\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>plugin</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://indieweb.social/@tchambers",
-        "display_name": "Tim Chambers"
-      },
-      {
-        "url": "https://mastodon.social/@jeffjarvis",
-        "display_name": "Jeff Jarvis"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/thu-coai/DA-Transformer",
-    "title": "GitHub - thu-coai/DA-Transformer: Official Implementation for the ICML2022 paper \"Directed Acyclic Transformer for Non-Autoregressive Machine Translation\"",
-    "latest": "2023-05-24T21:27:30+00:00",
-    "last_post": {
-      "url": "https://creative.ai/@arxiv_cl/110425777781700447",
-      "content": "<p>\ud83d\udcdd Optimizing Non-Autoregressive Transformers with Contrastive Learning \ud83d\udcda</p><p>\"Proposed to ease the difficulty of modality learning via sampling from the model distribution instead of the data distribution, and derive contrastive constraints to stabilize the training process and integrate this resulting objective with the state-of-the-art NAT architecture DA-Transformer.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/thu-coai/DA-Transformer\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/thu-coai/DA-Transfo</span><span class=\"invisible\">rmer</span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2305.13667v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2305.13667v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://creative.ai/@arxiv_cl",
-        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/PuellaeMagicae/unix-in-lisp",
-    "title": "GitHub - PuellaeMagicae/unix-in-lisp: Mount Unix system into Common Lisp image",
-    "latest": "2023-05-24T21:20:03+00:00",
-    "last_post": {
-      "url": "https://die-partei.social/@hackernews/110425748493699538",
-      "content": "<p>Show HN: Mount Unix system into Common Lisp image - <a href=\"https://github.com/PuellaeMagicae/unix-in-lisp\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/PuellaeMagicae/unix</span><span class=\"invisible\">-in-lisp</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://die-partei.social/@hackernews",
-        "display_name": "Hackernews"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/WadeYin9712/Dynosaur",
-    "title": "github.com/WadeYin9712/Dynosau...",
-    "latest": "2023-05-24T20:37:07+00:00",
-    "last_post": {
-      "url": "https://sigmoid.social/@aran/110425579685882242",
-      "content": "<p>RT @Wade_Yin9712@twitter.com</p><p>Introducing \ud83e\udd96Dynosaur: A Dynamic Growth Paradigm for Instruction-Tuning Data Curation! <br>Dynosaur contains 800K generated instruction-tuning data and can \u2b06\ufe0f**dynamically** grow!</p><p>Project page: <a href=\"https://dynosaur-it.github.io/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">dynosaur-it.github.io/</span><span class=\"invisible\"></span></a><br>Preprint: <a href=\"https://arxiv.org/abs/2305.14327\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2305.14327</span><span class=\"invisible\"></span></a><br>Code: <a href=\"https://github.com/WadeYin9712/Dynosaur\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/WadeYin9712/Dynosau</span><span class=\"invisible\">r</span></a></p><p>\ud83d\udc26\ud83d\udd17: <a href=\"https://twitter.com/Wade_Yin9712/status/1661237791920132098\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">twitter.com/Wade_Yin9712/statu</span><span class=\"invisible\">s/1661237791920132098</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://sigmoid.social/@aran",
-        "display_name": "Aran Komatsuzaki"
       }
     ]
   }
