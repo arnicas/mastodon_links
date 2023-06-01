@@ -1,5 +1,276 @@
 [
   {
+    "link": "https://github.com/InfuseAI/piperider/releases/tag/v0.26.0",
+    "title": "Release v0.26.0 \u00b7 InfuseAI/piperider",
+    "latest": "2023-06-01T09:36:01+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@piperider/110468278593434461",
+      "content": "<p>PipeRider 0.26.0 has just been released \ud83d\udce2</p><p>'PipeRider compare' is a powerful command, so we've included two options to guide you through using it:<br> <br>--dry-run <br>will show each command that will be run</p><p>--interactive<br>will guide you step by step</p><p>More info:<br><a href=\"https://github.com/InfuseAI/piperider/releases/tag/v0.26.0\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/InfuseAI/piperider/</span><span class=\"invisible\">releases/tag/v0.26.0</span></a></p><p>To update just run:<br>pip install -U piperider</p><p><a href=\"https://fosstodon.org/tags/DataQuality\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DataQuality</span></a> <a href=\"https://fosstodon.org/tags/PipeRider\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>PipeRider</span></a> <a href=\"https://fosstodon.org/tags/DataReliability\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DataReliability</span></a> <a href=\"https://fosstodon.org/tags/DataOps\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DataOps</span></a> <a href=\"https://fosstodon.org/tags/DataDiff\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DataDiff</span></a> <a href=\"https://fosstodon.org/tags/dbt\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>dbt</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fosstodon.org/@piperider",
+        "display_name": "PipeRider"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/python/mypy/issues/3186",
+    "title": "int is not a Number? \u00b7 Issue #3186 \u00b7 python/mypy",
+    "latest": "2023-06-01T08:21:41+00:00",
+    "last_post": {
+      "url": "https://social.juanlu.space/@astrojuanlu/110467986352817098",
+      "content": "<p>The epic \"int is not a Number?\" mega-thread on the MyPy issue tracker has been closed as \"won't fix\". End of an era.</p><p><a href=\"https://github.com/python/mypy/issues/3186\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/python/mypy/issues/</span><span class=\"invisible\">3186</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://social.juanlu.space/@astrojuanlu",
+        "display_name": "Juan Luis"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/douglashiwo/AttentionAlignmentASAS",
+    "title": "GitHub - douglashiwo/AttentionAlignmentASAS",
+    "latest": "2023-06-01T07:52:42+00:00",
+    "last_post": {
+      "url": "https://creative.ai/@arxiv_cl/110467872378156754",
+      "content": "<p>\ud83d\udcdd Short Answer Grading Using One-Shot Prompting and Text Similarity Scoring Model \ud83d\udcda</p><p>\"Uses a LLM-based one-shot prompting to generate sub-questions and corresponding short answers and used a text similarity scoring model with domain adaptation using small manually annotated dataset.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/douglashiwo/AttentionAlignmentASAS\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/douglashiwo/Attenti</span><span class=\"invisible\">onAlignmentASAS</span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2305.18638v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2305.18638v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://creative.ai/@arxiv_cl",
+        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/patricia-gallardo/hello-world-ebpf/issues/2",
+    "title": "Running the binary prints errors \u00b7 Issue #2 \u00b7 patricia-gallardo/hello-world-ebpf",
+    "latest": "2023-06-01T07:37:37+00:00",
+    "last_post": {
+      "url": "https://social.vivaldi.net/@Patricia/110467813061322641",
+      "content": "<p>Here is the error<br><a href=\"https://github.com/patricia-gallardo/hello-world-ebpf/issues/2\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/patricia-gallardo/h</span><span class=\"invisible\">ello-world-ebpf/issues/2</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://social.vivaldi.net/@Patricia",
+        "display_name": "Patricia Aas"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/hickford/git-credential-oauth",
+    "title": "GitHub - hickford/git-credential-oauth: A Git credential helper that securely authenticates to GitHub, GitLab and BitBucket using OAuth.",
+    "latest": "2023-06-01T07:30:04+00:00",
+    "last_post": {
+      "url": "https://die-partei.social/@hackernews/110467783321729780",
+      "content": "<p>Show HN: Git credential helper using OAuth in browser - <a href=\"https://github.com/hickford/git-credential-oauth\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/hickford/git-creden</span><span class=\"invisible\">tial-oauth</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://die-partei.social/@hackernews",
+        "display_name": "Hackernews"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/CollectionBuilder/collectionbuilder-csv/pull/64",
+    "title": "Alt text field by evanwill \u00b7 Pull Request #64 \u00b7 CollectionBuilder/collectionbuilder-csv",
+    "latest": "2023-06-01T07:05:52.456000+00:00",
+    "last_post": {
+      "url": "https://hcommons.social/@evanwill/110467150217707680",
+      "content": "<p>My <a href=\"https://hcommons.social/tags/DayOfDH2023\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DayOfDH2023</span></a> was actually a lot of pretty cool work on CollectionBuilder, merging in some awesome new features that I think conceptually expand traditional metadata to ensure it has fields focused on accessible access. <br><a href=\"https://github.com/CollectionBuilder/collectionbuilder-csv/pull/64\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/CollectionBuilder/c</span><span class=\"invisible\">ollectionbuilder-csv/pull/64</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mstdn.social/@felwert",
+        "display_name": "Frederik Elwert"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/chekos/Datawrapper",
+    "title": "GitHub - chekos/Datawrapper: A light-weight wrapper for the Datawrapper API.",
+    "latest": "2023-06-01T06:33:33+00:00",
+    "last_post": {
+      "url": "https://journa.host/@claus/110467561108714737",
+      "content": "<p>Great to see new development activity by Sergio and <span class=\"h-card\"><a href=\"https://mastodon.palewi.re/@palewire\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>palewire</span></a></span> for the Datawrapper Python package <a href=\"https://github.com/chekos/Datawrapper\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/chekos/Datawrapper</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://journa.host/@claus",
+        "display_name": "Claus Hesseling"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/igul222/plaid",
+    "title": "GitHub - igul222/plaid",
+    "latest": "2023-06-01T06:07:34+00:00",
+    "last_post": {
+      "url": "https://creative.ai/@arxiv_cl/110467458944235935",
+      "content": "<p>\ud83d\udcdd Likelihood-Based Diffusion Language Models \ud83d\udcda\ud83e\udde0</p><p>\"Introduces several methodological improvements for the training of diffusion language models, and study scaling laws for these models, identifying compute-efficient regimes for their training which differ substantially from autoregressive language models.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a> <a href=\"https://creative.ai/tags/LG\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>LG</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/igul222/plaid\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/igul222/plaid</span><span class=\"invisible\"></span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2305.18619v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2305.18619v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://creative.ai/@arxiv_cl",
+        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/BurakGurbuz97/SHARP-Continual-Learning",
+    "title": "GitHub - BurakGurbuz97/SHARP-Continual-Learning",
+    "latest": "2023-06-01T05:51:39+00:00",
+    "last_post": {
+      "url": "https://creative.ai/@arxiv_cv/110466397669747541",
+      "content": "<p>\ud83d\udcdd SHARP: Sparsity and Hidden Activation RePlay for Neuro-Inspired Continual Learning \ud83e\udde0\ud83d\udd2d</p><p>\"By replaying sparsely encoded patterns in the hidden layers and prioritizing recent patterns for replay to consolidate memories, SHARP achieves state-of-the-art continual learning performance on five datasets.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/LG\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>LG</span></a> <a href=\"https://creative.ai/tags/CV\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CV</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/BurakGurbuz97/SHARP-Continual-Learning\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/BurakGurbuz97/SHARP</span><span class=\"invisible\">-Continual-Learning</span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2305.18563v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2305.18563v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@rich",
+        "display_name": "Rich Tong \u2764\ufe0f\ud83c\udf93"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/riccardotommasini/imkg",
+    "title": "github.com/riccardotommasini/i...",
+    "latest": "2023-06-01T05:13:04+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@lysander07/110462509175921190",
+      "content": "<p>Ricardo Tommasini presenting the Internet Meme <a href=\"https://sigmoid.social/tags/KnowledgeGraph\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>KnowledgeGraph</span></a>  (IMKG) with - of course - a lot of internet memes in his presentation ;-)</p><p>paper: <a href=\"https://2023.eswc-conferences.org/wp-content/uploads/2023/05/paper_Tommasini_2023_The.pdf\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">2023.eswc-conferences.org/wp-c</span><span class=\"invisible\">ontent/uploads/2023/05/paper_Tommasini_2023_The.pdf</span></a><br>IMKG: <a href=\"https://w3id.org/imkg\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">w3id.org/imkg</span><span class=\"invisible\"></span></a><br>GitHub: <a href=\"https://github.com/riccardotommasini/imkg\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/riccardotommasini/i</span><span class=\"invisible\">mkg</span></a></p><p><a href=\"https://sigmoid.social/tags/eswc2023\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>eswc2023</span></a> <a href=\"https://sigmoid.social/tags/meme\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>meme</span></a> <a href=\"https://sigmoid.social/tags/knowledgegraphs\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>knowledgegraphs</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://sigmoid.social/@lysander07",
+        "display_name": "Harald Sack"
+      },
+      {
+        "url": "https://wien.rocks/@AxelPolleres",
+        "display_name": "AxelPolleres (Q54860587)"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/scikit-build/scikit-build-core/releases/tag/v0.4.3",
+    "title": "Release Version 0.4.3 \u00b7 scikit-build/scikit-build-core",
+    "latest": "2023-06-01T04:32:37+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@henryiii/110466418230063468",
+      "content": "<p>Released scikit-build-core 0.4.3! Lots of ABI3 fixes, including a way to detect ABI3 and ABI is applied conditionally only if supported. Fixed a bug with CPython 3.12.0b1 on Windows (which I think is a CPython bug, actually), and editable path fix too. Testing on 3.12.0b1 now also. <a href=\"https://github.com/scikit-build/scikit-build-core/releases/tag/v0.4.3\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/scikit-build/scikit</span><span class=\"invisible\">-build-core/releases/tag/v0.4.3</span></a> <a href=\"https://fosstodon.org/tags/python\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>python</span></a> <a href=\"https://fosstodon.org/tags/cmake\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>cmake</span></a> <a href=\"https://fosstodon.org/tags/release\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>release</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://social.juanlu.space/@astrojuanlu",
+        "display_name": "Juan Luis"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/AbyssDragonModding/D4GlyphNodeCalculator/tree/main",
+    "title": "GitHub - AbyssDragonModding/D4GlyphNodeCalculator: Requirements: Python 3.11+, read the Readme for additional info",
+    "latest": "2023-06-01T03:46:20+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@python_discussions/110466903601733676",
+      "content": "<p>I made a glyph node calculator for Diablo IV.</p><p><a href=\"https://github.com/AbyssDragonModding/D4GlyphNodeCalculator/tree/main\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/AbyssDragonModding/</span><span class=\"invisible\">D4GlyphNodeCalculator/tree/main</span></a></p><p>Discussions: <a href=\"https://discu.eu/q/https://github.com/AbyssDragonModding/D4GlyphNodeCalculator/tree/main\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">discu.eu/q/https://github.com/</span><span class=\"invisible\">AbyssDragonModding/D4GlyphNodeCalculator/tree/main</span></a></p><p><a href=\"https://mastodon.social/tags/programming\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>programming</span></a> <a href=\"https://mastodon.social/tags/python\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>python</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@python_discussions",
+        "display_name": "Python Weekly"
+      }
+    ]
+  },
+  {
+    "link": "https://observablehq.com/collection/@observablehq/introduction-to-data-wrangling-and-analysis-in-javascript",
+    "title": "observablehq.com/collection/@o...",
+    "latest": "2023-06-01T02:52:08+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@allison_horst/110466690488552823",
+      "content": "<p>Hi R users! Want to add JavaScript to your DS toolkit? Here are some resources to get started!</p><p>- \ud83d\udcc8 Observable Plot from ggplot2: <a href=\"https://bit.ly/3WKnB9Y\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">bit.ly/3WKnB9Y</span><span class=\"invisible\"></span></a></p><p>- \ud83d\udee0\ufe0f Wrangling in Arquero: <a href=\"https://bit.ly/3oNArHM\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">bit.ly/3oNArHM</span><span class=\"invisible\"></span></a></p><p>- \u2705 Data wrangling translations (JS, R &amp; more): <a href=\"https://bit.ly/3oxyeQZ\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">bit.ly/3oxyeQZ</span><span class=\"invisible\"></span></a></p><p>- \ud83d\udcfd\ufe0f JS Data Wrangling &amp; Analysis course: <a href=\"https://observablehq.com/collection/@observablehq/introduction-to-data-wrangling-and-analysis-in-javascript\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">observablehq.com/collection/@o</span><span class=\"invisible\">bservablehq/introduction-to-data-wrangling-and-analysis-in-javascript</span></a></p><p>- \ud83d\udcd3 Learn Just Enough JavaScript! <a href=\"https://observablehq.com/@observablehq/learn-javascript-introduction\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">observablehq.com/@observablehq</span><span class=\"invisible\">/learn-javascript-introduction</span></a></p><p>-  Our <span class=\"h-card\"><a href=\"https://vis.social/@observablehq\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>observablehq</span></a></span> Slack is a great place to share, ask, &amp; get help! <a href=\"https://bit.ly/3f6D2I6\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">bit.ly/3f6D2I6</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@hrbrmstr",
+        "display_name": "boB Rudis \ud83c\uddfa\ud83c\udde6"
+      },
+      {
+        "url": "https://mastodon.social/@allison_horst",
+        "display_name": "Allison Horst  :BlobhajReach:"
+      }
+    ]
+  },
+  {
+    "link": "https://observablehq.com/@observablehq/learn-javascript-introduction",
+    "title": "observablehq.com/@observablehq...",
+    "latest": "2023-06-01T02:52:08+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@allison_horst/110466690488552823",
+      "content": "<p>Hi R users! Want to add JavaScript to your DS toolkit? Here are some resources to get started!</p><p>- \ud83d\udcc8 Observable Plot from ggplot2: <a href=\"https://bit.ly/3WKnB9Y\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">bit.ly/3WKnB9Y</span><span class=\"invisible\"></span></a></p><p>- \ud83d\udee0\ufe0f Wrangling in Arquero: <a href=\"https://bit.ly/3oNArHM\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">bit.ly/3oNArHM</span><span class=\"invisible\"></span></a></p><p>- \u2705 Data wrangling translations (JS, R &amp; more): <a href=\"https://bit.ly/3oxyeQZ\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">bit.ly/3oxyeQZ</span><span class=\"invisible\"></span></a></p><p>- \ud83d\udcfd\ufe0f JS Data Wrangling &amp; Analysis course: <a href=\"https://observablehq.com/collection/@observablehq/introduction-to-data-wrangling-and-analysis-in-javascript\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">observablehq.com/collection/@o</span><span class=\"invisible\">bservablehq/introduction-to-data-wrangling-and-analysis-in-javascript</span></a></p><p>- \ud83d\udcd3 Learn Just Enough JavaScript! <a href=\"https://observablehq.com/@observablehq/learn-javascript-introduction\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">observablehq.com/@observablehq</span><span class=\"invisible\">/learn-javascript-introduction</span></a></p><p>-  Our <span class=\"h-card\"><a href=\"https://vis.social/@observablehq\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>observablehq</span></a></span> Slack is a great place to share, ask, &amp; get help! <a href=\"https://bit.ly/3f6D2I6\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">bit.ly/3f6D2I6</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@hrbrmstr",
+        "display_name": "boB Rudis \ud83c\uddfa\ud83c\udde6"
+      },
+      {
+        "url": "https://mastodon.social/@allison_horst",
+        "display_name": "Allison Horst  :BlobhajReach:"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/DoubleSymmetry/XNavigation",
+    "title": "https://github.com/DoubleSymmetry/XNavigation",
+    "latest": "2023-06-01T02:47:35.322000+00:00",
+    "last_post": {
+      "url": "https://a.farook.org/objects/bd5d7843-c535-4191-bd69-7399196a9d5e",
+      "content": "I tried to explain the issues I was having with the current SwiftUI navigation options yesterday, but I don\u2019t think I did a good job \ud83d\ude42 So here\u2019s a second stab at it \u2026<br><br>Basically, my understanding is that the only out-of-the-box way to show new views is to either use a NavigationLink or a sheet. I had a List where I wanted the user clicking on the list cell to take them to one view and the user clicking on a button within the list view to take them to another view. (See screenshot #1). This was fairly easy to do in UIKit.<br><br>But when I use NavigationLinks for both items, they automatically add these disclosure indicators and doubles them for two NavigationLinks (yes, I know you can hide them with some jugglery, but you shouldn\u2019t need to do that). Worse still, you still get taken to only one view no matter where you click \ud83d\ude1b<br><br>Fine, so two NavigationLinks in the same cell won\u2019t work. So let\u2019s try making one of them (the button) show a sheet instead. That should work, right?<br><br>And this does indeed work. (See screenshot #2).<br><br>So all is well? Well kinda \u2026 First, I shouldn\u2019t need to show a sheet when I don\u2019t want to. If I want to push a new view in, then I should be able to do so, right?<br><br>But leaving that quibble aside, let\u2019s say I want my cell to have a distinctive look. Like in screenshot #3. But now I have the disclosure indicator outside my content cell. And that really doesn\u2019t look good to me \u2026<br><br>Oh, but you can put the NavigationLink and the cell content in a ZStack to control that, you say? Sure, but then things look like screenshot #4 \ud83d\ude1b Sure, with some more tweaking I can probably get things working right but shouldn\u2019t this be easier?<br><br>Also, do note that you can set the opacity of the NavigationLink to 0 and hide the disclosure indicator altogether and yet have the NavigationLink work. And that\u2019s what I did in my app, but in that app, setting things up this way wouldn\u2019t work for the two separate views. Tapping on the button would launch both the detail view and the other view.<br><br>But it works correctly here. So I think I must have gotten something subtle wrong in the other implementation.<br><br>However, if you want to avoid all these hassles, you might want to try out this package:<br><br><a href=\"https://github.com/DoubleSymmetry/XNavigation\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">https://github.com/DoubleSymmetry/XNavigation</a><br><br>It let me do view navigation the way I wanted to, instead of having to use sheets when I didn\u2019t want to use sheets \ud83d\ude1b<br><br>If you have a better way to do what I was trying to do, please do let me know. I\u2019m always eager to learn \ud83d\ude42<br><br>Disclaimer: I am not affiliated to the developer of the package in any way. I just liked how it made navigation so much easier \u2026 at least for the use cases I had.<br><br><a class=\"hashtag\" href=\"https://a.farook.org/tag/ios\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#iOS</a> <a class=\"hashtag\" href=\"https://a.farook.org/tag/swiftui\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#SwiftUI</a> <a class=\"hashtag\" href=\"https://a.farook.org/tag/coding\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#Coding</a> <a class=\"hashtag\" href=\"https://a.farook.org/tag/navigation\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#Navigation</a> <a class=\"hashtag\" href=\"https://a.farook.org/tag/apple\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#Apple</a><br><a href=\"https://a.farook.org/media/d429d0313b11828b453099a0d793cf4af2d0ed1cf5adb89230220f7d73c0bf40.jpeg\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">Screenshot #1. Trying to use tw\u2026</a><br><a href=\"https://a.farook.org/media/48b3ed99fd704d0c5b65759ae2e4c2c79ec495959870949f52eea1ad02c2fdf2.jpeg\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">Screenshot #2. The button/image\u2026</a><br><a href=\"https://a.farook.org/media/62ecb08b6a1ae18621e2da8059006307f69b70f3386943d32309ba2c22daf07a.jpeg\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">Screenshot #3. Adding a backgro\u2026</a><br><a href=\"https://a.farook.org/media/d9fc6c022658888fbca9a5654f75615c0c165ea52d9a5530c8ede61a4715b95b.jpeg\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">Screenshot #4. The disclosure i\u2026</a>"
+    },
+    "people": [
+      {
+        "url": "https://a.farook.org/users/f",
+        "display_name": "Fahim Farook"
+      }
+    ]
+  },
+  {
+    "link": "https://observablehq.com/@observablehq/troubleshooting-pathways",
+    "title": "Visualizing code troubleshooting pathways on the Monster Scale",
+    "latest": "2023-06-01T02:03:36+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@hrbrmstr/110436054831575697",
+      "content": "<p>The (*checks Marvel Superhero adjectives worksheet*) Incredible <span class=\"h-card\"><a href=\"https://mastodon.social/@allison_horst\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>allison_horst</span></a></span>  has a super cool new <span class=\"h-card\"><a href=\"https://vis.social/@observablehq\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>observablehq</span></a></span>  notebook up with both spiffy illustrations (I want to be Allison when I grow up) and a crazy cool interactive \"pathways\" datavis that also shows off a cool way to do do tappable img tooltips). <a href=\"https://observablehq.com/@observablehq/troubleshooting-pathways\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">observablehq.com/@observablehq</span><span class=\"invisible\">/troubleshooting-pathways</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@hrbrmstr",
+        "display_name": "boB Rudis \ud83c\uddfa\ud83c\udde6"
+      },
+      {
+        "url": "https://mastodon.social/@allison_horst",
+        "display_name": "Allison Horst  :BlobhajReach:"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/iamjanvijay/",
+    "title": "iamjanvijay - Overview",
+    "latest": "2023-06-01T00:52:39+00:00",
+    "last_post": {
+      "url": "https://creative.ai/@arxiv_cl/110466220645891117",
+      "content": "<p>\ud83d\udcdd Forgotten Knowledge: Examining the Citational Amnesia in NLP \ud83d\udcda</p><p>\"Studies NLP papers published between 1990 and June 2019 and find that 82% of papers cite at least one paper that was published within 5 years before the target paper.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a> <a href=\"https://creative.ai/tags/DL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DL</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/iamjanvijay/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/iamjanvijay/</span><span class=\"invisible\"></span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2305.18554v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2305.18554v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://creative.ai/@arxiv_cl",
+        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/lancedb/lance",
     "title": "GitHub - lancedb/lance: Modern columnar data format for ML and LLMs implemented in Rust. Convert from parquet in 2 lines of code for 100x faster random access, vector index, and data versioning. Compatible with Pandas, DuckDB, Polars, Pyarrow, with more integrations coming..",
     "latest": "2023-05-31T21:55:04+00:00",
@@ -229,21 +500,6 @@
     ]
   },
   {
-    "link": "https://github.com/riccardotommasini/imkg",
-    "title": "github.com/riccardotommasini/i...",
-    "latest": "2023-05-31T09:08:46+00:00",
-    "last_post": {
-      "url": "https://sigmoid.social/@lysander07/110462509175921190",
-      "content": "<p>Ricardo Tommasini presenting the Internet Meme <a href=\"https://sigmoid.social/tags/KnowledgeGraph\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>KnowledgeGraph</span></a>  (IMKG) with - of course - a lot of internet memes in his presentation ;-)</p><p>paper: <a href=\"https://2023.eswc-conferences.org/wp-content/uploads/2023/05/paper_Tommasini_2023_The.pdf\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">2023.eswc-conferences.org/wp-c</span><span class=\"invisible\">ontent/uploads/2023/05/paper_Tommasini_2023_The.pdf</span></a><br>IMKG: <a href=\"https://w3id.org/imkg\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">w3id.org/imkg</span><span class=\"invisible\"></span></a><br>GitHub: <a href=\"https://github.com/riccardotommasini/imkg\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/riccardotommasini/i</span><span class=\"invisible\">mkg</span></a></p><p><a href=\"https://sigmoid.social/tags/eswc2023\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>eswc2023</span></a> <a href=\"https://sigmoid.social/tags/meme\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>meme</span></a> <a href=\"https://sigmoid.social/tags/knowledgegraphs\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>knowledgegraphs</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://sigmoid.social/@lysander07",
-        "display_name": "Harald Sack"
-      }
-    ]
-  },
-  {
     "link": "https://github.com/tesseract-ocr/tesseract",
     "title": "GitHub - tesseract-ocr/tesseract: Tesseract Open Source OCR Engine (main repository)",
     "latest": "2023-05-31T08:14:14+00:00",
@@ -315,21 +571,6 @@
       {
         "url": "https://creative.ai/@arxiv_cl",
         "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/DoubleSymmetry/XNavigation",
-    "title": "https://github.com/DoubleSymmetry/XNavigation",
-    "latest": "2023-05-31T06:07:41.590000+00:00",
-    "last_post": {
-      "url": "https://a.farook.org/objects/774864ed-70cd-4d82-a53e-8d48b7eb34e1",
-      "content": "While I have come to love the latest iteration of SwiftUI for how fast I can get stuff done, one thing that still trips me up is navigation \u2014 it\u2019s almost as if Apple expects all screen navigation to happen either as explicit taps on UI elements, or simply modal screens \ud83d\ude42<br><br>With my latest app, I have been hitting navigation limitations pretty hard. I have a list item which also has a button on it which should take you to a different item than tapping on the list item itself. Try as I could (OK, I didn\u2019t try verrry hard \ud83d\ude1b) I couldn\u2019t make this work correctly.<br><br>Then I found this handy package:<br><br><a href=\"https://github.com/DoubleSymmetry/XNavigation\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">https://github.com/DoubleSymmetry/XNavigation</a><br><br>It made all of my navigation handling issues disappear! (Well, at least for now \u2026 I\u2019ve only been using the package for about an hour \u2026) It did make all of the scenarios I encountered (and had to find workarounds for so far) disappear. So I\u2019m very thankful to the author since it makes navigation fun again for me \ud83d\ude42<br><br><a class=\"hashtag\" href=\"https://a.farook.org/tag/ios\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#iOS</a> <a class=\"hashtag\" href=\"https://a.farook.org/tag/coding\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#Coding</a> <a class=\"hashtag\" href=\"https://a.farook.org/tag/swiftui\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#SwiftUI</a> <a class=\"hashtag\" href=\"https://a.farook.org/tag/navigation\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#Navigation</a>"
-    },
-    "people": [
-      {
-        "url": "https://a.farook.org/users/f",
-        "display_name": "Fahim Farook"
       }
     ]
   },
@@ -1847,21 +2088,6 @@
     ]
   },
   {
-    "link": "https://observablehq.com/@observablehq/troubleshooting-pathways",
-    "title": "Visualizing code troubleshooting pathways on the Monster Scale",
-    "latest": "2023-05-26T17:01:05+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@hrbrmstr/110436054831575697",
-      "content": "<p>The (*checks Marvel Superhero adjectives worksheet*) Incredible <span class=\"h-card\"><a href=\"https://mastodon.social/@allison_horst\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>allison_horst</span></a></span>  has a super cool new <span class=\"h-card\"><a href=\"https://vis.social/@observablehq\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>observablehq</span></a></span>  notebook up with both spiffy illustrations (I want to be Allison when I grow up) and a crazy cool interactive \"pathways\" datavis that also shows off a cool way to do do tappable img tooltips). <a href=\"https://observablehq.com/@observablehq/troubleshooting-pathways\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">observablehq.com/@observablehq</span><span class=\"invisible\">/troubleshooting-pathways</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@hrbrmstr",
-        "display_name": "boB Rudis \ud83c\uddfa\ud83c\udde6"
-      }
-    ]
-  },
-  {
     "link": "https://github.com/singlasahil14/barlow",
     "title": "GitHub - singlasahil14/barlow: Code for the CVPR 2021 paper: Understanding Failures of Deep Networks via Robust Feature Extraction",
     "latest": "2023-05-26T16:21:37+00:00",
@@ -2918,232 +3144,6 @@
       {
         "url": "https://sigmoid.social/@aran",
         "display_name": "Aran Komatsuzaki"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/JamesHWade/gpttools",
-    "title": "GitHub - JamesHWade/gpttools: gpttools extends gptstudio for package development to help you document code, write tests, or even explain code",
-    "latest": "2023-05-24T20:23:42+00:00",
-    "last_post": {
-      "url": "https://fosstodon.org/@jameshwade/109594493757887418",
-      "content": "<p>\ud83c\udf89 New \ud83d\udce6 announcement \ud83c\udf89</p><p>gpttools: a set of GPT-powered RStudio addins to help:</p><p>\ud83d\udcc4 document functions with roxygen<br>\ud83d\udcac comment &amp; explain code<br>\ud83e\uddea suggests unit tests for functions<br>\ud83d\ude80 convert scripts into reusable functions</p><p><a href=\"https://github.com/JamesHWade/gpttools\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/JamesHWade/gpttools</span><span class=\"invisible\"></span></a> <br><span class=\"h-card\"><a href=\"https://fediscience.org/@michelnivard\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>michelnivard</span></a></span>  <a href=\"https://fosstodon.org/tags/ChatGPT\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>ChatGPT</span></a> <a href=\"https://fosstodon.org/tags/rstats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>rstats</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@hrbrmstr",
-        "display_name": "boB Rudis \ud83c\uddfa\ud83c\udde6"
-      },
-      {
-        "url": "https://mastodon.social/@jose_eduardo",
-        "display_name": "Jos\u00e9 Eduardo Gonz\u00e1lez"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/opengeos/segment-geospatial",
-    "title": "GitHub - opengeos/segment-geospatial: A Python package for segmenting geospatial data with the Segment Anything Model (SAM)",
-    "latest": "2023-05-24T19:22:09+00:00",
-    "last_post": {
-      "url": "https://fosstodon.org/@giswqs/110423937663328227",
-      "content": "<p>Segment-geospatial v0.8.0 is out. New features include segmentating remote sensing imagery with text prompts interactively \ud83e\udd29 </p><p>Notebook: <a href=\"https://samgeo.gishub.org/examples/text_prompts\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">samgeo.gishub.org/examples/tex</span><span class=\"invisible\">t_prompts</span></a><br>GitHub: <a href=\"https://github.com/opengeos/segment-geospatial\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/opengeos/segment-ge</span><span class=\"invisible\">ospatial</span></a> <br>Video: <a href=\"https://youtu.be/cSDvuv1zRos\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">youtu.be/cSDvuv1zRos</span><span class=\"invisible\"></span></a> </p><p><a href=\"https://fosstodon.org/tags/geospatial\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>geospatial</span></a> <a href=\"https://fosstodon.org/tags/segmentanything\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>segmentanything</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://archaeo.social/@inti",
-        "display_name": "Matthew Bandy"
-      },
-      {
-        "url": "https://datasci.social/@mszll",
-        "display_name": "Michael Szell"
-      },
-      {
-        "url": "https://fosstodon.org/@underdarkGIS",
-        "display_name": "Anita Graser \ud83c\uddea\ud83c\uddfa\ud83c\uddfa\ud83c\udde6"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/csu-signal/axomiyaberta",
-    "title": "GitHub - csu-signal/axomiyaberta: This repo contains code for training, fine-tuning and evaluating a smaller-sized monolingual language model for Assamese.",
-    "latest": "2023-05-24T18:57:31+00:00",
-    "last_post": {
-      "url": "https://creative.ai/@arxiv_cl/110425188057946085",
-      "content": "<p>\ud83d\udcdd AxomiyaBERTa: A Phonologically-Aware Transformer Model for Assamese \ud83d\udcda</p><p>\"The training procedure of AxomiyaBERTa is different from standard BERT models: it only uses the masked language modeling training objective, while standard models use both masked language modeling as well as the next-sentence prediction objective.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/csu-signal/axomiyaberta\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/csu-signal/axomiyab</span><span class=\"invisible\">erta</span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2305.13641v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2305.13641v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://creative.ai/@arxiv_cl",
-        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/Kneesnap/onstream-data-recovery/blob/main/info/INTRO.MD",
-    "title": "onstream-data-recovery/INTRO.MD at main \u00b7 Kneesnap/onstream-data-recovery",
-    "latest": "2023-05-24T18:45:02+00:00",
-    "last_post": {
-      "url": "https://die-partei.social/@hackernews/110425138981145971",
-      "content": "<p>The long road to recover Frogger 2 source from tape drives - <a href=\"https://github.com/Kneesnap/onstream-data-recovery/blob/main/info/INTRO.MD\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/Kneesnap/onstream-d</span><span class=\"invisible\">ata-recovery/blob/main/info/INTRO.MD</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mstdn.ca/@hlabrande",
-        "display_name": "Hugo Labrande"
-      },
-      {
-        "url": "https://die-partei.social/@hackernews",
-        "display_name": "Hackernews"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/yfqiu-nlp/mfact-summ",
-    "title": "GitHub - yfqiu-nlp/mfact-summ: Materials for paper \"Detecting and Mitigating Hallucinations in Cross-Lingual Transfer for Abstractive Summarisation\"",
-    "latest": "2023-05-24T18:37:32+00:00",
-    "last_post": {
-      "url": "https://creative.ai/@arxiv_cl/110425109452118197",
-      "content": "<p>\ud83d\udcdd Detecting and Mitigating Hallucinations in Multilingual Summarisation \ud83d\udcda\ud83d\udc7e\ud83e\udde0</p><p>\"MFACT is a novel metric for the faithfulness evaluation of generated summaries on non-English language, which transfers existing English metric FACT using multi-lingual pretrained model.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a> <a href=\"https://creative.ai/tags/AI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AI</span></a> <a href=\"https://creative.ai/tags/LG\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>LG</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/yfqiu-nlp/mfact-summ\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/yfqiu-nlp/mfact-sum</span><span class=\"invisible\">m</span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2305.13632v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2305.13632v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://creative.ai/@arxiv_cl",
-        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/stanfordio/TeachingTrustSafety",
-    "title": "GitHub - stanfordio/TeachingTrustSafety: Trust and Safety Teaching Consortium",
-    "latest": "2023-05-24T18:35:48+00:00",
-    "last_post": {
-      "url": "https://mastodon.lawprofs.org/@riana/110424594309631720",
-      "content": "<p>The Trust &amp; Safety Teaching Consortium just launched their open-access teaching materials! <a href=\"https://github.com/stanfordio/TeachingTrustSafety\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/stanfordio/Teaching</span><span class=\"invisible\">TrustSafety</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://esq.social/@icymi_law",
-        "display_name": "ICYMI (Law)"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/polpo/picogus",
-    "title": "GitHub - polpo/picogus: Emulation of ISA sound cards on Raspberry Pi Pico (GUS, Adlib, MPU-401, Tandy, CMS)",
-    "latest": "2023-05-24T18:30:03+00:00",
-    "last_post": {
-      "url": "https://die-partei.social/@hackernews/110425080065539077",
-      "content": "<p>PicoGUS: Emulate ISA Sound Cards (GUS, Adlib, MPU-401, Tandy, CMS) with a Pico - <a href=\"https://github.com/polpo/picogus\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/polpo/picogus</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://die-partei.social/@hackernews",
-        "display_name": "Hackernews"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/IndoNLP/",
-    "title": "IndoNLP",
-    "latest": "2023-05-24T17:57:33+00:00",
-    "last_post": {
-      "url": "https://creative.ai/@arxiv_cl/110424952229757790",
-      "content": "<p>\ud83d\udcdd Instruct-Align: Teaching Novel Languages with to LLMs Through Alignment-Based Cross-Lingual Instruction \ud83d\udcda\ud83d\udc7e</p><p>\"By learning cross-lingual alignment between unseen and previously learned languages via alignment-based cross-lingual instruction tuning and experience replay of previously learned languages via continual instruction tuning.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a> <a href=\"https://creative.ai/tags/AI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AI</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/IndoNLP/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/IndoNLP/</span><span class=\"invisible\"></span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2305.13627v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2305.13627v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://creative.ai/@arxiv_cl",
-        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/bbolker/bbmisc/blob/master/bayes/examples.rmd",
-    "title": "github.com/bbolker/bbmisc/blob...",
-    "latest": "2023-05-24T17:51:49+00:00",
-    "last_post": {
-      "url": "https://fediscience.org/@bbolker/110424925368382105",
-      "content": "<p>I'd like to ask someone a whole bunch of annoying/possibly uninformed or naive brms/cmdstanr questions. Best venue/is someone up for that? (Context: experiencing mild to moderate frustration just trying to get some 'simple' examples, intended for students, to work ... WIP <a href=\"http://bbolker.github.io/bbmisc/bayes/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">http://</span><span class=\"ellipsis\">bbolker.github.io/bbmisc/bayes</span><span class=\"invisible\">/</span></a> , <a href=\"https://github.com/bbolker/bbmisc/blob/master/bayes/examples.rmd\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/bbolker/bbmisc/blob</span><span class=\"invisible\">/master/bayes/examples.rmd</span></a> )</p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@JoranJongerling",
-        "display_name": "Joran"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/nrennie/tidytuesday/tree/main/2023/2023-05-23",
-    "title": "tidytuesday/2023/2023-05-23 at main \u00b7 nrennie/tidytuesday",
-    "latest": "2023-05-24T17:44:33+00:00",
-    "last_post": {
-      "url": "https://fosstodon.org/@nrennie/110424901118429762",
-      "content": "<p>Recycling some code from a previous <a href=\"https://fosstodon.org/tags/TidyTuesday\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>TidyTuesday</span></a> viz to look at what squirrels in New York City get up to this week! \ud83c\udf33</p><p>(Apparently there is a significant overlap in how squirrels spend their time, and how I spend mine...)</p><p>Code: <a href=\"https://github.com/nrennie/tidytuesday/tree/main/2023/2023-05-23\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/nrennie/tidytuesday</span><span class=\"invisible\">/tree/main/2023/2023-05-23</span></a></p><p><a href=\"https://fosstodon.org/tags/RStats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>RStats</span></a> <a href=\"https://fosstodon.org/tags/DataViz\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>DataViz</span></a> <a href=\"https://fosstodon.org/tags/R4DS\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>R4DS</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://fosstodon.org/@nrennie",
-        "display_name": "Nicola Rennie"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/donmccurdy/assemblyscript-library-template",
-    "title": "GitHub - donmccurdy/assemblyscript-library-template: Personal template for new AssemblyScript libraries.",
-    "latest": "2023-05-24T17:34:16+00:00",
-    "last_post": {
-      "url": "https://fosstodon.org/@donmccurdy/110424860672050756",
-      "content": "<p>Or skip the reading and jump straight to the code, that's cool too:</p><p><a href=\"https://github.com/donmccurdy/assemblyscript-library-template\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/donmccurdy/assembly</span><span class=\"invisible\">script-library-template</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://fosstodon.org/@donmccurdy",
-        "display_name": "Don McCurdy"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/zjunlp/SPEECH",
-    "title": "GitHub - zjunlp/SPEECH: Code for the ACL2023 paper  \"SPEECH: Structured Prediction with Energy-Based Event-Centric Hyperspheres\"",
-    "latest": "2023-05-24T17:17:34+00:00",
-    "last_post": {
-      "url": "https://creative.ai/@arxiv_cl/110424795004115201",
-      "content": "<p>\ud83d\udcdd SPEECH: Structured Prediction with Energy-Based Event-Centric Hyperspheres \ud83d\udcda\ud83d\udc7e\ud83e\udde0</p><p>\"SPEECH first models complex dependency among event structured components with energy-based modeling, and then represents event classes with simple hyperspheres, where the hyperspheres can be learned with only a few annotated event instances.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a> <a href=\"https://creative.ai/tags/AI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AI</span></a> <a href=\"https://creative.ai/tags/LG\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>LG</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/zjunlp/SPEECH\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/zjunlp/SPEECH</span><span class=\"invisible\"></span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2305.13617v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2305.13617v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://creative.ai/@arxiv_cl",
-        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/Maluuba/nlg-eval",
-    "title": "GitHub - Maluuba/nlg-eval: Evaluation code for various unsupervised automated metrics for Natural Language Generation.",
-    "latest": "2023-05-24T16:57:31+00:00",
-    "last_post": {
-      "url": "https://creative.ai/@arxiv_cl/110424716178234241",
-      "content": "<p>\ud83d\udcdd ReSee: Responding Through Seeing Fine-Grained Visual Knowledge in Open-Domain Dialogue \ud83d\udcda</p><p>\"Provides new paradigm to construct multimodal dialogue datasets from text-only dialogues, and a simple but effective dialogue model ReSee to add visual representation into vanilla dialogue models by modality concatenations.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/Maluuba/nlg-eval\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/Maluuba/nlg-eval</span><span class=\"invisible\"></span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2305.13602v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2305.13602v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://creative.ai/@arxiv_cl",
-        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/GanWeaving/inject-midjourney-command",
-    "title": "GitHub - GanWeaving/inject-midjourney-command: converts the downloaded PNGs to JPG and then injects the Midjourney full command from the JSON file into the EXIF of the JPG",
-    "latest": "2023-05-24T16:51:41+00:00",
-    "last_post": {
-      "url": "https://sigmoid.social/@WeavingWithAI/110423967109005009",
-      "content": "<p><span class=\"h-card\"><a href=\"https://sigmoid.social/@snifffe\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>snifffe</span></a></span> yesss, I've also coded a Python script that goes a step further after the download of these images: <a href=\"https://github.com/GanWeaving/inject-midjourney-command\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/GanWeaving/inject-m</span><span class=\"invisible\">idjourney-command</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://sigmoid.social/@snifffe",
-        "display_name": "Snifffe"
       }
     ]
   }
