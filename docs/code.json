@@ -1,5 +1,168 @@
 [
   {
+    "link": "https://github.com/scikit-learn/scikit-learn/pull/24027",
+    "title": "FEAT SLEP006: metadata routing infrastructure by adrinjalali \u00b7 Pull Request #24027 \u00b7 scikit-learn/scikit-learn",
+    "latest": "2023-06-04T21:55:04+00:00",
+    "last_post": {
+      "url": "https://kolektiva.social/@adrin/110480267122975180",
+      "content": "<p>I almost can't believe this is merged. Been working on it (with many others) for like 4 years at least. It's still a long road ahead and not ready to be used by users, but there's now light at the end of the loooong tunnel.</p><p>Welcome to the shiny new age of metadata-routing in scikit-learn:</p><p><a href=\"https://github.com/scikit-learn/scikit-learn/pull/24027\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/scikit-learn/scikit</span><span class=\"invisible\">-learn/pull/24027</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://social.juanlu.space/@astrojuanlu",
+        "display_name": "Juan Luis"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/Fictiverse/Redream",
+    "title": "GitHub - Fictiverse/Redream: Realtime Diffusion, using Automatic1111 Stable Diffusion API",
+    "latest": "2023-06-04T21:05:03+00:00",
+    "last_post": {
+      "url": "https://die-partei.social/@hackernews/110487974919224791",
+      "content": "<p>Redream: Realtime Diffusion, Using Automatic1111 Stable Diffusion API - <a href=\"https://github.com/Fictiverse/Redream\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/Fictiverse/Redream</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://die-partei.social/@hackernews",
+        "display_name": "Hackernews"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/movestore/python-sdk/blob/main/environment.yml",
+    "title": "python-sdk/environment.yml at main \u00b7 movestore/python-sdk",
+    "latest": "2023-06-04T20:41:55+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@movingpandas/110487883991627760",
+      "content": "<p>Exciting discovery of the day: the environment file of the <span class=\"h-card\"><a href=\"https://bird.makeup/users/movebankteam\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>movebankteam</span></a></span> <a href=\"https://fosstodon.org/tags/python\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>python</span></a> :python: SDK listing yours truly \ud83d\udc4d</p><p><a href=\"https://github.com/movestore/python-sdk/blob/main/environment.yml\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/movestore/python-sd</span><span class=\"invisible\">k/blob/main/environment.yml</span></a></p><p><a href=\"https://fosstodon.org/tags/movementecology\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>movementecology</span></a> <a href=\"https://fosstodon.org/tags/movementdata\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>movementdata</span></a> <a href=\"https://fosstodon.org/tags/MovementDataAnalytics\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>MovementDataAnalytics</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fosstodon.org/@movingpandas",
+        "display_name": "MovingPandas"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/containers/crun",
+    "title": "GitHub - containers/crun: A fast and lightweight fully featured OCI runtime and C library for running containers",
+    "latest": "2023-06-04T20:35:03+00:00",
+    "last_post": {
+      "url": "https://die-partei.social/@hackernews/110487856967683272",
+      "content": "<p>Crun: Fast and lightweight OCI runtime and C library for running containers - <a href=\"https://github.com/containers/crun\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/containers/crun</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://die-partei.social/@hackernews",
+        "display_name": "Hackernews"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/opengeos/segment-geospatial",
+    "title": "GitHub - opengeos/segment-geospatial: A Python package for segmenting geospatial data with the Segment Anything Model (SAM)",
+    "latest": "2023-06-04T20:14:54+00:00",
+    "last_post": {
+      "url": "https://fosstodon.org/@tomhengl/110487720150606608",
+      "content": "<p>Here one general question for all <a href=\"https://fosstodon.org/tags/geospatial\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>geospatial</span></a> experts: if someone uses e.g. segment anything (<a href=\"https://github.com/opengeos/segment-geospatial\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/opengeos/segment-ge</span><span class=\"invisible\">ospatial</span></a>) on satellite images from Google Earth, Microsoft Bing or similar. Can the polygons extracted using segment anything be considered a new IP? Is it a \"fair use\" to release the produced vectors as open data under CC-BY or similar (so not the images only vectors)? Thanx in advance!  <a href=\"https://fosstodon.org/tags/opendata\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>opendata</span></a>#machinelearning <a href=\"https://fosstodon.org/tags/remotesensing\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>remotesensing</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://archaeo.social/@inti",
+        "display_name": "Matthew Bandy"
+      },
+      {
+        "url": "https://datasci.social/@mszll",
+        "display_name": "Michael Szell"
+      },
+      {
+        "url": "https://fosstodon.org/@underdarkGIS",
+        "display_name": "Anita Graser \ud83c\uddea\ud83c\uddfa\ud83c\uddfa\ud83c\udde6"
+      },
+      {
+        "url": "https://mastodon.social/@gvwilson",
+        "display_name": "Greg Wilson"
+      }
+    ]
+  },
+  {
+    "link": "https://observablehq.com/collection/@observablehq/introduction-to-data-wrangling-and-analysis-in-javascript",
+    "title": "observablehq.com/collection/@o...",
+    "latest": "2023-06-04T17:52:01+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@allison_horst/110466690488552823",
+      "content": "<p>Hi R users! Want to add JavaScript to your DS toolkit? Here are some resources to get started!</p><p>- \ud83d\udcc8 Observable Plot from ggplot2: <a href=\"https://bit.ly/3WKnB9Y\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">bit.ly/3WKnB9Y</span><span class=\"invisible\"></span></a></p><p>- \ud83d\udee0\ufe0f Wrangling in Arquero: <a href=\"https://bit.ly/3oNArHM\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">bit.ly/3oNArHM</span><span class=\"invisible\"></span></a></p><p>- \u2705 Data wrangling translations (JS, R &amp; more): <a href=\"https://bit.ly/3oxyeQZ\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">bit.ly/3oxyeQZ</span><span class=\"invisible\"></span></a></p><p>- \ud83d\udcfd\ufe0f JS Data Wrangling &amp; Analysis course: <a href=\"https://observablehq.com/collection/@observablehq/introduction-to-data-wrangling-and-analysis-in-javascript\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">observablehq.com/collection/@o</span><span class=\"invisible\">bservablehq/introduction-to-data-wrangling-and-analysis-in-javascript</span></a></p><p>- \ud83d\udcd3 Learn Just Enough JavaScript! <a href=\"https://observablehq.com/@observablehq/learn-javascript-introduction\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">observablehq.com/@observablehq</span><span class=\"invisible\">/learn-javascript-introduction</span></a></p><p>-  Our <span class=\"h-card\"><a href=\"https://vis.social/@observablehq\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>observablehq</span></a></span> Slack is a great place to share, ask, &amp; get help! <a href=\"https://bit.ly/3f6D2I6\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">bit.ly/3f6D2I6</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@hrbrmstr",
+        "display_name": "boB Rudis \ud83c\uddfa\ud83c\udde6"
+      },
+      {
+        "url": "https://mastodon.social/@allison_horst",
+        "display_name": "Allison Horst  :BlobhajReach:"
+      },
+      {
+        "url": "https://vis.social/@srvanderplas",
+        "display_name": "Susan Vanderplas"
+      }
+    ]
+  },
+  {
+    "link": "https://observablehq.com/@observablehq/learn-javascript-introduction",
+    "title": "observablehq.com/@observablehq...",
+    "latest": "2023-06-04T17:52:01+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@allison_horst/110466690488552823",
+      "content": "<p>Hi R users! Want to add JavaScript to your DS toolkit? Here are some resources to get started!</p><p>- \ud83d\udcc8 Observable Plot from ggplot2: <a href=\"https://bit.ly/3WKnB9Y\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">bit.ly/3WKnB9Y</span><span class=\"invisible\"></span></a></p><p>- \ud83d\udee0\ufe0f Wrangling in Arquero: <a href=\"https://bit.ly/3oNArHM\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">bit.ly/3oNArHM</span><span class=\"invisible\"></span></a></p><p>- \u2705 Data wrangling translations (JS, R &amp; more): <a href=\"https://bit.ly/3oxyeQZ\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">bit.ly/3oxyeQZ</span><span class=\"invisible\"></span></a></p><p>- \ud83d\udcfd\ufe0f JS Data Wrangling &amp; Analysis course: <a href=\"https://observablehq.com/collection/@observablehq/introduction-to-data-wrangling-and-analysis-in-javascript\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">observablehq.com/collection/@o</span><span class=\"invisible\">bservablehq/introduction-to-data-wrangling-and-analysis-in-javascript</span></a></p><p>- \ud83d\udcd3 Learn Just Enough JavaScript! <a href=\"https://observablehq.com/@observablehq/learn-javascript-introduction\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">observablehq.com/@observablehq</span><span class=\"invisible\">/learn-javascript-introduction</span></a></p><p>-  Our <span class=\"h-card\"><a href=\"https://vis.social/@observablehq\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>observablehq</span></a></span> Slack is a great place to share, ask, &amp; get help! <a href=\"https://bit.ly/3f6D2I6\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">bit.ly/3f6D2I6</span><span class=\"invisible\"></span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@hrbrmstr",
+        "display_name": "boB Rudis \ud83c\uddfa\ud83c\udde6"
+      },
+      {
+        "url": "https://mastodon.social/@allison_horst",
+        "display_name": "Allison Horst  :BlobhajReach:"
+      },
+      {
+        "url": "https://vis.social/@srvanderplas",
+        "display_name": "Susan Vanderplas"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/K4KarolE/Magnetic_Drawing_Board",
+    "title": "GitHub - K4KarolE/Magnetic_Drawing_Board: Digital version of the beloved Magnetic Drawing Board",
+    "latest": "2023-06-04T15:46:23+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@python_discussions/110486721900014565",
+      "content": "<p>Magnetic Drawing Board \u2013 beauty in simplicity</p><p><a href=\"https://github.com/K4KarolE/Magnetic_Drawing_Board\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/K4KarolE/Magnetic_D</span><span class=\"invisible\">rawing_Board</span></a></p><p>Discussions: <a href=\"https://discu.eu/q/https://github.com/K4KarolE/Magnetic_Drawing_Board\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">discu.eu/q/https://github.com/</span><span class=\"invisible\">K4KarolE/Magnetic_Drawing_Board</span></a></p><p><a href=\"https://mastodon.social/tags/programming\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>programming</span></a> <a href=\"https://mastodon.social/tags/python\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>python</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@python_discussions",
+        "display_name": "Python Weekly"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/mcguirepr89",
+    "title": "mcguirepr89 - Overview",
+    "latest": "2023-06-04T15:33:38+00:00",
+    "last_post": {
+      "url": "https://social.tchncs.de/@makermeik/110485541713902830",
+      "content": "<p>Recently I have set up <a href=\"https://social.tchncs.de/tags/birdnetpi\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>birdnetpi</span></a>. With a microphone on a <a href=\"https://social.tchncs.de/tags/raspberrypi\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>raspberrypi</span></a>, it permanently tracks the bird calls outside. This is such a great project!</p><p>Had to integrate this into my <a href=\"https://social.tchncs.de/tags/grafana\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>grafana</span></a> dashboard right away, of course.</p><p><a href=\"https://github.com/mcguirepr89\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/mcguirepr89</span><span class=\"invisible\"></span></a></p><p>Thanks to <span class=\"h-card\"><a href=\"https://chaos.social/@mtz\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>mtz</span></a></span> for the inspiration - I hope your <a href=\"https://social.tchncs.de/tags/netzbasteln\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>netzbasteln</span></a>-podcast continues soon :-)</p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@rrmutt",
+        "display_name": "rrmutt"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/gkaramanis/mappromptmonday/tree/master/2023/2023-week_22",
     "title": "mappromptmonday/2023/2023-week_22 at master \u00b7 gkaramanis/mappromptmonday",
     "latest": "2023-06-04T07:08:40+00:00",
@@ -1159,44 +1322,6 @@
       {
         "url": "https://mastodon.social/@python_discussions",
         "display_name": "Python Weekly"
-      }
-    ]
-  },
-  {
-    "link": "https://observablehq.com/collection/@observablehq/introduction-to-data-wrangling-and-analysis-in-javascript",
-    "title": "observablehq.com/collection/@o...",
-    "latest": "2023-06-01T02:52:08+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@allison_horst/110466690488552823",
-      "content": "<p>Hi R users! Want to add JavaScript to your DS toolkit? Here are some resources to get started!</p><p>- \ud83d\udcc8 Observable Plot from ggplot2: <a href=\"https://bit.ly/3WKnB9Y\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">bit.ly/3WKnB9Y</span><span class=\"invisible\"></span></a></p><p>- \ud83d\udee0\ufe0f Wrangling in Arquero: <a href=\"https://bit.ly/3oNArHM\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">bit.ly/3oNArHM</span><span class=\"invisible\"></span></a></p><p>- \u2705 Data wrangling translations (JS, R &amp; more): <a href=\"https://bit.ly/3oxyeQZ\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">bit.ly/3oxyeQZ</span><span class=\"invisible\"></span></a></p><p>- \ud83d\udcfd\ufe0f JS Data Wrangling &amp; Analysis course: <a href=\"https://observablehq.com/collection/@observablehq/introduction-to-data-wrangling-and-analysis-in-javascript\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">observablehq.com/collection/@o</span><span class=\"invisible\">bservablehq/introduction-to-data-wrangling-and-analysis-in-javascript</span></a></p><p>- \ud83d\udcd3 Learn Just Enough JavaScript! <a href=\"https://observablehq.com/@observablehq/learn-javascript-introduction\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">observablehq.com/@observablehq</span><span class=\"invisible\">/learn-javascript-introduction</span></a></p><p>-  Our <span class=\"h-card\"><a href=\"https://vis.social/@observablehq\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>observablehq</span></a></span> Slack is a great place to share, ask, &amp; get help! <a href=\"https://bit.ly/3f6D2I6\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">bit.ly/3f6D2I6</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@hrbrmstr",
-        "display_name": "boB Rudis \ud83c\uddfa\ud83c\udde6"
-      },
-      {
-        "url": "https://mastodon.social/@allison_horst",
-        "display_name": "Allison Horst  :BlobhajReach:"
-      }
-    ]
-  },
-  {
-    "link": "https://observablehq.com/@observablehq/learn-javascript-introduction",
-    "title": "observablehq.com/@observablehq...",
-    "latest": "2023-06-01T02:52:08+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@allison_horst/110466690488552823",
-      "content": "<p>Hi R users! Want to add JavaScript to your DS toolkit? Here are some resources to get started!</p><p>- \ud83d\udcc8 Observable Plot from ggplot2: <a href=\"https://bit.ly/3WKnB9Y\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">bit.ly/3WKnB9Y</span><span class=\"invisible\"></span></a></p><p>- \ud83d\udee0\ufe0f Wrangling in Arquero: <a href=\"https://bit.ly/3oNArHM\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">bit.ly/3oNArHM</span><span class=\"invisible\"></span></a></p><p>- \u2705 Data wrangling translations (JS, R &amp; more): <a href=\"https://bit.ly/3oxyeQZ\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">bit.ly/3oxyeQZ</span><span class=\"invisible\"></span></a></p><p>- \ud83d\udcfd\ufe0f JS Data Wrangling &amp; Analysis course: <a href=\"https://observablehq.com/collection/@observablehq/introduction-to-data-wrangling-and-analysis-in-javascript\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">observablehq.com/collection/@o</span><span class=\"invisible\">bservablehq/introduction-to-data-wrangling-and-analysis-in-javascript</span></a></p><p>- \ud83d\udcd3 Learn Just Enough JavaScript! <a href=\"https://observablehq.com/@observablehq/learn-javascript-introduction\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">observablehq.com/@observablehq</span><span class=\"invisible\">/learn-javascript-introduction</span></a></p><p>-  Our <span class=\"h-card\"><a href=\"https://vis.social/@observablehq\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>observablehq</span></a></span> Slack is a great place to share, ask, &amp; get help! <a href=\"https://bit.ly/3f6D2I6\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">bit.ly/3f6D2I6</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@hrbrmstr",
-        "display_name": "boB Rudis \ud83c\uddfa\ud83c\udde6"
-      },
-      {
-        "url": "https://mastodon.social/@allison_horst",
-        "display_name": "Allison Horst  :BlobhajReach:"
       }
     ]
   },
@@ -3058,111 +3183,6 @@
     "last_post": {
       "url": "https://creative.ai/@arxiv_cl/110435820871963824",
       "content": "<p>\ud83d\udcdd MQuAKE: Assessing Knowledge Editing in Language Models via Multi-Hop Questions \ud83d\udcda</p><p>\"MeLLo is a novel approach for Knowledge Editing that stores all edited facts externally while iteratively generating answers that are consistent with the edited facts and the language model's existing knowledge.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/princeton-nlp/MQuAKE\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/princeton-nlp/MQuAK</span><span class=\"invisible\">E</span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2305.14795v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2305.14795v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://creative.ai/@arxiv_cl",
-        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/awslabs/fortuna",
-    "title": "https://github.com/awslabs/fortuna",
-    "latest": "2023-05-26T15:58:20+00:00",
-    "last_post": {
-      "url": "https://tech.lgbt/@jesper/110435808087273862",
-      "content": "<p>\ud83d\udcbb fortuna (630\u2b50)</p><p>Want to improve the accuracy and reliability of your AI models? \ud83e\uddd0\ud83d\udd0d</p><p>Check out Fortuna, an open-source library from AWS Labs for uncertainty quantification! \ud83c\udf10\ud83d\ude80</p><p>With Fortuna, you can estimate uncertainty in your model predictions, assess model performance, and make better decisions based on more reliable and robust data.</p><p>My newsletter subscribers learned about this 5 months ago!<br><a href=\"https://dramsch.net/newsletter\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">dramsch.net/newsletter</span><span class=\"invisible\"></span></a></p><p>Check it out here:<br><a href=\"https://github.com/awslabs/fortuna\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/awslabs/fortuna</span><span class=\"invisible\"></span></a></p><p><a href=\"https://tech.lgbt/tags/MachineLearning\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>MachineLearning</span></a> <a href=\"https://tech.lgbt/tags/LateToTheParty\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>LateToTheParty</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://tech.lgbt/@jesper",
-        "display_name": "Jesper Dr.amsch :v_enby:"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/kyegomez/tree-of-thoughts",
-    "title": "GitHub - kyegomez/tree-of-thoughts: Plug in and Play Implementation of Tree of Thoughts: Deliberate Problem Solving with Large Language Models that Elevates Model Reasoning by atleast 70%",
-    "latest": "2023-05-26T15:55:04+00:00",
-    "last_post": {
-      "url": "https://die-partei.social/@hackernews/110435795212605401",
-      "content": "<p>Tree of Thoughts - <a href=\"https://github.com/kyegomez/tree-of-thoughts\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/kyegomez/tree-of-th</span><span class=\"invisible\">oughts</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://die-partei.social/@hackernews",
-        "display_name": "Hackernews"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/liuweiran900217/doss/tree/main/Distributed%20System%20-%20Martin%20Kleppmann",
-    "title": "github.com/liuweiran900217/dos...",
-    "latest": "2023-05-26T15:42:23+00:00",
-    "last_post": {
-      "url": "https://nondeterministic.computer/@martin/110435745335425296",
-      "content": "<p>Translation of my distributed systems lecture series into Chinese, by Weiran Liu (\u5218\u5dcd\u7136)<br><a href=\"https://space.bilibili.com/5277360/channel/collectiondetail?sid=1194136\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">space.bilibili.com/5277360/cha</span><span class=\"invisible\">nnel/collectiondetail?sid=1194136</span></a><br><a href=\"https://github.com/liuweiran900217/doss/tree/main/Distributed%20System%20-%20Martin%20Kleppmann\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/liuweiran900217/dos</span><span class=\"invisible\">s/tree/main/Distributed%20System%20-%20Martin%20Kleppmann</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://nondeterministic.computer/@martin",
-        "display_name": "Martin Kleppmann"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/Edillower/CycleNLG",
-    "title": "GitHub - Edillower/CycleNLG: Faithful Low-resource Data-to-Text Generation through Cycle Training",
-    "latest": "2023-05-26T15:41:36+00:00",
-    "last_post": {
-      "url": "https://creative.ai/@arxiv_cl/110435742281020050",
-      "content": "<p>\ud83d\udcdd Faithful Low-Resource Data-to-Text Generation Through Cycle Training \ud83d\udcda</p><p>\"A training strategy for the data-to-text generation task that involves training on two inverse tasks: (1) natural language text to structured data (NLG), and (2) structured data to natural language text (D2T).\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/Edillower/CycleNLG\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/Edillower/CycleNLG</span><span class=\"invisible\"></span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2305.14793v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2305.14793v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://creative.ai/@arxiv_cl",
-        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/JaidedAI/EasyOCR",
-    "title": "GitHub - JaidedAI/EasyOCR: Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.",
-    "latest": "2023-05-26T08:31:35+00:00",
-    "last_post": {
-      "url": "https://creative.ai/@arxiv_cl/110434051412330972",
-      "content": "<p>\ud83d\udcdd AMELI: Enhancing Multimodal Entity Linking with Fine-Grained Attributes \ud83d\udcda</p><p>\"AMELI is a new dataset for attribute-aware multimodal entity linking, a challenging task that aims to link textual mention, visual image and product attribute values to an entity in a multimodal KB.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/JaidedAI/EasyOCR\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/JaidedAI/EasyOCR</span><span class=\"invisible\"></span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2305.14725v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2305.14725v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://creative.ai/@arxiv_cl",
-        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/ropensci-review-tools/babeldown",
-    "title": "GitHub - ropensci-review-tools/babeldown: Helpers for Automatic Translation of Markdown-based Content",
-    "latest": "2023-05-26T08:25:42+00:00",
-    "last_post": {
-      "url": "https://mastodon.social/@maelle/110434028257859066",
-      "content": "<p>ICYMI, to get the path to the currently active / open document in RStudio IDE, you can run</p><p>rstudioapi::documentPath(rstudioapi::documentId(allowConsole = FALSE))</p><p>Currently considering using this as a default value for one of {babeldown}'s functions. <a href=\"https://github.com/ropensci-review-tools/babeldown\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/ropensci-review-too</span><span class=\"invisible\">ls/babeldown</span></a></p><p><a href=\"https://mastodon.social/tags/RStats\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>RStats</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mastodon.social/@maelle",
-        "display_name": "Ma\u00eblle Salmon"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/abaheti95/LoL-RL",
-    "title": "GitHub - abaheti95/LoL-RL: Left-over Lunch Reinforcement Learning: Improving Language Models with Advantage-based Offline Policy Gradients",
-    "latest": "2023-05-26T08:11:36+00:00",
-    "last_post": {
-      "url": "https://creative.ai/@arxiv_cl/110433972842781884",
-      "content": "<p>\ud83d\udcdd Improving Language Models with Advantage-Based Offline Policy Gradients \ud83d\udcda</p><p>\"Presents Left-over Lunch RL (LoL-RL), a training algorithm that uses offline policy gradients for learning language generation tasks as a 1-step RL game.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/abaheti95/LoL-RL\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/abaheti95/LoL-RL</span><span class=\"invisible\"></span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2305.14718v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2305.14718v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
     },
     "people": [
       {
