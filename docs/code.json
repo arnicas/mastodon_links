@@ -1,5 +1,129 @@
 [
   {
+    "link": "https://github.com/MarvinLvn/BabySLM",
+    "title": "GitHub - MarvinLvn/BabySLM: Behavioral probing of language acquisition models at the lexical and syntactic level",
+    "latest": "2023-06-06T07:56:45+00:00",
+    "last_post": {
+      "url": "https://creative.ai/@arxiv_cl/110496199808492177",
+      "content": "<p>\ud83d\udcdd BabySLM: Language-Acquisition-Friendly Benchmark of Self-Supervised Spoken Language Models \ud83d\udcda</p><p>\"Proposes an evaluation benchmark to probe the lexical and syntactic abilities of self-supervised spoken language models trained on developmentally plausible datasets, in a language-acquisitionfriendly fashion.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/MarvinLvn/BabySLM\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/MarvinLvn/BabySLM</span><span class=\"invisible\"></span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2306.01506v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2306.01506v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://creative.ai/@arxiv_cl",
+        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/SimonGiebenhain/NPHM",
+    "title": "github.com/SimonGiebenhain/NPH...",
+    "latest": "2023-06-06T05:44:22+00:00",
+    "last_post": {
+      "url": "https://sigmoid.social/@Niessner/110492872661356228",
+      "content": "<p>We released our Neural Parametric Head Models (NPHM) dataset from our <a href=\"https://sigmoid.social/tags/CVPR2023\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CVPR2023</span></a> paper!</p><p>It includes over 5600 high-fidelity 3D scans of human heads from 272 subjects - all publicly available!</p><p>Check it out!<br><a href=\"https://simongiebenhain.github.io/NPHM/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">simongiebenhain.github.io/NPHM</span><span class=\"invisible\">/</span></a></p><p>We've also released the NPHM code: <a href=\"https://github.com/SimonGiebenhain/NPHM\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/SimonGiebenhain/NPH</span><span class=\"invisible\">M</span></a></p><p>We provide several examples and a small demo how to use our dataset. It's now super easy to build your own parametric face/head model!</p><p>Great work by Simon, Tobias, Markos Martin Lourdes!</p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@ayirpelle",
+        "display_name": "ayirpelle"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/huggingface/gaia",
+    "title": "GitHub - huggingface/gaia: Hugging Face and Pyserini interoperability",
+    "latest": "2023-06-06T05:26:44+00:00",
+    "last_post": {
+      "url": "https://creative.ai/@arxiv_cl/110495609938519818",
+      "content": "<p>\ud83d\udcdd GAIA Search: Hugging Face and Pyserini Interoperability for NLP Training Data Exploration \ud83d\udcda</p><p>\"In summary, it is implemented using the Pyserini toolkit for reproducible IR research that is tightly integrated with the ecosystem of open-source AI libraries and artifacts of Hugging Face.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/huggingface/gaia\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/huggingface/gaia</span><span class=\"invisible\"></span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2306.01481v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2306.01481v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://creative.ai/@arxiv_cl",
+        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/seinecle/MapsOfScience/blob/main/src/main/java/net/clementlevallois/functions/mapsofscience/PairwiseComparisonsWithArrayOfIntegers.java",
+    "title": "MapsOfScience/PairwiseComparisonsWithArrayOfIntegers.java at main \u00b7 seinecle/MapsOfScience",
+    "latest": "2023-06-06T05:14:14+00:00",
+    "last_post": {
+      "url": "https://ioc.exchange/@seinecle/110495560785770559",
+      "content": "<p>Today I will run a test on computing pairwise comparisons between 200,000 objects using only a array of integers for the underlying data structure, and a regular laptop. That's 2B comparisons to run.</p><p>Benchmark to beat: 3 million pairs examined per second, so ~ 12 minutes for 2B comparisons.</p><p>Case: measuring similarities btw 2 journals based on the authors who published in both, at the scale of 200,000 journals.</p><p>I expect it to be faaaast</p><p>*if* this works as expected, this means that the broader case of the computation of similarities is made way faster and simpler (no framework or GPU involved), for everyone! </p><p>Source code:</p><p><a href=\"https://github.com/seinecle/MapsOfScience/blob/main/src/main/java/net/clementlevallois/functions/mapsofscience/PairwiseComparisonsWithArrayOfIntegers.java\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/seinecle/MapsOfScie</span><span class=\"invisible\">nce/blob/main/src/main/java/net/clementlevallois/functions/mapsofscience/PairwiseComparisonsWithArrayOfIntegers.java</span></a></p><p>Your feedback is appreciated.</p>"
+    },
+    "people": [
+      {
+        "url": "https://ioc.exchange/@seinecle",
+        "display_name": "seinecle"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/budzianowski/multiwoz",
+    "title": "GitHub - budzianowski/multiwoz: Source code for end-to-end dialogue model from the MultiWOZ paper (Budzianowski et al. 2018, EMNLP)",
+    "latest": "2023-06-06T01:41:44+00:00",
+    "last_post": {
+      "url": "https://creative.ai/@arxiv_cl/110494725235248480",
+      "content": "<p>\ud83d\udcdd ChatGPT for Zero-Shot Dialogue State Tracking: A Solution or an Opportunity? \ud83d\udcda\ud83d\udc7e</p><p>\"The ChatGPT model is an encoder-decoder Transformer trained on 147M multi-turn dialogues with a vocabulary of over 90M tokens.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a> <a href=\"https://creative.ai/tags/AI\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>AI</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/budzianowski/multiwoz\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/budzianowski/multiw</span><span class=\"invisible\">oz</span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2306.01386v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2306.01386v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://creative.ai/@arxiv_cl",
+        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/mjpost/sacreBLEU",
+    "title": "https://github.com/mjpost/sacreBLEU",
+    "latest": "2023-06-06T00:56:48+00:00",
+    "last_post": {
+      "url": "https://creative.ai/@arxiv_cl/110494548544174966",
+      "content": "<p>\ud83d\udcdd Leveraging Auxiliary Domain Parallel Data in Intermediate Task Fine-Tuning for Low-Resource Translation \ud83d\udcda</p><p>\"Improves the domain-robustness of Pre-trained Multilingual Sequence-Sequence (PMSS) models by using intermediate-task fine-tuning for domain adaptation.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/mjpost/sacreBLEU\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/mjpost/sacreBLEU</span><span class=\"invisible\"></span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2306.01382v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2306.01382v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://creative.ai/@arxiv_cl",
+        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
+      }
+    ]
+  },
+  {
+    "link": "https://github.com/petrgazarov/FastAPI-app",
+    "title": "GitHub - petrgazarov/FastAPI-app: Example app using FastAPI, SQLModel, Celery, Alembic and Supertokens",
+    "latest": "2023-06-05T23:46:22+00:00",
+    "last_post": {
+      "url": "https://mastodon.social/@python_discussions/110494271589048807",
+      "content": "<p>Example app using FastAPI, SQLModel, Celery, Alembic and Supertokens</p><p><a href=\"https://github.com/petrgazarov/FastAPI-app\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/petrgazarov/FastAPI</span><span class=\"invisible\">-app</span></a></p><p>Discussions: <a href=\"https://discu.eu/q/https://github.com/petrgazarov/FastAPI-app\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">discu.eu/q/https://github.com/</span><span class=\"invisible\">petrgazarov/FastAPI-app</span></a></p><p><a href=\"https://mastodon.social/tags/programming\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>programming</span></a> <a href=\"https://mastodon.social/tags/python\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>python</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://mastodon.social/@python_discussions",
+        "display_name": "Python Weekly"
+      }
+    ]
+  },
+  {
+    "link": "https://gist.github.com/baptiste/5b2a2a078cf8458e37f21ee9acd4208b",
+    "title": "die.R",
+    "latest": "2023-06-05T22:47:47+00:00",
+    "last_post": {
+      "url": "https://vis.social/@baptnz/110484365384693532",
+      "content": "<p>turns out you can insert SVGs in Mathjax</p><p><a href=\"https://gist.github.com/baptiste/5b2a2a078cf8458e37f21ee9acd4208b\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gist.github.com/baptiste/5b2a2</span><span class=\"invisible\">a078cf8458e37f21ee9acd4208b</span></a></p>"
+    },
+    "people": [
+      {
+        "url": "https://fosstodon.org/@djnavarro",
+        "display_name": "Danielle Navarro"
+      },
+      {
+        "url": "https://vis.social/@janeadams",
+        "display_name": "Jane Adams"
+      }
+    ]
+  },
+  {
     "link": "https://github.com/AmmarAbdelhalem/FSM",
     "title": "GitHub - AmmarAbdelhalem/FSM: Full SQL manual",
     "latest": "2023-06-05T19:47:02+00:00",
@@ -502,21 +626,6 @@
       {
         "url": "https://vis.social/@seblammers",
         "display_name": "Sebastian Lammers"
-      }
-    ]
-  },
-  {
-    "link": "https://gist.github.com/baptiste/5b2a2a078cf8458e37f21ee9acd4208b",
-    "title": "die.R",
-    "latest": "2023-06-04T05:52:45+00:00",
-    "last_post": {
-      "url": "https://vis.social/@baptnz/110484365384693532",
-      "content": "<p>turns out you can insert SVGs in Mathjax</p><p><a href=\"https://gist.github.com/baptiste/5b2a2a078cf8458e37f21ee9acd4208b\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">gist.github.com/baptiste/5b2a2</span><span class=\"invisible\">a078cf8458e37f21ee9acd4208b</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://fosstodon.org/@djnavarro",
-        "display_name": "Danielle Navarro"
       }
     ]
   },
@@ -3099,119 +3208,6 @@
       {
         "url": "https://creative.ai/@arxiv_cl",
         "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/nanos/FediFetcher",
-    "title": "https://github.com/nanos/FediFetcher",
-    "latest": "2023-05-27T22:06:25+00:00",
-    "last_post": {
-      "url": "https://social.growyourown.services/@homegrown/110442744209438624",
-      "content": "<p>Mastodon admins and techy people, do you want to backfill missing posts that haven't federated to you yet?</p><p>There's a new tool for this called FediFetcher:</p><p>\u27a1\ufe0f <a href=\"https://blog.thms.uk/fedifetcher\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">blog.thms.uk/fedifetcher</span><span class=\"invisible\"></span></a></p><p>Bear in mind it's still very new and requires tech skills, read the github at <a href=\"https://github.com/nanos/FediFetcher\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/nanos/FediFetcher</span><span class=\"invisible\"></span></a></p><p>The script runs independently of your server, but needs an access token from each user that it backfills for.</p><p>Thanks to <span class=\"h-card\"><a href=\"https://autisticpri.de/@nellie_m\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>nellie_m</span></a></span> for highlighting this!</p><p><a href=\"https://social.growyourown.services/tags/MastoAdmin\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>MastoAdmin</span></a> <a href=\"https://social.growyourown.services/tags/FediAdmin\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>FediAdmin</span></a> <a href=\"https://social.growyourown.services/tags/Mastodon\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Mastodon</span></a> <a href=\"https://social.growyourown.services/tags/Fediverse\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Fediverse</span></a> <a href=\"https://social.growyourown.services/tags/Backfilling\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Backfilling</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://mstdn.social/@feditips",
-        "display_name": "Fedi.Tips"
-      },
-      {
-        "url": "https://mastodon.social/@datatherapist",
-        "display_name": "The Data Therapist"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/AI4Bharat/IndicLID",
-    "title": "GitHub - AI4Bharat/IndicLID",
-    "latest": "2023-05-27T21:47:31+00:00",
-    "last_post": {
-      "url": "https://creative.ai/@arxiv_cl/110442843412463337",
-      "content": "<p>\ud83d\udcdd Bhasha-Abhijnaanam: Native-Script and Romanized Language Identification for 22 Indic Languages \ud83d\udcda</p><p>\"We release IndicLID, a language identifier for native-script as well as romanized text in all 22 Indian languages listed in the Indian Constitution.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/AI4Bharat/IndicLID\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/AI4Bharat/IndicLID</span><span class=\"invisible\"></span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2305.15814v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2305.15814v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://creative.ai/@arxiv_cl",
-        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/apache/lucene/pull/12311",
-    "title": "Integrate the Incubating Panama Vector API  by ChrisHegarty \u00b7 Pull Request #12311 \u00b7 apache/lucene",
-    "latest": "2023-05-27T20:20:03+00:00",
-    "last_post": {
-      "url": "https://die-partei.social/@hackernews/110442499501346242",
-      "content": "<p>Java Panama Vector API Integrated with Apache Lucene - <a href=\"https://github.com/apache/lucene/pull/12311\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/apache/lucene/pull/</span><span class=\"invisible\">12311</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://die-partei.social/@hackernews",
-        "display_name": "Hackernews"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/KoBruhh/RASCII",
-    "title": "GitHub - KoBruhh/RASCII: Advanced image to ASCII art tool written in Rust \ud83e\udd80 \ud83d\ude80",
-    "latest": "2023-05-27T20:05:03+00:00",
-    "last_post": {
-      "url": "https://die-partei.social/@hackernews/110442440501841060",
-      "content": "<p>Show HN: RASCII, an advanced ASCII art generator made using Rust - <a href=\"https://github.com/KoBruhh/RASCII\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/KoBruhh/RASCII</span><span class=\"invisible\"></span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://die-partei.social/@hackernews",
-        "display_name": "Hackernews"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/Veason-silverbullet/UniTRec",
-    "title": "GitHub - Veason-silverbullet/UniTRec: UniTRec: A Unified Text-to-Text Transformer and Joint Contrastive Learning Framework for Text-based Recommendation",
-    "latest": "2023-05-27T18:27:31+00:00",
-    "last_post": {
-      "url": "https://creative.ai/@arxiv_cl/110442056977583604",
-      "content": "<p>\ud83d\udcdd UniTRec: A Unified Text-to-Text Transformer and Joint Contrastive Learning Framework for Text-Based Recommendation \ud83d\udcda</p><p>\"A Transformer encoder is adopted to encode both local and global contexts of user history and a Transformer decoder estimates the language perplexity of candidate text items, which can serve as a straightforward contrastive signal for text-based recommendation.\" [gal30b+] \ud83e\udd16 <a href=\"https://creative.ai/tags/CL\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>CL</span></a></p><p>\u2699\ufe0f <a href=\"https://github.com/Veason-silverbullet/UniTRec\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/Veason-silverbullet</span><span class=\"invisible\">/UniTRec</span></a><br>\ud83d\udd17 <a href=\"https://arxiv.org/abs/2305.15756v1\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">arxiv.org/abs/2305.15756v1</span><span class=\"invisible\"></span></a> <a href=\"https://creative.ai/tags/arxiv\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>arxiv</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://creative.ai/@arxiv_cl",
-        "display_name": "arXiv Comp. Linguistics\ud83d\udcda"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/buckbaskin/mast",
-    "title": "GitHub - buckbaskin/mast: Mastodon personalized recommendations. Privacy First. Local only.",
-    "latest": "2023-05-27T18:04:48+00:00",
-    "last_post": {
-      "url": "https://fosstodon.org/@buck/110441967660323684",
-      "content": "<p>Launch day is here! Presenting <a href=\"https://fosstodon.org/tags/mast\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>mast</span></a>, an <a href=\"https://fosstodon.org/tags/OpenSource\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>OpenSource</span></a> <a href=\"https://fosstodon.org/tags/privacy\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>privacy</span></a> first recommender and discovery tool for <a href=\"https://fosstodon.org/tags/Mastodon\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Mastodon</span></a> to help you find more people to connect with in the <a href=\"https://fosstodon.org/tags/Fediverse\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Fediverse</span></a>. Built with <a href=\"https://fosstodon.org/tags/Python\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>Python</span></a> and <span class=\"h-card\"><a href=\"https://fosstodon.org/@sklearn\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>sklearn</span></a></span> (I love using <span class=\"h-card\"><a href=\"https://fosstodon.org/@sklearn\" class=\"u-url mention\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">@<span>sklearn</span></a></span> and their <a href=\"https://fosstodon.org/tags/documentation\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>documentation</span></a>)<br><a href=\"https://github.com/buckbaskin/mast\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"\">github.com/buckbaskin/mast</span><span class=\"invisible\"></span></a><br><a href=\"https://fosstodon.org/tags/recsys\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>recsys</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://sigmoid.social/@WriterOfMinds",
-        "display_name": "WriterOfMinds (she)"
-      },
-      {
-        "url": "https://fosstodon.org/@buck",
-        "display_name": "Buck Baskin"
-      }
-    ]
-  },
-  {
-    "link": "https://github.com/halcy/mastodon_mod_tools/",
-    "title": "GitHub - halcy/mastodon_mod_tools: A maybe future set of tools to help with mastodon moderation",
-    "latest": "2023-05-27T17:43:52+00:00",
-    "last_post": {
-      "url": "https://icosahedron.website/@halcy/110441642075619888",
-      "content": "<p>spent some time updating my alpha antispam / general <a href=\"https://icosahedron.website/tags/mastoadmin\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>mastoadmin</span></a>  tooling, mostly boilerplate and \"add a web GUI\" type stuff. Also, importantly, renaming all the components so that they are named after DBZ characters</p><p><a href=\"https://github.com/halcy/mastodon_mod_tools/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\"><span class=\"invisible\">https://</span><span class=\"ellipsis\">github.com/halcy/mastodon_mod_</span><span class=\"invisible\">tools/</span></a> <a href=\"https://icosahedron.website/tags/mastodev\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>mastodev</span></a> <a href=\"https://icosahedron.website/tags/mastodonapi\" class=\"mention hashtag\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">#<span>mastodonapi</span></a></p>"
-    },
-    "people": [
-      {
-        "url": "https://macaw.social/@andypiper",
-        "display_name": "Andy Piper"
       }
     ]
   }
